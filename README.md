@@ -16,6 +16,8 @@ Project started 2016-06-13 at [BioHackathon 2016](http://2016.biohackathon.org/h
      scripts/: contains Perl/Python/R/Shell scripts
      analysis/: contains results of data analyses
 
+----------
+
 ## Scripts
 
 The shell script `scripts/run.sh` automatically carries out the entire steps: creating directories, downloading data, and running the Perl/Python/R/Shell scripts.
@@ -32,7 +34,13 @@ Running `Rscript --vanilla scripts/my_plasmids.R` generates tab-delimited files 
 
 Running Shell scripts
 
-    bash scripts/my_ncbiGenomeList.sh > log.txt 2>&1 &
+    #bash scripts/my_ncbiGenomeList.sh > log.txt 2>&1 &
+
+    bash scripts/my_sequence.sh > log.txt 2>&1 &
+
+Running R scripts
+
+    Rscript --vanilla scripts/my_rho.R data/NC_007322.fna
 
 ## Run environment
 
@@ -43,13 +51,39 @@ Running Shell scripts
 
 ----------
 
+## Validation
+
+[Table 1. Ten highest ranking bacterial strains based on Mahalanobis distance and δ-distance for plasmid pXO1 from B. anthracis str. Ames Ancestor](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/table/T1/)
+
+    # NC_007322: Bacillus anthracis str. 'Ames Ancestor' plasmid pXO1
+    # NC_003997: Bacillus anthracis str. Ames chromosome
+
+    G
+
+	# G-language  Genome Analysis Environment v.1.9.1
+
+	G > &signature_dist('NC_007322', 'NC_003997', -wordlength=>2, -window=>5000, -step=>5000, -method=>'delta');
+
+	2-mer genomic signature difference:
+	 delta distance = 52.1695
+	 p-value = 0.3751
+
+	G > &signature_dist('NC_007322', 'NC_003997', -wordlength=>2, -window=>5000, -step=>5000, -method=>'mahalanobis');
+
+	2-mer genomic signature difference:
+	 mahalanobis distance = 3.1985
+	 p-value = 0.8919
+
+----------
+
+## Acknowledgements
+I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI data.
+
+----------
+
 ## Updates
 
 ### 2016-06-13
-
-
-## Acknowledgements
-I am grateful to Dr. Yuki NAITO for his technical advice on how to download RefSeq data.
 
 ----------
 
@@ -63,7 +97,7 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download RefS
 - Suzuki H et al.
  - [Genomic Signature Analysis to Predict Plasmid Host Range. Molecular Life Sciences. 2014 May ](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1)
  - [Predicting plasmid promiscuity based on genomic signature. J Bacteriol. 2010 Nov](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
- - [Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes. Nucleic Acids Res. 2008 Dec](http://www.ncbi.nlm.nih.gov/pubmed/18953039)
+ - [Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes. Nucleic Acids Res. 2008 Dec](http://www.ncbi.nlm.nih.gov/pubmed/18953039) | [Supplementary Data](http://nar.oxfordjournals.org/content/36/22/e147/suppl/DC1)
 
 - [Shintani M et al. Front Microbiol. 2015 Mar 'Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy.'](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
 
