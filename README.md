@@ -39,17 +39,24 @@ Running R scripts
 ----------
 
 ## References
+- [Shintani M et al. Front Microbiol. 2015 Mar 'Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy.'](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
+
 - Suzuki H et al.
  - [Predicting plasmid promiscuity based on genomic signature. J Bacteriol. 2010 Nov](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
  - [Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes. Nucleic Acids Res. 2008 Dec](http://www.ncbi.nlm.nih.gov/pubmed/18953039)
  - [Genomic Signature Analysis to Predict Plasmid Host Range. Molecular Life Sciences. 2014 May ](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1)
+
+- plasmidSPAdes
+ - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
+- [plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data | bioRxiv](http://biorxiv.org/content/early/2016/04/15/048942)
+ - []()
+ - [plasmidSPAdes | Plasmid detection: Metagenomic sequencing - OMICtools](https://omictools.com/plasmidspades-tool)
+ - [#plasmidSPAdes hashtag on Twitter](https://twitter.com/hashtag/plasmidSPAdes)
 
 - Plasmidome
  - [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
  - [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
  - [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
 
- - []()
- - []()
 
 ----------
