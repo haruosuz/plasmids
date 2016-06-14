@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2016-06-13  
+Last Update: 2016-06-14  
 
 ----------
 
@@ -18,9 +18,9 @@ Project started 2016-06-13.
 
 ## Scripts
 
-The shell script `scripts/run.sh` automatically carries out the entire steps: creating directories, downloading data, and running the shell script `scripts/find_incf.sh` for BLAST analysis to find IncF group plasmids.
+The shell script `scripts/run.sh` automatically carries out the entire steps: creating directories, downloading data, and running the Perl/Python/R/Shell scripts.
 
-In the project's main directory `incf/`, we run the driver script `scripts/run.sh` with:
+Let's run the driver script in the project's main directory `plasmids/` with:
 
     bash scripts/run.sh > log.txt 2>&1 &
 
@@ -29,6 +29,13 @@ In the project's main directory `incf/`, we run the driver script `scripts/run.s
 Running R scripts
 
     Rscript --vanilla scripts/my_plasmids.R
+
+## Run environment
+
+    > sessionInfo()
+    R version 3.3.0 (2016-05-03)
+    Platform: x86_64-apple-darwin13.4.0 (64-bit)
+    Running under: OS X 10.9.5 (Mavericks)
 
 ----------
 
@@ -48,7 +55,7 @@ Running R scripts
 
 - plasmidSPAdes
  - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
-- [plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data | bioRxiv](http://biorxiv.org/content/early/2016/04/15/048942)
+ - [plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data | bioRxiv](http://biorxiv.org/content/early/2016/04/15/048942)
  - []()
  - [plasmidSPAdes | Plasmid detection: Metagenomic sequencing - OMICtools](https://omictools.com/plasmidspades-tool)
  - [#plasmidSPAdes hashtag on Twitter](https://twitter.com/hashtag/plasmidSPAdes)
