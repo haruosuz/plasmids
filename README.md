@@ -8,6 +8,8 @@ Last Update: 2016-06-14
 # Plasmid Sequence Analysis
 Project started 2016-06-13 at [BioHackathon 2016](http://2016.biohackathon.org/hackathon).
 
+I developed tools for analyzing plasmid sequences: i.e. identifying incompatibility (Inc) groups of plasmids, assessing plasmid host adaptation, and predicting plasmid host range.
+
 ## Project directory structures
 
     plasmids/
