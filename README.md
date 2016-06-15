@@ -117,7 +117,7 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 [U.S. sees first case of bacteria resistant to last-resort antibiotic | Reuters](http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT)
 
-![http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT](ll=644&pl=429&sq=&r=LYNXNPEC4P1O4)
+![http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT](http://s2.reutersmedia.net/resources/r/?m=02&d=20160527&t=2&i=1139027343&w=&fh=&fw=&ll=644&pl=429&sq=&r=LYNXNPEC4P1O4)
 
 [If Carbapenems Go, Can Colistin be Far Behind? | Scepticemia](https://scepticemia.com/2016/01/09/if-colistin-goes-can-carbapenems-be-far-behind/)
 
