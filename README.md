@@ -1,14 +1,14 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2016-06-14  
+Last Update: 2016-06-15  
 
 ----------
 
 # Plasmid Sequence Analysis
 Project started 2016-06-13 at [BioHackathon 2016](http://2016.biohackathon.org/hackathon).
 
-I developed tools for analyzing plasmid sequences: i.e. identifying incompatibility (Inc) groups of plasmids, assessing plasmid host adaptation, and predicting plasmid host range.
+I developed tools for analyzing plasmid sequences: i.e. identifying incompatibility (Inc) groups of plasmids, assessing plasmid host adaptation, and predicting plasmid host range. ([Suzuki H et al., 2014](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1))
 
 ## Project directory structures
 
