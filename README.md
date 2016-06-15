@@ -115,4 +115,12 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Simpson%27s_paradox_continuous.svg/220px-Simpson%27s_paradox_continuous.svg.png)
 
+[U.S. sees first case of bacteria resistant to last-resort antibiotic | Reuters](http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT)
+
+![http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT](ll=644&pl=429&sq=&r=LYNXNPEC4P1O4)
+
+[If Carbapenems Go, Can Colistin be Far Behind? | Scepticemia](https://scepticemia.com/2016/01/09/if-colistin-goes-can-carbapenems-be-far-behind/)
+
+![https://scepticemia.com/2016/01/09/if-colistin-goes-can-carbapenems-be-far-behind/](https://scepticemia.files.wordpress.com/2015/12/antibiotic-resistance-comic-650x552.jpg?w=500)
+
 ----------
