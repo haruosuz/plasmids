@@ -53,6 +53,8 @@ Running R scripts
 
 ## Validation
 
+Reproducibility tests using the [G-language Genome Analysis Environment](http://www.g-language.org/)
+
 [Table 1. Ten highest ranking bacterial strains based on Mahalanobis distance and δ-distance for plasmid pXO1 from B. anthracis str. Ames Ancestor](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/table/T1/)
 
     # NC_007322: Bacillus anthracis str. 'Ames Ancestor' plasmid pXO1
@@ -78,12 +80,6 @@ Running R scripts
 
 ## Acknowledgements
 I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI data.
-
-----------
-
-## Updates
-
-### 2016-06-13
 
 ----------
 
@@ -113,5 +109,8 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
  - [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
  - [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
 
+- [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Simpson%27s_paradox_continuous.svg/220px-Simpson%27s_paradox_continuous.svg.png)
 
 ----------
