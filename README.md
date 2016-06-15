@@ -95,7 +95,10 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - Suzuki H et al.
  - [Genomic Signature Analysis to Predict Plasmid Host Range. Molecular Life Sciences. 2014 May ](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1)
  - [Predicting plasmid promiscuity based on genomic signature. J Bacteriol. 2010 Nov](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
+  - [Predicting Plasmid Promiscuity Could Help Fight Antibiotic Resistance | BEACON](http://beacon-center.org/blog/2011/03/28/predicting-plasmid-promiscuity-could-help-fight-antibiotic-resistance/)
  - [Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes. Nucleic Acids Res. 2008 Dec](http://www.ncbi.nlm.nih.gov/pubmed/18953039) | [Supplementary Data](http://nar.oxfordjournals.org/content/36/22/e147/suppl/DC1)
+
+
 
 - [Shintani M et al. Front Microbiol. 2015 Mar 'Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy.'](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
 
@@ -119,8 +122,8 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ![http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT](http://s2.reutersmedia.net/resources/r/?m=02&d=20160527&t=2&i=1139027343&w=&fh=&fw=&ll=644&pl=429&sq=&r=LYNXNPEC4P1O4)
 
-[If Carbapenems Go, Can Colistin be Far Behind? | Scepticemia](https://scepticemia.com/2016/01/09/if-colistin-goes-can-carbapenems-be-far-behind/)
+[BEACON Researchers at Work: Plasmid evolution is the key to fighting antibiotic resistance | BEACON](http://beacon-center.org/blog/2011/05/02/beacon-researchers-at-work-plasmid-evolution-is-the-key/)
 
-![https://scepticemia.com/2016/01/09/if-colistin-goes-can-carbapenems-be-far-behind/](https://scepticemia.files.wordpress.com/2015/12/antibiotic-resistance-comic-650x552.jpg?w=500)
+![http://beacon-center.org/blog/2011/05/02/beacon-researchers-at-work-plasmid-evolution-is-the-key/](http://beacon-center.org/wp-content/uploads/2011/04/superbug-cartoon-300x254.jpg)
 
 ----------
