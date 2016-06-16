@@ -3,6 +3,8 @@ cat("\n  This R script analyzes FASTA format sequences of Nucleic Acids (`.fna`)
 # Extract Command Line Arguments
 args <- commandArgs(trailingOnly = TRUE)
 myfile <- args[1]
+wordsize <- 2
+windowsize <- 5000
 
 # Set Working Directory
 #setwd("~/projects/plasmids/")
@@ -26,9 +28,7 @@ dna <- lna[[1]]
 summary(dna)
 
 # rho
-windowsize <- 1000000; windowsize <- 5000
-#y <- rollapply(data = dna, width = windowsize, by = windowsize, FUN = function(x) rho(c(x, rev(comp(x))), wordsize = 2) )
-y <- rollapply(data = dna, width = windowsize, by = windowsize, FUN = function(x) rho(c(x, ' ', rev(comp(x))), wordsize = 2) )
+y <- rollapply(data = dna, width = windowsize, by = windowsize, FUN = function(x) rho(c(x, ' ', rev(comp(x))), wordsize = wordsize) )
 rownames(y) <- seq(from = 1, to = length(dna)-windowsize, by = windowsize)
 
 x <- rho(dna)
@@ -36,4 +36,18 @@ z <- rbind(x, y)
 rownames(z)[1] <- unlist(getAnnot(lna))
 
 # Exporting Data
-write.csv(round(z, 2), file=paste0(myfile, ".rho.csv"))
+#write.csv(round(z, 2), file=paste0(myfile, ".rho.csv"))
+write.csv(round(z, 2), file=paste0(myfile,".rho",wordsize,".",windowsize,".csv"))
+
+
+
+
+
+
+
+
+
+
+
+
+
