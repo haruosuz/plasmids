@@ -33,7 +33,7 @@ Running the shell script for downloading data files with:
 
     bash scripts/my_data.sh > log.data.txt 2>&1 &
 
-Running the R script:
+Running the R script for analyzing [plasmids.txt](ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/plasmids.txt) with:
 
     Rscript --vanilla scripts/my_plasmids.txt.R
 
@@ -43,12 +43,14 @@ Running the R script:
     analysis/table.plasmids.Kingdom.Group.txt
     analysis/table.plasmids.Kingdom.Group.SubGroup.txt
 
-Running Shell scripts
+The shell script `scripts/my_tblastn.sh` searches complete sequences of plasmids belonging to the same groups, e.g. incompatibility  (Inc) groups, using a homology-based screening procedure. This approach is described in ([Suzuki H et al. (2010)](http://www.ncbi.nlm.nih.gov/pubmed/20851899)).
+Running the shell script with:
 
-    bash scripts/my_genome_list.sh > log.txt 2>&1 &
+    bash scripts/my_tblastn.sh > log.tblastn.txt 2>&1 &
 
 
-    bash scripts/my_sequence.sh > log.txt 2>&1 &
+
+
 
 Running R scripts
 
