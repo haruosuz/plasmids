@@ -1,8 +1,8 @@
-cat("\n  This R script analyzes FASTA format sequences of Nucleic Acids (`.fna`).\n\n")
 
 # Extract Command Line Arguments
 args <- commandArgs(trailingOnly = TRUE)
 myfile <- args[1]
+
 wordsize <- 2
 windowsize <- 5000
 

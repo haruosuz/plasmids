@@ -48,13 +48,27 @@ Running the shell script with:
 
     bash scripts/my_tblastn.sh > log.tblastn.txt 2>&1 &
 
-
-
-
-
 Running R scripts
 
     Rscript --vanilla scripts/my_rho.R data/NC_007322.fna
+
+## Analysis
+
+Steps for predicting plasmid hosts:
+
+    git clone https://github.com/haruosuz/plasmids
+
+    bash scripts/get_seq_prok_reference_genomes.sh > log.get_seq_prok_reference_genomes.txt 2>&1 &
+
+    FASTAs=(`ls data/chromosome.refseq/*.fna`)
+    echo ${#FASTAs[@]} # echo ${FASTAs[@]}
+    #for FASTA in ${FASTAs[@]}; do echo $FASTA; done
+    # Running R script
+    for FASTA in ${FASTAs[@]}; do Rscript --vanilla scripts/my_rho.R $FASTA; done >& log.rho.txt &
+
+    Rscript --vanilla scripts/my_rho.R  data/NC_007322.fna
+
+    Rscript --vanilla scripts/my_rho_dist.R  data/NC_007322.fna.rho2.5000.csv
 
 ## Run environment
 

@@ -1,17 +1,23 @@
 
+# Extract Command Line Arguments
+args <- commandArgs(trailingOnly = TRUE)
+myfile <- args[1]
+
 # set the working directory
 #setwd("~/projects/plasmids/")
 
+# Loading packages
 library(MASS); # ginv
 
-# List files in a directory
-files <- list.files(path="data", pattern="\\.fna.rho.csv", full.names=TRUE)
-
 # Reading data into R
-files[7] # NC_007322: Bacillus anthracis str. 'Ames Ancestor' plasmid pXO1
-files[3] # NC_003997: Bacillus anthracis str. Ames chromosome
-X <- read.csv(file = files[7], row.names=1)[1,]
+#myfile <- "data/NC_007322.fna.rho2.5000.csv" # NC_007322: Bacillus anthracis str. 'Ames Ancestor' plasmid pXO1
 
+X <- read.csv(file = myfile, row.names=1)[1,]
+# NC_007322: Bacillus anthracis str. 'Ames Ancestor' plasmid pXO1
+# NC_003997: Bacillus anthracis str. Ames chromosome
+
+# List files in a directory
+files <- list.files(path="data/chromosome.refseq/", pattern="\\.rho2.5000.csv", full.names=TRUE)
 Distance <- P.value <- numeric()
 for(myfile in files){
  Y <- read.csv(file = myfile, row.names=1)[-1,]
@@ -26,18 +32,13 @@ for(myfile in files){
 ACCESSION <- as.vector(apply(as.matrix(basename(files)), MARGIN=c(1,2), function(x) unlist(strsplit(x, "[.]"))[1] ))
 d.f <- data.frame(ACCESSION, Distance, P.value, stringsAsFactors=FALSE)
 
-system(" head -2 data/*.rho.csv | grep '|' > data/whole.rho.csv ")
+system(" head -2 data/chromosome.refseq/*.rho2.5000.csv | grep '|' > data/whole.rho.csv ")
 DEFINITION <- read.csv(file="data/whole.rho.csv", header=FALSE, stringsAsFactors=FALSE)[,1]
 
 #x <- d.f$ACCESSION[1]; grep(pattern=x, x=DEFINITION)
 d.f$DEFINITION <- apply(as.matrix(d.f$ACCESSION), MARGIN=c(1,2), function(x) DEFINITION[ grep(pattern=x, x=DEFINITION) ] )[,1]
 
-write.table(d.f[order(d.f$Distance),], file="analysis/table.rho.dist.txt", sep="\t", quote=TRUE, row.names=FALSE, col.names=TRUE)
-
-#x <- blast$definition[3]; grep(pattern=unlist(strsplit(x, split=" "))[2], x=taxon[,1]); #taxon[c(800,801), 1]
-blast$taxonomy <- apply(as.matrix(blast$definition), MARGIN=c(1,2), function(x) taxon[ grep(pattern=unlist(strsplit(x, split=" "))[2], x=taxon[,1]), 2 ] )[,1]
-
-
+write.table(d.f[order(d.f$Distance),], file="analysis/table.rho2.5000.dist.txt", sep="\t", quote=TRUE, row.names=FALSE, col.names=TRUE)
 
 # Print R version and packages
 sessionInfo()
