@@ -13,7 +13,7 @@ ls -l data/prok_reference_genomes.txt
 
 # chromosomes
 ACCESSIONs=(`grep -v "^#" data/prok_reference_genomes.txt | grep 'Bacillus\|Escherichia coli O1' | cut -f4`)
-ACCESSIONs=(`grep -v "^#" data/prok_reference_genomes.txt | cut -f4 | tr ',' '\n'`)
+#ACCESSIONs=(`grep -v "^#" data/prok_reference_genomes.txt | cut -f4 | tr ',' '\n'`)
 # Chromosome RefSeq
 # Plasmid RefSeq # grep -v "^#" data/prok_reference_genomes.txt | cut -f6 | cut -d' ' -f1 | sort -u
 echo ${#ACCESSIONs[@]}
