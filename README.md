@@ -33,7 +33,7 @@ Running the shell script for downloading data files with:
 
     bash scripts/my_data.sh > log.data.txt 2>&1 &
 
-Running the R script for analyzing [plasmids.txt](ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/plasmids.txt) with:
+Running the R script for analyzing <ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/plasmids.txt> with:
 
     Rscript --vanilla scripts/my_plasmids.txt.R
 
