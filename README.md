@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2016-06-15  
+Last Update: 2016-06-16  
 
 ----------
 
@@ -22,21 +22,31 @@ I developed tools for analyzing plasmid sequences: i.e. identifying incompatibil
 
 ## Scripts
 
-The shell script `scripts/run.sh` automatically carries out the entire steps: creating directories, downloading data, and running the Perl/Python/R/Shell scripts.
+The shell script `scripts/run.sh` automatically carries out the entire steps: creating directories (`data/` and `analysis/`), downloading data files, 
+and running the Perl/Python/R/Shell scripts.
 
 Let's run the driver script in the project's main directory `plasmids/` with:
 
     bash scripts/run.sh > log.txt 2>&1 &
 
-Running `Rscript --vanilla scripts/my_plasmids.R` generates tab-delimited files including the NCBI taxonomic distributions of completely sequenced plasmids:
+Running the shell script for downloading data files with:
 
-    analysis/table.Kingdom.txt
-    analysis/table.Kingdom.Group.txt
-    analysis/table.Kingdom.Group.SubGroup.txt
+    bash scripts/my_data.sh > log.data.txt 2>&1 &
+
+Running the R script:
+
+    Rscript --vanilla scripts/my_plasmids.txt.R
+
+    # Output files
+    analysis/Rplots.plasmids.txt.pdf
+    analysis/table.plasmids.Kingdom.txt
+    analysis/table.plasmids.Kingdom.Group.txt
+    analysis/table.plasmids.Kingdom.Group.SubGroup.txt
 
 Running Shell scripts
 
-    #bash scripts/my_ncbiGenomeList.sh > log.txt 2>&1 &
+    bash scripts/my_genome_list.sh > log.txt 2>&1 &
+
 
     bash scripts/my_sequence.sh > log.txt 2>&1 &
 
@@ -129,5 +139,7 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Simpson%27s_paradox_continuous.svg/220px-Simpson%27s_paradox_continuous.svg.png)
+
+- [Global Distribution and Epigenetic Stratification of Antimicrobial Resistance | Grand Challenges](http://gcgh.grandchallenges.org/grant/global-distribution-and-epigenetic-stratification-antimicrobial-resistance)
 
 ----------
