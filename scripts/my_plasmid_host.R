@@ -14,7 +14,6 @@ table(d.f.hosts$Status); d.f.hosts <- d.f.hosts[d.f.hosts$Status == "Complete Ge
 head(d.f.plasmids, 1)
 head(d.f.hosts, 1)
 mer <- merge(d.f.hosts, d.f.plasmids, by.x="X.Organism.Name", by.y="X.Organism.Name"); 
-
 colnames(mer)[colnames(mer) == "GC..x"] = "GC.host"
 colnames(mer)[colnames(mer) == "GC..y"] = "GC.plasmid"
 
@@ -29,21 +28,13 @@ TF <- x - y > 10; sum(TF)
 TF <- x - y < -10; sum(TF)
 
 # Group/SubGroup
-level <- "Group"; level <- "SubGroup";
+level <- "Group"; #level <- "SubGroup";
 mer[,level] <- gsub("[ /]", ".", mer[,level])
 OUTDIR <- paste("results_",level,sep=""); system(paste("mkdir ",OUTDIR,sep=""))
 
-pdf(paste("Rplot_",level,".pdf",sep=""), pointsize=10)
-par(oma = c(0, 0, 3, 0))   # 下・左・上・右の順で余白を設定
+#pdf(paste("Rplot_",level,".pdf",sep=""), pointsize=10)
+#par(oma = c(0, 0, 3, 0))   # 下・左・上・右の順で余白を設定
 
-# Number of genomes in each level (Group/SubGroup)
-#pdf(paste("R_barplot_",level,".pdf",sep=""), pointsize=10)
-out <- sort(table(mer[,level]), decreasing=T)
-write.csv(out, paste("table_number_",level,".csv",sep=""), quote=FALSE, row.names=FALSE)
-pie(out)
-par(mfrow=c(1,1), mar=c(4,15,2,1), cex=1) # c(bottom, left, top, right). default c(5, 4, 4, 2) + 0.1.
-barplot(out, horiz=TRUE, las=1)
-#dev.off()
 
 # Median values for each level (Group/SubGroup)
 #pdf(paste("R_boxplot_",level,".pdf",sep=""), pointsize=10)

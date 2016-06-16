@@ -4,24 +4,22 @@ cat("\n  This R script analyzes FASTA format sequences of Nucleic Acids (`.fna`)
 args <- commandArgs(trailingOnly = TRUE)
 myfile <- args[1]
 
+# Set Working Directory
+#setwd("~/projects/plasmids/")
+
 # Loading packages
 library(seqinr)
 library(zoo) # rollapply
 
-# Set Working Directory
-#setwd("~/projects/plasmids/")
-
 # Reading sequence data into R
-#myfile <- "data/NC_007322.fna"
-#myfile <- "data/NC_007414.fna"
-
+#myfile <- "data/NC_007322.fna" # NC_007322: Bacillus anthracis str. 'Ames Ancestor' plasmid pXO1
 lna <- read.fasta(file = myfile, seqtype = c("DNA"))
 
 cat("# How many sequences\n")
 length(lna)
 
 # Get sequence annotations
-getAnnot(lna)
+unlist(getAnnot(lna))
 
 # Access the n-th element of the list
 dna <- lna[[1]]
@@ -35,6 +33,7 @@ rownames(y) <- seq(from = 1, to = length(dna)-windowsize, by = windowsize)
 
 x <- rho(dna)
 z <- rbind(x, y)
+rownames(z)[1] <- unlist(getAnnot(lna))
 
 # Exporting Data
 write.csv(round(z, 2), file=paste0(myfile, ".rho.csv"))
