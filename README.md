@@ -49,6 +49,13 @@ Predicting plasmid hosts using:
     # Output files
     analysis/table.rho2.5000.dist.txt
 
+Assessing plasmid host adaptation based on %GC content using:
+
+    Rscript --vanilla scripts/my_plasmid_host_gc.R
+
+    # Output files
+    analysis/R_pairs.panels_SubGroup.pdf
+
 Running the shell script for downloading data files with:
 
     bash scripts/my_data.sh > log.data.txt 2>&1 &

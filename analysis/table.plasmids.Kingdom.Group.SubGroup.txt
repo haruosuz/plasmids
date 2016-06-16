@@ -1,0 +1,55 @@
+Archaea;Euryarchaeota;Archaeoglobi	2
+Archaea;Euryarchaeota;Halobacteria	94
+Archaea;Euryarchaeota;Methanobacteria	6
+Archaea;Euryarchaeota;Methanococci	9
+Archaea;Euryarchaeota;Methanomicrobia	12
+Archaea;Euryarchaeota;Thermococci	18
+Archaea;Euryarchaeota;Thermoplasmata	2
+Archaea;TACK group;Crenarchaeota	24
+Archaea;environmental samples;archaeon enrichment culture clone 1(2010)	1
+Archaea;unclassified Archaea;unclassified Archaea (miscellaneous)	2
+Bacteria;Acidobacteria;Acidobacteriia	5
+Bacteria;Aquificae;Aquificae	3
+Bacteria;Deferribacteres;Deferribacteres	2
+Bacteria;Elusimicrobia;environmental samples	3
+Bacteria;FCB group;Bacteroidetes/Chlorobi group	116
+Bacteria;FCB group;Gemmatimonadetes	2
+Bacteria;Fusobacteria;Fusobacteriia	21
+Bacteria;Nitrospirae;Nitrospira	2
+Bacteria;PVC group;Chlamydiae	90
+Bacteria;PVC group;Planctomycetes	10
+Bacteria;PVC group;Verrucomicrobia	1
+Bacteria;Proteobacteria;Acidithiobacillia	11
+Bacteria;Proteobacteria;Alphaproteobacteria	720
+Bacteria;Proteobacteria;Betaproteobacteria	239
+Bacteria;Proteobacteria;Gammaproteobacteria	2522
+Bacteria;Proteobacteria;delta/epsilon subdivisions	155
+Bacteria;Proteobacteria;unclassified Proteobacteria	2
+Bacteria;Spirochaetes;Spirochaetia	495
+Bacteria;Synergistetes;Synergistia	1
+Bacteria;Terrabacteria group;Actinobacteria	398
+Bacteria;Terrabacteria group;Chloroflexi	4
+Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group	184
+Bacteria;Terrabacteria group;Deinococcus-Thermus	47
+Bacteria;Terrabacteria group;Firmicutes	1801
+Bacteria;Terrabacteria group;Tenericutes	68
+Bacteria;Thermotogae;Thermotogae	4
+Bacteria;environmental samples;bacterium enrichment culture clone 1(2010)	1
+Bacteria;environmental samples;bacterium enrichment culture clone 2a(2010)	1
+Bacteria;environmental samples;bacterium enrichment culture clone 2b(2010)	1
+Bacteria;environmental samples;uncultured bacterium AST1	1
+Bacteria;environmental samples;uncultured bacterium AST2	1
+Bacteria;environmental samples;uncultured bacterium AST3	1
+Bacteria;environmental samples;uncultured bacterium AST4	1
+Bacteria;environmental samples;uncultured bacterium HH1107	1
+Bacteria;environmental samples;uncultured bacterium HHV216	1
+Bacteria;environmental samples;uncultured bacterium HHV35	1
+Bacteria;environmental samples;uncultured bacterium pAKD4	1
+Bacteria;environmental samples;uncultured bacterium pMCBF6	1
+Bacteria;environmental samples;uncultured marine bacterium	1
+Bacteria;unclassified Bacteria;unclassified Bacteria (miscellaneous)	3
+Eukaryota;Fungi;Ascomycetes	88
+Eukaryota;Fungi;Basidiomycetes	5
+Eukaryota;Other;Other	7
+Eukaryota;Plants;Land Plants	5
+Eukaryota;Protists;Other Protists	5

@@ -28,29 +28,14 @@ TF <- x - y > 10; sum(TF)
 TF <- x - y < -10; sum(TF)
 
 # Group/SubGroup
-level <- "Group"; #level <- "SubGroup";
+level <- "Group"; level <- "SubGroup";
 mer[,level] <- gsub("[ /]", ".", mer[,level])
 OUTDIR <- paste("results_",level,sep=""); system(paste("mkdir ",OUTDIR,sep=""))
 
-#pdf(paste("Rplot_",level,".pdf",sep=""), pointsize=10)
-#par(oma = c(0, 0, 3, 0))   # 下・左・上・右の順で余白を設定
-
-
-# Median values for each level (Group/SubGroup)
-#pdf(paste("R_boxplot_",level,".pdf",sep=""), pointsize=10)
-par(mfrow=c(1,1), mar=c(4,15,2,1), cex=1) # mar=c(底左上右)
-#par(las=1) # all axis labels horizontal
-for(value in c("GC.host", "GC.plasmid")){
-x <- as.numeric(mer[,value])
-g <- mer[,level]
-#boxplot(x ~ g, horizontal=T, xlab=value); # reorder(g, -x, median), main=paste("kruskal.test, p =",p)
-boxplot(x ~ reorder(g, -x, median), horizontal=T, xlab=value, las=1);
-}
-
 # pairs.panels for each level (Group/SubGroup)
 library(psych) # install.packages("psych")
-#pdf(paste("R_pairs.panels_",level,".pdf",sep=""), pointsize=10)
-#par(oma = c(0, 0, 3, 0))   # 下・左・上・右の順で余白を設定
+pdf(paste("analysis/R_pairs.panels_",level,".pdf",sep=""), pointsize=10)
+par(oma = c(0, 0, 3, 0))
 #par(mfrow=c(3,3), mgp=c(2,1,0), mar=c(3,3,2,2), cex=2) # mar=c(底左上右)
 #num <- sort(table(mer[,level]),dec=T); taxa <- names(num[num > 3]); for(taxon in taxa){
 for(taxon in unique(mer[,level])){
@@ -59,14 +44,13 @@ pairs.panels(data.matrix(mer[TF,c("GC.host", "GC.plasmid")]))
 mtext(side = 3, line=1, outer=T, text = paste(taxon," (n = ",number,")",sep=""), cex=2)
 }
 
+dev.off()
+
 # tables for each level (Group/SubGroup)
 for(taxon in unique(mer[,level])){
 TF <- regexpr(taxon, mer[,level]) > 0; number = sum(TF); 
 write.csv(mer[TF,], paste(OUTDIR,"/table_",taxon,".csv",sep=""), quote=FALSE, row.names=FALSE)
 }
-
-dev.off()
-
 
 # Print R version and packages
 sessionInfo()
