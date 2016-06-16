@@ -20,14 +20,34 @@ I developed tools for analyzing plasmid sequences: i.e. identifying incompatibil
 
 ----------
 
+## Run environment
+
+    > sessionInfo()
+    R version 3.3.0 (2016-05-03)
+    Platform: x86_64-apple-darwin13.4.0 (64-bit)
+    Running under: OS X 10.9.5 (Mavericks)
+
+----------
+
 ## Scripts
 
-The shell script `scripts/run.sh` automatically carries out the entire steps: creating directories (`data/` and `analysis/`), downloading data files, 
-and running the Perl/Python/R/Shell scripts.
+Importing a Git repository using:  
+
+    git clone https://github.com/haruosuz/plasmids
+
+The shell script `scripts/run.sh` automatically carries out the entire steps: creating directories, downloading data files, 
+and running the R/Shell scripts.
 
 Let's run the driver script in the project's main directory `plasmids/` with:
 
     bash scripts/run.sh > log.txt 2>&1 &
+
+Predicting plasmid hosts using:
+
+    bash scripts/run_predict_plasmid_hosts.sh > log.predict_plasmid_hosts.txt 2>&1 &
+
+    # Output files
+    analysis/table.rho2.5000.dist.txt
 
 Running the shell script for downloading data files with:
 
@@ -43,7 +63,7 @@ Running the R script for analyzing <ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_RE
     analysis/table.plasmids.Kingdom.Group.txt
     analysis/table.plasmids.Kingdom.Group.SubGroup.txt
 
-The shell script `scripts/my_tblastn.sh` searches complete sequences of plasmids belonging to the same groups, e.g. incompatibility  (Inc) groups, using a homology-based screening procedure. This approach is described in ([Suzuki H et al. (2010)](http://www.ncbi.nlm.nih.gov/pubmed/20851899)).
+The shell script `scripts/my_tblastn.sh` searches complete sequences of plasmids belonging to the same groups, e.g. incompatibility  (Inc) groups, using a homology-based screening procedure. This approach is described in ([Suzuki H et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20851899)).
 Running the shell script with:
 
     bash scripts/my_tblastn.sh > log.tblastn.txt 2>&1 &
@@ -51,13 +71,6 @@ Running the shell script with:
 Running R scripts
 
     Rscript --vanilla scripts/my_rho.R data/NC_007322.fna
-
-## Run environment
-
-    > sessionInfo()
-    R version 3.3.0 (2016-05-03)
-    Platform: x86_64-apple-darwin13.4.0 (64-bit)
-    Running under: OS X 10.9.5 (Mavericks)
 
 ----------
 
