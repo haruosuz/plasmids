@@ -27,8 +27,6 @@ I developed tools for analyzing plasmid sequences: e.g. identifying incompatibil
     Platform: x86_64-apple-darwin13.4.0 (64-bit)
     Running under: OS X 10.9.5 (Mavericks)
 
-    tblastn  Protein Query-Translated Subject BLAST 2.3.0+
-
 ----------
 
 ## Steps
