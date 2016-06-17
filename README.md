@@ -84,6 +84,9 @@ Running the shell script with:
 
     bash scripts/my_tblastn.sh > log.tblastn.txt 2>&1 &
 
+From the 4298 completely sequenced plasmids having accessions with the [NC_](http://www.ncbi.nlm.nih.gov/books/NBK21091/table/ch18.T.refseq_accession_numbers_and_mole/?report=objectonly) prefix,
+this program retrieves plasmids that met both of the following two criteria: (i) they encode proteins that are homologs of more than half of all proteins encoded by any of the reference plasmids, and (ii) they encode replication initiation (Rep) proteins that are homologs to those of the reference plasmids: RepB and RepE from IncFI plasmid F, RepA1 and RepA4 from IncFII plasmid R100.
+
 ### Retrieving plasmid data
 
 Running the shell script for downloading data files with:  
