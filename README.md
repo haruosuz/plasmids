@@ -64,6 +64,8 @@ This generates output files including [`analysis/R_pairs.panels_SubGroup.pdf`](h
 
 ### Predicting plasmid hosts
 
+Replicons (i.e. plasmids and chromosomes) from the same host tend to be similar in oligonucleotide compositions, suggesting that plasmids acquire their hosts' signature over time (Campbell et al. 1999; Suzuki et al. 2008; van Passel et al. 2006). Thus, plasmid host range can be inferred by comparing the plasmid oligonucleotide composition to those of bacterial chromosomes.
+
 Predicting plasmid hosts using:  
 
     bash scripts/run_predict_plasmid_hosts.sh > log.predict_plasmid_hosts.txt 2>&1 &
