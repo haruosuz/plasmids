@@ -33,38 +33,48 @@ I developed tools for analyzing plasmid sequences: i.e. identifying incompatibil
 
 ## Steps
 
-Importing a Git repository using:  
+Downloading the GitHub project repository using:  
 
     git clone https://github.com/haruosuz/plasmids
+    cd plasmids/
+
+Alternatively, using:
+
+    wget https://github.com/haruosuz/plasmids/archive/master.zip
+    unzip master.zip
+    cd plasmids-master/
 
 The shell script `scripts/run.sh` automatically carries out the entire steps: creating directories, downloading data files, 
 and running the R/Shell scripts.
 
-Let's run the driver script in the project's main directory `plasmids/` with:
+Let's run the driver script in the project's main directory (e.g. `plasmids/`, `plasmids-master/`) with:
 
     bash scripts/run.sh > log.txt 2>&1 &
 
     # Use `tail -f` to constantly monitor files (use Control-C to stop)
     tail -f log.txt
 
-Predicting plasmid hosts using:
+Predicting plasmid hosts using:  
 
     bash scripts/run_predict_plasmid_hosts.sh > log.predict_plasmid_hosts.txt 2>&1 &
 
     # Output files
     analysis/table.rho2.5000.dist.txt
 
-Assessing plasmid host adaptation based on %GC content using:
+Previous studies reported that %GC content of plasmids tend to be lower than (and also correlated with) that of the known host chromosomes ([Rocha and Danchin 2002](http://www.ncbi.nlm.nih.gov/pubmed/12044357)
+; [van Passel et al. 2006](http://www.ncbi.nlm.nih.gov/pubmed/16480495); [Nishida 2012](http://www.ncbi.nlm.nih.gov/pubmed/22536540)).
+
+Assessing plasmid host adaptation based on %GC content using:  
 
     Rscript --vanilla scripts/my_plasmid_host_gc.R
 
 This generates output files including [`analysis/R_pairs.panels_SubGroup.pdf`](https://github.com/haruosuz/plasmids/blob/master/analysis/R_pairs.panels_SubGroup.pdf).
 
-Running the shell script for downloading data files with:
+Running the shell script for downloading data files with:  
 
     bash scripts/my_data.sh > log.data.txt 2>&1 &
 
-Running the R script for analyzing <ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/plasmids.txt> with:
+Running the R script for analyzing <ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/plasmids.txt> with:  
 
     Rscript --vanilla scripts/my_plasmids.txt.R
 
@@ -82,37 +92,6 @@ The shell script `scripts/my_tblastn.sh` searches complete sequences of plasmids
 Running the shell script with:
 
     bash scripts/my_tblastn.sh > log.tblastn.txt 2>&1 &
-
-Running R scripts
-
-    Rscript --vanilla scripts/my_rho.R data/NC_007322.fna
-
-----------
-
-## Validation
-
-Reproducibility tests using the [PatSearch.pm](http://www.g-language.org/data/g-language/lib/G/Seq/PatSearch.pm) of [G-language Genome Analysis Environment](http://www.g-language.org/).
-
-[Table 1. Ten highest ranking bacterial strains based on Mahalanobis distance and δ-distance for plasmid pXO1 from B. anthracis str. Ames Ancestor](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/table/T1/)
-
-    # NC_007322: Bacillus anthracis str. 'Ames Ancestor' plasmid pXO1
-    # NC_003997: Bacillus anthracis str. Ames chromosome
-
-    G
-
-	# G-language  Genome Analysis Environment v.1.9.1
-
-	G > &signature_dist('NC_007322', 'NC_003997', -wordlength=>2, -window=>5000, -step=>5000, -method=>'delta');
-
-	2-mer genomic signature difference:
-	 delta distance = 52.1695
-	 p-value = 0.3751
-
-	G > &signature_dist('NC_007322', 'NC_003997', -wordlength=>2, -window=>5000, -step=>5000, -method=>'mahalanobis');
-
-	2-mer genomic signature difference:
-	 mahalanobis distance = 3.1985
-	 p-value = 0.8919
 
 ----------
 
