@@ -122,15 +122,16 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 ----------
 
 ## References
-- Suzuki H et al.
- - [Genomic Signature Analysis to Predict Plasmid Host Range. Molecular Life Sciences. 2014 May ](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1)
- - [Predicting plasmid promiscuity based on genomic signature. J Bacteriol. 2010 Nov](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
+- Papers
+ - [Suzuki H et al. Molecular Life Sciences. 2014 May 'Genomic Signature Analysis to Predict Plasmid Host Range.'](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1)
+ - [Suzuki H et al. J Bacteriol. 2010 Nov 'Predicting plasmid promiscuity based on genomic signature.'](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
   - [Predicting Plasmid Promiscuity Could Help Fight Antibiotic Resistance | BEACON](http://beacon-center.org/blog/2011/03/28/predicting-plasmid-promiscuity-could-help-fight-antibiotic-resistance/)
- - [Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes. Nucleic Acids Res. 2008 Dec](http://www.ncbi.nlm.nih.gov/pubmed/18953039) | [Supplementary Data](http://nar.oxfordjournals.org/content/36/22/e147/suppl/DC1)
-
-- [Norberg P et al. Nat Commun. 2011;2:268. 'The IncP-1 plasmid backbone adapts to different host bacterial species and evolves through homologous recombination.'](http://www.ncbi.nlm.nih.gov/pubmed/21468020)
-
-- [Shintani M et al. Front Microbiol. 2015 Mar 'Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy.'](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
+ - [Suzuki H et al. Nucleic Acids Res. 2008 Dec 'Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes.'](http://www.ncbi.nlm.nih.gov/pubmed/18953039) | [Supplementary Data](http://nar.oxfordjournals.org/content/36/22/e147/suppl/DC1)
+ - [Shintani M et al. Front Microbiol. 2015 Mar 'Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy.'](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
+ - [Norberg P et al. Nat Commun. 2011;2:268. 'The IncP-1 plasmid backbone adapts to different host bacterial species and evolves through homologous recombination.'](http://www.ncbi.nlm.nih.gov/pubmed/21468020)
+ - [van Passel MW et al. BMC Genomics. 2006 Feb 'Compositional discordance between prokaryotic plasmids and host chromosomes.'](http://www.ncbi.nlm.nih.gov/pubmed/16480495)
+ - [Nishida H. Int J Evol Biol. 2012 'Comparative analyses of base compositions, DNA sizes, and dinucleotide frequency profiles in archaeal and bacterial chromosomes and plasmids.'](http://www.ncbi.nlm.nih.gov/pubmed/22536540)
+ - [Rocha EP, Danchin A. Trends Genet. 2002 Jun 'Base composition bias might result from competition for metabolic resources.'](http://www.ncbi.nlm.nih.gov/pubmed/12044357)
 
 - plasmidSPAdes
  - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
@@ -146,23 +147,22 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 - https://github.com/aleimba/bac-genomics-scripts/tree/master/ncbi_ftp_download
 
-[Liu YY et al. Lancet Infect Dis. 2016 Feb 'Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study.'](http://www.ncbi.nlm.nih.gov/pubmed/26603172)
+- 1 MAY 2016 [Global Distribution and Epigenetic Stratification of Antimicrobial Resistance | Grand Challenges](http://gcgh.grandchallenges.org/grant/global-distribution-and-epigenetic-stratification-antimicrobial-resistance)
+- [Liu YY et al. Lancet Infect Dis. 2016 Feb 'Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study.'](http://www.ncbi.nlm.nih.gov/pubmed/26603172)
+- December 16, 2015 [A New Superbug Attacks Our Last Line Of Antibiotic Defense | On Point](http://www.wbur.org/onpoint/2015/12/16/superbug-antibiotics-global-risk) 
+- March 27, 2015 [FACT SHEET: Obama Administration Releases National Action Plan to Combat Antibiotic-Resistant Bacteria | whitehouse.gov](https://www.whitehouse.gov/the-press-office/2015/03/27/fact-sheet-obama-administration-releases-national-action-plan-combat-ant)
 
-December 16, 2015 [A New Superbug Attacks Our Last Line Of Antibiotic Defense | On Point](http://www.wbur.org/onpoint/2015/12/16/superbug-antibiotics-global-risk)
-
-March 27, 2015 [FACT SHEET: Obama Administration Releases National Action Plan to Combat Antibiotic-Resistant Bacteria | whitehouse.gov](https://www.whitehouse.gov/the-press-office/2015/03/27/fact-sheet-obama-administration-releases-national-action-plan-combat-ant)
-
-[U.S. sees first case of bacteria resistant to last-resort antibiotic | Reuters](http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT)
+- Fri May 27, 2016 [U.S. sees first case of bacteria resistant to last-resort antibiotic | Reuters](http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT)
 
 ![http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT](http://s2.reutersmedia.net/resources/r/?m=02&d=20160527&t=2&i=1139027343&w=&fh=&fw=&ll=644&pl=429&sq=&r=LYNXNPEC4P1O4)
 
-[Bacteria gaining upper hand in war against humans- Nikkei Asian Review](http://asia.nikkei.com/Tech-Science/Science/Bacteria-gaining-upper-hand-in-war-against-humans)
+- June 12, 2016 [Bacteria gaining upper hand in war against humans- Nikkei Asian Review](http://asia.nikkei.com/Tech-Science/Science/Bacteria-gaining-upper-hand-in-war-against-humans)
 
-[Antibiotic resistance spreads rapidly between bacteria -- ScienceDaily](https://www.sciencedaily.com/releases/2011/04/110411163918.htm)
+- April 13, 2011 [Antibiotic resistance spreads rapidly between bacteria -- ScienceDaily](https://www.sciencedaily.com/releases/2011/04/110411163918.htm)
 
 ![https://www.sciencedaily.com/releases/2011/04/110411163918.htm](https://images.sciencedaily.com/2011/04/110411163918_1_540x360.jpg)
 
-[BEACON Researchers at Work: Plasmid evolution is the key to fighting antibiotic resistance | BEACON](http://beacon-center.org/blog/2011/05/02/beacon-researchers-at-work-plasmid-evolution-is-the-key/)
+- May 2, 2011 [BEACON Researchers at Work: Plasmid evolution is the key to fighting antibiotic resistance | BEACON](http://beacon-center.org/blog/2011/05/02/beacon-researchers-at-work-plasmid-evolution-is-the-key/)
 
 ![http://beacon-center.org/blog/2011/05/02/beacon-researchers-at-work-plasmid-evolution-is-the-key/](http://beacon-center.org/wp-content/uploads/2011/04/superbug-cartoon-300x254.jpg)
 
@@ -170,6 +170,5 @@ March 27, 2015 [FACT SHEET: Obama Administration Releases National Action Plan t
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Simpson%27s_paradox_continuous.svg/220px-Simpson%27s_paradox_continuous.svg.png)
 
-- [Global Distribution and Epigenetic Stratification of Antimicrobial Resistance | Grand Challenges](http://gcgh.grandchallenges.org/grant/global-distribution-and-epigenetic-stratification-antimicrobial-resistance)
 
 ----------
