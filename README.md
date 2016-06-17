@@ -108,7 +108,7 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 ----------
 
 ## References
-- Papers
+- Research papers
  - [Suzuki H et al. Molecular Life Sciences. 2014 May 'Genomic Signature Analysis to Predict Plasmid Host Range.'](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1)
  - [Suzuki H et al. J Bacteriol. 2010 Nov 'Predicting plasmid promiscuity based on genomic signature.'](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
   - [Predicting Plasmid Promiscuity Could Help Fight Antibiotic Resistance | BEACON](http://beacon-center.org/blog/2011/03/28/predicting-plasmid-promiscuity-could-help-fight-antibiotic-resistance/)
