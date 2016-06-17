@@ -44,6 +44,9 @@ Let's run the driver script in the project's main directory `plasmids/` with:
 
     bash scripts/run.sh > log.txt 2>&1 &
 
+    # Use `tail -f` to constantly monitor files (use Control-C to stop)
+    tail -f log.txt
+
 Predicting plasmid hosts using:
 
     bash scripts/run_predict_plasmid_hosts.sh > log.predict_plasmid_hosts.txt 2>&1 &
@@ -70,6 +73,10 @@ Running the R script for analyzing <ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_RE
     analysis/table.plasmids.Kingdom.txt
     analysis/table.plasmids.Kingdom.Group.txt
     analysis/table.plasmids.Kingdom.Group.SubGroup.txt
+
+Retrieving reference sequences of plasmids using:
+
+    bash scripts/get_refseq_plasmids.sh > log.txt 2>&1 &
 
 The shell script `scripts/my_tblastn.sh` searches complete sequences of plasmids belonging to the same groups, e.g. incompatibility  (Inc) groups, using a homology-based screening procedure. This approach is described in ([Suzuki H et al., 2010](http://www.ncbi.nlm.nih.gov/pubmed/20851899)).
 Running the shell script with:
@@ -139,9 +146,17 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 - https://github.com/aleimba/bac-genomics-scripts/tree/master/ncbi_ftp_download
 
+[Liu YY et al. Lancet Infect Dis. 2016 Feb 'Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study.'](http://www.ncbi.nlm.nih.gov/pubmed/26603172)
+
+December 16, 2015 [A New Superbug Attacks Our Last Line Of Antibiotic Defense | On Point](http://www.wbur.org/onpoint/2015/12/16/superbug-antibiotics-global-risk)
+
+March 27, 2015 [FACT SHEET: Obama Administration Releases National Action Plan to Combat Antibiotic-Resistant Bacteria | whitehouse.gov](https://www.whitehouse.gov/the-press-office/2015/03/27/fact-sheet-obama-administration-releases-national-action-plan-combat-ant)
+
 [U.S. sees first case of bacteria resistant to last-resort antibiotic | Reuters](http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT)
 
 ![http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT](http://s2.reutersmedia.net/resources/r/?m=02&d=20160527&t=2&i=1139027343&w=&fh=&fw=&ll=644&pl=429&sq=&r=LYNXNPEC4P1O4)
+
+[Bacteria gaining upper hand in war against humans- Nikkei Asian Review](http://asia.nikkei.com/Tech-Science/Science/Bacteria-gaining-upper-hand-in-war-against-humans)
 
 [Antibiotic resistance spreads rapidly between bacteria -- ScienceDaily](https://www.sciencedaily.com/releases/2011/04/110411163918.htm)
 
