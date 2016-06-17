@@ -113,9 +113,6 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
  - [Suzuki H et al. J Bacteriol. 2010 Nov 'Predicting plasmid promiscuity based on genomic signature.'](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
   - [Predicting Plasmid Promiscuity Could Help Fight Antibiotic Resistance | BEACON](http://beacon-center.org/blog/2011/03/28/predicting-plasmid-promiscuity-could-help-fight-antibiotic-resistance/)
  - [Suzuki H et al. Nucleic Acids Res. 2008 Dec 'Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes.'](http://www.ncbi.nlm.nih.gov/pubmed/18953039) | [Supplementary Data](http://nar.oxfordjournals.org/content/36/22/e147/suppl/DC1)
-
- - [Liu YY et al. Lancet Infect Dis. 2016 Feb 'Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study.'](http://www.ncbi.nlm.nih.gov/pubmed/26603172)
-
  - [Shintani M et al. Front Microbiol. 2015 Mar 'Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy.'](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
  - [Norberg P et al. Nat Commun. 2011;2:268. 'The IncP-1 plasmid backbone adapts to different host bacterial species and evolves through homologous recombination.'](http://www.ncbi.nlm.nih.gov/pubmed/21468020)
  - [van Passel MW et al. BMC Genomics. 2006 Feb 'Compositional discordance between prokaryotic plasmids and host chromosomes.'](http://www.ncbi.nlm.nih.gov/pubmed/16480495)
@@ -134,7 +131,11 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
  - [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
  - [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
 
-- News
+----------
+
+## News
+
+ - [Liu YY et al. Lancet Infect Dis. 2016 Feb 'Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study.'](http://www.ncbi.nlm.nih.gov/pubmed/26603172)
  - 1 MAY 2016 [Global Distribution and Epigenetic Stratification of Antimicrobial Resistance | Grand Challenges](http://gcgh.grandchallenges.org/grant/global-distribution-and-epigenetic-stratification-antimicrobial-resistance)
  - December 16, 2015 [A New Superbug Attacks Our Last Line Of Antibiotic Defense | On Point](http://www.wbur.org/onpoint/2015/12/16/superbug-antibiotics-global-risk) 
  - March 27, 2015 [FACT SHEET: Obama Administration Releases National Action Plan to Combat Antibiotic-Resistant Bacteria | whitehouse.gov](https://www.whitehouse.gov/the-press-office/2015/03/27/fact-sheet-obama-administration-releases-national-action-plan-combat-ant)
@@ -152,10 +153,5 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - May 2, 2011 [BEACON Researchers at Work: Plasmid evolution is the key to fighting antibiotic resistance | BEACON](http://beacon-center.org/blog/2011/05/02/beacon-researchers-at-work-plasmid-evolution-is-the-key/)
 
 ![http://beacon-center.org/blog/2011/05/02/beacon-researchers-at-work-plasmid-evolution-is-the-key/](http://beacon-center.org/wp-content/uploads/2011/04/superbug-cartoon-300x254.jpg)
-
-- [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Simpson%27s_paradox_continuous.svg/220px-Simpson%27s_paradox_continuous.svg.png)
-
 
 ----------
