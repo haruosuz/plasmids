@@ -54,6 +54,18 @@ Let's run the driver script in the project's main directory (e.g. `plasmids/`, `
     # Use `tail -f` to constantly monitor files (use Control-C to stop)
     tail -f log.txt
 
+### Assessing plasmid host adaptation
+
+Previous studies reported that %GC content of plasmids tend to be lower than (and also correlated with) that of the known host chromosomes ([Rocha and Danchin 2002](http://www.ncbi.nlm.nih.gov/pubmed/12044357); [van Passel et al. 2006](http://www.ncbi.nlm.nih.gov/pubmed/16480495); [Nishida 2012](http://www.ncbi.nlm.nih.gov/pubmed/22536540)).
+
+Assessing plasmid host adaptation based on %GC content using:  
+
+    Rscript --vanilla scripts/my_plasmid_host_gc.R
+
+This generates output files including [`analysis/R_pairs.panels_SubGroup.pdf`](https://github.com/haruosuz/plasmids/blob/master/analysis/R_pairs.panels_SubGroup.pdf).
+
+### Predicting plasmid hosts
+
 Predicting plasmid hosts using:  
 
     bash scripts/run_predict_plasmid_hosts.sh > log.predict_plasmid_hosts.txt 2>&1 &
@@ -61,14 +73,18 @@ Predicting plasmid hosts using:
     # Output files
     analysis/table.rho2.5000.dist.txt
 
-Previous studies reported that %GC content of plasmids tend to be lower than (and also correlated with) that of the known host chromosomes ([Rocha and Danchin 2002](http://www.ncbi.nlm.nih.gov/pubmed/12044357)
-; [van Passel et al. 2006](http://www.ncbi.nlm.nih.gov/pubmed/16480495); [Nishida 2012](http://www.ncbi.nlm.nih.gov/pubmed/22536540)).
+### Identifying plasmid groups
 
-Assessing plasmid host adaptation based on %GC content using:  
+Retrieving reference sequences of plasmids using:
 
-    Rscript --vanilla scripts/my_plasmid_host_gc.R
+    bash scripts/get_refseq_plasmids.sh > log.txt 2>&1 &
 
-This generates output files including [`analysis/R_pairs.panels_SubGroup.pdf`](https://github.com/haruosuz/plasmids/blob/master/analysis/R_pairs.panels_SubGroup.pdf).
+The shell script `scripts/my_tblastn.sh` searches complete sequences of plasmids belonging to the same groups, e.g. incompatibility (Inc) groups, using a homology-based screening procedure. This approach is described in ([Suzuki H et al., 2010](http://www.ncbi.nlm.nih.gov/pubmed/20851899)).
+Running the shell script with:
+
+    bash scripts/my_tblastn.sh > log.tblastn.txt 2>&1 &
+
+### Retrieving plasmid data
 
 Running the shell script for downloading data files with:  
 
@@ -83,15 +99,6 @@ Running the R script for analyzing <ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_RE
     analysis/table.plasmids.Kingdom.txt
     analysis/table.plasmids.Kingdom.Group.txt
     analysis/table.plasmids.Kingdom.Group.SubGroup.txt
-
-Retrieving reference sequences of plasmids using:
-
-    bash scripts/get_refseq_plasmids.sh > log.txt 2>&1 &
-
-The shell script `scripts/my_tblastn.sh` searches complete sequences of plasmids belonging to the same groups, e.g. incompatibility  (Inc) groups, using a homology-based screening procedure. This approach is described in ([Suzuki H et al., 2010](http://www.ncbi.nlm.nih.gov/pubmed/20851899)).
-Running the shell script with:
-
-    bash scripts/my_tblastn.sh > log.tblastn.txt 2>&1 &
 
 ----------
 
