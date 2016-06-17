@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2016-06-16  
+Last Update: 2016-06-17  
 
 ----------
 
@@ -27,9 +27,11 @@ I developed tools for analyzing plasmid sequences: i.e. identifying incompatibil
     Platform: x86_64-apple-darwin13.4.0 (64-bit)
     Running under: OS X 10.9.5 (Mavericks)
 
+    tblastn  Protein Query-Translated Subject BLAST 2.3.0+
+
 ----------
 
-## Scripts
+## Steps
 
 Importing a Git repository using:  
 
@@ -53,8 +55,7 @@ Assessing plasmid host adaptation based on %GC content using:
 
     Rscript --vanilla scripts/my_plasmid_host_gc.R
 
-    # Output files
-    analysis/R_pairs.panels_SubGroup.pdf
+This generates output files including [`analysis/R_pairs.panels_SubGroup.pdf`](https://github.com/haruosuz/plasmids/blob/master/analysis/R_pairs.panels_SubGroup.pdf).
 
 Running the shell script for downloading data files with:
 
@@ -83,7 +84,7 @@ Running R scripts
 
 ## Validation
 
-Reproducibility tests using the [G-language Genome Analysis Environment](http://www.g-language.org/)
+Reproducibility tests using the [PatSearch.pm](http://www.g-language.org/data/g-language/lib/G/Seq/PatSearch.pm) of [G-language Genome Analysis Environment](http://www.g-language.org/).
 
 [Table 1. Ten highest ranking bacterial strains based on Mahalanobis distance and δ-distance for plasmid pXO1 from B. anthracis str. Ames Ancestor](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/table/T1/)
 
@@ -114,12 +115,6 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 ----------
 
 ## References
-- [BioHackathon 2016](http://2016.biohackathon.org/hackathon).
-
-- http://www.g-language.org/data/g-language/lib/G/Seq/PatSearch.pm
-
-- https://github.com/aleimba/bac-genomics-scripts/tree/master/ncbi_ftp_download
-
 - Suzuki H et al.
  - [Genomic Signature Analysis to Predict Plasmid Host Range. Molecular Life Sciences. 2014 May ](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1)
  - [Predicting plasmid promiscuity based on genomic signature. J Bacteriol. 2010 Nov](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
@@ -141,6 +136,8 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
  - [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
  - [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
  - [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
+
+- https://github.com/aleimba/bac-genomics-scripts/tree/master/ncbi_ftp_download
 
 [U.S. sees first case of bacteria resistant to last-resort antibiotic | Reuters](http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT)
 
