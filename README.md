@@ -135,16 +135,15 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
     - [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
     - [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
     - [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
-
 - Bioinformatics Tools
   - plasmidSPAdes
-   - [plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data | bioRxiv](http://biorxiv.org/content/early/2016/04/20/048942)
-   - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
-   - [SPAdes 3.8.1 Manual](http://spades.bioinf.spbau.ru/release3.8.1/manual.html)
-     - [3.2 SPAdes command line options](http://spades.bioinf.spbau.ru/release3.8.1/manual.html#sec3.2)   `--plasmid`   (same as `plasmidspades.py`)    This flag is required when assembling only plasmids from WGS data sets (runs plasmidSPAdes, see paper for the algorithm details). Note, that plasmidSPAdes is not compatible with metaSPAdes and single-cell mode. Additionally, we do not recommend to run plasmidSPAdes on more than one library. See section 3.6 for plasmidSPAdes output details.
-     - [3.6 plasmidSPAdes output](http://spades.bioinf.spbau.ru/release3.8.1/manual.html#sec3.6)
-   - [plasmidSPAdes | Plasmid detection: Metagenomic sequencing - OMICtools](https://omictools.com/plasmidspades-tool)
-   - [#plasmidSPAdes hashtag on Twitter](https://twitter.com/hashtag/plasmidSPAdes)
+    - [plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data | bioRxiv](http://biorxiv.org/content/early/2016/04/20/048942)
+    - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
+    - [SPAdes 3.8.1 Manual](http://spades.bioinf.spbau.ru/release3.8.1/manual.html)
+      - [3.2 SPAdes command line options](http://spades.bioinf.spbau.ru/release3.8.1/manual.html#sec3.2)   `--plasmid`   (same as `plasmidspades.py`)    This flag is required when assembling only plasmids from WGS data sets (runs plasmidSPAdes, see paper for the algorithm details). Note, that plasmidSPAdes is not compatible with metaSPAdes and single-cell mode. Additionally, we do not recommend to run plasmidSPAdes on more than one library. See section 3.6 for plasmidSPAdes output details.
+      - [3.6 plasmidSPAdes output](http://spades.bioinf.spbau.ru/release3.8.1/manual.html#sec3.6)
+    - [plasmidSPAdes | Plasmid detection: Metagenomic sequencing - OMICtools](https://omictools.com/plasmidspades-tool)
+    - [#plasmidSPAdes hashtag on Twitter](https://twitter.com/hashtag/plasmidSPAdes)
   - PlasmidFinder 1.3
     - [CGE Server](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
     - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul 'In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing.'](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
