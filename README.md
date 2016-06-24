@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2016-06-17  
+Last Update: 2016-06-24  
 
 ----------
 
@@ -117,45 +117,52 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
   - [Predicting Plasmid Promiscuity Could Help Fight Antibiotic Resistance | BEACON](http://beacon-center.org/blog/2011/03/28/predicting-plasmid-promiscuity-could-help-fight-antibiotic-resistance/)
  - [Suzuki H et al. Nucleic Acids Res. 2008 Dec 'Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes.'](http://www.ncbi.nlm.nih.gov/pubmed/18953039) | [Supplementary Data](http://nar.oxfordjournals.org/content/36/22/e147/suppl/DC1)
  - [Shintani M et al. Front Microbiol. 2015 Mar 'Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy.'](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
+ - [Loftie-Eaton W, Rawlings DE. Plasmid. 2012 Jan 'Diversity, biology and evolution of IncQ-family plasmids.'](http://www.ncbi.nlm.nih.gov/pubmed/22037393)
  - [Chan, Jane 2013 'Molecular epidemiology of fosfomycin-resistant Escherichia coli from humans and animals'](http://hub.hku.hk/handle/10722/197077) | [FullText.pdf](http://hub.hku.hk/bitstream/10722/197077/2/FullText.pdf) Table 1. 4 List of known incompatibility groups of Enterobacteriaceae
  - [Norberg P et al. Nat Commun. 2011;2:268. 'The IncP-1 plasmid backbone adapts to different host bacterial species and evolves through homologous recombination.'](http://www.ncbi.nlm.nih.gov/pubmed/21468020)
- - Base composition
-  - [van Passel MW et al. BMC Genomics. 2006 Feb 'Compositional discordance between prokaryotic plasmids and host chromosomes.'](http://www.ncbi.nlm.nih.gov/pubmed/16480495)
-  - [Nishida H. Int J Evol Biol. 2012 'Comparative analyses of base compositions, DNA sizes, and dinucleotide frequency profiles in archaeal and bacterial chromosomes and plasmids.'](http://www.ncbi.nlm.nih.gov/pubmed/22536540)
-  - [Rocha EP, Danchin A. Trends Genet. 2002 Jun 'Base composition bias might result from competition for metabolic resources.'](http://www.ncbi.nlm.nih.gov/pubmed/12044357)
- - Plasmidome
-  - [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
-  - [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
-  - [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
+  - Base composition
+    - [van Passel MW et al. BMC Genomics. 2006 Feb 'Compositional discordance between prokaryotic plasmids and host chromosomes.'](http://www.ncbi.nlm.nih.gov/pubmed/16480495)
+    - [Nishida H. Int J Evol Biol. 2012 'Comparative analyses of base compositions, DNA sizes, and dinucleotide frequency profiles in archaeal and bacterial chromosomes and plasmids.'](http://www.ncbi.nlm.nih.gov/pubmed/22536540)
+    - [Rocha EP, Danchin A. Trends Genet. 2002 Jun 'Base composition bias might result from competition for metabolic resources.'](http://www.ncbi.nlm.nih.gov/pubmed/12044357)
+  - Plasmid-mediated colistin resistance (mcr-1 gene)
+    - [McGann P et al. Antimicrob Agents Chemother. 2016 Jun 'Escherichia coli Harboring mcr-1 and blaCTX-M on a Novel IncF Plasmid: First Report of mcr-1 in the United States.'](http://www.ncbi.nlm.nih.gov/pubmed/26774245)
+    - [Suzuki S et al. Lancet Infect Dis. 2016 Mar 'Investigation of a plasmid genome database for colistin-resistance gene mcr-1.'](http://www.ncbi.nlm.nih.gov/pubmed/26774245)
+    - [Skov RL, Monnet DL. Euro Surveill. 2016;21(9). 'Plasmid-mediated colistin resistance (mcr-1 gene): three months later, the story unfolds.'](http://www.ncbi.nlm.nih.gov/pubmed/26967914) | [Eurosurveillance - View Article](http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=21403)
+    - [Liu YY et al. Lancet Infect Dis. 2016 Feb 'Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study.'](http://www.ncbi.nlm.nih.gov/pubmed/26603172)
+  - New Delhi metallo-β-lactamase-1 (NDM-1)
+    - [Kumarasamy KK et al. Lancet Infect Dis. 2010 Sep 'Emergence of a new antibiotic resistance mechanism in India, Pakistan, and the UK: a molecular, biological, and epidemiological study.'](http://www.ncbi.nlm.nih.gov/pubmed/20705517)
+  - Plasmidome
+    - [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
+    - [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
+    - [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
 
-- plasmidSPAdes
- - [plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data | bioRxiv](http://biorxiv.org/content/early/2016/04/20/048942)
- - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
- - [SPAdes 3.8.1 Manual](http://spades.bioinf.spbau.ru/release3.8.1/manual.html)
-  - [3.2 SPAdes command line options](http://spades.bioinf.spbau.ru/release3.8.1/manual.html#sec3.2)   `--plasmid`   (same as `plasmidspades.py`)    This flag is required when assembling only plasmids from WGS data sets (runs plasmidSPAdes, see paper for the algorithm details). Note, that plasmidSPAdes is not compatible with metaSPAdes and single-cell mode. Additionally, we do not recommend to run plasmidSPAdes on more than one library. See section 3.6 for plasmidSPAdes output details.
-  - [3.6 plasmidSPAdes output](http://spades.bioinf.spbau.ru/release3.8.1/manual.html#sec3.6)
- - [plasmidSPAdes | Plasmid detection: Metagenomic sequencing - OMICtools](https://omictools.com/plasmidspades-tool)
- - [#plasmidSPAdes hashtag on Twitter](https://twitter.com/hashtag/plasmidSPAdes)
-
-- PlasmidFinder 1.3
- - [CGE Server](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
- - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul 'In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing.'](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
-
-- PLACNET (PLAsmid Constellation NET)
- - [Lanza VF,, de la Cruz F et al. PLoS Genet. 2014 Dec 'Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences.'](http://www.ncbi.nlm.nih.gov/pubmed/25522143)
- - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
-
-- [Recycler](https://github.com/Shamir-Lab/Recycler)
- - [Recycler: an algorithm for detecting plasmids from de novo assembly graphs | bioRxiv](http://biorxiv.org/content/early/2016/05/09/029926)
+- Bioinformatics Tools
+  - plasmidSPAdes
+   - [plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data | bioRxiv](http://biorxiv.org/content/early/2016/04/20/048942)
+   - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
+   - [SPAdes 3.8.1 Manual](http://spades.bioinf.spbau.ru/release3.8.1/manual.html)
+     - [3.2 SPAdes command line options](http://spades.bioinf.spbau.ru/release3.8.1/manual.html#sec3.2)   `--plasmid`   (same as `plasmidspades.py`)    This flag is required when assembling only plasmids from WGS data sets (runs plasmidSPAdes, see paper for the algorithm details). Note, that plasmidSPAdes is not compatible with metaSPAdes and single-cell mode. Additionally, we do not recommend to run plasmidSPAdes on more than one library. See section 3.6 for plasmidSPAdes output details.
+     - [3.6 plasmidSPAdes output](http://spades.bioinf.spbau.ru/release3.8.1/manual.html#sec3.6)
+   - [plasmidSPAdes | Plasmid detection: Metagenomic sequencing - OMICtools](https://omictools.com/plasmidspades-tool)
+   - [#plasmidSPAdes hashtag on Twitter](https://twitter.com/hashtag/plasmidSPAdes)
+  - PlasmidFinder 1.3
+    - [CGE Server](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
+    - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul 'In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing.'](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
+  - PLACNET (PLAsmid Constellation NET)
+    - [Lanza VF,, de la Cruz F et al. PLoS Genet. 2014 Dec 'Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences.'](http://www.ncbi.nlm.nih.gov/pubmed/25522143)
+    - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
+  - [Recycler](https://github.com/Shamir-Lab/Recycler)
+    - [Recycler: an algorithm for detecting plasmids from de novo assembly graphs | bioRxiv](http://biorxiv.org/content/early/2016/05/09/029926)
+  - [Addgene](https://www.addgene.org) non-profit plasmid repository
+    - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
 
 ----------
 
 ## News
+- [News about plasmid resistance on Twitter](https://twitter.com/search?vertical=news&q=plasmid%20resistance)
 
- - [Liu YY et al. Lancet Infect Dis. 2016 Feb 'Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study.'](http://www.ncbi.nlm.nih.gov/pubmed/26603172)
- - 1 MAY 2016 [Global Distribution and Epigenetic Stratification of Antimicrobial Resistance | Grand Challenges](http://gcgh.grandchallenges.org/grant/global-distribution-and-epigenetic-stratification-antimicrobial-resistance)
- - December 16, 2015 [A New Superbug Attacks Our Last Line Of Antibiotic Defense | On Point](http://www.wbur.org/onpoint/2015/12/16/superbug-antibiotics-global-risk) 
- - March 27, 2015 [FACT SHEET: Obama Administration Releases National Action Plan to Combat Antibiotic-Resistant Bacteria | whitehouse.gov](https://www.whitehouse.gov/the-press-office/2015/03/27/fact-sheet-obama-administration-releases-national-action-plan-combat-ant)
+- December 16, 2015 [A New Superbug Attacks Our Last Line Of Antibiotic Defense | On Point](http://www.wbur.org/onpoint/2015/12/16/superbug-antibiotics-global-risk) 
+- March 27, 2015 [FACT SHEET: Obama Administration Releases National Action Plan to Combat Antibiotic-Resistant Bacteria | whitehouse.gov](https://www.whitehouse.gov/the-press-office/2015/03/27/fact-sheet-obama-administration-releases-national-action-plan-combat-ant)
 
 - Fri May 27, 2016 [U.S. sees first case of bacteria resistant to last-resort antibiotic | Reuters](http://www.reuters.com/article/us-health-superbug-idUSKCN0YH2KT)
 
