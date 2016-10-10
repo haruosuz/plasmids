@@ -1,14 +1,14 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2016-07-31  
+Last Update: 2016-10-10
 
 ----------
 
 # Plasmid Sequence Analysis
 Project started 2016-06-13 at [BioHackathon 2016](http://2016.biohackathon.org/hackathon).
 
-I developed tools for analyzing plasmid sequences: e.g. identifying incompatibility (Inc) groups of plasmids, assessing plasmid host adaptation, and predicting plasmid host range. ([Suzuki H et al., 2014](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1))
+I developed tools for analyzing plasmid sequences: e.g. identifying incompatibility (Inc) groups of plasmids, assessing plasmid host adaptation, and predicting plasmid host range. ([Suzuki H et al., 2014](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1))
 
 ## Project directory structures
 
@@ -112,44 +112,51 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ## References
 - Research papers
-  - [Suzuki H et al. Molecular Life Sciences. 2014 May 'Genomic Signature Analysis to Predict Plasmid Host Range.'](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1)
-  - [Suzuki H et al. J Bacteriol. 2010 Nov 'Predicting plasmid promiscuity based on genomic signature.'](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
+  - [Suzuki H et al. Molecular Life Sciences. 2014 May "Genomic Signature Analysis to Predict Plasmid Host Range."](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1)
+  - [Suzuki H et al. J Bacteriol. 2010 Nov "Predicting plasmid promiscuity based on genomic signature."](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
     - [Predicting Plasmid Promiscuity Could Help Fight Antibiotic Resistance | BEACON](http://beacon-center.org/blog/2011/03/28/predicting-plasmid-promiscuity-could-help-fight-antibiotic-resistance/)
-  - [Suzuki H et al. Nucleic Acids Res. 2008 Dec 'Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes.'](http://www.ncbi.nlm.nih.gov/pubmed/18953039) | [Supplementary Data](http://nar.oxfordjournals.org/content/36/22/e147/suppl/DC1)
-  - [Shintani M et al. Front Microbiol. 2015 Mar 'Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy.'](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
-  - [Loftie-Eaton W, Rawlings DE. Plasmid. 2012 Jan 'Diversity, biology and evolution of IncQ-family plasmids.'](http://www.ncbi.nlm.nih.gov/pubmed/22037393)
-  - [Chan, Jane 2013 'Molecular epidemiology of fosfomycin-resistant Escherichia coli from humans and animals'](http://hub.hku.hk/handle/10722/197077) | [FullText.pdf](http://hub.hku.hk/bitstream/10722/197077/2/FullText.pdf) Table 1. 4 List of known incompatibility groups of Enterobacteriaceae
-  - [Norberg P et al. Nat Commun. 2011;2:268. 'The IncP-1 plasmid backbone adapts to different host bacterial species and evolves through homologous recombination.'](http://www.ncbi.nlm.nih.gov/pubmed/21468020)
+  - [Suzuki H et al. Nucleic Acids Res. 2008 Dec "Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes."](http://www.ncbi.nlm.nih.gov/pubmed/18953039) | [Supplementary Data](http://nar.oxfordjournals.org/content/36/22/e147/suppl/DC1)
+  - [Shintani M et al. Front Microbiol. 2015 Mar "Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy."](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
+  - [Loftie-Eaton W, Rawlings DE. Plasmid. 2012 Jan "Diversity, biology and evolution of IncQ-family plasmids."](http://www.ncbi.nlm.nih.gov/pubmed/22037393)
+  - [Chan, Jane 2013 "Molecular epidemiology of fosfomycin-resistant Escherichia coli from humans and animals"](http://hub.hku.hk/handle/10722/197077) | [FullText.pdf](http://hub.hku.hk/bitstream/10722/197077/2/FullText.pdf) Table 1. 4 List of known incompatibility groups of Enterobacteriaceae
+  - [Norberg P et al. Nat Commun. 2011;2:268. "The IncP-1 plasmid backbone adapts to different host bacterial species and evolves through homologous recombination."](http://www.ncbi.nlm.nih.gov/pubmed/21468020)
   - Base composition
-    - [van Passel MW et al. BMC Genomics. 2006 Feb 'Compositional discordance between prokaryotic plasmids and host chromosomes.'](http://www.ncbi.nlm.nih.gov/pubmed/16480495)
-    - [Nishida H. Int J Evol Biol. 2012 'Comparative analyses of base compositions, DNA sizes, and dinucleotide frequency profiles in archaeal and bacterial chromosomes and plasmids.'](http://www.ncbi.nlm.nih.gov/pubmed/22536540)
-    - [Rocha EP, Danchin A. Trends Genet. 2002 Jun 'Base composition bias might result from competition for metabolic resources.'](http://www.ncbi.nlm.nih.gov/pubmed/12044357)
+    - [van Passel MW et al. BMC Genomics. 2006 Feb "Compositional discordance between prokaryotic plasmids and host chromosomes."](http://www.ncbi.nlm.nih.gov/pubmed/16480495)
+    - [Nishida H. Int J Evol Biol. 2012 "Comparative analyses of base compositions, DNA sizes, and dinucleotide frequency profiles in archaeal and bacterial chromosomes and plasmids."](http://www.ncbi.nlm.nih.gov/pubmed/22536540)
+    - [Rocha EP, Danchin A. Trends Genet. 2002 Jun "Base composition bias might result from competition for metabolic resources."](http://www.ncbi.nlm.nih.gov/pubmed/12044357)
+  - Codon usage
+    - [Davis JJ, Olsen GJ. Mol Biol Evol. 2010 Apr "Modal codon usage: assessing the typical codon usage of a genome."](https://www.ncbi.nlm.nih.gov/pubmed/20018979)
+    - [Guo FB, Yuan JB. DNA Res. 2009 Apr "Codon usages of genes on chromosome, and surprisingly, genes in plasmid are primarily affected by strand-specific mutational biases in Lawsonia intracellularis."](https://www.ncbi.nlm.nih.gov/pubmed/19221094)
+    - [Peixoto L et al. Gene. 2003 Nov 27 "The strength of translational selection for codon usage varies in the three replicons of Sinorhizobium meliloti."](https://www.ncbi.nlm.nih.gov/pubmed/14597394)
   - Plasmid-mediated colistin resistance (mcr-1 gene)
-    - [McGann P et al. Antimicrob Agents Chemother. 2016 Jun 'Escherichia coli Harboring mcr-1 and blaCTX-M on a Novel IncF Plasmid: First Report of mcr-1 in the United States.'](http://www.ncbi.nlm.nih.gov/pubmed/26774245)
-    - [Suzuki S et al. Lancet Infect Dis. 2016 Mar 'Investigation of a plasmid genome database for colistin-resistance gene mcr-1.'](http://www.ncbi.nlm.nih.gov/pubmed/26774245)
-    - [Skov RL, Monnet DL. Euro Surveill. 2016;21(9). 'Plasmid-mediated colistin resistance (mcr-1 gene): three months later, the story unfolds.'](http://www.ncbi.nlm.nih.gov/pubmed/26967914) | [Eurosurveillance - View Article](http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=21403)
-    - [Liu YY et al. Lancet Infect Dis. 2016 Feb 'Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study.'](http://www.ncbi.nlm.nih.gov/pubmed/26603172)
+    - [McGann P et al. Antimicrob Agents Chemother. 2016 Jun "Escherichia coli Harboring mcr-1 and blaCTX-M on a Novel IncF Plasmid: First Report of mcr-1 in the United States."](https://www.ncbi.nlm.nih.gov/pubmed/27230792)
+    - [Fernandes MR et al. Euro Surveill. 2016 Apr 28;21(17). "Silent dissemination of colistin-resistant Escherichia coli in South America could contribute to the global spread of the mcr-1 gene."](https://www.ncbi.nlm.nih.gov/pubmed/27168587) | [Eurosurveillance - View Article](http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=22458)
+    - [Suzuki S et al. Lancet Infect Dis. 2016 Mar "Investigation of a plasmid genome database for colistin-resistance gene mcr-1."](http://www.ncbi.nlm.nih.gov/pubmed/26774245)
+    - [Skov RL, Monnet DL. Euro Surveill. 2016;21(9). "Plasmid-mediated colistin resistance (mcr-1 gene): three months later, the story unfolds."](http://www.ncbi.nlm.nih.gov/pubmed/26967914) | [Eurosurveillance - View Article](http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=21403)
+    - [Liu YY et al. Lancet Infect Dis. 2016 Feb "Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study."](http://www.ncbi.nlm.nih.gov/pubmed/26603172)
   - New Delhi metallo-β-lactamase-1 (NDM-1)
-    - [Kumarasamy KK et al. Lancet Infect Dis. 2010 Sep 'Emergence of a new antibiotic resistance mechanism in India, Pakistan, and the UK: a molecular, biological, and epidemiological study.'](http://www.ncbi.nlm.nih.gov/pubmed/20705517)
+    - [Kumarasamy KK et al. Lancet Infect Dis. 2010 Sep "Emergence of a new antibiotic resistance mechanism in India, Pakistan, and the UK: a molecular, biological, and epidemiological study."](http://www.ncbi.nlm.nih.gov/pubmed/20705517)
   - Plasmidome
     - [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
     - [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
     - [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
 - Bioinformatics Tools
   - [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
-    - [Antipov D et al. Bioinformatics. 2016 Jul 'plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data.'](http://www.ncbi.nlm.nih.gov/pubmed/27466620)
+    - [Antipov D et al. Bioinformatics. 2016 Jul "plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data."](http://www.ncbi.nlm.nih.gov/pubmed/27466620)
     - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
       - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
   - PlasmidFinder 1.3
     - [CGE Server](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
-    - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul 'In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing.'](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
+    - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul "In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing."](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
   - PLACNET (PLAsmid Constellation NET)
-    - [Lanza VF,, de la Cruz F et al. PLoS Genet. 2014 Dec 'Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences.'](http://www.ncbi.nlm.nih.gov/pubmed/25522143)
+    - [Lanza VF,, de la Cruz F et al. PLoS Genet. 2014 Dec "Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences."](http://www.ncbi.nlm.nih.gov/pubmed/25522143)
     - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
   - [Recycler](https://github.com/Shamir-Lab/Recycler)
     - [Recycler: an algorithm for detecting plasmids from de novo assembly graphs | bioRxiv](http://biorxiv.org/content/early/2016/05/09/029926)
   - [Addgene](https://www.addgene.org) non-profit plasmid repository
     - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
+- Plasmids as genetic tools for microbial engineering
+ - 2001-06 [Overcoming the codon bias of E. coli for enhanced protein expression](http://wolfson.huji.ac.il/expression/rosetta.pdf)
 
 ----------
 
