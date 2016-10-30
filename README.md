@@ -137,18 +137,17 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - Plasmids as genetic tools for microbial engineering
  - 2001-06 [Overcoming the codon bias of E. coli for enhanced protein expression](http://wolfson.huji.ac.il/expression/rosetta.pdf)
 
-### Compositional features
-#### Oligonucleotide composition
+### Nucleotide composition
 - [Suzuki H et al. Molecular Life Sciences. 2014 May "Genomic Signature Analysis to Predict Plasmid Host Range."](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1)
 - [Suzuki H et al. J Bacteriol. 2010 Nov "Predicting plasmid promiscuity based on genomic signature."](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
   - [Predicting Plasmid Promiscuity Could Help Fight Antibiotic Resistance | BEACON](http://beacon-center.org/blog/2011/03/28/predicting-plasmid-promiscuity-could-help-fight-antibiotic-resistance/)
 - [Suzuki H et al. Nucleic Acids Res. 2008 Dec "Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes."](http://www.ncbi.nlm.nih.gov/pubmed/18953039) | [Supplementary Data](http://nar.oxfordjournals.org/content/36/22/e147/suppl/DC1)
 - [Norberg P et al. Nat Commun. 2011;2:268. "The IncP-1 plasmid backbone adapts to different host bacterial species and evolves through homologous recombination."](http://www.ncbi.nlm.nih.gov/pubmed/21468020)
-#### Base composition
 - [van Passel MW et al. BMC Genomics. 2006 Feb "Compositional discordance between prokaryotic plasmids and host chromosomes."](http://www.ncbi.nlm.nih.gov/pubmed/16480495)
 - [Nishida H. Int J Evol Biol. 2012 "Comparative analyses of base compositions, DNA sizes, and dinucleotide frequency profiles in archaeal and bacterial chromosomes and plasmids."](http://www.ncbi.nlm.nih.gov/pubmed/22536540)
 - [Rocha EP, Danchin A. Trends Genet. 2002 Jun "Base composition bias might result from competition for metabolic resources."](http://www.ncbi.nlm.nih.gov/pubmed/12044357)
-#### Codon usage
+
+### Codon usage
 - [Davis JJ, Olsen GJ. Mol Biol Evol. 2010 Apr "Modal codon usage: assessing the typical codon usage of a genome."](https://www.ncbi.nlm.nih.gov/pubmed/20018979)
 - [Guo FB, Yuan JB. DNA Res. 2009 Apr "Codon usages of genes on chromosome, and surprisingly, genes in plasmid are primarily affected by strand-specific mutational biases in Lawsonia intracellularis."](https://www.ncbi.nlm.nih.gov/pubmed/19221094)
 - [Peixoto L et al. Gene. 2003 Nov 27 "The strength of translational selection for codon usage varies in the three replicons of Sinorhizobium meliloti."](https://www.ncbi.nlm.nih.gov/pubmed/14597394)
