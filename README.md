@@ -115,13 +115,17 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ## References
 ### Review
+- [新谷政己，金原和秀．2015. 環境バイオテクノロジー学会誌，14(2):1-6. "プラスミドゲノミクス～全塩基配列解読済みのプラスミドデータベースの整備～" **Genomics of Plasmids**](http://www.jseb.jp/jeb/14-02/14-02-081.pdf)
 - [Shintani M et al. Front Microbiol. 2015 Mar "Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy."](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
 - [Loftie-Eaton W, Rawlings DE. Plasmid. 2012 Jan "Diversity, biology and evolution of IncQ-family plasmids."](http://www.ncbi.nlm.nih.gov/pubmed/22037393)
 - [Chan, Jane 2013 "Molecular epidemiology of fosfomycin-resistant Escherichia coli from humans and animals"](http://hub.hku.hk/handle/10722/197077) | [FullText.pdf](http://hub.hku.hk/bitstream/10722/197077/2/FullText.pdf) Table 1. 4 List of known incompatibility groups of Enterobacteriaceae
 
 ### Bioinformatics Tools
+- [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
 - [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
   - [Antipov D et al. Bioinformatics. 2016 Jul "plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data."](http://www.ncbi.nlm.nih.gov/pubmed/27466620)
+  -[SPAdes – Center for Algorithmic Biotechnology](http://cab.spbu.ru/software/spades/)
+    - [SPAdes 3.10.1 Manual](http://cab.spbu.ru/files/release3.10.1/manual.html)
   - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
     - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
 - PlasmidFinder 1.3
@@ -136,6 +140,12 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
     - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
 - Plasmids as genetic tools for microbial engineering
  - 2001-06 [Overcoming the codon bias of E. coli for enhanced protein expression](http://wolfson.huji.ac.il/expression/rosetta.pdf)
+- ApE(A plasmid Editor)
+  - 2013/12/04 [ApEでシーケンスアライメント - ニュートラルな研究者のメモ](http://cobucchii.hatenablog.com/entry/2013/12/04/214725)
+  - [ApE(A plasmid Editor)を利用してプラスミドを設計する - 統合TV (togotv)(2013-05-27)](http://togotv.dbcls.jp/20130527.html)
+  - 2012/7/7 [ApEでできること一覧 | LifeScienceProject](http://life-science-project.com/540/)
+  - 2009.08.03 [DNA情報の取得とApEでの操作 - 花井＠産総研](https://staff.aist.go.jp/s-hanai/gene_download.html)
+  - [堀田研究室｜リンク](http://www.cira.kyoto-u.ac.jp/hotta/link.html) ApE フリーであるにも関わらず、非常に優秀な塩基配列編集ソフトウェア。GeneBank形式等の各種塩基配列ファイルを読み込んで、アノテーション付きで表示や編集が可能。制限酵素の切断部位やサイズを様々に表示したり、さらにはDam/Dcm依存性の制限酵素の切り替えもボタン一つ。プラスミドマップの描画にも対応しており、シンプルだが実用上は十分。Mac, Win, Unix/Linux対応。
 
 ### Nucleotide composition
 - [Suzuki H et al. Molecular Life Sciences. 2014 May "Genomic Signature Analysis to Predict Plasmid Host Range."](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1)
@@ -166,6 +176,13 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
 - [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
 - [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
+
+- 10 November 2016 [Genomic and metagenomic technologies to explore the antibiotic resistance mobilome - Martínez - 2016 - Annals of the New York Academy of Sciences - Wiley Online Library](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13282/full)
+analysis of plasmid metagenomes is still in its infancy. プラスミド・メタゲノム解析
+
+### Unclassified
+- [CiNii Articles -  pUCプラスミドにまつわるエトセトラ(生物工学基礎講座-バイオよもやま話-)](http://ci.nii.ac.jp/naid/110008750634) | [PDF](https://www.sbj.or.jp/wp-content/uploads/file/sbj/8910/8910_yomoyama-2.pdf)
+- Sequences of 19 plasmid replicon types. https://github.com/mscook/VFDB/blob/master/plasmid_replicons.fa
 
 ----------
 
