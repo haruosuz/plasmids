@@ -122,9 +122,12 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ### Bioinformatics Tools
 - [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
+- 2017/01/11 [On the (im)possibility to reconstruct plasmids from whole genome short-read sequencing data](http://biorxiv.org/content/early/2017/01/11/086744)
+  - [Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
 - [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
+  - [plasmidSPAdes - Twitter Search](https://twitter.com/search?f=tweets&vertical=default&q=plasmidSPAdes&src=typd)
   - [Antipov D et al. Bioinformatics. 2016 Jul "plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data."](http://www.ncbi.nlm.nih.gov/pubmed/27466620)
-  -[SPAdes – Center for Algorithmic Biotechnology](http://cab.spbu.ru/software/spades/)
+  - [SPAdes – Center for Algorithmic Biotechnology](http://cab.spbu.ru/software/spades/)
     - [SPAdes 3.10.1 Manual](http://cab.spbu.ru/files/release3.10.1/manual.html)
   - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
     - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
