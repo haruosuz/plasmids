@@ -122,7 +122,7 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ### Bioinformatics Tools
 - [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
-- 2017/01/11 [On the (im)possibility to reconstruct plasmids from whole genome short-read sequencing data](http://biorxiv.org/content/early/2017/01/11/086744)
+- 2017/01/11 [On the (im)possibility to reconstruct plasmids from whole genome short-read sequencing data | bioRxiv](http://biorxiv.org/content/early/2017/01/11/086744)
   - [Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
 - [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
   - [plasmidSPAdes - Twitter Search](https://twitter.com/search?f=tweets&vertical=default&q=plasmidSPAdes&src=typd)
@@ -131,14 +131,14 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
     - [SPAdes 3.10.1 Manual](http://cab.spbu.ru/files/release3.10.1/manual.html)
   - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
     - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
+- [Recycler](https://github.com/Shamir-Lab/Recycler)
+  - [Recycler: an algorithm for detecting plasmids from de novo assembly graphs | bioRxiv](http://biorxiv.org/content/early/2016/05/09/029926)
+- PLACNET (PLAsmid Constellation NET)
+  - [Lanza VF,, de la Cruz F et al. PLoS Genet. 2014 Dec "Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences."](http://www.ncbi.nlm.nih.gov/pubmed/25522143)
+  - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
 - PlasmidFinder 1.3
     - [CGE Server](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
     - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul "In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing."](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
-- PLACNET (PLAsmid Constellation NET)
-    - [Lanza VF,, de la Cruz F et al. PLoS Genet. 2014 Dec "Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences."](http://www.ncbi.nlm.nih.gov/pubmed/25522143)
-    - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
-- [Recycler](https://github.com/Shamir-Lab/Recycler)
-    - [Recycler: an algorithm for detecting plasmids from de novo assembly graphs | bioRxiv](http://biorxiv.org/content/early/2016/05/09/029926)
 - [Addgene](https://www.addgene.org) non-profit plasmid repository
     - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
 - Plasmids as genetic tools for microbial engineering
@@ -166,6 +166,8 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - [Peixoto L et al. Gene. 2003 Nov 27 "The strength of translational selection for codon usage varies in the three replicons of Sinorhizobium meliloti."](https://www.ncbi.nlm.nih.gov/pubmed/14597394)
 
 ### New Delhi metallo-β-lactamase-1 (NDM-1)
+- [Conlan S et al. Genome Announc. 2016 Jul 14;4(4). "Complete Genome Sequence of a Klebsiella pneumoniae Strain Carrying blaNDM-1 on a Multidrug Resistance Plasmid."](https://www.ncbi.nlm.nih.gov/pubmed/27417839)
+- [Khong WX et al. BMC Genomics. 2016 Jun 13;17:452. "Local transmission and global dissemination of New Delhi Metallo-Beta-Lactamase (NDM): a whole genome analysis."](https://www.ncbi.nlm.nih.gov/pubmed/27297071)
 - [Kumarasamy KK et al. Lancet Infect Dis. 2010 Sep "Emergence of a new antibiotic resistance mechanism in India, Pakistan, and the UK: a molecular, biological, and epidemiological study."](http://www.ncbi.nlm.nih.gov/pubmed/20705517)
 
 ### Colistin resistance (mcr-1 gene)
