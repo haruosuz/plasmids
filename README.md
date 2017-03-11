@@ -115,8 +115,9 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ## References
 ### Review
-- [新谷政己，金原和秀．2015. 環境バイオテクノロジー学会誌，14(2):1-6. "プラスミドゲノミクス～全塩基配列解読済みのプラスミドデータベースの整備～" **Genomics of Plasmids**](http://www.jseb.jp/jeb/14-02/14-02-081.pdf)
+- 2015-03 [新谷政己，金原和秀．環境バイオテクノロジー学会誌 14(2), 81-86. "プラスミドゲノミクス~全塩基配列解読済のプラスミドデータベースの整備" Genomics of Plasmids](http://ci.nii.ac.jp/naid/40020727466) | [PDF](http://www.jseb.jp/jeb/14-02/14-02-081.pdf)
 - [Shintani M et al. Front Microbiol. 2015 Mar "Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy."](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
+- 2013-12 [新谷 政己, 松井 一泰, 金原 和秀, 野尻 秀昭. 環境バイオテクノロジー学会誌 13(2), 125-134. "環境中におけるプラスミドの挙動解析" Comparisons of Conjugation Frequency in Different Environmental Conditions](http://ci.nii.ac.jp/naid/40020320833) | [PDF](http://www.jseb.jp/jeb/13-02/13-02-125.pdf)
 - [Loftie-Eaton W, Rawlings DE. Plasmid. 2012 Jan "Diversity, biology and evolution of IncQ-family plasmids."](http://www.ncbi.nlm.nih.gov/pubmed/22037393)
 - [Chan, Jane 2013 "Molecular epidemiology of fosfomycin-resistant Escherichia coli from humans and animals"](http://hub.hku.hk/handle/10722/197077) | [FullText.pdf](http://hub.hku.hk/bitstream/10722/197077/2/FullText.pdf) Table 1. 4 List of known incompatibility groups of Enterobacteriaceae
 
@@ -136,13 +137,14 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - PLACNET (PLAsmid Constellation NET)
   - [Lanza VF,, de la Cruz F et al. PLoS Genet. 2014 Dec "Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences."](http://www.ncbi.nlm.nih.gov/pubmed/25522143)
   - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
-- PlasmidFinder 1.3
-    - [CGE Server](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
-    - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul "In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing."](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
+- [PlasmidFinder 1.3](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
+  - Updated 20 February 2017 [downloading databases](https://cge.cbs.dtu.dk//services/data.php)
+  - 2017-01-23 [genomicepidemiology / PlasmidFinder — Bitbucket](https://bitbucket.org/genomicepidemiology/plasmidfinder)
+  - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul "In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing."](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
 - [Addgene](https://www.addgene.org) non-profit plasmid repository
-    - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
-- Plasmids as genetic tools for microbial engineering
- - 2001-06 [Overcoming the codon bias of E. coli for enhanced protein expression](http://wolfson.huji.ac.il/expression/rosetta.pdf)
+  - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
+- [cBar](http://csbl.bmb.uga.edu/~ffzhou/cBar/)
+  - [Zhou F, Xu Y. Bioinformatics. 2010 Aug 15;26(16):2051-2. "cBar: a computer program to distinguish plasmid-derived from chromosome-derived sequence fragments in metagenomics data."](https://www.ncbi.nlm.nih.gov/pubmed/20538725)
 - ApE(A plasmid Editor)
   - 2013/12/04 [ApEでシーケンスアライメント - ニュートラルな研究者のメモ](http://cobucchii.hatenablog.com/entry/2013/12/04/214725)
   - [ApE(A plasmid Editor)を利用してプラスミドを設計する - 統合TV (togotv)(2013-05-27)](http://togotv.dbcls.jp/20130527.html)
@@ -186,8 +188,15 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 analysis of plasmid metagenomes is still in its infancy. プラスミド・メタゲノム解析
 
 ### Unclassified
-- [CiNii Articles -  pUCプラスミドにまつわるエトセトラ(生物工学基礎講座-バイオよもやま話-)](http://ci.nii.ac.jp/naid/110008750634) | [PDF](https://www.sbj.or.jp/wp-content/uploads/file/sbj/8910/8910_yomoyama-2.pdf)
 - Sequences of 19 plasmid replicon types. https://github.com/mscook/VFDB/blob/master/plasmid_replicons.fa
+- [CiNii Articles -  pUCプラスミドにまつわるエトセトラ(生物工学基礎講座-バイオよもやま話-)](http://ci.nii.ac.jp/naid/110008750634) | [PDF](https://www.sbj.or.jp/wp-content/uploads/file/sbj/8910/8910_yomoyama-2.pdf)
+- [Virtual Genome Project Blog](http://virtualgenomeproject.blogspot.jp)
+ - 2009/03 [Genome's barcodes](http://virtualgenomeproject.blogspot.jp/2009/03/genomes-barcodes.html)
+ - 2008/12 [Functions of horizontally transferred genes](http://virtualgenomeproject.blogspot.jp/2008/12/functions-of-horizontally-transferred.html)
+ - 2008/09 [Contribution of horizontal gene transfer to microbial evolution](http://virtualgenomeproject.blogspot.jp/2008/09/contribution-of-horizontal-gene.html)
+ - 2008/07 [Reticulate classification of mobile genetic elements](http://virtualgenomeproject.blogspot.jp/2008/07/reticulate-classification-of-mobile.html)
+- Plasmids as genetic tools for microbial engineering
+ - 2001-06 [Overcoming the codon bias of E. coli for enhanced protein expression](http://wolfson.huji.ac.il/expression/rosetta.pdf)
 
 ----------
 
