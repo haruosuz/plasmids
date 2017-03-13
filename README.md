@@ -167,12 +167,23 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - [Guo FB, Yuan JB. DNA Res. 2009 Apr "Codon usages of genes on chromosome, and surprisingly, genes in plasmid are primarily affected by strand-specific mutational biases in Lawsonia intracellularis."](https://www.ncbi.nlm.nih.gov/pubmed/19221094)
 - [Peixoto L et al. Gene. 2003 Nov 27 "The strength of translational selection for codon usage varies in the three replicons of Sinorhizobium meliloti."](https://www.ncbi.nlm.nih.gov/pubmed/14597394)
 
-### New Delhi metallo-β-lactamase-1 (NDM-1)
+### Plasmid Copy Number
+- [Plasmid copy number - Wikipedia](https://en.wikipedia.org/wiki/Plasmid_copy_number)
+- 14th January, 2015 [How to Manipulate Plasmid Copy Number - Bitesize Bio](http://bitesizebio.com/22824/how-to-manipulate-plasmid-copy-number/)
+- Feb 6, 2014 [Plasmids 101: Origin of Replication](http://blog.addgene.org/plasmid-101-origin-of-replication) Copy Number+
+- []()
+- [Anindyajati et al. Sci Pharm. 2016 Feb 14;84(1):89-101. "Plasmid Copy Number Determination by Quantitative Polymerase Chain Reaction."](https://www.ncbi.nlm.nih.gov/pubmed/27110501) | [Tab. 2. Plasmid Copy Number Determination by qPCR](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4839616/table/T2/)
+- [San Millan A et al. Antimicrob Agents Chemother. 2015;59(6):3335-41. "Small-plasmid-mediated antibiotic resistance is enhanced by increases in plasmid copy number and bacterial fitness."](https://www.ncbi.nlm.nih.gov/pubmed/25824216) | [FIG 5. Plasmid copy number and bacterial fitness enhance antibiotic resistance.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432117/figure/F5/)
+
+### Resistance
+- [Conlan S et al. Sci Transl Med. 2014 Sep 17. "Single-molecule sequencing to track plasmid diversity of hospital-associated carbapenemase-producing Enterobacteriaceae."](https://www.ncbi.nlm.nih.gov/pubmed/25232178)
+
+#### New Delhi metallo-β-lactamase-1 (NDM-1)
 - [Conlan S et al. Genome Announc. 2016 Jul 14;4(4). "Complete Genome Sequence of a Klebsiella pneumoniae Strain Carrying blaNDM-1 on a Multidrug Resistance Plasmid."](https://www.ncbi.nlm.nih.gov/pubmed/27417839)
 - [Khong WX et al. BMC Genomics. 2016 Jun 13;17:452. "Local transmission and global dissemination of New Delhi Metallo-Beta-Lactamase (NDM): a whole genome analysis."](https://www.ncbi.nlm.nih.gov/pubmed/27297071)
 - [Kumarasamy KK et al. Lancet Infect Dis. 2010 Sep "Emergence of a new antibiotic resistance mechanism in India, Pakistan, and the UK: a molecular, biological, and epidemiological study."](http://www.ncbi.nlm.nih.gov/pubmed/20705517)
 
-### Colistin resistance (mcr-1 gene)
+#### Colistin resistance (mcr-1 gene)
 - [McGann P et al. Antimicrob Agents Chemother. 2016 Jun "Escherichia coli Harboring mcr-1 and blaCTX-M on a Novel IncF Plasmid: First Report of mcr-1 in the United States."](https://www.ncbi.nlm.nih.gov/pubmed/27230792)
 - [Fernandes MR et al. Euro Surveill. 2016 Apr 28;21(17). "Silent dissemination of colistin-resistant Escherichia coli in South America could contribute to the global spread of the mcr-1 gene."](https://www.ncbi.nlm.nih.gov/pubmed/27168587) | [Eurosurveillance - View Article](http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=22458)
 - [Suzuki S et al. Lancet Infect Dis. 2016 Mar "Investigation of a plasmid genome database for colistin-resistance gene mcr-1."](http://www.ncbi.nlm.nih.gov/pubmed/26774245)
@@ -183,7 +194,7 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
 - [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
 - [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
-
+- []()
 - 10 November 2016 [Genomic and metagenomic technologies to explore the antibiotic resistance mobilome - Martínez - 2016 - Annals of the New York Academy of Sciences - Wiley Online Library](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13282/full)
 analysis of plasmid metagenomes is still in its infancy. プラスミド・メタゲノム解析
 
