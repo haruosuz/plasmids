@@ -115,6 +115,7 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ## References
 ### Review
+- [Orlek A et al. Front Microbiol. 2017 Feb 9 "Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology"](https://www.ncbi.nlm.nih.gov/pubmed/28232822)
 - 2015-03 [新谷政己，金原和秀．環境バイオテクノロジー学会誌 14(2), 81-86. "プラスミドゲノミクス~全塩基配列解読済のプラスミドデータベースの整備" Genomics of Plasmids](http://ci.nii.ac.jp/naid/40020727466) | [PDF](http://www.jseb.jp/jeb/14-02/14-02-081.pdf)
 - [Shintani M et al. Front Microbiol. 2015 Mar "Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy."](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
 - 2013-12 [新谷 政己, 松井 一泰, 金原 和秀, 野尻 秀昭. 環境バイオテクノロジー学会誌 13(2), 125-134. "環境中におけるプラスミドの挙動解析" Comparisons of Conjugation Frequency in Different Environmental Conditions](http://ci.nii.ac.jp/naid/40020320833) | [PDF](http://www.jseb.jp/jeb/13-02/13-02-125.pdf)
@@ -191,12 +192,14 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - [Liu YY et al. Lancet Infect Dis. 2016 Feb "Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study."](http://www.ncbi.nlm.nih.gov/pubmed/26603172)
 
 ### Plasmidome
+- [Martínez et al. 2016 November "Genomic and metagenomic technologies to explore the antibiotic resistance mobilome"](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13282/full)
+analysis of plasmid metagenomes is still in its infancy. プラスミド・メタゲノム解析
+- [Li AD et al. Front Microbiol. 2015 Sep 24. "Exploring antibiotic resistance genes and metal resistance genes in plasmid metagenomes from wastewater treatment plants."](https://www.ncbi.nlm.nih.gov/pubmed/26441947)
 - [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
 - [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
 - [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
+- [Jones BV, Marchesi JR. Nat Methods. 2007 Jan. "Transposon-aided capture (TRACA) of plasmids resident in the human gut mobile metagenome."](https://www.ncbi.nlm.nih.gov/pubmed/17128268)
 - []()
-- 10 November 2016 [Genomic and metagenomic technologies to explore the antibiotic resistance mobilome - Martínez - 2016 - Annals of the New York Academy of Sciences - Wiley Online Library](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13282/full)
-analysis of plasmid metagenomes is still in its infancy. プラスミド・メタゲノム解析
 
 ### Unclassified
 - Sequences of 19 plasmid replicon types. https://github.com/mscook/VFDB/blob/master/plasmid_replicons.fa
