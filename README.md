@@ -235,3 +235,38 @@ analysis of plasmid metagenomes is still in its infancy. プラスミド・メ�
 ![http://elizabethely.com/2010/07/11/antibiotic-chloramphenicol-in-chinese-imported-honey/](http://elizabethely.com/wp-content/uploads/2010/07/nz149-superbug-cartoon.jpg)
 
 ----------
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/10430917
+Proc Natl Acad Sci U S A. 1999 Aug 3;96(16):9184-9.
+Genome signature comparisons among prokaryote, plasmid, and mitochondrial DNA.
+Campbell A1, Mrázek J, Karlin S.
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC17754/bin/pq1692140001.jpg)
+
+http://www.ncbi.nlm.nih.gov/pubmed/18953039
+Nucleic Acids Res. 2008 Dec;36(22):e147. doi: 10.1093/nar/gkn753. Epub 2008 Oct 25.
+Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes.
+Suzuki H1, Sota M, Brown CJ, Top EM.
+
+http://www.ncbi.nlm.nih.gov/pubmed/20851899
+J Bacteriol. 2010 Nov;192(22):6045-55. doi: 10.1128/JB.00277-10. Epub 2010 Sep 17.
+Predicting plasmid promiscuity based on genomic signature.
+Suzuki H, Yano H, Brown CJ, Top EM.
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2976448/bin/zjb9990999330003.jpg)
+
+FIG. 3.
+Bar plot showing the number of candidate evolutionary hosts for each plasmid. 
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2976448/bin/zjb9990999330004.jpg)
+
+FIG. 4.
+Box-and-whisker plots summarizing the distributions of diversity among candidate evolutionary hosts for plasmids from six incompatibility (Inc) groups (F, H, I, N, P, and W).
+
+http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1
+Suzuki H, Brown CJ, Top EM. "Genomic Signature Analysis to Predict Plasmid Host Range", Molecular Life Sciences, DOI 10.1007/978-1-4614-6436-5_574-1, Springer Science+Business Media New York 2014
+
+----------
+
+
