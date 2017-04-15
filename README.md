@@ -236,6 +236,8 @@ analysis of plasmid metagenomes is still in its infancy. プラスミド・メ�
 
 ----------
 
+http://people.ibest.uidaho.edu/~etop/vgp/tnsBasics.html
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/10430917
 Proc Natl Acad Sci U S A. 1999 Aug 3;96(16):9184-9.
