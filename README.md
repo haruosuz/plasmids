@@ -123,7 +123,7 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ### Bioinformatics Tools
 - [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
-- 2017/01/11 [On the (im)possibility to reconstruct plasmids from whole genome short-read sequencing data | bioRxiv](http://biorxiv.org/content/early/2017/01/11/086744)
+- 2017/03/28 [On the (im)possibility to reconstruct plasmids from whole genome short-read sequencing data | bioRxiv](http://biorxiv.org/content/early/2017/03/28/086744)
   - [Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
 - [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
   - [plasmidSPAdes - Twitter Search](https://twitter.com/search?f=tweets&vertical=default&q=plasmidSPAdes&src=typd)
@@ -178,12 +178,23 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 ### Resistance
 - [Conlan S et al. Sci Transl Med. 2014 Sep 17. "Single-molecule sequencing to track plasmid diversity of hospital-associated carbapenemase-producing Enterobacteriaceae."](https://www.ncbi.nlm.nih.gov/pubmed/25232178)
 
+https://holtlab.net/tag/antibiotic-resistance/
+antibiotic resistance | Holt Lab
+
 #### New Delhi metallo-β-lactamase-1 (NDM-1)
 - [Conlan S et al. Genome Announc. 2016 Jul 14;4(4). "Complete Genome Sequence of a Klebsiella pneumoniae Strain Carrying blaNDM-1 on a Multidrug Resistance Plasmid."](https://www.ncbi.nlm.nih.gov/pubmed/27417839)
 - [Khong WX et al. BMC Genomics. 2016 Jun 13;17:452. "Local transmission and global dissemination of New Delhi Metallo-Beta-Lactamase (NDM): a whole genome analysis."](https://www.ncbi.nlm.nih.gov/pubmed/27297071)
 - [Kumarasamy KK et al. Lancet Infect Dis. 2010 Sep "Emergence of a new antibiotic resistance mechanism in India, Pakistan, and the UK: a molecular, biological, and epidemiological study."](http://www.ncbi.nlm.nih.gov/pubmed/20705517)
 
 #### Colistin resistance (mcr-1 gene)
+https://www.ncbi.nlm.nih.gov/pubmed/28487432
+MBio. 2017 May 9;8(3). pii: e00625-17. 
+Deciphering MCR-2 Colistin Resistance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28336940
+Sci Rep. 2017 Mar 24;7(1):424. 
+Genetic Analysis of the IncX4 Plasmids: Implications for a Unique Pattern in the mcr-1 Acquisition.
+
 - [McGann P et al. Antimicrob Agents Chemother. 2016 Jun "Escherichia coli Harboring mcr-1 and blaCTX-M on a Novel IncF Plasmid: First Report of mcr-1 in the United States."](https://www.ncbi.nlm.nih.gov/pubmed/27230792)
 - [Fernandes MR et al. Euro Surveill. 2016 Apr 28;21(17). "Silent dissemination of colistin-resistant Escherichia coli in South America could contribute to the global spread of the mcr-1 gene."](https://www.ncbi.nlm.nih.gov/pubmed/27168587) | [Eurosurveillance - View Article](http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=22458)
 - [Suzuki S et al. Lancet Infect Dis. 2016 Mar "Investigation of a plasmid genome database for colistin-resistance gene mcr-1."](http://www.ncbi.nlm.nih.gov/pubmed/26774245)
@@ -202,8 +213,8 @@ analysis of plasmid metagenomes is still in its infancy. プラスミド・メ�
 
 ### Unclassified
 - [Shintani M et al. Appl Environ Microbiol. 2014 Jan "Single-cell analyses revealed transfer ranges of IncP-1, IncP-7, and IncP-9 plasmids in a soil bacterial community."](https://www.ncbi.nlm.nih.gov/pubmed/24141122)
- - [難培養性微生物をも対象にしたプラスミドの宿主域の解明](http://www.lc.shizuoka.ac.jp/pdf/baio36shintani.pdf)
- - [一細胞レベルの解析によるプラスミドの土壌細菌集団中における真の宿主域の決定](http://www.jsbba.or.jp/wp-content/uploads/file/award/2012/topics/17_2C22a03.pdf)
+  - [難培養性微生物をも対象にしたプラスミドの宿主域の解明](http://www.lc.shizuoka.ac.jp/pdf/baio36shintani.pdf)
+  - [一細胞レベルの解析によるプラスミドの土壌細菌集団中における真の宿主域の決定](http://www.jsbba.or.jp/wp-content/uploads/file/award/2012/topics/17_2C22a03.pdf)
 - Sequences of 19 plasmid replicon types. https://github.com/mscook/VFDB/blob/master/plasmid_replicons.fa
 - [Chan, Jane 2013 "Molecular epidemiology of fosfomycin-resistant Escherichia coli from humans and animals"](http://hub.hku.hk/handle/10722/197077) | [FullText.pdf](http://hub.hku.hk/bitstream/10722/197077/2/FullText.pdf) Table 1. 4 List of known incompatibility groups of Enterobacteriaceae
 - [CiNii Articles -  pUCプラスミドにまつわるエトセトラ(生物工学基礎講座-バイオよもやま話-)](http://ci.nii.ac.jp/naid/110008750634) | [PDF](https://www.sbj.or.jp/wp-content/uploads/file/sbj/8910/8910_yomoyama-2.pdf)
@@ -214,6 +225,26 @@ analysis of plasmid metagenomes is still in its infancy. プラスミド・メ�
  - 2008/07 [Reticulate classification of mobile genetic elements](http://virtualgenomeproject.blogspot.jp/2008/07/reticulate-classification-of-mobile.html)
 - Plasmids as genetic tools for microbial engineering
  - 2001-06 [Overcoming the codon bias of E. coli for enhanced protein expression](http://wolfson.huji.ac.il/expression/rosetta.pdf)
+
+### gene sharing
+https://www.ncbi.nlm.nih.gov/pubmed/22130968
+Mol Biol Evol. 2012 Apr;29(4):1225-40. doi: 10.1093/molbev/msr292. Epub 2011 Nov 29.
+Large-scale analysis of plasmid relationships through gene-sharing networks.
+Tamminen M1, Virta M, Fani R, Fondi M.
+https://www.ncbi.nlm.nih.gov/pubmed/20636373
+Environ Microbiol. 2010 Dec;12(12):3228-42. doi: 10.1111/j.1462-2920.2010.02295.x.
+The horizontal flow of the plasmid resistome: clues from inter-generic similarity networks.
+Fondi M1, Fani R.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20181243
+BMC Evol Biol. 2010 Feb 24;10:59. doi: 10.1186/1471-2148-10-59.
+Exploring the evolutionary dynamics of plasmids: the Acinetobacter pan-plasmidome.
+Fondi M1, Bacci G, Brilli M, Papaleo MC, Mengoni A, Vaneechoutte M, Dijkshoorn L, Fani R.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20007769
+Proc Natl Acad Sci U S A. 2010 Jan 5;107(1):127-32. doi: 10.1073/pnas.0908978107. Epub 2009 Dec 10.
+Network analyses structure genetic diversity in independent genetic worlds.
+Halary S1, Leigh JW, Cheaib B, Lopez P, Bapteste E.
 
 ----------
 
