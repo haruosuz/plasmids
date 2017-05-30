@@ -176,6 +176,12 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - [San Millan A et al. Antimicrob Agents Chemother. 2015;59(6):3335-41. "Small-plasmid-mediated antibiotic resistance is enhanced by increases in plasmid copy number and bacterial fitness."](https://www.ncbi.nlm.nih.gov/pubmed/25824216) | [FIG 5. Plasmid copy number and bacterial fitness enhance antibiotic resistance.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432117/figure/F5/)
 
 ### Resistance
+https://www.ncbi.nlm.nih.gov/protein/AMP50525.1
+TrfA protein [uncultured bacterium]
+https://www.ncbi.nlm.nih.gov/pubmed/27172044
+Nature. 2016 May 12;533(7602):212-6. 
+Interconnected microbiomes and resistomes in low-income human habitats.
+
 - [Conlan S et al. Sci Transl Med. 2014 Sep 17. "Single-molecule sequencing to track plasmid diversity of hospital-associated carbapenemase-producing Enterobacteriaceae."](https://www.ncbi.nlm.nih.gov/pubmed/25232178)
 
 https://holtlab.net/tag/antibiotic-resistance/
@@ -194,6 +200,10 @@ Deciphering MCR-2 Colistin Resistance.
 https://www.ncbi.nlm.nih.gov/pubmed/28336940
 Sci Rep. 2017 Mar 24;7(1):424. 
 Genetic Analysis of the IncX4 Plasmids: Implications for a Unique Pattern in the mcr-1 Acquisition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27893854
+PLoS Pathog. 2016 Nov 28;12(11):e1005957. 
+Dissemination and Mechanism for the MCR-1 Colistin Resistance.
 
 - [McGann P et al. Antimicrob Agents Chemother. 2016 Jun "Escherichia coli Harboring mcr-1 and blaCTX-M on a Novel IncF Plasmid: First Report of mcr-1 in the United States."](https://www.ncbi.nlm.nih.gov/pubmed/27230792)
 - [Fernandes MR et al. Euro Surveill. 2016 Apr 28;21(17). "Silent dissemination of colistin-resistant Escherichia coli in South America could contribute to the global spread of the mcr-1 gene."](https://www.ncbi.nlm.nih.gov/pubmed/27168587) | [Eurosurveillance - View Article](http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=22458)
