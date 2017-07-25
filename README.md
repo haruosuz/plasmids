@@ -121,7 +121,7 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - 2013-12 [新谷 政己, 松井 一泰, 金原 和秀, 野尻 秀昭. 環境バイオテクノロジー学会誌 13(2), 125-134. "環境中におけるプラスミドの挙動解析" Comparisons of Conjugation Frequency in Different Environmental Conditions](http://ci.nii.ac.jp/naid/40020320833) | [PDF](http://www.jseb.jp/jeb/13-02/13-02-125.pdf)
 - [Loftie-Eaton W, Rawlings DE. Plasmid. 2012 Jan "Diversity, biology and evolution of IncQ-family plasmids."](http://www.ncbi.nlm.nih.gov/pubmed/22037393)
 
-### Bioinformatics Tools
+### Tools
 - [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
 - 2017/03/28 [On the (im)possibility to reconstruct plasmids from whole genome short-read sequencing data | bioRxiv](http://biorxiv.org/content/early/2017/03/28/086744)
   - [Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
@@ -152,6 +152,10 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
   - 2009.08.03 [DNA情報の取得とApEでの操作 - 花井＠産総研](https://staff.aist.go.jp/s-hanai/gene_download.html)
   - [堀田研究室｜リンク](http://www.cira.kyoto-u.ac.jp/hotta/link.html) ApE フリーであるにも関わらず、非常に優秀な塩基配列編集ソフトウェア。GeneBank形式等の各種塩基配列ファイルを読み込んで、アノテーション付きで表示や編集が可能。制限酵素の切断部位やサイズを様々に表示したり、さらにはDam/Dcm依存性の制限酵素の切り替えもボタン一つ。プラスミドマップの描画にも対応しており、シンプルだが実用上は十分。Mac, Win, Unix/Linux対応。
 
+https://github.com/smaegol/PlasFlow/blob/master/README.md
+PlasFlow 1.0
+A set of scripts used for prediction of plasmid sequences in metagenomic contigs
+
 ### Nucleotide composition
 - [Suzuki H et al. Molecular Life Sciences. 2014 May "Genomic Signature Analysis to Predict Plasmid Host Range."](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1)
 - [Suzuki H et al. J Bacteriol. 2010 Nov "Predicting plasmid promiscuity based on genomic signature."](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
@@ -161,6 +165,13 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - [van Passel MW et al. BMC Genomics. 2006 Feb "Compositional discordance between prokaryotic plasmids and host chromosomes."](http://www.ncbi.nlm.nih.gov/pubmed/16480495)
 - [Nishida H. Int J Evol Biol. 2012 "Comparative analyses of base compositions, DNA sizes, and dinucleotide frequency profiles in archaeal and bacterial chromosomes and plasmids."](http://www.ncbi.nlm.nih.gov/pubmed/22536540)
 - [Rocha EP, Danchin A. Trends Genet. 2002 Jun "Base composition bias might result from competition for metabolic resources."](http://www.ncbi.nlm.nih.gov/pubmed/12044357)
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/19233962
+Mol Biol Evol. 2009 May;26(5):1163-9. 
+Phylogenetic signals in DNA composition: limitations and prospects.
+Mrázek J
+
 
 ### Codon usage
 - [Davis JJ, Olsen GJ. Mol Biol Evol. 2010 Apr "Modal codon usage: assessing the typical codon usage of a genome."](https://www.ncbi.nlm.nih.gov/pubmed/20018979)
@@ -174,6 +185,17 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - []()
 - [Anindyajati et al. Sci Pharm. 2016 Feb 14;84(1):89-101. "Plasmid Copy Number Determination by Quantitative Polymerase Chain Reaction."](https://www.ncbi.nlm.nih.gov/pubmed/27110501) | [Tab. 2. Plasmid Copy Number Determination by qPCR](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4839616/table/T2/)
 - [San Millan A et al. Antimicrob Agents Chemother. 2015;59(6):3335-41. "Small-plasmid-mediated antibiotic resistance is enhanced by increases in plasmid copy number and bacterial fitness."](https://www.ncbi.nlm.nih.gov/pubmed/25824216) | [FIG 5. Plasmid copy number and bacterial fitness enhance antibiotic resistance.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432117/figure/F5/)
+
+### Rep
+
+https://www.ncbi.nlm.nih.gov/pubmed/21296948
+Appl Environ Microbiol. 2011 Apr;77(7):2522-6. 
+Phylogeny of replication initiator protein TrfA reveals a highly divergent clade of incompatibility group P1 plasmids.
+Stenger DC, Lee MW.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067460/
+Genes for four TrfA homologues are integrated into chromosomes of their respective hosts (Table ​(Table1).1). 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067460/table/t1/
+cNA, not applicable; integrated in host chromosome.
 
 ### Resistance
 https://www.ncbi.nlm.nih.gov/protein/AMP50525.1
@@ -193,6 +215,11 @@ antibiotic resistance | Holt Lab
 - [Kumarasamy KK et al. Lancet Infect Dis. 2010 Sep "Emergence of a new antibiotic resistance mechanism in India, Pakistan, and the UK: a molecular, biological, and epidemiological study."](http://www.ncbi.nlm.nih.gov/pubmed/20705517)
 
 #### Colistin resistance (mcr-1 gene)
+
+https://www.ncbi.nlm.nih.gov/pubmed/28507118
+Antimicrob Agents Chemother. 2017 May 15. pii: AAC.00404-17.
+Colistin resistance in carbapenem-resistant Klebsiella pneumoniae mediated by chromosomal integration of plasmid DNA.
+
 https://www.ncbi.nlm.nih.gov/pubmed/28487432
 MBio. 2017 May 9;8(3). pii: e00625-17. 
 Deciphering MCR-2 Colistin Resistance.
