@@ -121,6 +121,14 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 - 2013-12 [新谷 政己, 松井 一泰, 金原 和秀, 野尻 秀昭. 環境バイオテクノロジー学会誌 13(2), 125-134. "環境中におけるプラスミドの挙動解析" Comparisons of Conjugation Frequency in Different Environmental Conditions](http://ci.nii.ac.jp/naid/40020320833) | [PDF](http://www.jseb.jp/jeb/13-02/13-02-125.pdf)
 - [Loftie-Eaton W, Rawlings DE. Plasmid. 2012 Jan "Diversity, biology and evolution of IncQ-family plasmids."](http://www.ncbi.nlm.nih.gov/pubmed/22037393)
 
+### Data
+
+https://www.ncbi.nlm.nih.gov/pubmed/28516137
+Data Brief. 2017 Apr 23;12:423-426. 
+A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI nucleotide database.
+Orlek A1,2, Phan H1,2, Sheppard AE1,2, Doumith M3, Ellington M2,3, Peto T1,2, Crook D1,2, Walker AS1,2, Woodford N2,3, Anjum MF2,4, Stoesser N1.
+
+
 ### Tools
 - [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
 - 2017/03/28 [On the (im)possibility to reconstruct plasmids from whole genome short-read sequencing data | bioRxiv](http://biorxiv.org/content/early/2017/03/28/086744)
@@ -134,6 +142,10 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
     - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
 - [Recycler](https://github.com/Shamir-Lab/Recycler)
   - [Recycler: an algorithm for detecting plasmids from de novo assembly graphs | bioRxiv](http://biorxiv.org/content/early/2016/05/09/029926)
+
+https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btx462/3983262/PLACNETw-a-webbased-tool-for-plasmid
+PLACNETw: a web-based tool for plasmid reconstruction from bacterial genomes | Bioinformatics | Oxford Academic
+
 - PLACNET (PLAsmid Constellation NET)
   - [Lanza VF,, de la Cruz F et al. PLoS Genet. 2014 Dec "Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences."](http://www.ncbi.nlm.nih.gov/pubmed/25522143)
   - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
@@ -198,7 +210,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067460/table/t1/
 cNA, not applicable; integrated in host chromosome.
 
 ### Resistance
-https://www.ncbi.nlm.nih.gov/protein/AMP50525.1
+https://www.ncbi.nlm.nih.gov/protein/AMP50525
 TrfA protein [uncultured bacterium]
 https://www.ncbi.nlm.nih.gov/pubmed/27172044
 Nature. 2016 May 12;533(7602):212-6. 
@@ -249,6 +261,13 @@ analysis of plasmid metagenomes is still in its infancy. プラスミド・メ�
 - []()
 
 ### Unclassified
+
+https://www.ncbi.nlm.nih.gov/pubmed/24096417
+Appl Environ Microbiol. 2013 Dec;79(24):7684-95.
+Diverse broad-host-range plasmids from freshwater carry few accessory genes.
+Brown CJ1, Sen D, Yano H, Bauer ML, Rogers LM, Van der Auwera GA, Top EM.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/table/T2/
+
 - [Shintani M et al. Appl Environ Microbiol. 2014 Jan "Single-cell analyses revealed transfer ranges of IncP-1, IncP-7, and IncP-9 plasmids in a soil bacterial community."](https://www.ncbi.nlm.nih.gov/pubmed/24141122)
   - [難培養性微生物をも対象にしたプラスミドの宿主域の解明](http://www.lc.shizuoka.ac.jp/pdf/baio36shintani.pdf)
   - [一細胞レベルの解析によるプラスミドの土壌細菌集団中における真の宿主域の決定](http://www.jsbba.or.jp/wp-content/uploads/file/award/2012/topics/17_2C22a03.pdf)
