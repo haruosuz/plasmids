@@ -123,11 +123,15 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ### Data
 
+https://www.ncbi.nlm.nih.gov/pubmed/28286183
+Plasmid. 2017 May;91:42-52.
+Ordering the mob: Insights into replicon and MOB typing schemes from analysis of a curated dataset of publicly available plasmids.
+Orlek A et al.
+
 https://www.ncbi.nlm.nih.gov/pubmed/28516137
 Data Brief. 2017 Apr 23;12:423-426. 
 A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI nucleotide database.
-Orlek A1,2, Phan H1,2, Sheppard AE1,2, Doumith M3, Ellington M2,3, Peto T1,2, Crook D1,2, Walker AS1,2, Woodford N2,3, Anjum MF2,4, Stoesser N1.
-
+Orlek A et al.
 
 ### Tools
 - [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
@@ -260,13 +264,23 @@ analysis of plasmid metagenomes is still in its infancy. プラスミド・メ�
 - [Jones BV, Marchesi JR. Nat Methods. 2007 Jan. "Transposon-aided capture (TRACA) of plasmids resident in the human gut mobile metagenome."](https://www.ncbi.nlm.nih.gov/pubmed/17128268)
 - []()
 
-### Unclassified
+### IncP
 
 https://www.ncbi.nlm.nih.gov/pubmed/24096417
 Appl Environ Microbiol. 2013 Dec;79(24):7684-95.
 Diverse broad-host-range plasmids from freshwater carry few accessory genes.
 Brown CJ1, Sen D, Yano H, Bauer ML, Rogers LM, Van der Auwera GA, Top EM.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/table/T2/
+
+https://www.ncbi.nlm.nih.gov/pubmed/22936717
+Mol Biol Evol. 2013 Jan;30(1):154-66. doi: 10.1093/molbev/mss210. Epub 2012 Aug 30.
+Inferring the evolutionary history of IncP-1 plasmids despite incongruence among backbone gene trees.
+Sen D1, Brown CJ, Top EM, Sullivan J.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F1/
+
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f1p.jpg)
+
+### Unclassified
 
 - [Shintani M et al. Appl Environ Microbiol. 2014 Jan "Single-cell analyses revealed transfer ranges of IncP-1, IncP-7, and IncP-9 plasmids in a soil bacterial community."](https://www.ncbi.nlm.nih.gov/pubmed/24141122)
   - [難培養性微生物をも対象にしたプラスミドの宿主域の解明](http://www.lc.shizuoka.ac.jp/pdf/baio36shintani.pdf)
