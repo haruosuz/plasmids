@@ -145,7 +145,7 @@ Orlek A et al.
   - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
     - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
 - [Recycler](https://github.com/Shamir-Lab/Recycler)
-  - [Recycler: an algorithm for detecting plasmids from de novo assembly graphs | bioRxiv](http://biorxiv.org/content/early/2016/05/09/029926)
+ - [Rozov R et al. (2017) Bioinformatics. 33(4):475-482. "Recycler: an algorithm for detecting plasmids from de novo assembly graphs."](https://www.ncbi.nlm.nih.gov/pubmed/28003256)
 
 https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btx462/3983262/PLACNETw-a-webbased-tool-for-plasmid
 PLACNETw: a web-based tool for plasmid reconstruction from bacterial genomes | Bioinformatics | Oxford Academic
@@ -254,17 +254,18 @@ Dissemination and Mechanism for the MCR-1 Colistin Resistance.
 - [Skov RL, Monnet DL. Euro Surveill. 2016;21(9). "Plasmid-mediated colistin resistance (mcr-1 gene): three months later, the story unfolds."](http://www.ncbi.nlm.nih.gov/pubmed/26967914) | [Eurosurveillance - View Article](http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=21403)
 - [Liu YY et al. Lancet Infect Dis. 2016 Feb "Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study."](http://www.ncbi.nlm.nih.gov/pubmed/26603172)
 
-### Plasmidome
-- [Martínez et al. 2016 November "Genomic and metagenomic technologies to explore the antibiotic resistance mobilome"](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13282/full)
-analysis of plasmid metagenomes is still in its infancy. プラスミド・メタゲノム解析
-- [Li AD et al. Front Microbiol. 2015 Sep 24. "Exploring antibiotic resistance genes and metal resistance genes in plasmid metagenomes from wastewater treatment plants."](https://www.ncbi.nlm.nih.gov/pubmed/26441947)
-- [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
-- [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
-- [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
-- [Jones BV, Marchesi JR. Nat Methods. 2007 Jan. "Transposon-aided capture (TRACA) of plasmids resident in the human gut mobile metagenome."](https://www.ncbi.nlm.nih.gov/pubmed/17128268)
-- []()
-
 ### IncP
+
+https://www.ncbi.nlm.nih.gov/pubmed/28264851
+Antimicrob Agents Chemother. 2017 Apr 24;61(5).
+MCR-1.6, a New MCR Variant Carried by an IncP Plasmid in a Colistin-Resistant Salmonella enterica Serovar Typhimurium Isolate from a Healthy Individual.
+Lu X1, Hu Y2, Luo M3, Zhou H1, Wang X1,4, Du Y1, Li Z1, Xu J4, Zhu B5, Xu X6, Kan B7.
+https://www.ncbi.nlm.nih.gov/nuccore/KY352406
+
+https://www.ncbi.nlm.nih.gov/pubmed/27895009
+Antimicrob Agents Chemother. 2017 Jan 24;61(2).
+IncP Plasmid Carrying Colistin Resistance Gene mcr-1 in Klebsiella pneumoniae from Hospital Sewage.
+Zhao F1,2, Feng Y1,2, Lü X1,2, McNally A3, Zong Z4,2,5.
 
 https://www.ncbi.nlm.nih.gov/pubmed/24096417
 Appl Environ Microbiol. 2013 Dec;79(24):7684-95.
@@ -279,6 +280,37 @@ Sen D1, Brown CJ, Top EM, Sullivan J.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F1/
 
 ![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f1p.jpg)
+
+https://www.ncbi.nlm.nih.gov/pubmed/16151119
+Appl Environ Microbiol. 2005 Sep;71(9):5309-17.
+Plasmid donor affects host range of promiscuous IncP-1beta plasmid pB10 in an activated-sludge microbial community.
+De Gelder L1, Vandecasteele FP, Brown CJ, Forney LJ, Top EM.
+
+### Plasmidome
+- [Martínez et al. 2016 November "Genomic and metagenomic technologies to explore the antibiotic resistance mobilome"](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13282/full)
+analysis of plasmid metagenomes is still in its infancy. プラスミド・メタゲノム解析
+- [Li AD et al. Front Microbiol. 2015 Sep 24. "Exploring antibiotic resistance genes and metal resistance genes in plasmid metagenomes from wastewater treatment plants."](https://www.ncbi.nlm.nih.gov/pubmed/26441947)
+- [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
+- [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
+- [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
+- [Jones BV, Marchesi JR. Nat Methods. 2007 Jan. "Transposon-aided capture (TRACA) of plasmids resident in the human gut mobile metagenome."](https://www.ncbi.nlm.nih.gov/pubmed/17128268)
+- []()
+
+### HGT
+horizontal gene transfer (HGT) 
+
+https://www.ncbi.nlm.nih.gov/pubmed/22564249
+Trends Microbiol. 2012 Jun;20(6):262-7. doi: 10.1016/j.tim.2012.04.003. Epub 2012 May 5.
+Plasmid-mediated horizontal gene transfer is a coevolutionary process.
+Harrison E1, Brockhurst MA.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25370194
+Life (Basel). 2014 May 16;4(2):217-24. doi: 10.3390/life4020217.
+Horizontal Gene Transfer among Bacteria and Its Role in Biological Evolution.
+Arber W1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4187160/
+- F’-like conjugative plasmids have soon become known to act sometimes in the horizontal transfer of antibiotic resistance determinants.
+- Viral DNA molecules and F conjugative plasmids were envisaged to serve as autonomously replicating gene vectors, into which a relatively short DNA fragment could be spliced.
 
 ### Unclassified
 
