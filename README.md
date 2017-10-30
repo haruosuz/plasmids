@@ -115,6 +115,16 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ## References
 ### Review
+
+http://www.sciencedirect.com/science/article/pii/S0147619X16301135
+May 2017, Review
+Annotation of plasmid genes
+
+https://www.ncbi.nlm.nih.gov/pubmed/28586714
+Curr Opin Microbiol. 2017 Jun 3;38:106-113. doi: 10.1016/j.mib.2017.05.005. [Epub ahead of print]
+Towards a taxonomy of conjugative plasmids.
+Fernandez-Lopez R1, Redondo S1, Garcillan-Barcia MP1, de la Cruz F2.
+
 - [Orlek A et al. Front Microbiol. 2017 Feb 9 "Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology"](https://www.ncbi.nlm.nih.gov/pubmed/28232822)
 - 2015-03 [新谷政己，金原和秀．環境バイオテクノロジー学会誌 14(2), 81-86. "プラスミドゲノミクス~全塩基配列解読済のプラスミドデータベースの整備" Genomics of Plasmids](http://ci.nii.ac.jp/naid/40020727466) | [PDF](http://www.jseb.jp/jeb/14-02/14-02-081.pdf)
 - [Shintani M et al. Front Microbiol. 2015 Mar "Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy."](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
@@ -137,6 +147,9 @@ Orlek A et al.
 - [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
 - 2017/03/28 [On the (im)possibility to reconstruct plasmids from whole genome short-read sequencing data | bioRxiv](http://biorxiv.org/content/early/2017/03/28/086744)
   - [Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
+- [Recycler](https://github.com/Shamir-Lab/Recycler)
+ - [Rozov R et al. (2017) Bioinformatics. 33(4):475-482. "Recycler: an algorithm for detecting plasmids from de novo assembly graphs."](https://www.ncbi.nlm.nih.gov/pubmed/28003256)
+ - 2017-08-27 アセンブルのgraphからプラスミドデータを検出するツール Recycler - macでインフォマティクス http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
 - [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
   - [plasmidSPAdes - Twitter Search](https://twitter.com/search?f=tweets&vertical=default&q=plasmidSPAdes&src=typd)
   - [Antipov D et al. Bioinformatics. 2016 Jul "plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data."](http://www.ncbi.nlm.nih.gov/pubmed/27466620)
@@ -144,13 +157,9 @@ Orlek A et al.
     - [SPAdes 3.10.1 Manual](http://cab.spbu.ru/files/release3.10.1/manual.html)
   - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
     - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
-- [Recycler](https://github.com/Shamir-Lab/Recycler)
- - [Rozov R et al. (2017) Bioinformatics. 33(4):475-482. "Recycler: an algorithm for detecting plasmids from de novo assembly graphs."](https://www.ncbi.nlm.nih.gov/pubmed/28003256)
-
-https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btx462/3983262/PLACNETw-a-webbased-tool-for-plasmid
-PLACNETw: a web-based tool for plasmid reconstruction from bacterial genomes | Bioinformatics | Oxford Academic
-
 - PLACNET (PLAsmid Constellation NET)
+  - https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btx462/3983262/PLACNETw-a-webbased-tool-for-plasmid
+PLACNETw: a web-based tool for plasmid reconstruction from bacterial genomes | Bioinformatics | Oxford Academic
   - [Lanza VF,, de la Cruz F et al. PLoS Genet. 2014 Dec "Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences."](http://www.ncbi.nlm.nih.gov/pubmed/25522143)
   - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
 - [PlasmidFinder 1.3](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
@@ -209,7 +218,7 @@ Appl Environ Microbiol. 2011 Apr;77(7):2522-6.
 Phylogeny of replication initiator protein TrfA reveals a highly divergent clade of incompatibility group P1 plasmids.
 Stenger DC, Lee MW.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067460/
-Genes for four TrfA homologues are integrated into chromosomes of their respective hosts (Table ​(Table1).1). 
+Genes for four TrfA homologues are integrated into chromosomes of their respective hosts
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067460/table/t1/
 cNA, not applicable; integrated in host chromosome.
 
@@ -281,10 +290,22 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F1/
 
 ![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f1p.jpg)
 
+https://www.ncbi.nlm.nih.gov/nuccore/AB231906.2
+Sphingomonas sp. A1 plasmid pA1 DNA, complete sequence
+https://www.ncbi.nlm.nih.gov/pubmed/16445980
+Plasmid. 2006 Jul;56(1):11-23. Epub 2006 Jan 30.
+Sequence and analysis of the 46.6-kb plasmid pA1 from Sphingomonas sp. A1 that corresponds to the typical IncP-1beta plasmid backbone without any accessory gene.
+
 https://www.ncbi.nlm.nih.gov/pubmed/16151119
 Appl Environ Microbiol. 2005 Sep;71(9):5309-17.
 Plasmid donor affects host range of promiscuous IncP-1beta plasmid pB10 in an activated-sludge microbial community.
 De Gelder L1, Vandecasteele FP, Brown CJ, Forney LJ, Top EM.
+
+### IncQ
+https://www.ncbi.nlm.nih.gov/pubmed/11729261
+Microbiol Mol Biol Rev. 2001 Dec;65(4):481-96, table of contents.
+Comparative biology of IncQ and IncQ-like plasmids.
+Rawlings DE1, Tietze E.
 
 ### Plasmidome
 - [Martínez et al. 2016 November "Genomic and metagenomic technologies to explore the antibiotic resistance mobilome"](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13282/full)
@@ -312,22 +333,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4187160/
 - F’-like conjugative plasmids have soon become known to act sometimes in the horizontal transfer of antibiotic resistance determinants.
 - Viral DNA molecules and F conjugative plasmids were envisaged to serve as autonomously replicating gene vectors, into which a relatively short DNA fragment could be spliced.
 
-### Unclassified
-
-- [Shintani M et al. Appl Environ Microbiol. 2014 Jan "Single-cell analyses revealed transfer ranges of IncP-1, IncP-7, and IncP-9 plasmids in a soil bacterial community."](https://www.ncbi.nlm.nih.gov/pubmed/24141122)
-  - [難培養性微生物をも対象にしたプラスミドの宿主域の解明](http://www.lc.shizuoka.ac.jp/pdf/baio36shintani.pdf)
-  - [一細胞レベルの解析によるプラスミドの土壌細菌集団中における真の宿主域の決定](http://www.jsbba.or.jp/wp-content/uploads/file/award/2012/topics/17_2C22a03.pdf)
-- Sequences of 19 plasmid replicon types. https://github.com/mscook/VFDB/blob/master/plasmid_replicons.fa
-- [Chan, Jane 2013 "Molecular epidemiology of fosfomycin-resistant Escherichia coli from humans and animals"](http://hub.hku.hk/handle/10722/197077) | [FullText.pdf](http://hub.hku.hk/bitstream/10722/197077/2/FullText.pdf) Table 1. 4 List of known incompatibility groups of Enterobacteriaceae
-- [CiNii Articles -  pUCプラスミドにまつわるエトセトラ(生物工学基礎講座-バイオよもやま話-)](http://ci.nii.ac.jp/naid/110008750634) | [PDF](https://www.sbj.or.jp/wp-content/uploads/file/sbj/8910/8910_yomoyama-2.pdf)
-- [Virtual Genome Project Blog](http://virtualgenomeproject.blogspot.jp)
- - 2009/03 [Genome's barcodes](http://virtualgenomeproject.blogspot.jp/2009/03/genomes-barcodes.html)
- - 2008/12 [Functions of horizontally transferred genes](http://virtualgenomeproject.blogspot.jp/2008/12/functions-of-horizontally-transferred.html)
- - 2008/09 [Contribution of horizontal gene transfer to microbial evolution](http://virtualgenomeproject.blogspot.jp/2008/09/contribution-of-horizontal-gene.html)
- - 2008/07 [Reticulate classification of mobile genetic elements](http://virtualgenomeproject.blogspot.jp/2008/07/reticulate-classification-of-mobile.html)
-- Plasmids as genetic tools for microbial engineering
- - 2001-06 [Overcoming the codon bias of E. coli for enhanced protein expression](http://wolfson.huji.ac.il/expression/rosetta.pdf)
-
 ### gene sharing
 https://www.ncbi.nlm.nih.gov/pubmed/22130968
 Mol Biol Evol. 2012 Apr;29(4):1225-40. doi: 10.1093/molbev/msr292. Epub 2011 Nov 29.
@@ -347,6 +352,41 @@ https://www.ncbi.nlm.nih.gov/pubmed/20007769
 Proc Natl Acad Sci U S A. 2010 Jan 5;107(1):127-32. doi: 10.1073/pnas.0908978107. Epub 2009 Dec 10.
 Network analyses structure genetic diversity in independent genetic worlds.
 Halary S1, Leigh JW, Cheaib B, Lopez P, Bapteste E.
+
+### Unclassified
+https://www.ncbi.nlm.nih.gov/pubmed/27385827
+Proc Natl Acad Sci U S A. 2016 Jul 19;113(29):8260-5. doi: 10.1073/pnas.1600974113. Epub 2016 Jul 6.
+Source-sink plasmid transfer dynamics maintain gene mobility in soil bacterial communities.
+Hall JP1, Wood AJ2, Harrison E3, Brockhurst MA3.
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/24587126
+PLoS One. 2014 Feb 24;9(2):e89922. doi: 10.1371/journal.pone.0089922. eCollection 2014.
+Cultivation-independent screening revealed hot spots of IncP-1, IncP-7 and IncP-9 plasmid occurrence in different environmental habitats.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17553065
+FEMS Microbiol Rev. 2007 Jul;31(4):449-77.
+Genomics of IncP-1 antibiotic resistance plasmids isolated from wastewater treatment plants provides evidence for a widely accessible drug resistance gene pool.
+Schlüter A1, Szczepanowski R, Pühler A, Top EM.
+
+http://onlinelibrary.wiley.com/doi/10.1111/j.1574-6976.2007.00074.x/full
+All plasmids contain genes for replication initiation (Rep), conjugative DNA-transfer (Tra) and mating-pair-formation (Trb), stable plasmid inheritance and plasmid control (Ctl) in similar arrangements (see Figs 1 and 2). 
+
+Plasmid backbone modules for replication initiation (Rep–grey), mating-pair-formation (Trb–green), conjugative DNA-transfer (Tra–red) and plasmid control and stable maintenance and inheritance (Ctl–yellow) are indicated by coloured bars.
+
+- [Shintani M et al. Appl Environ Microbiol. 2014 Jan "Single-cell analyses revealed transfer ranges of IncP-1, IncP-7, and IncP-9 plasmids in a soil bacterial community."](https://www.ncbi.nlm.nih.gov/pubmed/24141122)
+  - [難培養性微生物をも対象にしたプラスミドの宿主域の解明](http://www.lc.shizuoka.ac.jp/pdf/baio36shintani.pdf)
+  - [一細胞レベルの解析によるプラスミドの土壌細菌集団中における真の宿主域の決定](http://www.jsbba.or.jp/wp-content/uploads/file/award/2012/topics/17_2C22a03.pdf)
+- Sequences of 19 plasmid replicon types. https://github.com/mscook/VFDB/blob/master/plasmid_replicons.fa
+- [Chan, Jane 2013 "Molecular epidemiology of fosfomycin-resistant Escherichia coli from humans and animals"](http://hub.hku.hk/handle/10722/197077) | [FullText.pdf](http://hub.hku.hk/bitstream/10722/197077/2/FullText.pdf) Table 1. 4 List of known incompatibility groups of Enterobacteriaceae
+- [CiNii Articles -  pUCプラスミドにまつわるエトセトラ(生物工学基礎講座-バイオよもやま話-)](http://ci.nii.ac.jp/naid/110008750634) | [PDF](https://www.sbj.or.jp/wp-content/uploads/file/sbj/8910/8910_yomoyama-2.pdf)
+- [Virtual Genome Project Blog](http://virtualgenomeproject.blogspot.jp)
+ - 2009/03 [Genome's barcodes](http://virtualgenomeproject.blogspot.jp/2009/03/genomes-barcodes.html)
+ - 2008/12 [Functions of horizontally transferred genes](http://virtualgenomeproject.blogspot.jp/2008/12/functions-of-horizontally-transferred.html)
+ - 2008/09 [Contribution of horizontal gene transfer to microbial evolution](http://virtualgenomeproject.blogspot.jp/2008/09/contribution-of-horizontal-gene.html)
+ - 2008/07 [Reticulate classification of mobile genetic elements](http://virtualgenomeproject.blogspot.jp/2008/07/reticulate-classification-of-mobile.html)
+- Plasmids as genetic tools for microbial engineering
+ - 2001-06 [Overcoming the codon bias of E. coli for enhanced protein expression](http://wolfson.huji.ac.il/expression/rosetta.pdf)
 
 ----------
 
