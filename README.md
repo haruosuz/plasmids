@@ -144,12 +144,16 @@ A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI
 Orlek A et al.
 
 ### Tools
+https://github.com/smaegol/PlasFlow
+PlasFlow: Software for prediction of plasmid sequences in metagenomic assemblies
+
 - [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
-- 2017/03/28 [On the (im)possibility to reconstruct plasmids from whole genome short-read sequencing data | bioRxiv](http://biorxiv.org/content/early/2017/03/28/086744)
-  - [Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
+- [Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
+  - Microbial Genomics [On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data](http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000128)
+  - 2017/03/28 [On the (im)possibility to reconstruct plasmids from whole genome short-read sequencing data | bioRxiv](http://biorxiv.org/content/early/2017/03/28/086744)
 - [Recycler](https://github.com/Shamir-Lab/Recycler)
- - [Rozov R et al. (2017) Bioinformatics. 33(4):475-482. "Recycler: an algorithm for detecting plasmids from de novo assembly graphs."](https://www.ncbi.nlm.nih.gov/pubmed/28003256)
- - 2017-08-27 アセンブルのgraphからプラスミドデータを検出するツール Recycler - macでインフォマティクス http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
+  - [Rozov R et al. (2017) Bioinformatics. 33(4):475-482. "Recycler: an algorithm for detecting plasmids from de novo assembly graphs."](https://www.ncbi.nlm.nih.gov/pubmed/28003256)
+  - 2017-08-27 アセンブルのgraphからプラスミドデータを検出するツール Recycler - macでインフォマティクス http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
 - [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
   - [plasmidSPAdes - Twitter Search](https://twitter.com/search?f=tweets&vertical=default&q=plasmidSPAdes&src=typd)
   - [Antipov D et al. Bioinformatics. 2016 Jul "plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data."](http://www.ncbi.nlm.nih.gov/pubmed/27466620)
@@ -176,10 +180,6 @@ PLACNETw: a web-based tool for plasmid reconstruction from bacterial genomes | B
   - 2012/7/7 [ApEでできること一覧 | LifeScienceProject](http://life-science-project.com/540/)
   - 2009.08.03 [DNA情報の取得とApEでの操作 - 花井＠産総研](https://staff.aist.go.jp/s-hanai/gene_download.html)
   - [堀田研究室｜リンク](http://www.cira.kyoto-u.ac.jp/hotta/link.html) ApE フリーであるにも関わらず、非常に優秀な塩基配列編集ソフトウェア。GeneBank形式等の各種塩基配列ファイルを読み込んで、アノテーション付きで表示や編集が可能。制限酵素の切断部位やサイズを様々に表示したり、さらにはDam/Dcm依存性の制限酵素の切り替えもボタン一つ。プラスミドマップの描画にも対応しており、シンプルだが実用上は十分。Mac, Win, Unix/Linux対応。
-
-https://github.com/smaegol/PlasFlow/blob/master/README.md
-PlasFlow 1.0
-A set of scripts used for prediction of plasmid sequences in metagenomic contigs
 
 ### Nucleotide composition
 - [Suzuki H et al. Molecular Life Sciences. 2014 May "Genomic Signature Analysis to Predict Plasmid Host Range."](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1)
@@ -334,11 +334,13 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4187160/
 - Viral DNA molecules and F conjugative plasmids were envisaged to serve as autonomously replicating gene vectors, into which a relatively short DNA fragment could be spliced.
 
 ### gene sharing
+
 https://www.ncbi.nlm.nih.gov/pubmed/22130968
 Mol Biol Evol. 2012 Apr;29(4):1225-40. doi: 10.1093/molbev/msr292. Epub 2011 Nov 29.
 Large-scale analysis of plasmid relationships through gene-sharing networks.
 Tamminen M1, Virta M, Fani R, Fondi M.
-https://www.ncbi.nlm.nih.gov/pubmed/20636373
+
+https://www.ncbi.nlm.nih.gov/pubmed/20636373
 Environ Microbiol. 2010 Dec;12(12):3228-42. doi: 10.1111/j.1462-2920.2010.02295.x.
 The horizontal flow of the plasmid resistome: clues from inter-generic similarity networks.
 Fondi M1, Fani R.
