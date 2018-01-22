@@ -1,7 +1,5 @@
-----------
-
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2016-10-30
+Last Update: 2018-01-22
 
 ----------
 
@@ -144,42 +142,52 @@ A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI
 Orlek A et al.
 
 ### Tools
+[Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
+
+[Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
+  - Microbial Genomics [On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data](http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000128)
+
+#### PlasFlow
 https://github.com/smaegol/PlasFlow
 PlasFlow: Software for prediction of plasmid sequences in metagenomic assemblies
+https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkx1321/4807335
+PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures | Nucleic Acids Research | Oxford Academic
 
-- [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
-- [Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
-  - Microbial Genomics [On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data](http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000128)
-  - 2017/03/28 [On the (im)possibility to reconstruct plasmids from whole genome short-read sequencing data | bioRxiv](http://biorxiv.org/content/early/2017/03/28/086744)
-- [Recycler](https://github.com/Shamir-Lab/Recycler)
+#### [Recycler](https://github.com/Shamir-Lab/Recycler)
   - [Rozov R et al. (2017) Bioinformatics. 33(4):475-482. "Recycler: an algorithm for detecting plasmids from de novo assembly graphs."](https://www.ncbi.nlm.nih.gov/pubmed/28003256)
   - 2017-08-27 アセンブルのgraphからプラスミドデータを検出するツール Recycler - macでインフォマティクス http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
-- [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
+
+#### [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
   - [plasmidSPAdes - Twitter Search](https://twitter.com/search?f=tweets&vertical=default&q=plasmidSPAdes&src=typd)
   - [Antipov D et al. Bioinformatics. 2016 Jul "plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data."](http://www.ncbi.nlm.nih.gov/pubmed/27466620)
   - [SPAdes – Center for Algorithmic Biotechnology](http://cab.spbu.ru/software/spades/)
     - [SPAdes 3.10.1 Manual](http://cab.spbu.ru/files/release3.10.1/manual.html)
   - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
     - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
-- PLACNET (PLAsmid Constellation NET)
+
+#### PLACNET (PLAsmid Constellation NET)
   - https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btx462/3983262/PLACNETw-a-webbased-tool-for-plasmid
 PLACNETw: a web-based tool for plasmid reconstruction from bacterial genomes | Bioinformatics | Oxford Academic
   - [Lanza VF,, de la Cruz F et al. PLoS Genet. 2014 Dec "Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences."](http://www.ncbi.nlm.nih.gov/pubmed/25522143)
   - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
-- [PlasmidFinder 1.3](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
+
+#### [PlasmidFinder 1.3](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
   - Updated 20 February 2017 [downloading databases](https://cge.cbs.dtu.dk//services/data.php)
   - 2017-01-23 [genomicepidemiology / PlasmidFinder — Bitbucket](https://bitbucket.org/genomicepidemiology/plasmidfinder)
   - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul "In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing."](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
-- [Addgene](https://www.addgene.org) non-profit plasmid repository
-  - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
-- [cBar](http://csbl.bmb.uga.edu/~ffzhou/cBar/)
+
+#### [cBar](http://csbl.bmb.uga.edu/~ffzhou/cBar/)
   - [Zhou F, Xu Y. Bioinformatics. 2010 Aug 15;26(16):2051-2. "cBar: a computer program to distinguish plasmid-derived from chromosome-derived sequence fragments in metagenomics data."](https://www.ncbi.nlm.nih.gov/pubmed/20538725)
-- ApE(A plasmid Editor)
+
+#### ApE(A plasmid Editor)
   - 2013/12/04 [ApEでシーケンスアライメント - ニュートラルな研究者のメモ](http://cobucchii.hatenablog.com/entry/2013/12/04/214725)
   - [ApE(A plasmid Editor)を利用してプラスミドを設計する - 統合TV (togotv)(2013-05-27)](http://togotv.dbcls.jp/20130527.html)
   - 2012/7/7 [ApEでできること一覧 | LifeScienceProject](http://life-science-project.com/540/)
   - 2009.08.03 [DNA情報の取得とApEでの操作 - 花井＠産総研](https://staff.aist.go.jp/s-hanai/gene_download.html)
   - [堀田研究室｜リンク](http://www.cira.kyoto-u.ac.jp/hotta/link.html) ApE フリーであるにも関わらず、非常に優秀な塩基配列編集ソフトウェア。GeneBank形式等の各種塩基配列ファイルを読み込んで、アノテーション付きで表示や編集が可能。制限酵素の切断部位やサイズを様々に表示したり、さらにはDam/Dcm依存性の制限酵素の切り替えもボタン一つ。プラスミドマップの描画にも対応しており、シンプルだが実用上は十分。Mac, Win, Unix/Linux対応。
+
+#### [Addgene](https://www.addgene.org) non-profit plasmid repository
+  - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
 
 ### Nucleotide composition
 - [Suzuki H et al. Molecular Life Sciences. 2014 May "Genomic Signature Analysis to Predict Plasmid Host Range."](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1)
