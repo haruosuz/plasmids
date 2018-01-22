@@ -148,10 +148,10 @@ Orlek A et al.
   - Microbial Genomics [On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data](http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000128)
 
 #### PlasFlow
-https://github.com/smaegol/PlasFlow
-PlasFlow: Software for prediction of plasmid sequences in metagenomic assemblies
 https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkx1321/4807335
 PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures | Nucleic Acids Research | Oxford Academic
+
+The software, PlasFlow, is available at GitHub (https://github.com/smaegol/PlasFlow).
 
 #### [Recycler](https://github.com/Shamir-Lab/Recycler)
   - [Rozov R et al. (2017) Bioinformatics. 33(4):475-482. "Recycler: an algorithm for detecting plasmids from de novo assembly graphs."](https://www.ncbi.nlm.nih.gov/pubmed/28003256)
@@ -456,5 +456,11 @@ http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page
 Suzuki H, Brown CJ, Top EM. "Genomic Signature Analysis to Predict Plasmid Host Range", Molecular Life Sciences, DOI 10.1007/978-1-4614-6436-5_574-1, Springer Science+Business Media New York 2014
 
 ----------
+
+
+
+
+----------
+
 
 
