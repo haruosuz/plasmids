@@ -111,7 +111,49 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ----------
 
+- [Updates](#updates)
+
+## Updates
+
+### host range
+https://twitter.com/search?q=plasmid%20host%20range
+
+Host range expansion
+
+https://www.biorxiv.org/content/early/2018/01/18/250266
+Host range expansion and genetic plasticity drive the trade-off between integrative and extrachromosomal mobile genetic elements | bioRxiv
+Jean Cury, Pedro Oliveira, Fernando de la Cruz, Eduardo Rocha
+
+https://twitter.com/NatureJapan/status/957538744894189569
+Nature Japan on Twitter: "Nature Ecology & Evolution創刊1周年記念 Collection「代償性変異は抗生物質耐性プラスミドに対する全般的寛容性を向上させる」https://t.co/NII6UeGiDU… "
+28 Jan 2018
+
+https://www.ncbi.nlm.nih.gov/pubmed/26668183
+Mol Biol Evol. 2016 Apr;33(4):885-97. doi: 10.1093/molbev/msv339. Epub 2015 Dec 14.
+Evolutionary Paths That Expand Plasmid Host-Range: Implications for Spread of Antibiotic Resistance.
+Loftie-Eaton W1, Yano H1, Burleigh S2, Simmons RS2, Hughes JM1, Rogers LM1, Hunter SS3, Settles ML1, Forney LJ1, Ponciano JM4, Top EM5.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25333461
+ISME J. 2015 Mar 17;9(4):934-45. doi: 10.1038/ismej.2014.191.
+Broad host range plasmids can invade an unexpectedly diverse fraction of a soil bacterial community.
+Klümper U1, Riber L2, Dechesne A1, Sannazzarro A2, Hansen LH3, Sørensen SJ2, Smets BF1.
+Author information
+
+http://onlinelibrary.wiley.com/doi/10.1111/1574-6968.12417/full
+Insertion sequence ISPst4 activates pUC plasmid replication in Pseudomonas stutzeri - Coleman - 2014 - FEMS Microbiology Letters - Wiley Online Library
+
+IS transposition directly leading to an expansion of the effective host range of a plasmid
+
+----------
+
 ## References
+
+https://www.biorxiv.org/content/early/2018/01/18/250266
+Host range expansion and genetic plasticity drive the trade-off between integrative and extrachromosomal mobile genetic elements | bioRxiv
+
+https://www.omicsonline.org/open-access/role-of-plasmids-in-microbiology-2155-9546-1000466.php?aid=85578
+(2017) Role of Plasmids in Microbiology. J Aquac Res Development 8: 466.
+
 ### Review
 
 http://www.sciencedirect.com/science/article/pii/S0147619X16301135
@@ -454,10 +496,6 @@ Box-and-whisker plots summarizing the distributions of diversity among candidate
 
 http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1
 Suzuki H, Brown CJ, Top EM. "Genomic Signature Analysis to Predict Plasmid Host Range", Molecular Life Sciences, DOI 10.1007/978-1-4614-6436-5_574-1, Springer Science+Business Media New York 2014
-
-----------
-
-
 
 
 ----------
