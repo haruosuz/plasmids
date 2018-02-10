@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-01-22
+Last Update: 2018-02-04
 
 ----------
 
@@ -111,45 +111,47 @@ I am grateful to Dr. Yuki NAITO for his technical advice on how to download NCBI
 
 ----------
 
+## References
+
 - [Updates](#updates)
 
 ## Updates
 
+https://www.biorxiv.org/content/early/2018/02/09/262956
+KrakenHLL: Confident and fast metagenomics classification using unique k-mer counts | bioRxiv
+A taxonomic node may also be added for each sequence – e.g. specific bacterial chromosomes or plasmids.
+
+4:54 AM - 3 Feb 2015
+https://twitter.com/WvSchaik/status/562549766790594560
+Willem van Schaik on Twitter: "@pathogenomenick @koadman @daanspeth I guess could vary in broad-host range plasmid (different copy number in different bugs)"
+
 ### host range
 https://twitter.com/search?q=plasmid%20host%20range
 
-Host range expansion
-
-https://www.biorxiv.org/content/early/2018/01/18/250266
-Host range expansion and genetic plasticity drive the trade-off between integrative and extrachromosomal mobile genetic elements | bioRxiv
-Jean Cury, Pedro Oliveira, Fernando de la Cruz, Eduardo Rocha
 
 https://twitter.com/NatureJapan/status/957538744894189569
 Nature Japan on Twitter: "Nature Ecology & Evolution創刊1周年記念 Collection「代償性変異は抗生物質耐性プラスミドに対する全般的寛容性を向上させる」https://t.co/NII6UeGiDU… "
 28 Jan 2018
+
+https://www.ncbi.nlm.nih.gov/pubmed/29046540
+Nat Ecol Evol. 2017 Sep;1(9):1354-1363. doi: 10.1038/s41559-017-0243-2. Epub 2017 Aug 7.
+Compensatory mutations improve general permissiveness to antibiotic resistance plasmids.
+Loftie-Eaton W1,2, Bashford K1, Quinn H3, Dong K1, Millstein J1,2, Hunter S2, Thomason MK4, Merrikh H4, Ponciano JM5, Top EM6,7.
 
 https://www.ncbi.nlm.nih.gov/pubmed/26668183
 Mol Biol Evol. 2016 Apr;33(4):885-97. doi: 10.1093/molbev/msv339. Epub 2015 Dec 14.
 Evolutionary Paths That Expand Plasmid Host-Range: Implications for Spread of Antibiotic Resistance.
 Loftie-Eaton W1, Yano H1, Burleigh S2, Simmons RS2, Hughes JM1, Rogers LM1, Hunter SS3, Settles ML1, Forney LJ1, Ponciano JM4, Top EM5.
 
-https://www.ncbi.nlm.nih.gov/pubmed/25333461
-ISME J. 2015 Mar 17;9(4):934-45. doi: 10.1038/ismej.2014.191.
-Broad host range plasmids can invade an unexpectedly diverse fraction of a soil bacterial community.
-Klümper U1, Riber L2, Dechesne A1, Sannazzarro A2, Hansen LH3, Sørensen SJ2, Smets BF1.
-Author information
 
 http://onlinelibrary.wiley.com/doi/10.1111/1574-6968.12417/full
 Insertion sequence ISPst4 activates pUC plasmid replication in Pseudomonas stutzeri - Coleman - 2014 - FEMS Microbiology Letters - Wiley Online Library
 
 IS transposition directly leading to an expansion of the effective host range of a plasmid
 
+
 ----------
 
-## References
-
-https://www.biorxiv.org/content/early/2018/01/18/250266
-Host range expansion and genetic plasticity drive the trade-off between integrative and extrachromosomal mobile genetic elements | bioRxiv
 
 https://www.omicsonline.org/open-access/role-of-plasmids-in-microbiology-2155-9546-1000466.php?aid=85578
 (2017) Role of Plasmids in Microbiology. J Aquac Res Development 8: 466.
@@ -171,6 +173,25 @@ Fernandez-Lopez R1, Redondo S1, Garcillan-Barcia MP1, de la Cruz F2.
 - 2013-12 [新谷 政己, 松井 一泰, 金原 和秀, 野尻 秀昭. 環境バイオテクノロジー学会誌 13(2), 125-134. "環境中におけるプラスミドの挙動解析" Comparisons of Conjugation Frequency in Different Environmental Conditions](http://ci.nii.ac.jp/naid/40020320833) | [PDF](http://www.jseb.jp/jeb/13-02/13-02-125.pdf)
 - [Loftie-Eaton W, Rawlings DE. Plasmid. 2012 Jan "Diversity, biology and evolution of IncQ-family plasmids."](http://www.ncbi.nlm.nih.gov/pubmed/22037393)
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383451/
+Mob Genet Elements. 2012 Jan 1; 2(1): 55–58.
+IncA/C plasmids
+An emerging threat to human and animal health?
+Timothy J. Johnson* and Kevin S. Lang
+
+https://www.ncbi.nlm.nih.gov/pubmed/23471189
+Front Microbiol. 2013 Mar 7;4:44. doi: 10.3389/fmicb.2013.00044. eCollection 2013.
+Broad-host-range IncP-1 plasmids and their resistance potential.
+Popowska M1, Krawczyk-Balska A.
+
+
+
+
+
+
+
+
+
 ### Data
 
 https://www.ncbi.nlm.nih.gov/pubmed/28286183
@@ -182,6 +203,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/28516137
 Data Brief. 2017 Apr 23;12:423-426. 
 A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI nucleotide database.
 Orlek A et al.
+
 
 ### Tools
 [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
@@ -221,15 +243,17 @@ PLACNETw: a web-based tool for plasmid reconstruction from bacterial genomes | B
 #### [cBar](http://csbl.bmb.uga.edu/~ffzhou/cBar/)
   - [Zhou F, Xu Y. Bioinformatics. 2010 Aug 15;26(16):2051-2. "cBar: a computer program to distinguish plasmid-derived from chromosome-derived sequence fragments in metagenomics data."](https://www.ncbi.nlm.nih.gov/pubmed/20538725)
 
-#### ApE(A plasmid Editor)
-  - 2013/12/04 [ApEでシーケンスアライメント - ニュートラルな研究者のメモ](http://cobucchii.hatenablog.com/entry/2013/12/04/214725)
-  - [ApE(A plasmid Editor)を利用してプラスミドを設計する - 統合TV (togotv)(2013-05-27)](http://togotv.dbcls.jp/20130527.html)
-  - 2012/7/7 [ApEでできること一覧 | LifeScienceProject](http://life-science-project.com/540/)
-  - 2009.08.03 [DNA情報の取得とApEでの操作 - 花井＠産総研](https://staff.aist.go.jp/s-hanai/gene_download.html)
-  - [堀田研究室｜リンク](http://www.cira.kyoto-u.ac.jp/hotta/link.html) ApE フリーであるにも関わらず、非常に優秀な塩基配列編集ソフトウェア。GeneBank形式等の各種塩基配列ファイルを読み込んで、アノテーション付きで表示や編集が可能。制限酵素の切断部位やサイズを様々に表示したり、さらにはDam/Dcm依存性の制限酵素の切り替えもボタン一つ。プラスミドマップの描画にも対応しており、シンプルだが実用上は十分。Mac, Win, Unix/Linux対応。
+#### ApE
+ApE(A plasmid Editor)
+
+- 2013/12/04 [ApEでシーケンスアライメント - ニュートラルな研究者のメモ](http://cobucchii.hatenablog.com/entry/2013/12/04/214725)
+- [ApE(A plasmid Editor)を利用してプラスミドを設計する - 統合TV (togotv)(2013-05-27)](http://togotv.dbcls.jp/20130527.html)
+- 2012/7/7 [ApEでできること一覧 | LifeScienceProject](http://life-science-project.com/540/)
+- 2009.08.03 [DNA情報の取得とApEでの操作 - 花井＠産総研](https://staff.aist.go.jp/s-hanai/gene_download.html)
+- [堀田研究室｜リンク](http://www.cira.kyoto-u.ac.jp/hotta/link.html) ApE フリーであるにも関わらず、非常に優秀な塩基配列編集ソフトウェア。GeneBank形式等の各種塩基配列ファイルを読み込んで、アノテーション付きで表示や編集が可能。制限酵素の切断部位やサイズを様々に表示したり、さらにはDam/Dcm依存性の制限酵素の切り替えもボタン一つ。プラスミドマップの描画にも対応しており、シンプルだが実用上は十分。Mac, Win, Unix/Linux対応。
 
 #### [Addgene](https://www.addgene.org) non-profit plasmid repository
-  - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
+- [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
 
 ### Nucleotide composition
 - [Suzuki H et al. Molecular Life Sciences. 2014 May "Genomic Signature Analysis to Predict Plasmid Host Range."](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1)
@@ -464,6 +488,8 @@ Plasmid backbone modules for replication initiation (Rep–grey), mating-pair-fo
 
 ----------
 
+
+
 http://people.ibest.uidaho.edu/~etop/vgp/tnsBasics.html
 
 
@@ -473,6 +499,10 @@ Genome signature comparisons among prokaryote, plasmid, and mitochondrial DNA.
 Campbell A1, Mrázek J, Karlin S.
 
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC17754/bin/pq1692140001.jpg)
+
+----------
+
+### Suzuki
 
 http://www.ncbi.nlm.nih.gov/pubmed/18953039
 Nucleic Acids Res. 2008 Dec;36(22):e147. doi: 10.1093/nar/gkn753. Epub 2008 Oct 25.
@@ -497,8 +527,51 @@ Box-and-whisker plots summarizing the distributions of diversity among candidate
 http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1#page-1
 Suzuki H, Brown CJ, Top EM. "Genomic Signature Analysis to Predict Plasmid Host Range", Molecular Life Sciences, DOI 10.1007/978-1-4614-6436-5_574-1, Springer Science+Business Media New York 2014
 
+----------
+
+Host range expansion
+
+https://www.biorxiv.org/content/early/2018/01/18/250266
+Host range expansion and genetic plasticity drive the trade-off between integrative and extrachromosomal mobile genetic elements | bioRxiv
+Jean Cury, Pedro Oliveira, Fernando de la Cruz, Eduardo Rocha
+https://www.biorxiv.org/content/biorxiv/early/2018/01/18/250266.full.pdf
+
+54 conjugative plasmids (CPs) 
+
+156 weighted Gene Repertoire Relatedness (wGRR), 
+
+201 The most parsimonious explanation for these observations, is the recent transfer of one of
+202 the elements (ICE or CP) to a distant bacterial host. We identified the latter element based
+203 on the differences in terms of tri-nucleotide composition between the elements and the
+204 host chromosomes (defined as pvalue in (29)).
+
+626 We used the differences in tri-nucleotide composition to compute the genetic distance
+627 between the mobile element and its host chromosome, as previously proposed (64). 
+
+654 weighted Gene Repertoire Relatedness score (wGRR). 
+
+References
+29.
+64.
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/25333461
+ISME J. 2015 Mar 17;9(4):934-45. doi: 10.1038/ismej.2014.191.
+Broad host range plasmids can invade an unexpectedly diverse fraction of a soil bacterial community.
+Klümper U1, Riber L2, Dechesne A1, Sannazzarro A2, Hansen LH3, Sørensen SJ2, Smets BF1.
+http://www.nature.com/articles/ismej2014191
+
+Plasmid host range can be defined in several ways depending on the duration and intimacy of the considered plasmid–host relationship, including the transfer host range, the replication and maintenance host range, or the evolutionary host range (Suzuki et al., 2010).
+
+However, comparative analysis of plasmid sequences has indicated that the evolutionary host range of IncP plasmids seems to be mostly limited to Proteobacterial classes (Suzuki et al., 2010). 
+
+
 
 ----------
+
+
+
+
 
 
 
