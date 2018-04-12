@@ -3,6 +3,12 @@
 
 ## Updates
 
+https://www.sciencedirect.com/science/article/pii/S0966842X18300672
+Trends in Microbiology
+Available online 10 April 2018
+Review
+Convergent Evolution in Intracellular Elements: Plasmids as Model Endosymbionts
+
 https://twitter.com/danieljhurley_/status/974311478617690112
 Daniel Hurley on Twitter: "PlasmidTron from @andrewjpage et. al. https://t.co/d8StxrIp0u https://t.co/VFOES7jwH6… "
 PlasmidTron: assembling the cause of phenotypes and genotypes from NGS data
@@ -82,11 +88,25 @@ Curr Opin Microbiol. 2017 Jun 3;38:106-113. doi: 10.1016/j.mib.2017.05.005. [Epu
 Towards a taxonomy of conjugative plasmids.
 Fernandez-Lopez R1, Redondo S1, Garcillan-Barcia MP1, de la Cruz F2.
 
+Natural transformation, phage transduction, and bacterial conjugation are three main routes of HGT in bacteria.
+
 - [Orlek A et al. Front Microbiol. 2017 Feb 9 "Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology"](https://www.ncbi.nlm.nih.gov/pubmed/28232822)
 - 2015-03 [新谷政己，金原和秀．環境バイオテクノロジー学会誌 14(2), 81-86. "プラスミドゲノミクス~全塩基配列解読済のプラスミドデータベースの整備" Genomics of Plasmids](http://ci.nii.ac.jp/naid/40020727466) | [PDF](http://www.jseb.jp/jeb/14-02/14-02-081.pdf)
 - [Shintani M et al. Front Microbiol. 2015 Mar "Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy."](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
 - 2013-12 [新谷 政己, 松井 一泰, 金原 和秀, 野尻 秀昭. 環境バイオテクノロジー学会誌 13(2), 125-134. "環境中におけるプラスミドの挙動解析" Comparisons of Conjugation Frequency in Different Environmental Conditions](http://ci.nii.ac.jp/naid/40020320833) | [PDF](http://www.jseb.jp/jeb/13-02/13-02-125.pdf)
 - [Loftie-Eaton W, Rawlings DE. Plasmid. 2012 Jan "Diversity, biology and evolution of IncQ-family plasmids."](http://www.ncbi.nlm.nih.gov/pubmed/22037393)
+
+- [能登  優 1,髙瀬 識之 1,髙橋裕里香 1,松本 貴嗣 2,吉川 博文 2,土金 恵子 3, 細山  哲 3,藤田 信之 3,岡田 憲典 1,山根 久和 1,野尻 秀昭 1* 環境バイオテクノロジー学会 12(2), 135-139, 2012-12 "プラスミド保持に伴う負荷を軽減化する宿主染色体因子" Host Chromosomal Factor Reducing Plasmid Fitness Cost](https://ci.nii.ac.jp/naid/40019972025) | [PDF](http://www.jseb.jp/jeb/12-02/12-02-135.pdf)
+
+https://ci.nii.ac.jp/naid/40019971986/
+http://www.jseb.jp/jeb/11-0102/11-12-069.pdf
+Journal of Environmental Biotechnology
+(環境バイオテクノロジー学会誌)
+Vol. 11, No. 1 · 2, 69–75, 2011
+ 総  説(一般)
+       プラスミドの接合伝達に関与する遺伝因子・環境因子
+Genetic Elements and Environmental Factors Involved in the Plasmid Conjugation
+松井 一泰 1,新谷 政己 2,山根 久和 1,野尻 秀昭 1*
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383451/
 Mob Genet Elements. 2012 Jan 1; 2(1): 55–58.
@@ -165,8 +185,10 @@ Vielva L, de Toro M, Lanza VF, de la Cruz F.
   - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul "In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing."](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
 
 #### [cBar](http://csbl.bmb.uga.edu/~ffzhou/cBar/)
-  - [Zhou F, Xu Y. Bioinformatics. 2010 Aug 15;26(16):2051-2. "cBar: a computer program to distinguish plasmid-derived from chromosome-derived sequence fragments in metagenomics data."](https://www.ncbi.nlm.nih.gov/pubmed/20538725)
+- [Zhou F, Xu Y. Bioinformatics. 2010 Aug 15;26(16):2051-2. "cBar: a computer program to distinguish plasmid-derived from chromosome-derived sequence fragments in metagenomics data."](https://www.ncbi.nlm.nih.gov/pubmed/20538725)
 
+http://kazumaxneo.hatenablog.com/entry/2017/12/17/142135
+cBarでプラスミド配列を区別する - macでインフォマティクス
 
 #### SnapGene
 http://www.snapgene.com
@@ -586,6 +608,20 @@ https://academic.oup.com/mbe/article/23/6/1129/1055299
 Genomic signature profiling further suggested that the transfer was plasmid mediated and that the operon originated from a γ-proteobacterium donor species.
 
 Interestingly, ∼30% of the most closely related sequences are plasmid borne, suggesting a possible plasmid-mediated transfer. 
+
+----------
+
+
+http://europepmc.org/articles/PMC2848543
+Why Genes Evolve Faster on Secondary Chromosomes in Bacteria
+
+https://www.researchgate.net/post/How_can_we_distinguish_bacterial_chromosomes_from_plasmids
+
+https://www.ncbi.nlm.nih.gov/pubmed/20080407
+Trends Microbiol. 2010 Apr;18(4):141-8. doi: 10.1016/j.tim.2009.12.010. Epub 2010 Jan 18.
+Introducing the bacterial 'chromid': not a chromosome, not a plasmid.
+Harrison PW1, Lower RP, Kim NK, Young JP.
+
 
 ----------
 
