@@ -1,7 +1,13 @@
 
 # References
 
-## Updates
+## Table of Contents
+- [Updates](#updates)
+  - [2018](#2018)
+  - [2017](#2017)
+
+
+### 2018
 
 https://www.sciencedirect.com/science/article/pii/S0966842X18300672
 Trends in Microbiology
@@ -22,7 +28,30 @@ https://twitter.com/WvSchaik/status/562549766790594560
 Willem van Schaik on Twitter: "@pathogenomenick @koadman @daanspeth I guess could vary in broad-host range plasmid (different copy number in different bugs)"
 4:54 AM - 3 Feb 2015
 
-## tmp
+### 2017
+
+### 2016
+
+### 2015
+
+https://www.ncbi.nlm.nih.gov/pubmed/26534993
+Proc Natl Acad Sci U S A. 2015 Nov 17;112(46):14343-7. doi: 10.1073/pnas.1514326112. Epub 2015 Nov 3.
+Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome.
+Anda M1, Ohtsubo Y1, Okubo T1, Sugawara M1, Nagata Y1, Tsuda M1, Minamisawa K2, Mitsui H2.
+
+2015年11月4日
+https://www.tohoku.ac.jp/japanese/2015/11/press20151104-01.html
+染色体上からリボソームRNA遺伝子が消えた細菌を発見 ～ゲノムの常識を覆す～
+
+2017-05-20
+https://katosei.jsbba.or.jp/download_pdf.php?aid=800
+https://katosei.jsbba.or.jp/view_html.php?aid=800
+染色体にリボソームRNA遺伝子の無い環境細菌の発見予想外なゲノム構造と進化
+唯一のrrnは9.4 kbのレプリコン（pAU20rrn）に存在していた（図1A）．
+
+
+### host range
+https://twitter.com/search?q=plasmid%20host%20range
 
 https://www.ncbi.nlm.nih.gov/pubmed/23980652
 FEMS Microbiol Lett. 2013 Nov;348(2):87-96. doi: 10.1111/1574-6968.12241. Epub 2013 Sep 10.
@@ -31,23 +60,10 @@ Jain A1, Srivastava P.
 
 The present review article describes the features that confer broad host range to the plasmids, 
 
-
-
 https://www.ncbi.nlm.nih.gov/pubmed/20805406
 Microbiol Mol Biol Rev. 2010 Sep;74(3):434-52. doi: 10.1128/MMBR.00020-10.
 Mobility of plasmids.
 Smillie C1, Garcillán-Barcia MP, Francia MV, Rocha EP, de la Cruz F.
-
-
-
-
-
-
-
-
-
-### host range
-https://twitter.com/search?q=plasmid%20host%20range
 
 
 https://twitter.com/NatureJapan/status/957538744894189569
@@ -625,8 +641,29 @@ Harrison PW1, Lower RP, Kim NK, Young JP.
 
 ----------
 
+### Plasmid ecology
+
+https://ci.nii.ac.jp/naid/40006735954
+http://www.jseb.jp/jeb/04-02/04-02-131.PDF
+自然生態系における細胞外DNAの動態と遺伝子伝播
+Dynamics and Contributions to Horizontal Gene Transfer of Extracellular DNA in Natural Ecosystems
+Journal of environmental biotechnology 4(2), 131-137, 2005-02
+丸山 史人,谷 佳津治,那須 正夫*
+
+また海水から単離した細 菌の10%が,プラスミドを取込む能力があり,14%が染 色体を取込む能力を保持していた20)。
+
+20) Frischer, M.E., G.J. Stewart, and J.H. Paul. 1994. Plasmid transfer to indigenous marine bacterial populations by natural transformation. FEMS Microbiol. Ecol. 15: 127–136.
+
+https://www.jstage.jst.go.jp/article/jsb1944/46/2/46_2_529/_pdf
+Ecological behavior of plasmids and resistance to lead of Enterobacter agglomerans isolated from soil
+土壌中から分離されるEnterobacter agglomeransのプラスミドの生態学的挙動と鉛耐性について
+日本細菌学雑誌 46 (2), 1991
+度会 雅久1)武 田 浩二1)上 芝 秀博2)
 
 
-
+https://www.jstage.jst.go.jp/article/jssm/36/0/36_KJ00008103115/_pdf/-char/ja
+プラスミドの生態学
+農業環境技術研究所
+佐藤 守
 
 ----------
