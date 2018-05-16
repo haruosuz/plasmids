@@ -9,6 +9,7 @@
 
 ### 2018
 
+
 https://www.sciencedirect.com/science/article/pii/S0966842X18300672
 Trends in Microbiology
 Available online 10 April 2018
@@ -158,6 +159,15 @@ Orlek A et al.
 
 ### Tools
 [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
+
+https://www.ncbi.nlm.nih.gov/pubmed/29629246
+PeerJ. 2018 Apr 2;6:e4588. doi: 10.7717/peerj.4588. eCollection 2018.
+PlasmidSeeker: identification of known plasmids from bacterial whole genome sequencing reads.
+Roosaare M1, Puustusmaa M1, Möls M1,2, Vaher M1, Remm M1.
+
+https://github.com/tiagofilipe12/pATLAS
+http://www.patlas.site
+Plasmid Atlas is a web interface that allow users to browse plasmid sequences available in the NCBI refseq database.
 
 [Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
   - Microbial Genomics [On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data](http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000128)
@@ -401,6 +411,11 @@ Network analyses structure genetic diversity in independent genetic worlds.
 Halary S1, Leigh JW, Cheaib B, Lopez P, Bapteste E.
 
 ### Unclassified
+
+http://www.nougaku.jp/award/2016/3Masaki%20Shintani.pdf
+環境微生物間における可動性遺伝因子の動態に関する研究
+新谷 政己(静岡大学学術院工学領域)
+
 https://www.ncbi.nlm.nih.gov/pubmed/27385827
 Proc Natl Acad Sci U S A. 2016 Jul 19;113(29):8260-5. doi: 10.1073/pnas.1600974113. Epub 2016 Jul 6.
 Source-sink plasmid transfer dynamics maintain gene mobility in soil bacterial communities.
