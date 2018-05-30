@@ -1,14 +1,40 @@
-
 # References
 
 ## Table of Contents
+- [featuring](#featuring)
 - [Updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
 
 
-### 2018
+----------
+## featuring
 
+https://www.ncbi.nlm.nih.gov/pubmed/20369015
+PLoS Comput Biol. 2010 Apr 1;6(4):e1000732. doi: 10.1371/journal.pcbi.1000732.
+Why genes evolve faster on secondary chromosomes in bacteria.
+Cooper VS1, Vohr SH, Wrocklage SC, Hatcher PJ.
+Further, in every bacterial genome with multiple chromosomes that we studied, genes on secondary chromosomes exhibited significantly weaker codon usage bias than those on primary chromosomes. Faster evolution and reduced codon bias could in turn result from global effects of chromosome position, as genes on secondary chromosomes experience reduced dosage and expression due to their delayed replication, or selection on specific gene attributes.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848543/
+Why many bacteria have multiple chromosomes is largely unknown, but a leading hypothesis is that secondary chromosomes evolved from plasmids and now serve as accessory genomes. 
+Chromosomes may originate by three different mechanisms: by the split of a single chromosome, by chromosome duplication, or by acquisition of a large plasmid with essential genes, which ensures its prolonged maintenance. Of these processes, the last has the greatest support because some secondary chromosomes have plasmid-like origins of replication [2]. 
+
+
+
+
+https://www.researchgate.net/post/How_can_we_distinguish_bacterial_chromosomes_from_plasmids
+
+https://www.ncbi.nlm.nih.gov/pubmed/20080407
+Trends Microbiol. 2010 Apr;18(4):141-8. doi: 10.1016/j.tim.2009.12.010. Epub 2010 Jan 18.
+Introducing the bacterial 'chromid': not a chromosome, not a plasmid.
+Harrison PW1, Lower RP, Kim NK, Young JP.
+
+
+----------
+
+## Updates
+
+### 2018
 
 https://www.sciencedirect.com/science/article/pii/S0966842X18300672
 Trends in Microbiology
@@ -639,20 +665,6 @@ https://academic.oup.com/mbe/article/23/6/1129/1055299
 Genomic signature profiling further suggested that the transfer was plasmid mediated and that the operon originated from a γ-proteobacterium donor species.
 
 Interestingly, ∼30% of the most closely related sequences are plasmid borne, suggesting a possible plasmid-mediated transfer. 
-
-----------
-
-
-http://europepmc.org/articles/PMC2848543
-Why Genes Evolve Faster on Secondary Chromosomes in Bacteria
-
-https://www.researchgate.net/post/How_can_we_distinguish_bacterial_chromosomes_from_plasmids
-
-https://www.ncbi.nlm.nih.gov/pubmed/20080407
-Trends Microbiol. 2010 Apr;18(4):141-8. doi: 10.1016/j.tim.2009.12.010. Epub 2010 Jan 18.
-Introducing the bacterial 'chromid': not a chromosome, not a plasmid.
-Harrison PW1, Lower RP, Kim NK, Young JP.
-
 
 ----------
 
