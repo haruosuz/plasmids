@@ -2,10 +2,10 @@
 
 ## Table of Contents
 - [featuring](#featuring)
-- [Updates](#updates)
+- [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
-
+- [tools](#tools)
 
 ----------
 ## featuring
@@ -19,9 +19,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848543/
 Why many bacteria have multiple chromosomes is largely unknown, but a leading hypothesis is that secondary chromosomes evolved from plasmids and now serve as accessory genomes. 
 Chromosomes may originate by three different mechanisms: by the split of a single chromosome, by chromosome duplication, or by acquisition of a large plasmid with essential genes, which ensures its prolonged maintenance. Of these processes, the last has the greatest support because some secondary chromosomes have plasmid-like origins of replication [2]. 
 
-
-
-
 https://www.researchgate.net/post/How_can_we_distinguish_bacterial_chromosomes_from_plasmids
 
 https://www.ncbi.nlm.nih.gov/pubmed/20080407
@@ -32,15 +29,15 @@ Harrison PW1, Lower RP, Kim NK, Young JP.
 
 ----------
 
-## Updates
+## updates
 
 ### 2018
 
-https://www.sciencedirect.com/science/article/pii/S0966842X18300672
-Trends in Microbiology
-Available online 10 April 2018
-Review
-Convergent Evolution in Intracellular Elements: Plasmids as Model Endosymbionts
+https://www.ncbi.nlm.nih.gov/pubmed/29650391
+Trends Microbiol. 2018 Apr 10. pii: S0966-842X(18)30067-2. doi: 10.1016/j.tim.2018.03.004. [Epub ahead of print]
+Convergent Evolution in Intracellular Elements: Plasmids as Model Endosymbionts.
+Dietel AK1, Kaltenpoth M2, Kost C3.
+REVIEW
 
 https://twitter.com/danieljhurley_/status/974311478617690112
 Daniel Hurley on Twitter: "PlasmidTron from @andrewjpage et. al. https://t.co/d8StxrIp0u https://t.co/VFOES7jwH6… "
@@ -183,8 +180,14 @@ A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI
 Orlek A et al.
 
 
-### Tools
+### tools
 [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
+
+https://www.ncbi.nlm.nih.gov/pubmed/30052170
+Microb Genom. 2018 Jul 27. doi: 10.1099/mgen.0.000206. [Epub ahead of print]
+MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
+Robertson J1, Nash JHE2.
+https://github.com/phac-nml/mob-suite
 
 https://www.ncbi.nlm.nih.gov/pubmed/29629246
 PeerJ. 2018 Apr 2;6:e4588. doi: 10.7717/peerj.4588. eCollection 2018.
@@ -195,8 +198,13 @@ https://github.com/tiagofilipe12/pATLAS
 http://www.patlas.site
 Plasmid Atlas is a web interface that allow users to browse plasmid sequences available in the NCBI refseq database.
 
+#### sirarredondo
 [Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
-  - Microbial Genomics [On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data](http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000128)
+
+https://www.ncbi.nlm.nih.gov/pubmed/29177087
+Microb Genom. 2017 Aug 18;3(10):e000128. doi: 10.1099/mgen.0.000128. eCollection 2017 Oct.
+On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data.
+Arredondo-Alonso S1, Willems RJ1, van Schaik W1,2, Schürch AC1.
 
 #### PlasFlow
 
@@ -205,6 +213,7 @@ Nucleic Acids Res. 2018 Jan 13. doi: 10.1093/nar/gkx1321. [Epub ahead of print]
 PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures.
 Krawczyk PS1,2, Lipinski L1, Dziembowski A1,2.
 
+https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx1321
 https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkx1321/4807335
 PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures | Nucleic Acids Research | Oxford Academic
 
@@ -259,7 +268,7 @@ ApE(A plasmid Editor)
 - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
 
 ### Nucleotide composition
-- [Suzuki H et al. Molecular Life Sciences. 2014 May "Genomic Signature Analysis to Predict Plasmid Host Range."](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1)
+- [Suzuki H et al. Molecular Life Sciences. 2014 May "Genomic Signature Analysis to Predict Plasmid Host Range."](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1) | [pdf](https://link.springer.com/content/pdf/10.1007/978-1-4614-6436-5_574-1.pdf)
 - [Suzuki H et al. J Bacteriol. 2010 Nov "Predicting plasmid promiscuity based on genomic signature."](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
   - [Predicting Plasmid Promiscuity Could Help Fight Antibiotic Resistance | BEACON](http://beacon-center.org/blog/2011/03/28/predicting-plasmid-promiscuity-could-help-fight-antibiotic-resistance/)
 - [Suzuki H et al. Nucleic Acids Res. 2008 Dec "Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes."](http://www.ncbi.nlm.nih.gov/pubmed/18953039) | [Supplementary Data](http://nar.oxfordjournals.org/content/36/22/e147/suppl/DC1)
