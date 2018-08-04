@@ -162,12 +162,7 @@ Popowska M1, Krawczyk-Balska A.
 
 
 
-
-
-
-
-
-### Data
+## Data
 
 https://www.ncbi.nlm.nih.gov/pubmed/28286183
 Plasmid. 2017 May;91:42-52.
@@ -180,25 +175,31 @@ A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI
 Orlek A et al.
 
 
-### tools
+## tools
 [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
+
+https://github.com/tiagofilipe12/pATLAS
+http://www.patlas.site
+Plasmid Atlas is a web interface that allow users to browse plasmid sequences available in the NCBI refseq database.
+
+### MOB-suite
+https://github.com/phac-nml/mob-suite
 
 https://www.ncbi.nlm.nih.gov/pubmed/30052170
 Microb Genom. 2018 Jul 27. doi: 10.1099/mgen.0.000206. [Epub ahead of print]
 MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
 Robertson J1, Nash JHE2.
-https://github.com/phac-nml/mob-suite
+
+### PlasmidSeeker
+https://github.com/bioinfo-ut/PlasmidSeeker
+A k-mer based program for the identification of known plasmids from bacterial whole genome sequencing reads
 
 https://www.ncbi.nlm.nih.gov/pubmed/29629246
 PeerJ. 2018 Apr 2;6:e4588. doi: 10.7717/peerj.4588. eCollection 2018.
 PlasmidSeeker: identification of known plasmids from bacterial whole genome sequencing reads.
 Roosaare M1, Puustusmaa M1, Möls M1,2, Vaher M1, Remm M1.
 
-https://github.com/tiagofilipe12/pATLAS
-http://www.patlas.site
-Plasmid Atlas is a web interface that allow users to browse plasmid sequences available in the NCBI refseq database.
-
-#### sirarredondo
+### sirarredondo
 [Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
 
 https://www.ncbi.nlm.nih.gov/pubmed/29177087
@@ -206,24 +207,19 @@ Microb Genom. 2017 Aug 18;3(10):e000128. doi: 10.1099/mgen.0.000128. eCollection
 On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data.
 Arredondo-Alonso S1, Willems RJ1, van Schaik W1,2, Schürch AC1.
 
-#### PlasFlow
+### PlasFlow
+https://github.com/smaegol/PlasFlow
 
 https://www.ncbi.nlm.nih.gov/pubmed/29346586
 Nucleic Acids Res. 2018 Jan 13. doi: 10.1093/nar/gkx1321. [Epub ahead of print]
 PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures.
 Krawczyk PS1,2, Lipinski L1, Dziembowski A1,2.
 
-https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx1321
-https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkx1321/4807335
-PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures | Nucleic Acids Research | Oxford Academic
-
-The software, PlasFlow, is available at GitHub (https://github.com/smaegol/PlasFlow).
-
-#### [Recycler](https://github.com/Shamir-Lab/Recycler)
+### [Recycler](https://github.com/Shamir-Lab/Recycler)
 - [Rozov R et al. (2017) Bioinformatics. 33(4):475-482. "Recycler: an algorithm for detecting plasmids from de novo assembly graphs."](https://www.ncbi.nlm.nih.gov/pubmed/28003256)
 - 2017-08-27 アセンブルのgraphからプラスミドデータを検出するツール Recycler - macでインフォマティクス http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
 
-#### [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
+### [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
   - [plasmidSPAdes - Twitter Search](https://twitter.com/search?f=tweets&vertical=default&q=plasmidSPAdes&src=typd)
   - [Antipov D et al. Bioinformatics. 2016 Jul "plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data."](http://www.ncbi.nlm.nih.gov/pubmed/27466620)
   - [SPAdes – Center for Algorithmic Biotechnology](http://cab.spbu.ru/software/spades/)
@@ -231,7 +227,7 @@ The software, PlasFlow, is available at GitHub (https://github.com/smaegol/PlasF
   - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
     - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
 
-#### PLACNET (PLAsmid Constellation NET)
+### PLACNET (PLAsmid Constellation NET)
 
 Bioinformatics. 2017 Dec 1;33(23):3796-3798. doi: 10.1093/bioinformatics/btx462.
 PLACNETw: a web-based tool for plasmid reconstruction from bacterial genomes.
@@ -240,22 +236,22 @@ Vielva L, de Toro M, Lanza VF, de la Cruz F.
   - [Lanza VF,, de la Cruz F et al. PLoS Genet. 2014 Dec "Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences."](http://www.ncbi.nlm.nih.gov/pubmed/25522143)
   - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
 
-#### [PlasmidFinder 1.3](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
+### [PlasmidFinder 1.3](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
   - Updated 20 February 2017 [downloading databases](https://cge.cbs.dtu.dk//services/data.php)
   - 2017-01-23 [genomicepidemiology / PlasmidFinder — Bitbucket](https://bitbucket.org/genomicepidemiology/plasmidfinder)
   - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul "In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing."](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
 
-#### [cBar](http://csbl.bmb.uga.edu/~ffzhou/cBar/)
+### [cBar](http://csbl.bmb.uga.edu/~ffzhou/cBar/)
 - [Zhou F, Xu Y. Bioinformatics. 2010 Aug 15;26(16):2051-2. "cBar: a computer program to distinguish plasmid-derived from chromosome-derived sequence fragments in metagenomics data."](https://www.ncbi.nlm.nih.gov/pubmed/20538725)
 
 http://kazumaxneo.hatenablog.com/entry/2017/12/17/142135
 cBarでプラスミド配列を区別する - macでインフォマティクス
 
-#### SnapGene
+### SnapGene
 http://www.snapgene.com
 SnapGene | Software for everyday molecular biology
 
-#### ApE
+### ApE
 ApE(A plasmid Editor)
 
 - 2013/12/04 [ApEでシーケンスアライメント - ニュートラルな研究者のメモ](http://cobucchii.hatenablog.com/entry/2013/12/04/214725)
@@ -264,10 +260,12 @@ ApE(A plasmid Editor)
 - 2009.08.03 [DNA情報の取得とApEでの操作 - 花井＠産総研](https://staff.aist.go.jp/s-hanai/gene_download.html)
 - [堀田研究室｜リンク](http://www.cira.kyoto-u.ac.jp/hotta/link.html) ApE フリーであるにも関わらず、非常に優秀な塩基配列編集ソフトウェア。GeneBank形式等の各種塩基配列ファイルを読み込んで、アノテーション付きで表示や編集が可能。制限酵素の切断部位やサイズを様々に表示したり、さらにはDam/Dcm依存性の制限酵素の切り替えもボタン一つ。プラスミドマップの描画にも対応しており、シンプルだが実用上は十分。Mac, Win, Unix/Linux対応。
 
-#### [Addgene](https://www.addgene.org) non-profit plasmid repository
+### [Addgene](https://www.addgene.org) non-profit plasmid repository
 - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
 
-### Nucleotide composition
+
+
+## Nucleotide composition
 - [Suzuki H et al. Molecular Life Sciences. 2014 May "Genomic Signature Analysis to Predict Plasmid Host Range."](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1) | [pdf](https://link.springer.com/content/pdf/10.1007/978-1-4614-6436-5_574-1.pdf)
 - [Suzuki H et al. J Bacteriol. 2010 Nov "Predicting plasmid promiscuity based on genomic signature."](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
   - [Predicting Plasmid Promiscuity Could Help Fight Antibiotic Resistance | BEACON](http://beacon-center.org/blog/2011/03/28/predicting-plasmid-promiscuity-could-help-fight-antibiotic-resistance/)
@@ -288,12 +286,12 @@ Phylogenetic signals in DNA composition: limitations and prospects.
 Mrázek J
 
 
-### Codon usage
+## Codon usage
 - [Davis JJ, Olsen GJ. Mol Biol Evol. 2010 Apr "Modal codon usage: assessing the typical codon usage of a genome."](https://www.ncbi.nlm.nih.gov/pubmed/20018979)
 - [Guo FB, Yuan JB. DNA Res. 2009 Apr "Codon usages of genes on chromosome, and surprisingly, genes in plasmid are primarily affected by strand-specific mutational biases in Lawsonia intracellularis."](https://www.ncbi.nlm.nih.gov/pubmed/19221094)
 - [Peixoto L et al. Gene. 2003 Nov 27 "The strength of translational selection for codon usage varies in the three replicons of Sinorhizobium meliloti."](https://www.ncbi.nlm.nih.gov/pubmed/14597394)
 
-### Plasmid Copy Number
+## Plasmid Copy Number
 - [Plasmid copy number - Wikipedia](https://en.wikipedia.org/wiki/Plasmid_copy_number)
 - 14th January, 2015 [How to Manipulate Plasmid Copy Number - Bitesize Bio](http://bitesizebio.com/22824/how-to-manipulate-plasmid-copy-number/)
 - Feb 6, 2014 [Plasmids 101: Origin of Replication](http://blog.addgene.org/plasmid-101-origin-of-replication) Copy Number+
@@ -301,7 +299,7 @@ Mrázek J
 - [Anindyajati et al. Sci Pharm. 2016 Feb 14;84(1):89-101. "Plasmid Copy Number Determination by Quantitative Polymerase Chain Reaction."](https://www.ncbi.nlm.nih.gov/pubmed/27110501) | [Tab. 2. Plasmid Copy Number Determination by qPCR](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4839616/table/T2/)
 - [San Millan A et al. Antimicrob Agents Chemother. 2015;59(6):3335-41. "Small-plasmid-mediated antibiotic resistance is enhanced by increases in plasmid copy number and bacterial fitness."](https://www.ncbi.nlm.nih.gov/pubmed/25824216) | [FIG 5. Plasmid copy number and bacterial fitness enhance antibiotic resistance.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432117/figure/F5/)
 
-### Rep
+## rep
 
 https://www.ncbi.nlm.nih.gov/pubmed/21296948
 Appl Environ Microbiol. 2011 Apr;77(7):2522-6. 
@@ -312,7 +310,7 @@ Genes for four TrfA homologues are integrated into chromosomes of their respecti
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067460/table/t1/
 cNA, not applicable; integrated in host chromosome.
 
-### Resistance
+## resistance
 https://www.ncbi.nlm.nih.gov/protein/AMP50525
 TrfA protein [uncultured bacterium]
 https://www.ncbi.nlm.nih.gov/pubmed/27172044
@@ -324,12 +322,15 @@ Interconnected microbiomes and resistomes in low-income human habitats.
 https://holtlab.net/tag/antibiotic-resistance/
 antibiotic resistance | Holt Lab
 
-#### New Delhi metallo-β-lactamase-1 (NDM-1)
+### NDM-1
+New Delhi metallo-β-lactamase-1 (NDM-1)
+
 - [Conlan S et al. Genome Announc. 2016 Jul 14;4(4). "Complete Genome Sequence of a Klebsiella pneumoniae Strain Carrying blaNDM-1 on a Multidrug Resistance Plasmid."](https://www.ncbi.nlm.nih.gov/pubmed/27417839)
 - [Khong WX et al. BMC Genomics. 2016 Jun 13;17:452. "Local transmission and global dissemination of New Delhi Metallo-Beta-Lactamase (NDM): a whole genome analysis."](https://www.ncbi.nlm.nih.gov/pubmed/27297071)
 - [Kumarasamy KK et al. Lancet Infect Dis. 2010 Sep "Emergence of a new antibiotic resistance mechanism in India, Pakistan, and the UK: a molecular, biological, and epidemiological study."](http://www.ncbi.nlm.nih.gov/pubmed/20705517)
 
-#### Colistin resistance (mcr-1 gene)
+### mcr-1
+Colistin resistance (mcr-1 gene)
 
 https://www.ncbi.nlm.nih.gov/pubmed/28507118
 Antimicrob Agents Chemother. 2017 May 15. pii: AAC.00404-17.
@@ -405,7 +406,6 @@ analysis of plasmid metagenomes is still in its infancy. プラスミド・メ�
 - [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
 - [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
 - [Jones BV, Marchesi JR. Nat Methods. 2007 Jan. "Transposon-aided capture (TRACA) of plasmids resident in the human gut mobile metagenome."](https://www.ncbi.nlm.nih.gov/pubmed/17128268)
-- []()
 
 ### HGT
 horizontal gene transfer (HGT) 
