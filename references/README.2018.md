@@ -8,6 +8,7 @@ Last Update: 2018-08
 ## Table of Contents
 - [2018-08](#2018-08)
 - [Hi-C](#hi-c)
+- [MOB](#mob)
 - [secretion system](#secretion system)
   - [T4SS](#t4ss)
 
@@ -58,11 +59,6 @@ dPlasmids pDS1 and pDS2 were transferable into E. coli but could not be transfer
 ----------
 ## 2018-08-05
 
-https://www.ncbi.nlm.nih.gov/pubmed/30052170
-Microb Genom. 2018 Jul 27. doi: 10.1099/mgen.0.000206. [Epub ahead of print]
-MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
-Robertson J1, Nash JHE2.
-
 ----------
 ## Hi-C
 
@@ -81,6 +77,18 @@ http://www.iu.a.u-tokyo.ac.jp/~kadota/r_seq2.html
 2014年9月10日13:15-14:45、「4-2. 次世代シークエンサ基礎II」、初級、講義
 倉田哲也 (NAIST)、 統合TV、講義資料（非公開）
 応用分野とそのための計測技術の理解 (RNA-seq、ChIP-seq、がんゲノム、個人ゲノム、環境ゲノム、Hi-C)。
+
+----------
+## MOB
+
+https://github.com/phac-nml/mob-suite
+
+https://www.ncbi.nlm.nih.gov/pubmed/30052170
+Microb Genom. 2018 Jul 27. doi: 10.1099/mgen.0.000206. [Epub ahead of print]
+MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
+Robertson J1, Nash JHE2.
+
+The MOB-suite also provides replicon typing similar to plasmidfinder but with the inclusion of relaxase typing and prediction of conjugation potential.
 
 ----------
 ## secretion system
