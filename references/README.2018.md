@@ -49,6 +49,8 @@ To test this prediction, we analyzed the number of plasmids present in the 1866 
 Figure 6
 Distribution of plasmids in bacterial genomes. (a) Number of plasmids per bacterial genome. The blue bars represent the expected number of genomes carrying from zero to >6 plasmids following a Poisson distribution (using the average plasmid/strain observed in the 1866 bacterial genomes analyzed from GenBank). 
 
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3930321/figure/fig6/](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3930321_ismej2013182f6.jpg)
+
 https://www.ncbi.nlm.nih.gov/pubmed/20181243
 BMC Evol Biol. 2010 Feb 24;10:59. doi: 10.1186/1471-2148-10-59.
 Exploring the evolutionary dynamics of plasmids: the Acinetobacter pan-plasmidome.
