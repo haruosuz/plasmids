@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-07-18
+Last Update: 2018-08
 
 ----------
 
@@ -9,21 +9,50 @@ Last Update: 2018-07-18
 - [2018-08](#2018-08)
 - [Hi-C](#hi-c)
 
-----------
-## 2018-08
-
 http://www.plasmidbiologysociety.org/plasmid-biology-2018/
 https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
 Plasmid Biology 2018 in Seattle, August 5-9.
 
-https://www.ncbi.nlm.nih.gov/pubmed/30052170
-Microb Genom. 2018 Jul 27. doi: 10.1099/mgen.0.000206. [Epub ahead of print]
-MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
-Robertson J1, Nash JHE2.
+----------
+## 2018-08
+
+----------
+## 2018-08-07
+
+### IncP-1 plasmid in Mycobacterium
+マイコバクテリウムのIncP-1βプラスミド
+
+https://www.ncbi.nlm.nih.gov/pubmed/23565273
+PLoS One. 2013;8(4):e60746. doi: 10.1371/journal.pone.0060746. Epub 2013 Apr 2.
+The detection and sequencing of a broad-host-range conjugative IncP-1β plasmid in an epidemic strain of Mycobacterium abscessus subsp. bolletii.
+Leão SC1, Matsumoto CK, Carneiro A, Ramos RT, Nogueira CL, Lima JD Jr, Lima KV, Lopes ML, Schneider H, Azevedo VA, da Costa da Silva A.
+
+https://ja.wikipedia.org/wiki/マイコバクテリウム属
+
+https://microbewiki.kenyon.edu/index.php/Mycobacterium
+Bacteria; Actinobacteria; Actinobacteria (class); Actinobacteridae; Actinomycetales; Corynebacterineae; Mycobacteriaceae; Mycobacterium; Mycobacterium tuberculosis complex
+
+### pDS1
+狭宿主域IncP-1プラスミド
+
+https://www.ncbi.nlm.nih.gov/pubmed/24096417
+Appl Environ Microbiol. 2013 Dec;79(24):7684-95.
+Diverse broad-host-range plasmids from freshwater carry few accessory genes.
+Brown CJ1, Sen D, Yano H, Bauer ML, Rogers LM, Van der Auwera GA, Top EM.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/
+
+Plasmids from Idler's Rest.
+Of the three plasmids isolated from Idler's Rest Creek, pDS1 and pDS3 are IncP-1 plasmids, and pDS2 belongs to the IncN group. Only pDS2 has identifiable accessory genes.
+
+The genetic organization of pDS1 (Fig. 2a) is typical of IncP-1 plasmids, but the sequence identity to known IncP-1 plasmids is low. IncP-1 plasmids are typically classified into different subgroups based on sequence similarity of backbone genes. For a recent thorough phylogenetic analysis of the five major IncP-1 subgroups, we refer to Sen et al. (45). A phylogeny inferred from the trfA gene showed that pDS1 is distinct from other known subgroups including the new IncP-1ζ plasmids isolated from marine biofilms (57) (Fig. 4). 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/table/T2/
+dPlasmids pDS1 and pDS2 were transferable into E. coli but could not be transferred to P. putida, C. pinatubonensis, or S. meliloti.
+
 
 ----------
 ## Hi-C
-
 
 https://filgen.jp/Product/Bioscience4/Phase_Genomics/
 Phase Genomics社製 Hi-C解析用サンプル調整キット
@@ -40,5 +69,13 @@ http://www.iu.a.u-tokyo.ac.jp/~kadota/r_seq2.html
 2014年9月10日13:15-14:45、「4-2. 次世代シークエンサ基礎II」、初級、講義
 倉田哲也 (NAIST)、 統合TV、講義資料（非公開）
 応用分野とそのための計測技術の理解 (RNA-seq、ChIP-seq、がんゲノム、個人ゲノム、環境ゲノム、Hi-C)。
+
+----------
+## 2018-08-05
+
+https://www.ncbi.nlm.nih.gov/pubmed/30052170
+Microb Genom. 2018 Jul 27. doi: 10.1099/mgen.0.000206. [Epub ahead of print]
+MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
+Robertson J1, Nash JHE2.
 
 ----------
