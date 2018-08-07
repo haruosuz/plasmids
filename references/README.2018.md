@@ -15,7 +15,8 @@ Last Update: 2018-08
 ----------
 ## 2018-08
 ## 2018-08-05
-
+- https://twitter.com/search?f=tweets&vertical=default&q=plasmid%20biology%202018
+- https://twitter.com/hashtag/PlasmidBiology2018
 - https://twitter.com/hashtag/plasmidseattle2018
 - http://www.plasmidbiologysociety.org/plasmid-biology-2018/
 - https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
