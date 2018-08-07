@@ -12,15 +12,14 @@ Last Update: 2018-08
 - [secretion system](#secretion system)
   - [T4SS](#t4ss)
 
-http://www.plasmidbiologysociety.org/plasmid-biology-2018/
-https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
-Plasmid Biology 2018 in Seattle, August 5-9.
-
 ----------
 ## 2018-08
+## 2018-08-05
 
-----------
-## 2018-08-07
+- https://twitter.com/hashtag/plasmidseattle2018
+- http://www.plasmidbiologysociety.org/plasmid-biology-2018/
+- https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
+Plasmid Biology 2018 in Seattle, August 5-9.
 
 ### IncP-1 plasmid in Mycobacterium
 マイコバクテリウムのIncP-1βプラスミド
@@ -52,12 +51,6 @@ The genetic organization of pDS1 (Fig. 2a) is typical of IncP-1 plasmids, but th
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/table/T2/
 dPlasmids pDS1 and pDS2 were transferable into E. coli but could not be transferred to P. putida, C. pinatubonensis, or S. meliloti.
-
-----------
-## 2018-08-06
-
-----------
-## 2018-08-05
 
 ----------
 ## Hi-C
