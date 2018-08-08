@@ -7,6 +7,7 @@ Last Update: 2018-08
 
 ## Table of Contents
 - [2018-08](#2018-08)
+- [2018-08-07](#2018-08-07)
 - [Hi-C](#hi-c)
 - [MOB](#mob)
 - [pAU20rrn](#pAU20rrn)
@@ -24,40 +25,8 @@ http://www.plasmidbiologysociety.org/plasmid-biology-2018/
 https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
 Plasmid Biology 2018 in Seattle, August 5-9.
 
-----------
-## 2018-08-07
-
-https://www.ncbi.nlm.nih.gov/pubmed/29327679
-Microbiol Spectr. 2018 Jan;6(1). doi: 10.1128/microbiolspec.MTBP-0015-2016.
-Natural and Artificial Strategies To Control the Conjugative Transmission of Plasmids.
-Getino M1, de la Cruz F2.
-http://www.asmscience.org/content/journal/microbiolspec/10.1128/microbiolspec.MTBP-0015-2016
-FIGURE 3 Network of interactions between conjugative plasmids that affects their conjugation capacity. Plasmid incompatibility groups are represented by colored circles. Continuous lines show fertility inhibition systems caused by genes in colored rectangles from plasmids in white boxes. Dashed lines show fertility inhibition systems caused by unidentified genes from plasmids in white boxes. See text for further details.
-
-![http://www.asmscience.org/content/microbiolspec/10.1128/microbiolspec.MTBP-0015-2016.fig3](http://www.asmscience.org/docserver/fulltext/microbiolspec/6/1/MTBP-0015-2016-fig3.gif)
-
-https://www.ncbi.nlm.nih.gov/pubmed/24152711
-ISME J. 2014 Mar;8(3):601-12. doi: 10.1038/ismej.2013.182. Epub 2013 Oct 24.
-Positive epistasis between co-infecting plasmids promotes plasmid survival in bacterial populations.
-San Millan A1, Heilbron K1, MacLean RC1.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3930321/
-
-Co-infection with multiple plasmids is common
-
-To test this prediction, we analyzed the number of plasmids present in the 1866 bacterial genomes that are currently available in GenBank. Our null hypothesis is that if plasmids are distributed randomly across bacteria, then the number of plasmids per genome will be Poisson distributed. 
-
-Figure 6
-Distribution of plasmids in bacterial genomes. (a) Number of plasmids per bacterial genome. The blue bars represent the expected number of genomes carrying from zero to >6 plasmids following a Poisson distribution (using the average plasmid/strain observed in the 1866 bacterial genomes analyzed from GenBank). 
-
-![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3930321/figure/fig6/](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3930321_ismej2013182f6.jpg)
-
-https://www.ncbi.nlm.nih.gov/pubmed/20181243
-BMC Evol Biol. 2010 Feb 24;10:59. doi: 10.1186/1471-2148-10-59.
-Exploring the evolutionary dynamics of plasmids: the Acinetobacter pan-plasmidome.
-Fondi M1, Bacci G, Brilli M, Papaleo MC, Mengoni A, Vaneechoutte M, Dijkshoorn L, Fani R.
-
 ### IncP-1 plasmid in Mycobacterium
-マイコバクテリウムのIncP-1βプラスミド
+マイコバクテリウム属のIncP-1βプラスミド
 
 https://www.ncbi.nlm.nih.gov/pubmed/23565273
 PLoS One. 2013;8(4):e60746. doi: 10.1371/journal.pone.0060746. Epub 2013 Apr 2.
@@ -162,5 +131,38 @@ https://www.ncbi.nlm.nih.gov/pubmed/19946141
 Microbiol Mol Biol Rev. 2009 Dec;73(4):775-808. doi: 10.1128/MMBR.00023-09.
 Biological diversity of prokaryotic type IV secretion systems.
 Alvarez-Martinez CE1, Christie PJ.
+
+----------
+## 2018-08-07
+
+https://www.ncbi.nlm.nih.gov/pubmed/29327679
+Microbiol Spectr. 2018 Jan;6(1). doi: 10.1128/microbiolspec.MTBP-0015-2016.
+Natural and Artificial Strategies To Control the Conjugative Transmission of Plasmids.
+Getino M1, de la Cruz F2.
+http://www.asmscience.org/content/journal/microbiolspec/10.1128/microbiolspec.MTBP-0015-2016
+FIGURE 3 Network of interactions between conjugative plasmids that affects their conjugation capacity.
+
+![http://www.asmscience.org/content/microbiolspec/10.1128/microbiolspec.MTBP-0015-2016.fig3](http://www.asmscience.org/docserver/fulltext/microbiolspec/6/1/MTBP-0015-2016-fig3.gif)
+
+https://www.ncbi.nlm.nih.gov/pubmed/24152711
+ISME J. 2014 Mar;8(3):601-12. doi: 10.1038/ismej.2013.182. Epub 2013 Oct 24.
+Positive epistasis between co-infecting plasmids promotes plasmid survival in bacterial populations.
+San Millan A1, Heilbron K1, MacLean RC1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3930321/
+
+Co-infection with multiple plasmids is common
+
+To test this prediction, we analyzed the number of plasmids present in the 1866 bacterial genomes that are currently available in GenBank. Our null hypothesis is that if plasmids are distributed randomly across bacteria, then the number of plasmids per genome will be Poisson distributed. 
+
+Figure 6
+Distribution of plasmids in bacterial genomes. (a) Number of plasmids per bacterial genome. The blue bars represent the expected number of genomes carrying from zero to >6 plasmids following a Poisson distribution (using the average plasmid/strain observed in the 1866 bacterial genomes analyzed from GenBank). 
+
+ポアソン分布
+
+https://www.ncbi.nlm.nih.gov/pubmed/20181243
+BMC Evol Biol. 2010 Feb 24;10:59. doi: 10.1186/1471-2148-10-59.
+Exploring the evolutionary dynamics of plasmids: the Acinetobacter pan-plasmidome.
+Fondi M1, Bacci G, Brilli M, Papaleo MC, Mengoni A, Vaneechoutte M, Dijkshoorn L, Fani R.
+
 
 ----------
