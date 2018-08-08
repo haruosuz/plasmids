@@ -25,18 +25,13 @@ http://www.plasmidbiologysociety.org/plasmid-biology-2018/
 https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
 Plasmid Biology 2018 in Seattle, August 5-9.
 
-### IncP-1 plasmid in Mycobacterium
+### pMAB01
 マイコバクテリウム属のIncP-1βプラスミド
 
 https://www.ncbi.nlm.nih.gov/pubmed/23565273
 PLoS One. 2013;8(4):e60746. doi: 10.1371/journal.pone.0060746. Epub 2013 Apr 2.
 The detection and sequencing of a broad-host-range conjugative IncP-1β plasmid in an epidemic strain of Mycobacterium abscessus subsp. bolletii.
 Leão SC1, Matsumoto CK, Carneiro A, Ramos RT, Nogueira CL, Lima JD Jr, Lima KV, Lopes ML, Schneider H, Azevedo VA, da Costa da Silva A.
-
-https://ja.wikipedia.org/wiki/マイコバクテリウム属
-
-https://microbewiki.kenyon.edu/index.php/Mycobacterium
-Bacteria; Actinobacteria; Actinobacteria (class); Actinobacteridae; Actinomycetales; Corynebacterineae; Mycobacteriaceae; Mycobacterium; Mycobacterium tuberculosis complex
 
 ### pDS1
 狭宿主域IncP-1プラスミド
