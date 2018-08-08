@@ -7,13 +7,17 @@ Last Update: 2018-08
 
 ## Table of Contents
 - [2018-08](#2018-08)
-- [2018-08-07](#2018-08-07)
+- [chromosomes](#chromosomes)
+- [plasmids](#plasmids)
+  - [pMAB01](#pMAB01)
+  - [pDS1](#pDS1)
+  - [pAU20rrn](#pAU20rrn)
+- [orf34](#orf34)
 - [Hi-C](#hi-c)
 - [MOB](#mob)
-- [plasmids](#plasmids)
-  - [pAU20rrn](#pAU20rrn)
 - [secretion system](#secretion-system)
   - [T4SS](#t4ss)
+- [2018-08-07](#2018-08-07)
 
 ----------
 ## 2018-08
@@ -27,7 +31,18 @@ https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
 Plasmid Biology 2018 in Seattle, August 5-9.
 
 ----------
+## chromosomes
+複数の染色体
+
+https://www.ncbi.nlm.nih.gov/pubmed/20369015
+PLoS Comput Biol. 2010 Apr 1;6(4):e1000732. doi: 10.1371/journal.pcbi.1000732.
+Why genes evolve faster on secondary chromosomes in bacteria.
+Cooper VS1, Vohr SH, Wrocklage SC, Hatcher PJ.
+Burkholderia and Vibrio
+
+----------
 ## plasmids
+
 ### pMAB01
 マイコバクテリウム属のIncP-1βプラスミド
 
@@ -74,6 +89,53 @@ https://katosei.jsbba.or.jp/view_html.php?aid=800
 染色体にリボソームRNA遺伝子の無い環境細菌の発見予想外なゲノム構造と進化
 唯一のrrnは9.4 kbのレプリコン（pAU20rrn）に存在していた（図1A）．
 按田　瑞恵（Mizue ANDA）
+
+----------
+## orf34
+
+https://www.ncbi.nlm.nih.gov/nuccore/NC_007926
+Pseudomonas putida plasmid NAH7, complete sequence
+
+     CDS             complement(70638..70967)
+                     /gene="orf34"
+                     /locus_tag="NAH7_71"
+                     /function="unknown"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_534857.1"
+                     /db_xref="GeneID:3974173"
+                     /translation="MRKQVLAFLATLAFAGVAQAGAQPPTDLSYGENSDEDACGATLC
+                     LLGMSRDGDCDKYLKRYFSIVKFKHGNFSPSRTAAARGDFVAQCVDAQDSAKEANDKW
+                     GGSRYGF"
+
+Sequences producing significant alignments:
+
+https://www.ncbi.nlm.nih.gov/nucleotide/JN248563.1
+Pseudomonas sp. MC1 plasmid KOPRI126573, complete sequence
+81814 bp
+
+
+https://www.ncbi.nlm.nih.gov/nucleotide/CP026114.1
+Paraburkholderia terrae strain DSM 17804 chromosome 4, complete sequence
+756439 bp
+
+https://www.ncbi.nlm.nih.gov/nucleotide/CP026109.1
+Paraburkholderia hospita strain DSM 17164 chromosome 5, complete sequence
+725510 bp 
+
+https://www.ncbi.nlm.nih.gov/nucleotide/KC170278.1
+Uncultured bacterium plasmid pMBUI4, complete sequence
+37247 bp
+
+https://www.ncbi.nlm.nih.gov/pubmed/24096417
+Appl Environ Microbiol. 2013 Dec;79(24):7684-95. doi: 10.1128/AEM.02252-13. Epub 2013 Oct 4.
+Diverse broad-host-range plasmids from freshwater carry few accessory genes.
+Brown CJ1, Sen D, Yano H, Bauer ML, Rogers LM, Van der Auwera GA, Top EM.
+
+Plasmid pMBUI4 (Fig. 3) is an IncW-like plasmid that bears moderate gene synteny and sequence similarity in its replication (Table 3) and transfer regions to the IncW plasmid R388 (5).
 
 ----------
 ## Hi-C
@@ -129,6 +191,7 @@ Microbiol Mol Biol Rev. 2009 Dec;73(4):775-808. doi: 10.1128/MMBR.00023-09.
 Biological diversity of prokaryotic type IV secretion systems.
 Alvarez-Martinez CE1, Christie PJ.
 
+
 ----------
 ## 2018-08-07
 
@@ -161,5 +224,8 @@ BMC Evol Biol. 2010 Feb 24;10:59. doi: 10.1186/1471-2148-10-59.
 Exploring the evolutionary dynamics of plasmids: the Acinetobacter pan-plasmidome.
 Fondi M1, Bacci G, Brilli M, Papaleo MC, Mengoni A, Vaneechoutte M, Dijkshoorn L, Fani R.
 
-
 ----------
+
+
+
+
