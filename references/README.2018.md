@@ -10,7 +10,8 @@ Last Update: 2018-08
 - [2018-08-07](#2018-08-07)
 - [Hi-C](#hi-c)
 - [MOB](#mob)
-- [pAU20rrn](#pAU20rrn)
+- [plasmids](#plasmids)
+  - [pAU20rrn](#pAU20rrn)
 - [secretion system](#secretion-system)
   - [T4SS](#t4ss)
 
@@ -25,6 +26,8 @@ http://www.plasmidbiologysociety.org/plasmid-biology-2018/
 https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
 Plasmid Biology 2018 in Seattle, August 5-9.
 
+----------
+## plasmids
 ### pMAB01
 マイコバクテリウム属のIncP-1βプラスミド
 
@@ -50,6 +53,27 @@ The genetic organization of pDS1 (Fig. 2a) is typical of IncP-1 plasmids, but th
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/table/T2/
 dPlasmids pDS1 and pDS2 were transferable into E. coli but could not be transferred to P. putida, C. pinatubonensis, or S. meliloti.
+
+### pAU20rrn
+
+https://www.ncbi.nlm.nih.gov/pubmed/26534993
+Proc Natl Acad Sci U S A. 2015 Nov 17;112(46):14343-7. doi: 10.1073/pnas.1514326112. Epub 2015 Nov 3.
+Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome.
+Anda M1, Ohtsubo Y1, Okubo T1, Sugawara M1, Nagata Y1, Tsuda M1, Minamisawa K2, Mitsui H2.
+plant-associated alphaproteobacterium, Aureimonas sp. AU20
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655564/
+Therefore, pAU20rrn represents a distinct class of replicons, which we designated the rrn-plasmid, which is coupled with an rrn-lacking chromosome (RLC).
+
+2015年11月4日
+https://www.tohoku.ac.jp/japanese/2015/11/press20151104-01.html
+染色体上からリボソームRNA遺伝子が消えた細菌を発見 ～ゲノムの常識を覆す～
+
+2017-05-20
+https://katosei.jsbba.or.jp/download_pdf.php?aid=800
+https://katosei.jsbba.or.jp/view_html.php?aid=800
+染色体にリボソームRNA遺伝子の無い環境細菌の発見予想外なゲノム構造と進化
+唯一のrrnは9.4 kbのレプリコン（pAU20rrn）に存在していた（図1A）．
+按田　瑞恵（Mizue ANDA）
 
 ----------
 ## Hi-C
@@ -81,28 +105,6 @@ MOB-suite: software tools for clustering, reconstruction and typing of plasmids 
 Robertson J1, Nash JHE2.
 
 The MOB-suite also provides replicon typing similar to plasmidfinder but with the inclusion of relaxase typing and prediction of conjugation potential.
-
-----------
-## pAU20rrn
-
-https://www.ncbi.nlm.nih.gov/pubmed/26534993
-Proc Natl Acad Sci U S A. 2015 Nov 17;112(46):14343-7. doi: 10.1073/pnas.1514326112. Epub 2015 Nov 3.
-Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome.
-Anda M1, Ohtsubo Y1, Okubo T1, Sugawara M1, Nagata Y1, Tsuda M1, Minamisawa K2, Mitsui H2.
-plant-associated alphaproteobacterium, Aureimonas sp. AU20
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655564/
-Therefore, pAU20rrn represents a distinct class of replicons, which we designated the rrn-plasmid, which is coupled with an rrn-lacking chromosome (RLC).
-
-2015年11月4日
-https://www.tohoku.ac.jp/japanese/2015/11/press20151104-01.html
-染色体上からリボソームRNA遺伝子が消えた細菌を発見 ～ゲノムの常識を覆す～
-
-2017-05-20
-https://katosei.jsbba.or.jp/download_pdf.php?aid=800
-https://katosei.jsbba.or.jp/view_html.php?aid=800
-染色体にリボソームRNA遺伝子の無い環境細菌の発見予想外なゲノム構造と進化
-唯一のrrnは9.4 kbのレプリコン（pAU20rrn）に存在していた（図1A）．
-按田　瑞恵（Mizue ANDA）
 
 ----------
 ## secretion system
