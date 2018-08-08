@@ -30,6 +30,13 @@ http://www.plasmidbiologysociety.org/plasmid-biology-2018/
 https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
 Plasmid Biology 2018 in Seattle, August 5-9.
 
+## 2018-08-08
+https://twitter.com/OxonAndrew/status/1027148431649845249
+Andrew Singer on Twitter: "Comprehensive new review: "Mobile Genetic Elements Associated with Antimicrobial Resistance" So, you think you know Mobile Genetic Elements? Sigh...perhaps not. https://t.co/ijpNRDDHoU… https://t.co/3Jyqss7sd0"
+7:04 AM - 8 Aug 2018
+
+![https://twitter.com/OxonAndrew/status/1027148431649845249](https://pbs.twimg.com/media/DkEqDhQW0AANwHb.jpg)
+
 ----------
 ## chromosomes
 複数の染色体
