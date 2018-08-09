@@ -30,13 +30,6 @@ http://www.plasmidbiologysociety.org/plasmid-biology-2018/
 https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
 Plasmid Biology 2018 in Seattle, August 5-9.
 
-## 2018-08-08
-https://twitter.com/OxonAndrew/status/1027148431649845249
-Andrew Singer on Twitter: "Comprehensive new review: "Mobile Genetic Elements Associated with Antimicrobial Resistance" So, you think you know Mobile Genetic Elements? Sigh...perhaps not. https://t.co/ijpNRDDHoU… https://t.co/3Jyqss7sd0"
-7:04 AM - 8 Aug 2018
-
-![https://twitter.com/OxonAndrew/status/1027148431649845249](https://pbs.twimg.com/media/DkEqDhQW0AANwHb.jpg)
-
 ----------
 ## chromosomes
 複数の染色体
@@ -198,7 +191,6 @@ Microbiol Mol Biol Rev. 2009 Dec;73(4):775-808. doi: 10.1128/MMBR.00023-09.
 Biological diversity of prokaryotic type IV secretion systems.
 Alvarez-Martinez CE1, Christie PJ.
 
-
 ----------
 ## 2018-08-07
 
@@ -230,6 +222,56 @@ https://www.ncbi.nlm.nih.gov/pubmed/20181243
 BMC Evol Biol. 2010 Feb 24;10:59. doi: 10.1186/1471-2148-10-59.
 Exploring the evolutionary dynamics of plasmids: the Acinetobacter pan-plasmidome.
 Fondi M1, Bacci G, Brilli M, Papaleo MC, Mengoni A, Vaneechoutte M, Dijkshoorn L, Fani R.
+
+----------
+## 2018-08-08
+
+
+Session 6: Mobile Genetic Elements (Chair: Beth Traxler)
+5:20 - 5:40 pm         Ryan Catchpole A novel conjugation system isolated from deep sea Archaea57
+https://www.ncbi.nlm.nih.gov/pubmed/28604769
+PLoS Genet. 2017 Jun 12;13(6):e1006810. doi: 10.1371/journal.pgen.1006810. eCollection 2017 Jun.
+Lokiarchaea are close relatives of Euryarchaeota, not bridging the gap between prokaryotes and eukaryotes.
+Da Cunha V1,2, Gaia M1, Gadelle D2, Nasir A3, Forterre P1,2.
+
+https://en.wikipedia.org/wiki/Phyre
+Phyre and Phyre2 (Protein Homology/AnalogY Recognition Engine; pronounced as 'fire') are web-based services for protein structure prediction
+
+
+4:00 - 4:30 pm Vincent Burrus IncC conjugative plasmids and the bestiary of genomic islands they
+mobilize54
+
+https://www.ncbi.nlm.nih.gov/pubmed/28439449
+Mob Genet Elements. 2017 Apr 12;7(2):1-6. doi: 10.1080/2159256X.2017.1304193. eCollection 2017.
+Mobilizable genomic islands, different strategies for the dissemination of multidrug resistance and other adaptive traits.
+Carraro N1,2, Rivard N1, Burrus V1, Ceccarelli D3.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28355215
+PLoS Genet. 2017 Mar 29;13(3):e1006705. doi: 10.1371/journal.pgen.1006705. eCollection 2017 Mar.
+Salmonella genomic island 1 (SGI1) reshapes the mating apparatus of IncC conjugative plasmids to promote self-propagation.
+Carraro N1, Durand R1, Rivard N1, Anquetil C1, Barrette C1, Humbert M1, Burrus V1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27435459
+MBio. 2016 Jul 19;7(4). pii: e00509-16. doi: 10.1128/mBio.00509-16.
+IncA/C Conjugative Plasmids Mobilize a New Family of Multidrug Resistance Islands in Clinical Vibrio cholerae Non-O1/Non-O139 Isolates from Haiti.
+Carraro N1, Rivard N2, Ceccarelli D3, Colwell RR4, Burrus V1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25340549
+PLoS Genet. 2014 Oct 23;10(10):e1004714. doi: 10.1371/journal.pgen.1004714. eCollection 2014 Oct.
+The master activator of IncA/C conjugative plasmids stimulates genomic islands and multidrug resistance dissemination.
+Carraro N1, Matteau D2, Luo P3, Rodrigue S2, Burrus V1.
+transcriptional activator complex AcaCD
+
+
+
+
+
+
+https://twitter.com/OxonAndrew/status/1027148431649845249
+Andrew Singer on Twitter: "Comprehensive new review: "Mobile Genetic Elements Associated with Antimicrobial Resistance" So, you think you know Mobile Genetic Elements? Sigh...perhaps not. https://t.co/ijpNRDDHoU… https://t.co/3Jyqss7sd0"
+7:04 AM - 8 Aug 2018
+
+![https://twitter.com/OxonAndrew/status/1027148431649845249](https://pbs.twimg.com/media/DkEqDhQW0AANwHb.jpg)
 
 ----------
 
