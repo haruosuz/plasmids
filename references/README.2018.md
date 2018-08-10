@@ -264,9 +264,6 @@ transcriptional activator complex AcaCD
 
 
 
-
-
-
 https://twitter.com/OxonAndrew/status/1027148431649845249
 Andrew Singer on Twitter: "Comprehensive new review: "Mobile Genetic Elements Associated with Antimicrobial Resistance" So, you think you know Mobile Genetic Elements? Sigh...perhaps not. https://t.co/ijpNRDDHoU… https://t.co/3Jyqss7sd0"
 7:04 AM - 8 Aug 2018
@@ -274,6 +271,30 @@ Andrew Singer on Twitter: "Comprehensive new review: "Mobile Genetic Elements As
 ![https://twitter.com/OxonAndrew/status/1027148431649845249](https://pbs.twimg.com/media/DkEqDhQW0AANwHb.jpg)
 
 ----------
+## 2018-08-09
+
+https://www.ncbi.nlm.nih.gov/pubmed/28586714
+Curr Opin Microbiol. 2017 Aug;38:106-113. doi: 10.1016/j.mib.2017.05.005. Epub 2017 Jun 3.
+Towards a taxonomy of conjugative plasmids.
+Fernandez-Lopez R1, Redondo S1, Garcillan-Barcia MP1, de la Cruz F2.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18461076
+Nat Rev Microbiol. 2008 Jun;6(6):431-40. doi: 10.1038/nrmicro1872. Epub 2008 May 7.
+Microbial diversity and the genetic nature of microbial species.
+Achtman M1, Wagner M.
+
+
+https://pubs.acs.org/doi/10.1021/acs.estlett.8b00105
+Estimating the Transfer Range of Plasmids Encoding Antimicrobial Resistance in a Wastewater Treatment Plant Microbial Community
+Liguan Li†, Arnaud Dechesne†, Zhiming He†, Jonas Stenløkke Madsen‡, Joseph Nesme‡, Søren J. Sørensen‡, and Barth F. Smets*† 
+
+
+http://mbio.asm.org/content/8/4/e00709-17
+The In-Feed Antibiotic Carbadox Induces Phage Gene Transcription in the Swine Gut Microbiome
+Timothy A. Johnsona, Torey Loofta, Andrew J. Severinb, Darrell O. Baylesa, Daniel J. Naskoc, K. Eric Wommackc, Adina Howed, Heather K. Allena
+
+FIGfam (isofunctional homolog sequences) and SEED subsystems databases. 
+
 
 
 
