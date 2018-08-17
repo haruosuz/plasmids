@@ -22,6 +22,14 @@ Last Update: 2018-08
 ----------
 ## 2018-08
 
+
+https://twitter.com/bootstrap_tokyo/status/1028774937962708992
+それは2,230の実験室（方法）によって寄託された42,364個のプラスミド（関連するDNA配列の197百万のnts）を含んでいた。Translate Tweet
+6:47 PM - 12 Aug 2018
+
+https://www.nature.com/articles/s41467-018-05378-z
+Deep learning to predict the lab-of-origin of engineered DNA
+
 ## 2018-08-05
 https://twitter.com/search?f=tweets&vertical=default&q=plasmid%20biology%202018
 https://twitter.com/hashtag/PlasmidBiology2018
@@ -274,6 +282,11 @@ Andrew Singer on Twitter: "Comprehensive new review: "Mobile Genetic Elements As
 ## 2018-08-09
 
 4:00 – 4:30 pm Closing Fernando de la Cruz Plasmid Art Lecture
+https://www.ncbi.nlm.nih.gov/pubmed/27663497
+Bioinformatics. 2017 Jan 15;33(2):283-285. doi: 10.1093/bioinformatics/btw601. Epub 2016 Sep 23.
+AcCNET (Accessory Genome Constellation Network): comparative genomics software for accessory genome analysis using bipartite networks.
+Lanza VF1,2,3, Baquero F1,2,3, de la Cruz F4, Coque TM1,2,3.
+
 https://www.ncbi.nlm.nih.gov/pubmed/28586714
 Curr Opin Microbiol. 2017 Aug;38:106-113. doi: 10.1016/j.mib.2017.05.005. Epub 2017 Jun 3.
 Towards a taxonomy of conjugative plasmids.
