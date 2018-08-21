@@ -6,6 +6,7 @@ Last Update: 2018-08
 # 2018
 
 ## Table of Contents
+- [featuring](#featuring)
 - [2018-08](#2018-08)
 - [chromosomes](#chromosomes)
 - [plasmids](#plasmids)
@@ -20,8 +21,32 @@ Last Update: 2018-08
 - [2018-08-07](#2018-08-07)
 
 ----------
-## 2018-08
+## featuring
 
+https://www.researchgate.net/post/How_can_we_distinguish_bacterial_chromosomes_from_plasmids
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2937521/
+Mobility of Plasmids
+
+https://www.ncbi.nlm.nih.gov/pubmed/20369015
+PLoS Comput Biol. 2010 Apr 1;6(4):e1000732. doi: 10.1371/journal.pcbi.1000732.
+Why genes evolve faster on secondary chromosomes in bacteria.
+Cooper VS1, Vohr SH, Wrocklage SC, Hatcher PJ.
+Further, in every bacterial genome with multiple chromosomes that we studied, genes on secondary chromosomes exhibited significantly weaker codon usage bias than those on primary chromosomes. Faster evolution and reduced codon bias could in turn result from global effects of chromosome position, as genes on secondary chromosomes experience reduced dosage and expression due to their delayed replication, or selection on specific gene attributes.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848543/
+Why many bacteria have multiple chromosomes is largely unknown, but a leading hypothesis is that secondary chromosomes evolved from plasmids and now serve as accessory genomes. 
+Chromosomes may originate by three different mechanisms: by the split of a single chromosome, by chromosome duplication, or by acquisition of a large plasmid with essential genes, which ensures its prolonged maintenance. Of these processes, the last has the greatest support because some secondary chromosomes have plasmid-like origins of replication [2]. 
+
+A fourth possible mechanism is that secondary chromosomes could experience inherently higher mutation rates. Although mutation rates are known to vary among genome locations, such a widespread and systematic difference would be exceptional. The delayed replication of secondary chromosomes could potentially produce such an effect if nucleotide pools vary or become limiting as a function of the cell cycle [37] or if the replication apparatus tends to require reassembly in later replication stages, which is mutagenic [38]. The probable origin of secondary chromosomes as plasmids could also lead to increased mutation rates as a consequence of their greater supercoiling, which has been associated with greater rates of mutation [39]. Of the four potential explanations that we suggest for why secondary chromosomes evolve more quickly, this one (a systematically greater mutation rate) is the most speculative but also the most experimentally tractable.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20080407
+Trends Microbiol. 2010 Apr;18(4):141-8. doi: 10.1016/j.tim.2009.12.010. Epub 2010 Jan 18.
+Introducing the bacterial 'chromid': not a chromosome, not a plasmid.
+Harrison PW1, Lower RP, Kim NK, Young JP.
+
+----------
+## 2018-08
 
 https://twitter.com/bootstrap_tokyo/status/1028774937962708992
 それは2,230の実験室（方法）によって寄託された42,364個のプラスミド（関連するDNA配列の197百万のnts）を含んでいた。Translate Tweet
