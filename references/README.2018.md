@@ -28,6 +28,11 @@ https://www.researchgate.net/post/How_can_we_distinguish_bacterial_chromosomes_f
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2937521/
 Mobility of Plasmids
 
+## mutation rate
+
+https://mbio.asm.org/content/9/4/e01371-18
+Periodic Variation of Mutation Rates in Bacterial Genomes Associated with Replication Timing | mBio
+
 https://www.ncbi.nlm.nih.gov/pubmed/20369015
 PLoS Comput Biol. 2010 Apr 1;6(4):e1000732. doi: 10.1371/journal.pcbi.1000732.
 Why genes evolve faster on secondary chromosomes in bacteria.
@@ -40,10 +45,37 @@ Chromosomes may originate by three different mechanisms: by the split of a singl
 
 A fourth possible mechanism is that secondary chromosomes could experience inherently higher mutation rates. Although mutation rates are known to vary among genome locations, such a widespread and systematic difference would be exceptional. The delayed replication of secondary chromosomes could potentially produce such an effect if nucleotide pools vary or become limiting as a function of the cell cycle [37] or if the replication apparatus tends to require reassembly in later replication stages, which is mutagenic [38]. The probable origin of secondary chromosomes as plasmids could also lead to increased mutation rates as a consequence of their greater supercoiling, which has been associated with greater rates of mutation [39]. Of the four potential explanations that we suggest for why secondary chromosomes evolve more quickly, this one (a systematically greater mutation rate) is the most speculative but also the most experimentally tractable.
 
+https://www.ncbi.nlm.nih.gov/pubmed/16689800
+Mol Microbiol. 2006 Jun;60(5):1251-61.
+The effect of promoter strength, supercoiling and secondary structure on mutation rates in Escherichia coli.
+Schmidt KH1, Reimers JM, Wright BE.
+
+
+----------
+
 https://www.ncbi.nlm.nih.gov/pubmed/20080407
 Trends Microbiol. 2010 Apr;18(4):141-8. doi: 10.1016/j.tim.2009.12.010. Epub 2010 Jan 18.
 Introducing the bacterial 'chromid': not a chromosome, not a plasmid.
 Harrison PW1, Lower RP, Kim NK, Young JP.
+
+----------
+
+https://www.ncbi.nlm.nih.gov/pubmed/23721857
+Plasmid. 2013 Sep;70(2):168-89. doi: 10.1016/j.plasmid.2013.05.004. Epub 2013 May 28.
+Thioredoxin-like proteins in F and other plasmid systems.
+Hemmis CW1, Schildbach JF.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3743251/
+In addition, we found that each of the proteins clustered into the TrbB-like family are either encoded in a conjugative plasmid or within a genomic island on a bacterial chromosome corresponding to a plasmid transfer operon, commonly referred to as integrative and conjugative elements (ICEs). 
+
+Figure 6
+Maximum-likelihood tree of thioredoxin-like proteins within MOBF plasmids. 
+
+Figure 7
+Maximum-likelihood tree of thioredoxin-like proteins within MOBH plasmids. 
+
+Figure 8
+Maximum-likelihood phylogenetic analysis of thioredoxin-like proteins within MOBP plasmids.
+
 
 ----------
 ## 2018-08
