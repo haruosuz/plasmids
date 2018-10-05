@@ -161,13 +161,58 @@ https://github.com/tiagofilipe12/pATLAS
 http://www.patlas.site
 Plasmid Atlas is a web interface that allow users to browse plasmid sequences available in the NCBI refseq database.
 
+### kazumaxneo
+http://kazumaxneo.hatenablog.com/archive/category/plasmid
+plasmid カテゴリーの記事一覧 - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2018/07/03/113439
+抗生物質耐性遺伝子や病原性遺伝子を素早く検索できる ABRicate - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2018/07/02/142609
+腸内細菌科（エンテロバクター科）のプラスミド同定ツール PlasmidFinder - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2018/05/28/203726
+NGSデータからプラスミドを検出するplasmidseeker - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2018/04/02/123713
+ロングリードを使い環状DNAかどうか調べる Circlator - macでインフォマティクス
+多くの重要な抗菌剤耐性および病原性決定因子がプラスミド上に担持され、これらの環状配列について完全で正確な情報を有することの重要性が示される。
+
+http://kazumaxneo.hatenablog.com/entry/2017/12/17/142135
+cBarでプラスミド配列を区別する - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2017/10/01/182022
+環状ゲノムを探す ccontigs - macでインフォマティクス
+ccontigsはコンティグ末端の配列がオーバーラップしているかどうか調べることで、コンティグからclosed circularなゲノムを探すツール。環状のプラスミドやウィルスを検出できるとされる。論文にはなっていない。
+
+http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
+アセンブルのgraphからプラスミドデータを検出するツール Recycler - macでインフォマティクス
+
+### mlplasmids
+
+https://www.biorxiv.org/content/early/2018/05/23/329045
+mlplasmids: a user-friendly tool to predict plasmid- and chromosome-derived sequences for single species | bioRxiv
+
+https://www.biorxiv.org/content/biorxiv/early/2018/05/23/329045.full.pdf
+We evaluated the performance of mlplasmids against PlasFlow (version 1.0), PlasmidSPAdes (version
+3.8.2) and cBar (version 1.2).
+
+### PlaScope
+
+https://www.biorxiv.org/content/early/2018/05/30/334805
+PlaScope: a targeted approach to assess the plasmidome of Escherichia coli strains | bioRxiv
+
+Compared to other plasmid classifiers, Plasflow and cBar, it achieves better recall (0.87), specificity (0.99), precision (0.96) and accuracy (0.98) on a dataset of 70 genomes containing plasmids.
+
 ### MOB-suite
 https://github.com/phac-nml/mob-suite
 
 https://www.ncbi.nlm.nih.gov/pubmed/30052170
-Microb Genom. 2018 Jul 27. doi: 10.1099/mgen.0.000206. [Epub ahead of print]
+Microb Genom. 2018 Aug;4(8). doi: 10.1099/mgen.0.000206. Epub 2018 Jul 27.
 MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
 Robertson J1, Nash JHE2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159552/
+There is a strong need for automatic tools for the detection of plasmids from WGS data and numerous tools have been developed using a diverse array of approaches [1, 4, 16–18]. 
 
 ### PlasmidSeeker
 https://github.com/bioinfo-ut/PlasmidSeeker
@@ -177,7 +222,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/29629246
 PeerJ. 2018 Apr 2;6:e4588. doi: 10.7717/peerj.4588. eCollection 2018.
 PlasmidSeeker: identification of known plasmids from bacterial whole genome sequencing reads.
 Roosaare M1, Puustusmaa M1, Möls M1,2, Vaher M1, Remm M1.
-
 
 http://kazumaxneo.hatenablog.com/entry/2018/05/28/203726
 NGSデータからプラスミドを検出するplasmidseeker - macでインフォマティクス
@@ -200,7 +244,10 @@ Krawczyk PS1,2, Lipinski L1, Dziembowski A1,2.
 
 ### [Recycler](https://github.com/Shamir-Lab/Recycler)
 - [Rozov R et al. (2017) Bioinformatics. 33(4):475-482. "Recycler: an algorithm for detecting plasmids from de novo assembly graphs."](https://www.ncbi.nlm.nih.gov/pubmed/28003256)
-- 2017-08-27 アセンブルのgraphからプラスミドデータを検出するツール Recycler - macでインフォマティクス http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
+
+http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
+アセンブルのgraphからプラスミドデータを検出するツール Recycler - macでインフォマティクス
+
 
 ### [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
   - [plasmidSPAdes - Twitter Search](https://twitter.com/search?f=tweets&vertical=default&q=plasmidSPAdes&src=typd)
@@ -224,6 +271,11 @@ Vielva L, de Toro M, Lanza VF, de la Cruz F.
   - 2017-01-23 [genomicepidemiology / PlasmidFinder — Bitbucket](https://bitbucket.org/genomicepidemiology/plasmidfinder)
   - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul "In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing."](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
 
+
+http://kazumaxneo.hatenablog.com/entry/2018/07/02/142609
+腸内細菌科（エンテロバクター科）のプラスミド同定ツール PlasmidFinder - macでインフォマティクス
+
+
 ### [cBar](http://csbl.bmb.uga.edu/~ffzhou/cBar/)
 - [Zhou F, Xu Y. Bioinformatics. 2010 Aug 15;26(16):2051-2. "cBar: a computer program to distinguish plasmid-derived from chromosome-derived sequence fragments in metagenomics data."](https://www.ncbi.nlm.nih.gov/pubmed/20538725)
 
@@ -233,6 +285,9 @@ cBarでプラスミド配列を区別する - macでインフォマティクス
 ### SnapGene
 http://www.snapgene.com
 SnapGene | Software for everyday molecular biology
+
+http://kazumaxneo.hatenablog.com/entry/2017/06/27/133058
+DNA解析ソフト1 Snapgene - macでインフォマティクス
 
 ### ApE
 ApE(A plasmid Editor)
