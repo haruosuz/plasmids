@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [featuring](#featuring)
+- [Hi-C](#hi-c)
 - [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
@@ -11,6 +12,21 @@
 ## featuring
 
 
+----------
+## Hi-C
+
+https://phasegenomics.com/hi-c-solves-the-problem-of-linking-plasmids-to-host-cells-in-a-mixed-sample/
+Hi-C solves the problem of linking plasmids to host cells in a mixed sample - Phase Genomics
+
+https://www.ncbi.nlm.nih.gov/pubmed/26104560
+Microbiol Spectr. 2015 Feb;3(1):PLAS-0038-2014. doi: 10.1128/microbiolspec.PLAS-0038-2014.
+Plasmid Detection, Characterization, and Ecology.
+Smalla K1, Jechalke S1, Top EM2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4480600/
+Figure 1
+Overview of applying Hi-C technology to a mixed bacterial population to reliably associate plasmids with the chromosomes of their hosts (modified from Burton et al. [41]).
+
+----------
 ## nucleotide composition
 - [Suzuki H et al. Molecular Life Sciences. 2014 May "Genomic Signature Analysis to Predict Plasmid Host Range."](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_574-1) | [pdf](https://link.springer.com/content/pdf/10.1007/978-1-4614-6436-5_574-1.pdf)
 - [Suzuki H et al. J Bacteriol. 2010 Nov "Predicting plasmid promiscuity based on genomic signature."](http://www.ncbi.nlm.nih.gov/pubmed/20851899) | [Supplemental material](http://jb.asm.org/content/192/22/6045/suppl/DC1)
