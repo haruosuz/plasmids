@@ -242,14 +242,6 @@ Roosaare M1, Puustusmaa M1, Möls M1,2, Vaher M1, Remm M1.
 http://kazumaxneo.hatenablog.com/entry/2018/05/28/203726
 NGSデータからプラスミドを検出するplasmidseeker - macでインフォマティクス
 
-### sirarredondo
-[Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
-
-https://www.ncbi.nlm.nih.gov/pubmed/29177087
-Microb Genom. 2017 Aug 18;3(10):e000128. doi: 10.1099/mgen.0.000128. eCollection 2017 Oct.
-On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data.
-Arredondo-Alonso S1, Willems RJ1, van Schaik W1,2, Schürch AC1.
-
 ### PlasFlow
 https://github.com/smaegol/PlasFlow
 
@@ -258,7 +250,20 @@ Nucleic Acids Res. 2018 Jan 13. doi: 10.1093/nar/gkx1321. [Epub ahead of print]
 PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures.
 Krawczyk PS1,2, Lipinski L1, Dziembowski A1,2.
 
+### sirarredondo
+[Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
+
+https://www.ncbi.nlm.nih.gov/pubmed/29177087
+Microb Genom. 2017 Aug 18;3(10):e000128. doi: 10.1099/mgen.0.000128. eCollection 2017 Oct.
+On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data.
+Arredondo-Alonso S1, Willems RJ1, van Schaik W1,2, Schürch AC1.
+
 ### [Recycler](https://github.com/Shamir-Lab/Recycler)
+https://www.ncbi.nlm.nih.gov/pubmed/28003256
+Bioinformatics. 2017 Feb 15;33(4):475-482. doi: 10.1093/bioinformatics/btw651.
+Recycler: an algorithm for detecting plasmids from de novo assembly graphs.
+Rozov R1, Brown Kav A2, Bogumil D2, Shterzer N2, Halperin E1,3,4, Mizrahi I2, Shamir R1.
+
 - [Rozov R et al. (2017) Bioinformatics. 33(4):475-482. "Recycler: an algorithm for detecting plasmids from de novo assembly graphs."](https://www.ncbi.nlm.nih.gov/pubmed/28003256)
 
 http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
@@ -339,16 +344,31 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067460/table/t1/
 cNA, not applicable; integrated in host chromosome.
 
 ## resistance
+
+https://holtlab.net/tag/antibiotic-resistance/
+antibiotic resistance | Holt Lab
+
 https://www.ncbi.nlm.nih.gov/protein/AMP50525
 TrfA protein [uncultured bacterium]
 https://www.ncbi.nlm.nih.gov/pubmed/27172044
 Nature. 2016 May 12;533(7602):212-6. 
 Interconnected microbiomes and resistomes in low-income human habitats.
 
-- [Conlan S et al. Sci Transl Med. 2014 Sep 17. "Single-molecule sequencing to track plasmid diversity of hospital-associated carbapenemase-producing Enterobacteriaceae."](https://www.ncbi.nlm.nih.gov/pubmed/25232178)
+https://www.ncbi.nlm.nih.gov/pubmed/25232178
+Sci Transl Med. 2014 Sep 17;6(254):254ra126. doi: 10.1126/scitranslmed.3009845.
+Single-molecule sequencing to track plasmid diversity of hospital-associated carbapenemase-producing Enterobacteriaceae.
+Conlan S1, Thomas PJ2, Deming C1, Park M2, Lau AF3, Dekker JP3, Snitkin ES1, Clark TA4, Luong K4, Song Y4, Tsai YC4, Boitano M4, Dayal J2, Brooks SY2, Schmidt B2, Young AC2, Thomas JW2, Bouffard GG2, Blakesley RW2; NISC Comparative Sequencing Program, Mullikin JC2, Korlach J4, Henderson DK3, Frank KM5, Palmore TN5, Segre JA6.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4203314/#SD1
+NIHMS631653-supplement-SuppFiles.doc
+```
+In addition, an estimated copy number for each plasmid relative to the chromosome was determined from average depths of PacBio and MiSeq reads (Table S1& S4). Interestingly, most plasmids were present in relatively low copy number (1-3).    
 
-https://holtlab.net/tag/antibiotic-resistance/
-antibiotic resistance | Holt Lab
+Supplemental Tables
+
+Table S1: Assembly metrics. SMRT sequencing and HGAP de novo genome assembly metrics of 20 isolates.
+
+Table S4: Plasmid copy number. Estimated Copy Number of Plasmids from Relative Depth of MiSeq Reads
+```
 
 ### NDM-1
 New Delhi metallo-β-lactamase-1 (NDM-1)
