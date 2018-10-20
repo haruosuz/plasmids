@@ -2,14 +2,43 @@
 
 ## Table of Contents
 - [featuring](#featuring)
-- [Hi-C](#hi-c)
 - [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
+- [Hi-C](#hi-c)
 - [tools](#tools)
 
 ----------
 ## featuring
+
+
+
+----------
+
+## updates
+
+### 2018
+
+https://www.ncbi.nlm.nih.gov/pubmed/29650391
+Trends Microbiol. 2018 Apr 10. pii: S0966-842X(18)30067-2. doi: 10.1016/j.tim.2018.03.004. [Epub ahead of print]
+Convergent Evolution in Intracellular Elements: Plasmids as Model Endosymbionts.
+Dietel AK1, Kaltenpoth M2, Kost C3.
+REVIEW
+
+https://www.biorxiv.org/content/early/2018/06/06/262956
+KrakenHLL: Confident and fast metagenomics classification using unique k-mer counts | bioRxiv
+A taxonomic node may also be added for each sequence – e.g. specific bacterial chromosomes or plasmids.
+https://www.biorxiv.org/content/biorxiv/early/2018/06/06/262956.full.pdf
+KrakenHLL allows extending the taxonomy with virtual nodes for genomes,
+311 chromosomes and plasmids, and thus enabling identifications at the most specific levels
+312 (see Suppl. Methods Section 3)
+
+
+https://twitter.com/WvSchaik/status/562549766790594560
+Willem van Schaik on Twitter: "@pathogenomenick @koadman @daanspeth I guess could vary in broad-host range plasmid (different copy number in different bugs)"
+4:54 AM - 3 Feb 2015
+
+### 2017
 
 
 ----------
@@ -54,39 +83,6 @@ Mrázek J
 - [Peixoto L et al. Gene. 2003 Nov 27 "The strength of translational selection for codon usage varies in the three replicons of Sinorhizobium meliloti."](https://www.ncbi.nlm.nih.gov/pubmed/14597394)
 
 
-----------
-
-## updates
-
-### 2018
-
-https://www.ncbi.nlm.nih.gov/pubmed/29650391
-Trends Microbiol. 2018 Apr 10. pii: S0966-842X(18)30067-2. doi: 10.1016/j.tim.2018.03.004. [Epub ahead of print]
-Convergent Evolution in Intracellular Elements: Plasmids as Model Endosymbionts.
-Dietel AK1, Kaltenpoth M2, Kost C3.
-REVIEW
-
-https://twitter.com/danieljhurley_/status/974311478617690112
-Daniel Hurley on Twitter: "PlasmidTron from @andrewjpage et. al. https://t.co/d8StxrIp0u https://t.co/VFOES7jwH6… "
-PlasmidTron: assembling the cause of phenotypes and genotypes from NGS data
-http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000164
-
-https://www.biorxiv.org/content/early/2018/02/09/262956
-KrakenHLL: Confident and fast metagenomics classification using unique k-mer counts | bioRxiv
-A taxonomic node may also be added for each sequence – e.g. specific bacterial chromosomes or plasmids.
-
-https://twitter.com/WvSchaik/status/562549766790594560
-Willem van Schaik on Twitter: "@pathogenomenick @koadman @daanspeth I guess could vary in broad-host range plasmid (different copy number in different bugs)"
-4:54 AM - 3 Feb 2015
-
-### 2017
-
-### 2016
-
-### 2015
-
-
-
 ## host range
 宿主域
 
@@ -116,24 +112,33 @@ IS transposition directly leading to an expansion of the effective host range of
 
 ----------
 
-
-https://www.omicsonline.org/open-access/role-of-plasmids-in-microbiology-2155-9546-1000466.php?aid=85578
-(2017) Role of Plasmids in Microbiology. J Aquac Res Development 8: 466.
-
 ## review
-
-http://www.sciencedirect.com/science/article/pii/S0147619X16301135
-May 2017, Review
-Annotation of plasmid genes
 
 https://www.ncbi.nlm.nih.gov/pubmed/28586714
 Curr Opin Microbiol. 2017 Jun 3;38:106-113. doi: 10.1016/j.mib.2017.05.005. [Epub ahead of print]
 Towards a taxonomy of conjugative plasmids.
 Fernandez-Lopez R1, Redondo S1, Garcillan-Barcia MP1, de la Cruz F2.
-
 Natural transformation, phage transduction, and bacterial conjugation are three main routes of HGT in bacteria.
 
-- [Orlek A et al. Front Microbiol. 2017 Feb 9 "Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology"](https://www.ncbi.nlm.nih.gov/pubmed/28232822)
+https://www.ncbi.nlm.nih.gov/pubmed/28365184
+Plasmid. 2017 May;91:61-67. doi: 10.1016/j.plasmid.2017.03.006. Epub 2017 Mar 30.
+Annotation of plasmid genes.
+Thomas CM1, Thomson NR2, Cerdeño-Tárraga AM2, Brown CJ3, Top EM3, Frost LS4.
+Review
+
+Review Article
+February 10, 2017
+https://www.omicsonline.org/open-access/role-of-plasmids-in-microbiology-2155-9546-1000466.php?aid=85578
+(2017) Role of Plasmids in Microbiology. J Aquac Res Development 8: 466.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28232822
+Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
+Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology.
+Orlek A1, Stoesser N2, Anjum MF3, Doumith M4, Ellington MJ5, Peto T1, Crook D1, Woodford N5, Walker AS1, Phan H1, Sheppard AE1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
+Table 2
+Summary of common in silico tools used for plasmid analysis.
+
 - 2015-03 [新谷政己，金原和秀．環境バイオテクノロジー学会誌 14(2), 81-86. "プラスミドゲノミクス~全塩基配列解読済のプラスミドデータベースの整備" Genomics of Plasmids](http://ci.nii.ac.jp/naid/40020727466) | [PDF](http://www.jseb.jp/jeb/14-02/14-02-081.pdf)
 - [Shintani M et al. Front Microbiol. 2015 Mar "Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy."](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
 - 2013-12 [新谷 政己, 松井 一泰, 金原 和秀, 野尻 秀昭. 環境バイオテクノロジー学会誌 13(2), 125-134. "環境中におけるプラスミドの挙動解析" Comparisons of Conjugation Frequency in Different Environmental Conditions](http://ci.nii.ac.jp/naid/40020320833) | [PDF](http://www.jseb.jp/jeb/13-02/13-02-125.pdf)
@@ -156,7 +161,6 @@ Front Microbiol. 2013 Mar 7;4:44. doi: 10.3389/fmicb.2013.00044. eCollection 201
 Broad-host-range IncP-1 plasmids and their resistance potential.
 Popowska M1, Krawczyk-Balska A.
 
-
 ## data
 
 https://www.ncbi.nlm.nih.gov/pubmed/28286183
@@ -169,40 +173,12 @@ Data Brief. 2017 Apr 23;12:423-426.
 A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI nucleotide database.
 Orlek A et al.
 
-
 ## tools
 [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
 
 https://github.com/tiagofilipe12/pATLAS
 http://www.patlas.site
 Plasmid Atlas is a web interface that allow users to browse plasmid sequences available in the NCBI refseq database.
-
-### kazumaxneo
-http://kazumaxneo.hatenablog.com/archive/category/plasmid
-plasmid カテゴリーの記事一覧 - macでインフォマティクス
-
-http://kazumaxneo.hatenablog.com/entry/2018/07/03/113439
-抗生物質耐性遺伝子や病原性遺伝子を素早く検索できる ABRicate - macでインフォマティクス
-
-http://kazumaxneo.hatenablog.com/entry/2018/07/02/142609
-腸内細菌科（エンテロバクター科）のプラスミド同定ツール PlasmidFinder - macでインフォマティクス
-
-http://kazumaxneo.hatenablog.com/entry/2018/05/28/203726
-NGSデータからプラスミドを検出するplasmidseeker - macでインフォマティクス
-
-http://kazumaxneo.hatenablog.com/entry/2018/04/02/123713
-ロングリードを使い環状DNAかどうか調べる Circlator - macでインフォマティクス
-多くの重要な抗菌剤耐性および病原性決定因子がプラスミド上に担持され、これらの環状配列について完全で正確な情報を有することの重要性が示される。
-
-http://kazumaxneo.hatenablog.com/entry/2017/12/17/142135
-cBarでプラスミド配列を区別する - macでインフォマティクス
-
-http://kazumaxneo.hatenablog.com/entry/2017/10/01/182022
-環状ゲノムを探す ccontigs - macでインフォマティクス
-ccontigsはコンティグ末端の配列がオーバーラップしているかどうか調べることで、コンティグからclosed circularなゲノムを探すツール。環状のプラスミドやウィルスを検出できるとされる。論文にはなっていない。
-
-http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
-アセンブルのgraphからプラスミドデータを検出するツール Recycler - macでインフォマティクス
 
 ### mlplasmids
 
@@ -230,6 +206,8 @@ Robertson J1, Nash JHE2.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159552/
 There is a strong need for automatic tools for the detection of plasmids from WGS data and numerous tools have been developed using a diverse array of approaches [1, 4, 16–18]. 
 
+PlasFlowの論文（17.）は、引用されているものの、議論されていない。
+
 ### PlasmidSeeker
 https://github.com/bioinfo-ut/PlasmidSeeker
 A k-mer based program for the identification of known plasmids from bacterial whole genome sequencing reads
@@ -238,9 +216,32 @@ https://www.ncbi.nlm.nih.gov/pubmed/29629246
 PeerJ. 2018 Apr 2;6:e4588. doi: 10.7717/peerj.4588. eCollection 2018.
 PlasmidSeeker: identification of known plasmids from bacterial whole genome sequencing reads.
 Roosaare M1, Puustusmaa M1, Möls M1,2, Vaher M1, Remm M1.
+The PlasmidSeeker algorithm is based on k-mers and uses k-mer abundance to distinguish between plasmid and bacterial sequences. 
 
 http://kazumaxneo.hatenablog.com/entry/2018/05/28/203726
 NGSデータからプラスミドを検出するplasmidseeker - macでインフォマティクス
+
+### plasmidtron
+https://github.com/sanger-pathogens/plasmidtron
+
+https://www.ncbi.nlm.nih.gov/pubmed/29533742
+Microb Genom. 2018 Mar 12. doi: 10.1099/mgen.0.000164. [Epub ahead of print]
+PlasmidTron: assembling the cause of phenotypes and genotypes from NGS data.
+Page AJ1,2, Wailan A1, Shao Y1, Judge K1, Dougan G3,1, Klemm EJ1, Thomson NR4,1, Keane JA1.
+PlasmidTron uses a k-mer-based approach to identify reads associated with a phylogenetically unlinked phenotype. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5885016/
+Recently a number of methods have been developed to address the problem of assembling mobile genetic elements from next generation sequencing (NGS) data [1].
+plasmidSPAdes[2] 
+Unicycler [3] 
+Recycler [5] 
+
+https://twitter.com/pathogenomenick/status/978273798687477763
+Nick Loman on Twitter: ".@andrewjpage - @TheQuadram's new Head of Informatics presenting his open wares to the @MRCClimb quarterly strategy meeting: 1. Docker containers for MLST software evaluation: https://t.co/1Qy0qCIVdd 2. PlasmidTron - k-mer approaches to detect plasmids: https://t.co/ZoFHCAhT5N… https://t.co/kBZ066JeyH"
+10:13 AM - 26 Mar 2018
+
+https://twitter.com/andrewjpage/status/908946651548717056
+Andrew Page on Twitter: "Check out our latest paper PlasmidTron, it's like GWAS but focused on assembling MGEs https://t.co/B2T3d0ZU0k"
+2:52 AM - 16 Sep 2017
 
 ### PlasFlow
 https://github.com/smaegol/PlasFlow
@@ -250,6 +251,12 @@ Nucleic Acids Res. 2018 Jan 13. doi: 10.1093/nar/gkx1321. [Epub ahead of print]
 PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures.
 Krawczyk PS1,2, Lipinski L1, Dziembowski A1,2.
 
+### 
+https://www.ncbi.nlm.nih.gov/pubmed/29220507
+Brief Bioinform. 2017 Dec 5. doi: 10.1093/bib/bbx162. [Epub ahead of print]
+Assessing the heterogeneity of in silico plasmid predictions based on whole-genome-sequenced clinical isolates.
+Laczny CC, Galata V, Plum A, Posch AE, Keller A.
+
 ### sirarredondo
 [Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
 
@@ -257,6 +264,10 @@ https://www.ncbi.nlm.nih.gov/pubmed/29177087
 Microb Genom. 2017 Aug 18;3(10):e000128. doi: 10.1099/mgen.0.000128. eCollection 2017 Oct.
 On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data.
 Arredondo-Alonso S1, Willems RJ1, van Schaik W1,2, Schürch AC1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695206/
+Table 1.
+Overview of the programs to predict plasmids from short-read sequencing data
+
 
 ### [Recycler](https://github.com/Shamir-Lab/Recycler)
 https://www.ncbi.nlm.nih.gov/pubmed/28003256
@@ -292,10 +303,8 @@ Vielva L, de Toro M, Lanza VF, de la Cruz F.
   - 2017-01-23 [genomicepidemiology / PlasmidFinder — Bitbucket](https://bitbucket.org/genomicepidemiology/plasmidfinder)
   - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul "In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing."](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
 
-
 http://kazumaxneo.hatenablog.com/entry/2018/07/02/142609
 腸内細菌科（エンテロバクター科）のプラスミド同定ツール PlasmidFinder - macでインフォマティクス
-
 
 ### [cBar](http://csbl.bmb.uga.edu/~ffzhou/cBar/)
 - [Zhou F, Xu Y. Bioinformatics. 2010 Aug 15;26(16):2051-2. "cBar: a computer program to distinguish plasmid-derived from chromosome-derived sequence fragments in metagenomics data."](https://www.ncbi.nlm.nih.gov/pubmed/20538725)
@@ -321,6 +330,38 @@ ApE(A plasmid Editor)
 
 ### [Addgene](https://www.addgene.org) non-profit plasmid repository
 - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
+
+
+### kazumaxneo
+http://kazumaxneo.hatenablog.com/archive/category/plasmid
+plasmid カテゴリーの記事一覧 - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2018/07/03/113439
+抗生物質耐性遺伝子や病原性遺伝子を素早く検索できる ABRicate - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2018/07/02/142609
+腸内細菌科（エンテロバクター科）のプラスミド同定ツール PlasmidFinder - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2018/05/28/203726
+NGSデータからプラスミドを検出するplasmidseeker - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2018/04/02/123713
+ロングリードを使い環状DNAかどうか調べる Circlator - macでインフォマティクス
+多くの重要な抗菌剤耐性および病原性決定因子がプラスミド上に担持され、これらの環状配列について完全で正確な情報を有することの重要性が示される。
+
+http://kazumaxneo.hatenablog.com/entry/2017/12/17/142135
+cBarでプラスミド配列を区別する - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2017/10/01/182022
+環状ゲノムを探す ccontigs - macでインフォマティクス
+ccontigsはコンティグ末端の配列がオーバーラップしているかどうか調べることで、コンティグからclosed circularなゲノムを探すツール。環状のプラスミドやウィルスを検出できるとされる。論文にはなっていない。
+
+http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
+アセンブルのgraphからプラスミドデータを検出するツール Recycler - macでインフォマティクス
+
+
+
+
 
 
 
