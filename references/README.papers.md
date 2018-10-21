@@ -359,11 +359,26 @@ ccontigsはコンティグ末端の配列がオーバーラップしているか
 http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
 アセンブルのgraphからプラスミドデータを検出するツール Recycler - macでインフォマティクス
 
+### plasmidome
+プラスミド・メタゲノム解析
 
+https://www.ncbi.nlm.nih.gov/pubmed/30341451
+Curr Microbiol. 2018 Oct 19. doi: 10.1007/s00284-018-1581-2. [Epub ahead of print]
+Comparative Genomics of Lactobacillus brevis Reveals a Significant Plasmidome Overlap of Brewery and Insect Isolates.
+Fraunhofer ME1, Geißler AJ1, Behr J1,2, Vogel RF3.
 
+https://www.ncbi.nlm.nih.gov/pubmed/27861983
+Ann N Y Acad Sci. 2017 Jan;1388(1):26-41. doi: 10.1111/nyas.13282. Epub 2016 Nov 10.
+Genomic and metagenomic technologies to explore the antibiotic resistance mobilome.
+Martínez JL1, Coque TM2,3,4, Lanza VF2,3,4, de la Cruz F5, Baquero F2,3,4.
+https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.13282
+analysis of plasmid metagenomes is still in its infancy. 
 
-
-
+- [Li AD et al. Front Microbiol. 2015 Sep 24. "Exploring antibiotic resistance genes and metal resistance genes in plasmid metagenomes from wastewater treatment plants."](https://www.ncbi.nlm.nih.gov/pubmed/26441947)
+- [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
+- [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
+- [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
+- [Jones BV, Marchesi JR. Nat Methods. 2007 Jan. "Transposon-aided capture (TRACA) of plasmids resident in the human gut mobile metagenome."](https://www.ncbi.nlm.nih.gov/pubmed/17128268)
 
 ## Plasmid Copy Number
 - [Plasmid copy number - Wikipedia](https://en.wikipedia.org/wiki/Plasmid_copy_number)
@@ -511,14 +526,6 @@ Microbiol Mol Biol Rev. 2001 Dec;65(4):481-96, table of contents.
 Comparative biology of IncQ and IncQ-like plasmids.
 Rawlings DE1, Tietze E.
 
-### Plasmidome
-- [Martínez et al. 2016 November "Genomic and metagenomic technologies to explore the antibiotic resistance mobilome"](http://onlinelibrary.wiley.com/doi/10.1111/nyas.13282/full)
-analysis of plasmid metagenomes is still in its infancy. プラスミド・メタゲノム解析
-- [Li AD et al. Front Microbiol. 2015 Sep 24. "Exploring antibiotic resistance genes and metal resistance genes in plasmid metagenomes from wastewater treatment plants."](https://www.ncbi.nlm.nih.gov/pubmed/26441947)
-- [Welcome to the plasmidome. Nat Rev Microbiol. 2012 May](http://www.ncbi.nlm.nih.gov/pubmed/22580363)
-- [Insights into the bovine rumen plasmidome. Proc Natl Acad Sci U S A. 2012 Apr](http://www.ncbi.nlm.nih.gov/pubmed/22431592)
-- [Evolutionary, ecological and biotechnological perspectives on plasmids resident in the human gut mobile metagenome. Bioeng Bugs. 2012 Jan](http://www.ncbi.nlm.nih.gov/pubmed/22126801)
-- [Jones BV, Marchesi JR. Nat Methods. 2007 Jan. "Transposon-aided capture (TRACA) of plasmids resident in the human gut mobile metagenome."](https://www.ncbi.nlm.nih.gov/pubmed/17128268)
 
 ### HGT
 horizontal gene transfer (HGT) 
