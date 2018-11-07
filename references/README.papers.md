@@ -163,6 +163,11 @@ Popowska M1, Krawczyk-Balska A.
 
 ## data
 
+https://www.ncbi.nlm.nih.gov/pubmed/30380090
+Nucleic Acids Res. 2018 Oct 31. doi: 10.1093/nar/gky1050. [Epub ahead of print]
+PLSDB: a resource of complete bacterial plasmids.
+Galata V1, Fehlmann T1, Backes C1, Keller A1.
+
 https://www.ncbi.nlm.nih.gov/pubmed/28286183
 Plasmid. 2017 May;91:42-52.
 Ordering the mob: Insights into replicon and MOB typing schemes from analysis of a curated dataset of publicly available plasmids.
@@ -416,7 +421,7 @@ Single-molecule sequencing to track plasmid diversity of hospital-associated car
 Conlan S1, Thomas PJ2, Deming C1, Park M2, Lau AF3, Dekker JP3, Snitkin ES1, Clark TA4, Luong K4, Song Y4, Tsai YC4, Boitano M4, Dayal J2, Brooks SY2, Schmidt B2, Young AC2, Thomas JW2, Bouffard GG2, Blakesley RW2; NISC Comparative Sequencing Program, Mullikin JC2, Korlach J4, Henderson DK3, Frank KM5, Palmore TN5, Segre JA6.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4203314/#SD1
 NIHMS631653-supplement-SuppFiles.doc
-```
+
 In addition, an estimated copy number for each plasmid relative to the chromosome was determined from average depths of PacBio and MiSeq reads (Table S1& S4). Interestingly, most plasmids were present in relatively low copy number (1-3).    
 
 Supplemental Tables
@@ -424,7 +429,6 @@ Supplemental Tables
 Table S1: Assembly metrics. SMRT sequencing and HGAP de novo genome assembly metrics of 20 isolates.
 
 Table S4: Plasmid copy number. Estimated Copy Number of Plasmids from Relative Depth of MiSeq Reads
-```
 
 ### NDM-1
 New Delhi metallo-β-lactamase-1 (NDM-1)
