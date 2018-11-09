@@ -189,6 +189,12 @@ Orlek A et al.
 
 ### pATLAS
 
+November 2018
+https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1073/5160973
+Plasmid ATLAS: plasmid visual analytics and identification in high-throughput sequencing data
+
+http://www.patlas.site/
+
 https://twitter.com/WvSchaik/status/1060486271557091328
 Willem van Schaik on Twitter: "Very interesting tool by @jacarrico: 'Plasmid ATLAS: plasmid visual analytics and identification in high-throughput sequencing data' https://t.co/CWIAoV3449"
 5:56 AM - 8 Nov 2018
