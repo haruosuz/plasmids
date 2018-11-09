@@ -163,6 +163,12 @@ Popowska M1, Krawczyk-Balska A.
 
 ## data
 
+https://twitter.com/BioMickWatson/status/1055412464039460865
+Mick Watson on Twitter: "Best database of microbial plasmid sequences?"
+6:55 AM - 25 Oct 2018
+
+not sure if "best" but: pATLAS (http://www.patlas.site/ ) and our, recently created, database PLSDB (https://ccb-microbe.cs.uni-saarland.de/plsdb/ )
+
 https://www.ncbi.nlm.nih.gov/pubmed/30380090
 Nucleic Acids Res. 2018 Oct 31. doi: 10.1093/nar/gky1050. [Epub ahead of print]
 PLSDB: a resource of complete bacterial plasmids.
@@ -180,6 +186,12 @@ Orlek A et al.
 
 ## tools
 [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
+
+### pATLAS
+
+https://twitter.com/WvSchaik/status/1060486271557091328
+Willem van Schaik on Twitter: "Very interesting tool by @jacarrico: 'Plasmid ATLAS: plasmid visual analytics and identification in high-throughput sequencing data' https://t.co/CWIAoV3449"
+5:56 AM - 8 Nov 2018
 
 https://github.com/tiagofilipe12/pATLAS
 http://www.patlas.site
