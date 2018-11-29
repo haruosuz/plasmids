@@ -40,6 +40,36 @@ Willem van Schaik on Twitter: "@pathogenomenick @koadman @daanspeth I guess coul
 
 ### 2017
 
+----------
+
+## mutation rate
+
+https://mbio.asm.org/content/9/4/e01371-18
+Periodic Variation of Mutation Rates in Bacterial Genomes Associated with Replication Timing | mBio
+
+https://www.ncbi.nlm.nih.gov/pubmed/20369015
+PLoS Comput Biol. 2010 Apr 1;6(4):e1000732. doi: 10.1371/journal.pcbi.1000732.
+Why genes evolve faster on secondary chromosomes in bacteria.
+Cooper VS1, Vohr SH, Wrocklage SC, Hatcher PJ.
+Further, in every bacterial genome with multiple chromosomes that we studied, genes on secondary chromosomes exhibited significantly weaker codon usage bias than those on primary chromosomes. Faster evolution and reduced codon bias could in turn result from global effects of chromosome position, as genes on secondary chromosomes experience reduced dosage and expression due to their delayed replication, or selection on specific gene attributes.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848543/
+Why many bacteria have multiple chromosomes is largely unknown, but a leading hypothesis is that secondary chromosomes evolved from plasmids and now serve as accessory genomes. 
+Chromosomes may originate by three different mechanisms: by the split of a single chromosome, by chromosome duplication, or by acquisition of a large plasmid with essential genes, which ensures its prolonged maintenance. Of these processes, the last has the greatest support because some secondary chromosomes have plasmid-like origins of replication [2]. 
+
+A fourth possible mechanism is that secondary chromosomes could experience inherently higher mutation rates. Although mutation rates are known to vary among genome locations, such a widespread and systematic difference would be exceptional. The delayed replication of secondary chromosomes could potentially produce such an effect if nucleotide pools vary or become limiting as a function of the cell cycle [37] or if the replication apparatus tends to require reassembly in later replication stages, which is mutagenic [38]. The probable origin of secondary chromosomes as plasmids could also lead to increased mutation rates as a consequence of their greater supercoiling, which has been associated with greater rates of mutation [39]. Of the four potential explanations that we suggest for why secondary chromosomes evolve more quickly, this one (a systematically greater mutation rate) is the most speculative but also the most experimentally tractable.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16689800
+Mol Microbiol. 2006 Jun;60(5):1251-61.
+The effect of promoter strength, supercoiling and secondary structure on mutation rates in Escherichia coli.
+Schmidt KH1, Reimers JM, Wright BE.
+
+----------
+
+https://www.ncbi.nlm.nih.gov/pubmed/20080407
+Trends Microbiol. 2010 Apr;18(4):141-8. doi: 10.1016/j.tim.2009.12.010. Epub 2010 Jan 18.
+Introducing the bacterial 'chromid': not a chromosome, not a plasmid.
+Harrison PW1, Lower RP, Kim NK, Young JP.
 
 ----------
 ## Hi-C
@@ -184,6 +214,20 @@ Data Brief. 2017 Apr 23;12:423-426.
 A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI nucleotide database.
 Orlek A et al.
 
+### aclame
+http://aclame.ulb.ac.be/
+
+https://www.ncbi.nlm.nih.gov/pubmed/17064288
+FEMS Microbiol Rev. 2006 Nov;30(6):980-94.
+A first global analysis of plasmid encoded proteins in the ACLAME database.
+Leplae R1, Lima-Mendez G, Toussaint A.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19933762
+Nucleic Acids Res. 2010 Jan;38(Database issue):D57-61. doi: 10.1093/nar/gkp938. Epub 2009 Nov 23.
+ACLAME: a CLAssification of Mobile genetic Elements, update 2010.
+Leplae R1, Lima-Mendez G, Toussaint A.
+
+
 ## tools
 [Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
 
@@ -244,7 +288,7 @@ The PlasmidSeeker algorithm is based on k-mers and uses k-mer abundance to disti
 http://kazumaxneo.hatenablog.com/entry/2018/05/28/203726
 NGSデータからプラスミドを検出するplasmidseeker - macでインフォマティクス
 
-### plasmidtron
+### PlasmidTron
 https://github.com/sanger-pathogens/plasmidtron
 
 https://www.ncbi.nlm.nih.gov/pubmed/29533742
@@ -303,23 +347,31 @@ Rozov R1, Brown Kav A2, Bogumil D2, Shterzer N2, Halperin E1,3,4, Mizrahi I2, Sh
 http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
 アセンブルのgraphからプラスミドデータを検出するツール Recycler - macでインフォマティクス
 
-
 ### [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
   - [plasmidSPAdes - Twitter Search](https://twitter.com/search?f=tweets&vertical=default&q=plasmidSPAdes&src=typd)
-  - [Antipov D et al. Bioinformatics. 2016 Jul "plasmidSPAdes: Assembling Plasmids from Whole Genome Sequencing Data."](http://www.ncbi.nlm.nih.gov/pubmed/27466620)
   - [SPAdes – Center for Algorithmic Biotechnology](http://cab.spbu.ru/software/spades/)
     - [SPAdes 3.10.1 Manual](http://cab.spbu.ru/files/release3.10.1/manual.html)
   - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
     - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
 
-### PLACNET (PLAsmid Constellation NET)
+https://www.ncbi.nlm.nih.gov/pubmed/27466620
+Bioinformatics. 2016 Nov 15;32(22):3380-3387. Epub 2016 Jul 27.
+plasmidSPAdes: assembling plasmids from whole genome sequencing data.
+Antipov D1, Hartwick N2, Shen M3, Raiko M2, Lapidus A1, Pevzner PA1,2
 
+
+### PLACNET (PLAsmid Constellation NET)
+  - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
+
+https://www.ncbi.nlm.nih.gov/pubmed/29036591
 Bioinformatics. 2017 Dec 1;33(23):3796-3798. doi: 10.1093/bioinformatics/btx462.
 PLACNETw: a web-based tool for plasmid reconstruction from bacterial genomes.
-Vielva L, de Toro M, Lanza VF, de la Cruz F.
+Vielva L1, de Toro M2, Lanza VF3, de la Cruz F4.
 
-  - [Lanza VF,, de la Cruz F et al. PLoS Genet. 2014 Dec "Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences."](http://www.ncbi.nlm.nih.gov/pubmed/25522143)
-  - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
+http://www.ncbi.nlm.nih.gov/pubmed/25522143
+PLoS Genet. 2014 Dec 18;10(12):e1004766. doi: 10.1371/journal.pgen.1004766. eCollection 2014 Dec.
+Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences.
+Lanza VF1, de Toro M1, Garcillán-Barcia MP1, Mora A2, Blanco J2, Coque TM3, de la Cruz F1.
 
 ### [PlasmidFinder 1.3](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
   - Updated 20 February 2017 [downloading databases](https://cge.cbs.dtu.dk//services/data.php)
@@ -589,6 +641,19 @@ Halary S1, Leigh JW, Cheaib B, Lopez P, Bapteste E.
 
 http://www.nougaku.jp/award/2016/3Masaki%20Shintani.pdf
 環境微生物間における可動性遺伝因子の動態に関する研究新谷 政己(静岡大学学術院工学領域)
+
+2018.06.25 
+https://www.sbj.or.jp/sbj/sbj_vol96_no01.html
+生物工学会誌 – 96巻1号 | 公益社団法人 日本生物工学会
+「プラスミドパラドックス」～プラスミドはなぜ「生き残って」いる？～
+新谷 政己
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9601/9601_biomedia_1.pdf
+「プラスミドパラドックス」
+compensated mutation（代償的変異）
+以上のことは，少なくとも複数のプラスミドの宿主は，たとえ選択圧がなくとも，染色体・プラスミドの遺伝子に代償的変異を生じさせ，プラスミドを「生き残らせる」よう進化することを示唆している．
+
+
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/27385827
 Proc Natl Acad Sci U S A. 2016 Jul 19;113(29):8260-5. doi: 10.1073/pnas.1600974113. Epub 2016 Jul 6.
