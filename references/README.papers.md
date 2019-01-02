@@ -169,8 +169,16 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
 Table 2
 Summary of common in silico tools used for plasmid analysis.
 
-- 2015-03 [新谷政己，金原和秀．環境バイオテクノロジー学会誌 14(2), 81-86. "プラスミドゲノミクス~全塩基配列解読済のプラスミドデータベースの整備" Genomics of Plasmids](http://ci.nii.ac.jp/naid/40020727466) | [PDF](http://www.jseb.jp/jeb/14-02/14-02-081.pdf)
-- [Shintani M et al. Front Microbiol. 2015 Mar "Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy."](http://www.ncbi.nlm.nih.gov/pubmed/25873913)
+2015-03
+http://ci.nii.ac.jp/naid/40020727466
+新谷政己，金原和秀．環境バイオテクノロジー学会誌 14(2), 81-86. "プラスミドゲノミクス~全塩基配列解読済のプラスミドデータベースの整備" Genomics of Plasmids
+https://www.jseb.jp/wordpress/wp-content/uploads/14-02-081.pdf
+
+https://www.ncbi.nlm.nih.gov/pubmed/25873913
+Front Microbiol. 2015 Mar 31;6:242. doi: 10.3389/fmicb.2015.00242. eCollection 2015.
+Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy.
+Shintani M1, Sanchez ZK2, Kimbara K2.
+
 - 2013-12 [新谷 政己, 松井 一泰, 金原 和秀, 野尻 秀昭. 環境バイオテクノロジー学会誌 13(2), 125-134. "環境中におけるプラスミドの挙動解析" Comparisons of Conjugation Frequency in Different Environmental Conditions](http://ci.nii.ac.jp/naid/40020320833) | [PDF](http://www.jseb.jp/jeb/13-02/13-02-125.pdf)
 - [Loftie-Eaton W, Rawlings DE. Plasmid. 2012 Jan "Diversity, biology and evolution of IncQ-family plasmids."](http://www.ncbi.nlm.nih.gov/pubmed/22037393)
 
@@ -372,6 +380,14 @@ http://www.ncbi.nlm.nih.gov/pubmed/25522143
 PLoS Genet. 2014 Dec 18;10(12):e1004766. doi: 10.1371/journal.pgen.1004766. eCollection 2014 Dec.
 Plasmid flux in Escherichia coli ST131 sublineages, analyzed by plasmid constellation network (PLACNET), a new method for plasmid reconstruction from whole genome sequences.
 Lanza VF1, de Toro M1, Garcillán-Barcia MP1, Mora A2, Blanco J2, Coque TM3, de la Cruz F1.
+
+### AcCNET
+http://sourceforge.net/projects/accnet
+
+https://www.ncbi.nlm.nih.gov/pubmed/27663497
+Bioinformatics. 2017 Jan 15;33(2):283-285. doi: 10.1093/bioinformatics/btw601. Epub 2016 Sep 23.
+AcCNET (Accessory Genome Constellation Network): comparative genomics software for accessory genome analysis using bipartite networks.
+Lanza VF1,2,3, Baquero F1,2,3, de la Cruz F4, Coque TM1,2,3.
 
 ### [PlasmidFinder 1.3](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
   - Updated 20 February 2017 [downloading databases](https://cge.cbs.dtu.dk//services/data.php)
