@@ -173,17 +173,22 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
 Table 2
 Summary of common in silico tools used for plasmid analysis.
 
-2015-03
-http://ci.nii.ac.jp/naid/40020727466
-新谷政己，金原和秀．環境バイオテクノロジー学会誌 14(2), 81-86. "プラスミドゲノミクス~全塩基配列解読済のプラスミドデータベースの整備" Genomics of Plasmids
-https://www.jseb.jp/wordpress/wp-content/uploads/14-02-081.pdf
-
 https://www.ncbi.nlm.nih.gov/pubmed/25873913
 Front Microbiol. 2015 Mar 31;6:242. doi: 10.3389/fmicb.2015.00242. eCollection 2015.
 Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy.
 Shintani M1, Sanchez ZK2, Kimbara K2.
 
-- 2013-12 [新谷 政己, 松井 一泰, 金原 和秀, 野尻 秀昭. 環境バイオテクノロジー学会誌 13(2), 125-134. "環境中におけるプラスミドの挙動解析" Comparisons of Conjugation Frequency in Different Environmental Conditions](http://ci.nii.ac.jp/naid/40020320833) | [PDF](http://www.jseb.jp/jeb/13-02/13-02-125.pdf)
+2015-03
+http://ci.nii.ac.jp/naid/40020727466
+新谷政己，金原和秀．環境バイオテクノロジー学会誌 14(2), 81-86. "プラスミドゲノミクス~全塩基配列解読済のプラスミドデータベースの整備" Genomics of Plasmids
+https://www.jseb.jp/wordpress/wp-content/uploads/14-02-081.pdf
+表 2．Pseudomonas 属細菌におけるプラスミドの不和合性群とその接合伝達機構における分類
+
+2013-12
+http://ci.nii.ac.jp/naid/40020320833
+新谷 政己, 松井 一泰, 金原 和秀, 野尻 秀昭. 環境バイオテクノロジー学会誌 13(2), 125-134. "環境中におけるプラスミドの挙動解析" Comparisons of Conjugation Frequency in Different Environmental Conditions
+https://www.jseb.jp/wordpress/wp-content/uploads/13-02-125.pdf
+
 - [Loftie-Eaton W, Rawlings DE. Plasmid. 2012 Jan "Diversity, biology and evolution of IncQ-family plasmids."](http://www.ncbi.nlm.nih.gov/pubmed/22037393)
 
 - [能登  優 1,髙瀬 識之 1,髙橋裕里香 1,松本 貴嗣 2,吉川 博文 2,土金 恵子 3, 細山  哲 3,藤田 信之 3,岡田 憲典 1,山根 久和 1,野尻 秀昭 1* 環境バイオテクノロジー学会 12(2), 135-139, 2012-12 "プラスミド保持に伴う負荷を軽減化する宿主染色体因子" Host Chromosomal Factor Reducing Plasmid Fitness Cost](https://ci.nii.ac.jp/naid/40019972025) | [PDF](http://www.jseb.jp/jeb/12-02/12-02-135.pdf)
