@@ -12,6 +12,17 @@
 ## featuring
 
 
+----------
+
+https://www.ncbi.nlm.nih.gov/pubmed/30608550
+Mol Biol Evol. 2019 Jan 4. doi: 10.1093/molbev/msy248. [Epub ahead of print]
+Chromids aid genome expansion and functional diversification in the family Burkholderiaceae.
+diCenzo GC1, Mengoni A1, Perrin E1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20080407
+Trends Microbiol. 2010 Apr;18(4):141-8. doi: 10.1016/j.tim.2009.12.010. Epub 2010 Jan 18.
+Introducing the bacterial 'chromid': not a chromosome, not a plasmid.
+Harrison PW1, Lower RP, Kim NK, Young JP.
 
 ----------
 
@@ -63,13 +74,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/16689800
 Mol Microbiol. 2006 Jun;60(5):1251-61.
 The effect of promoter strength, supercoiling and secondary structure on mutation rates in Escherichia coli.
 Schmidt KH1, Reimers JM, Wright BE.
-
-----------
-
-https://www.ncbi.nlm.nih.gov/pubmed/20080407
-Trends Microbiol. 2010 Apr;18(4):141-8. doi: 10.1016/j.tim.2009.12.010. Epub 2010 Jan 18.
-Introducing the bacterial 'chromid': not a chromosome, not a plasmid.
-Harrison PW1, Lower RP, Kim NK, Young JP.
 
 ----------
 ## Hi-C
@@ -200,6 +204,9 @@ Broad-host-range IncP-1 plasmids and their resistance potential.
 Popowska M1, Krawczyk-Balska A.
 
 ## data
+
+https://mra.asm.org/content/8/1/e01325-18
+A Curated, Comprehensive Database of Plasmid Sequences | Microbiology Resource Announcements
 
 https://twitter.com/BioMickWatson/status/1055412464039460865
 Mick Watson on Twitter: "Best database of microbial plasmid sequences?"
