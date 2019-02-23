@@ -12,12 +12,39 @@
 ## featuring
 
 
+https://www.ncbi.nlm.nih.gov/pubmed/30619542
+Comput Struct Biotechnol J. 2018 Dec 15;17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
+Reconsidering plasmid maintenance factors for computational plasmid design.
+Yano H, Shintani M, Tomita M, Suzuki H, Oshima T.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
+
+
+
+
+
+http://www.seibutsushi.net/blog/2009/08/860.html
+2009-08-19
+プラスミドはどこからきたのか？２-不完全な生命同士の遺伝子交換
+
+
 ----------
+## chromid
 
 https://www.ncbi.nlm.nih.gov/pubmed/30608550
 Mol Biol Evol. 2019 Jan 4. doi: 10.1093/molbev/msy248. [Epub ahead of print]
 Chromids aid genome expansion and functional diversification in the family Burkholderiaceae.
 diCenzo GC1, Mengoni A1, Perrin E1.
+
+The genomes of about 10% of bacterial species display a multipartite structure, consisting of a
+chromosome plus one or more large additional replicons of at least 350 kb (Harrison et al. 2010; diCenzo
+and Finan 2017).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23123907
+J Bacteriol. 2013 Jan;195(2):202-12. doi: 10.1128/JB.01758-12. Epub 2012 Nov 2.
+The tRNAarg gene and engA are essential genes on the 1.7-Mb pSymB megaplasmid of Sinorhizobium meliloti and were translocated together from the chromosome in an ancestral strain.
+diCenzo G1, Milunovic B, Cheng J, Finan TM.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3553834/
+The challenges in defining autonomously replicating replicons as second chromosomes and megaplasmids have been discussed previously (21), and the term “chromid” was proposed and defined (22).
 
 https://www.ncbi.nlm.nih.gov/pubmed/20080407
 Trends Microbiol. 2010 Apr;18(4):141-8. doi: 10.1016/j.tim.2009.12.010. Epub 2010 Jan 18.
@@ -27,6 +54,11 @@ Harrison PW1, Lower RP, Kim NK, Young JP.
 ----------
 
 ## updates
+
+### 2019
+
+https://jb.asm.org/content/early/2019/01/16/JB.00430-18
+Plasmid characteristics modulate the propensity of gene exchange in bacterial vesicles | Journal of Bacteriology
 
 ### 2018
 
