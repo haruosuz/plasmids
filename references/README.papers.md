@@ -12,6 +12,11 @@
 ## featuring
 
 
+
+
+https://link.springer.com/chapter/10.1007/978-981-13-3411-5_6
+Shintani M., Suzuki H. (2019) Plasmids and Their Hosts. In: Nishida H., Oshima T. (eds) DNA Traffic in the Environment. Springer, Singapore
+
 https://www.ncbi.nlm.nih.gov/pubmed/30619542
 Comput Struct Biotechnol J. 2018 Dec 15;17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
 Reconsidering plasmid maintenance factors for computational plasmid design.
