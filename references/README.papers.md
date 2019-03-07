@@ -23,10 +23,6 @@ Reconsidering plasmid maintenance factors for computational plasmid design.
 Yano H, Shintani M, Tomita M, Suzuki H, Oshima T.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
 
-
-
-
-
 http://www.seibutsushi.net/blog/2009/08/860.html
 2009-08-19
 プラスミドはどこからきたのか？２-不完全な生命同士の遺伝子交換
@@ -57,6 +53,39 @@ Introducing the bacterial 'chromid': not a chromosome, not a plasmid.
 Harrison PW1, Lower RP, Kim NK, Young JP.
 
 ----------
+
+### tiptoft
+
+https://twitter.com/andrewjpage/status/1101497825324609537
+Andrew Page on Twitter: "Small plasmids can disappear at the read correction step of long read assembly.Tiptoft published today in #JOSS by @andrewjpage & @torstenseemann takes uncorrected long reads & identifies what plasmids are actually present. Install: pip3 install tiptoft https://t.co/xru3UyeIL0"
+10:02 AM - 1 Mar 2019
+http://joss.theoj.org/papers/10.21105/joss.01021
+The Journal of Open Source Software: TipToft: detecting plasmids contained in uncorrected long read sequencing data
+
+
+### RefSoil
+https://msystems.asm.org/content/4/1/e00349-18
+RefSoil+: a Reference Database for Genes and Traits of Soil Plasmids
+Taylor K. Dunivin, Jinlyung Choi, Adina Howe, Ashley Shade
+RefSoil+ applications.RefSoil+ is publicly available on GitHub (https://github.com/ShadeLab/RefSoil_plasmids). 
+
+### meta_arsenic
+ヒ素耐性遺伝子を検出するためのツールキット
+https://github.com/ShadeLab/meta_arsenic
+ShadeLab/meta_arsenic: Toolkit for detecting arsenic resistance genes in nucleotide and amino acid sequences. A meta-analysis of arsenic resistance genes in soil genomes (RefSoil+) and metagenomes
+
+https://www.biorxiv.org/content/10.1101/445502v1
+Targeting microbial arsenic resistance genes: a new bioinformatic toolkit informs arsenic ecology and evolution in soil genomes and metagenomes | bioRxiv
+https://www.biorxiv.org/content/biorxiv/early/2018/10/17/445502.full.pdf
+
+ All arsenic resistance
+gene databases are freely available on FunGene (http://fungene.cme.msu.edu/). 
+
+ Reference and BLAST databases are publicly
+available on GitHub (https://github.com/ShadeLab/meta_arsenic). 
+
+----------
+
 
 ## updates
 
