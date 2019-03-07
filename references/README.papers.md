@@ -276,6 +276,9 @@ Popowska M1, Krawczyk-Balska A.
 
 ## data
 
+https://twitter.com/Tyu_Shi/status/1083013705514680320
+Tyu_Shi on Twitter: "論文読んだ限りこのmethodでcuratedでcomprehensiveなplasmid sequence databaseと言う気にはならないな。"A Curated, Comprehensive Database of Plasmid Sequences" https://t.co/hndJfjzrYd 出張先なので800MB超のファイルダウンロードするのは避けたいが、 帰ったら一応ダウンロードしてみよう。"
+
 https://mra.asm.org/content/8/1/e01325-18
 A Curated, Comprehensive Database of Plasmid Sequences | Microbiology Resource Announcements
 
