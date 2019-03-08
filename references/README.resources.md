@@ -18,8 +18,10 @@ https://www.sciencedirect.com/science/article/pii/S2001037018301685
 ```
 3. Publicly Available Resources
 3.1. Plasmid Sequence Data
-3.2. Bioinformatics Tools
 
+Orlek et al. [135] presented a curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI database (https://figshare.com/s/18de8bdcbba47dbaba41). The web servers PLSDB (https://ccb-microbe.cs.uni-saarland.de/plsdb/) [136] and pATLAS (http://www.patlas.site) [137] provide a more comprehensive collection of bacterial plasmids retrieved from the NCBI nucleotide database.
+
+3.2. Bioinformatics Tools
 ```
 
 https://www.ncbi.nlm.nih.gov/pubmed/28232822
@@ -48,7 +50,6 @@ Taylor K. Dunivin, Jinlyung Choi, Adina Howe, Ashley Shade
 RefSoil+ applications.RefSoil+ is publicly available on GitHub (https://github.com/ShadeLab/RefSoil_plasmids). 
 
 ### meta_arsenic
-
 ヒ素耐性遺伝子を検出するためのツールキット
 
 https://github.com/ShadeLab/meta_arsenic
@@ -101,6 +102,9 @@ https://www.ncbi.nlm.nih.gov/pubmed/30395323
 Nucleic Acids Res. 2019 Jan 8;47(D1):D188-D194. doi: 10.1093/nar/gky1073.
 Plasmid ATLAS: plasmid visual analytics and identification in high-throughput sequencing data.
 Jesus TF1, Ribeiro-Gonçalves B1, Silva DN1, Bortolaia V2, Ramirez M1, Carriço JA1.
+```
+pATLAS allows searching by plasmid name, bacterial host taxa, antibiotic resistance and virulence genes, plasmid families, and by sequence length and similarity.
+```
 
 https://twitter.com/WvSchaik/status/1060486271557091328
 Willem van Schaik on Twitter: "Very interesting tool by @jacarrico: 'Plasmid ATLAS: plasmid visual analytics and identification in high-throughput sequencing data' https://t.co/CWIAoV3449"
