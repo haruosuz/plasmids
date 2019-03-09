@@ -28,36 +28,6 @@ https://www.researchgate.net/post/How_can_we_distinguish_bacterial_chromosomes_f
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2937521/
 Mobility of Plasmids
 
-## mutation rate
-
-https://mbio.asm.org/content/9/4/e01371-18
-Periodic Variation of Mutation Rates in Bacterial Genomes Associated with Replication Timing | mBio
-
-https://www.ncbi.nlm.nih.gov/pubmed/20369015
-PLoS Comput Biol. 2010 Apr 1;6(4):e1000732. doi: 10.1371/journal.pcbi.1000732.
-Why genes evolve faster on secondary chromosomes in bacteria.
-Cooper VS1, Vohr SH, Wrocklage SC, Hatcher PJ.
-Further, in every bacterial genome with multiple chromosomes that we studied, genes on secondary chromosomes exhibited significantly weaker codon usage bias than those on primary chromosomes. Faster evolution and reduced codon bias could in turn result from global effects of chromosome position, as genes on secondary chromosomes experience reduced dosage and expression due to their delayed replication, or selection on specific gene attributes.
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848543/
-Why many bacteria have multiple chromosomes is largely unknown, but a leading hypothesis is that secondary chromosomes evolved from plasmids and now serve as accessory genomes. 
-Chromosomes may originate by three different mechanisms: by the split of a single chromosome, by chromosome duplication, or by acquisition of a large plasmid with essential genes, which ensures its prolonged maintenance. Of these processes, the last has the greatest support because some secondary chromosomes have plasmid-like origins of replication [2]. 
-
-A fourth possible mechanism is that secondary chromosomes could experience inherently higher mutation rates. Although mutation rates are known to vary among genome locations, such a widespread and systematic difference would be exceptional. The delayed replication of secondary chromosomes could potentially produce such an effect if nucleotide pools vary or become limiting as a function of the cell cycle [37] or if the replication apparatus tends to require reassembly in later replication stages, which is mutagenic [38]. The probable origin of secondary chromosomes as plasmids could also lead to increased mutation rates as a consequence of their greater supercoiling, which has been associated with greater rates of mutation [39]. Of the four potential explanations that we suggest for why secondary chromosomes evolve more quickly, this one (a systematically greater mutation rate) is the most speculative but also the most experimentally tractable.
-
-https://www.ncbi.nlm.nih.gov/pubmed/16689800
-Mol Microbiol. 2006 Jun;60(5):1251-61.
-The effect of promoter strength, supercoiling and secondary structure on mutation rates in Escherichia coli.
-Schmidt KH1, Reimers JM, Wright BE.
-
-
-----------
-
-https://www.ncbi.nlm.nih.gov/pubmed/20080407
-Trends Microbiol. 2010 Apr;18(4):141-8. doi: 10.1016/j.tim.2009.12.010. Epub 2010 Jan 18.
-Introducing the bacterial 'chromid': not a chromosome, not a plasmid.
-Harrison PW1, Lower RP, Kim NK, Young JP.
-
 ----------
 
 https://www.ncbi.nlm.nih.gov/pubmed/23721857
@@ -135,6 +105,33 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/table/T2/
 dPlasmids pDS1 and pDS2 were transferable into E. coli but could not be transferred to P. putida, C. pinatubonensis, or S. meliloti.
 
 ### pAU20rrn
+
+```
+http://rest.g-language.org/CP006367
+
+Definition: Aureimonas sp. AU20, complete genome.
+
+  Length of Sequence :   3742793
+          GC Content :    66.84%
+      Number of genes :    3501 (CDSs: 3448, tRNAs: 53, rRNAs: 0) 
+
+
+http://rest.g-language.org/CP006367/S_value
+0.790764563225148
+
+http://rest.g-language.org/CP006367/codon_mva/output=stdout
+
+http://rest.g-language.org/CP006367/codon_mva/method=coa/data=A0/output=stdout
+
+
+```
+
+
+```
+$grep "Aureimonas sp. AU20" prokaryotes.txt 
+Aureimonas sp. AU20	1349819	PRJNA209311	209311	Proteobacteria	Alphaproteobacteria	5.21086	66.7129	chromosome:NZ_CP006367.1/CP006367.1; plasmid pAU20a:NZ_CP006368.1/CP006368.1; plasmid pAU20b:NZ_CP006369.1/CP006369.1; plasmid pAU20c:NZ_CP006370.1/CP006370.1; plasmid pAU20d:NZ_CP006371.1/CP006371.1; plasmid pAU20e:NZ_CP006372.1/CP006372.1; plasmid pAU20f:NZ_CP006373.1/CP006373.1; plasmid pAU20g:NZ_CP006374.1/CP006374.1; plasmid pAU20rrn:NZ_CP006375.1/CP006375.1	-	9	4739	4624	2015/11/12	2017/04/11	Complete Genome	Graduate School of Life Sciences, Tohoku University	SAMN04236815	GCA_001442755.1	-	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/442/755/GCA_001442755.1_ASM144275v1	26534993	AU20
+Aureimonas sp. AU20	1349819	PRJDB3816	300645	Proteobacteria	Alphaproteobacteria	5.19583	66.8	-	BBWI01	73	4738	4584	2015/11/07	2017/04/11	Contig	Graduate School of Life Sciences, Tohoku University	SAMD00028756	GCA_001463725.1	-	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/463/725/GCA_001463725.1_ASM146372v1	26534993	AU20
+```
 
 https://www.ncbi.nlm.nih.gov/pubmed/26534993
 Proc Natl Acad Sci U S A. 2015 Nov 17;112(46):14343-7. doi: 10.1073/pnas.1514326112. Epub 2015 Nov 3.
