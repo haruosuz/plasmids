@@ -9,11 +9,6 @@
 - [Hi-C](#hi-c)
 - [review](#review)
 
-## mutation rate
-## nucleotide composition
-## codon usage
-## host range
-
 ----------
 ## featuring
 
@@ -26,9 +21,33 @@ Reconsidering plasmid maintenance factors for computational plasmid design.
 Yano H, Shintani M, Tomita M, Suzuki H, Oshima T.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
 
-http://www.seibutsushi.net/blog/2009/08/860.html
-2009-08-19
-プラスミドはどこからきたのか？２-不完全な生命同士の遺伝子交換
+----------
+
+## Wolbachia plasmid
+
+https://twitter.com/search?q=Wolbachia%20plasmid
+
+https://www.nature.com/articles/s41467-019-08973-w
+The Wolbachia mobilome in Culex pipiens includes a putative plasmid | Nature Communications
+
+https://twitter.com/vectorgen/status/1103032982191906817
+Jason Rasgon on Twitter: "That's very interesting. Wouldn't be the first time I heard someone talk about a wolbachia plasmid; never panned out before. Sequencing methods are better now. Were they able to isolate it?… https://t.co/tTJcKK9lBd"
+3:42 PM - 5 Mar 2019
+
+https://twitter.com/merenbey/status/1102959988098633729
+A. Murat Eren (Meren) on Twitter: "A Wolbachia plasmid?! A study by @JulieReve & @srbordenstein et al: https://t.co/J61RISirT6 This study also includes a reproducible bioinformatics workflow, https://t.co/RrZePXmc9p and all the data you can ask for 😇 https://t.co/E54vVXyjGR #openscience #openaccess… https://t.co/znKIoiwaRw"
+10:52 AM - 5 Mar 2019 from Chicago, IL
+
+https://twitter.com/JulieReve/status/1102893058784481281
+Julie Reveillaud on Twitter: "Very happy to announce the discovery of a plasmid in the mobilome of Wolbachia in Culex pipiens mosquitoes with fantastic team @merenbey @srbordenstein @Symbionticism @alon_shaiber @c4vansite @ozcanesen et al! https://t.co/Qrm9uGu788 just out in @NatureComms"
+6:26 AM - 5 Mar 2019
+
+
+
+https://twitter.com/Symbionticism/status/211387158425116672
+Seth Bordenstein on Twitter: "Rickettsial plasmid also exchanged genes with Wolbachia phage WO http://t.co/ibAig0aE #Wolbachia2012"
+5:20 AM - 9 Jun 2012
+
 
 ----------
 
@@ -36,6 +55,11 @@ http://www.seibutsushi.net/blog/2009/08/860.html
 ## updates
 
 ### 2019
+
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006724
+Evolutionary model for the unequal segregation of high copy plasmids
+
 
 https://jb.asm.org/content/early/2019/01/16/JB.00430-18
 Plasmid characteristics modulate the propensity of gene exchange in bacterial vesicles | Journal of Bacteriology
@@ -598,3 +622,15 @@ https://www.jstage.jst.go.jp/article/jssm/36/0/36_KJ00008103115/_pdf/-char/ja
 佐藤 守
 
 ----------
+
+
+http://www.seibutsushi.net/blog/2009/08/860.html
+2009-08-19
+プラスミドはどこからきたのか？２-不完全な生命同士の遺伝子交換
+
+----------
+
+
+
+
+
