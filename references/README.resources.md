@@ -1,10 +1,10 @@
 # plasmid resources
 
 ## Table of Contents
+- [review](#review)
 - [updates](#updates)
 - [data](#data)
 - [tools](#tools)
-- [review](#review)
 
 ----------
 ## review
@@ -67,9 +67,6 @@ available on GitHub (https://github.com/ShadeLab/meta_arsenic).
 
 ----------
 
-## tools
-[Plasmid detection software tools | De novo genome sequencing analysis - OMICtools](https://omictools.com/plasmid-detection-category)
-
 ## data
 
 https://twitter.com/BioMickWatson/status/1055412464039460865
@@ -129,6 +126,29 @@ Data Brief. 2017 Apr 23;12:423-426.
 A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI nucleotide database.
 Orlek A et al.
 
+### aclame
+ACLAME は、version 0.4 (5 August 2009) 以降は更新されていない。
+
+http://aclame.ulb.ac.be/
+
+https://www.ncbi.nlm.nih.gov/pubmed/19933762
+Nucleic Acids Res. 2010 Jan;38(Database issue):D57-61. doi: 10.1093/nar/gkp938. Epub 2009 Nov 23.
+ACLAME: a CLAssification of Mobile genetic Elements, update 2010.
+Leplae R1, Lima-Mendez G, Toussaint A.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17064288
+FEMS Microbiol Rev. 2006 Nov;30(6):980-94.
+A first global analysis of plasmid encoded proteins in the ACLAME database.
+Leplae R1, Lima-Mendez G, Toussaint A.
+
+----------
+## tools
+
+https://omictools.com/plasmid-detection-category
+Plasmid detection bioinformatics tools | Metagenomic sequencing analysis - omicX
+
+----------
+
 ### mlplasmids
 
 https://www.biorxiv.org/content/early/2018/05/23/329045
@@ -166,8 +186,6 @@ PeerJ. 2018 Apr 2;6:e4588. doi: 10.7717/peerj.4588. eCollection 2018.
 PlasmidSeeker: identification of known plasmids from bacterial whole genome sequencing reads.
 Roosaare M1, Puustusmaa M1, Möls M1,2, Vaher M1, Remm M1.
 The PlasmidSeeker algorithm is based on k-mers and uses k-mer abundance to distinguish between plasmid and bacterial sequences. 
-
-
 
 ### PlasmidTron
 https://github.com/sanger-pathogens/plasmidtron
@@ -270,23 +288,6 @@ Lanza VF1,2,3, Baquero F1,2,3, de la Cruz F4, Coque TM1,2,3.
 - [Zhou F, Xu Y. Bioinformatics. 2010 Aug 15;26(16):2051-2. "cBar: a computer program to distinguish plasmid-derived from chromosome-derived sequence fragments in metagenomics data."](https://www.ncbi.nlm.nih.gov/pubmed/20538725)
 
 リンク切れ
-
-----------
-
-### aclame
-ACLAME は、version 0.4 (5 August 2009) 以降は更新されていない。
-
-http://aclame.ulb.ac.be/
-
-https://www.ncbi.nlm.nih.gov/pubmed/19933762
-Nucleic Acids Res. 2010 Jan;38(Database issue):D57-61. doi: 10.1093/nar/gkp938. Epub 2009 Nov 23.
-ACLAME: a CLAssification of Mobile genetic Elements, update 2010.
-Leplae R1, Lima-Mendez G, Toussaint A.
-
-https://www.ncbi.nlm.nih.gov/pubmed/17064288
-FEMS Microbiol Rev. 2006 Nov;30(6):980-94.
-A first global analysis of plasmid encoded proteins in the ACLAME database.
-Leplae R1, Lima-Mendez G, Toussaint A.
 
 ----------
 
