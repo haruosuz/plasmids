@@ -1,11 +1,14 @@
-# plasmid papers
+# plasmids.papers
 
-## Table of Contents
+**Table of Contents**
 - [featuring](#featuring)
+- [wolbachia](#wolbachia)
 - [updates](#updates)
+  - [2019](#2019)
   - [2018](#2018)
   - [2017](#2017)
 - [chromid](#chromid)
+- [mutation rate](#mutation-rate)
 - [Hi-C](#hi-c)
 - [review](#review)
 
@@ -15,6 +18,7 @@
 https://link.springer.com/chapter/10.1007/978-981-13-3411-5_6
 Shintani M., Suzuki H. (2019) Plasmids and Their Hosts. In: Nishida H., Oshima T. (eds) DNA Traffic in the Environment. Springer, Singapore
 
+総説
 https://www.ncbi.nlm.nih.gov/pubmed/30619542
 Comput Struct Biotechnol J. 2018 Dec 15;17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
 Reconsidering plasmid maintenance factors for computational plasmid design.
@@ -23,9 +27,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
 
 ----------
 
-## Wolbachia plasmid
+## Wolbachia
 
 https://twitter.com/search?q=Wolbachia%20plasmid
+
+https://naturemicrobiologycommunity.nature.com/users/208603-julie-reveillaud/posts/44531-an-interdisciplinary-wolbachia-story-through-connections-across-the-atlantic-metagenomics-long-read-sequencing-and-other-things
+An interdisciplinary Wolbachia story through connections across the Atlantic: Metagenomics, long-read sequencing, and other things | Nature Research Microbiology Community
 
 https://www.nature.com/articles/s41467-019-08973-w
 The Wolbachia mobilome in Culex pipiens includes a putative plasmid | Nature Communications
@@ -88,9 +95,25 @@ Willem van Schaik on Twitter: "@pathogenomenick @koadman @daanspeth I guess coul
 ### 2017
 
 
+### 2012
+
+https://www.ncbi.nlm.nih.gov/pubmed/22617140
+MBio. 2012 May 22;3(3). pii: e00112-12. doi: 10.1128/mBio.00112-12. Print 2012.
+Comparative genomics of vancomycin-resistant Staphylococcus aureus strains and their positions within the clade most commonly associated with Methicillin-resistant S. aureus hospital-acquired infection in the United States.
+Kos VN1, Desjardins CA, Griggs A, Cerqueira G, Van Tonder A, Holden MT, Godfrey P, Palmer KL, Bodi K, Mongodin EF, Wortman J, Feldgarden M, Lawley T, Gill SR, Haas BJ, Birren B, Gilmore MS.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3372964/
+FIG 3
+Plasmid sequences in VRSA. Heat map showing the extent of occurrence of known enterococcal (graded green shades) and staphylococcal plasmids (graded yellow to red) (based on detail in Table S5 in the supplemental material). 
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3372964/bin/mbo0031212770003.jpg)
+
+
 
 ----------
 ## chromid
+
+Posted August 27, 2018.
+https://www.biorxiv.org/content/10.1101/264945v3
+Neo-formation of chromosomes in bacteria | bioRxiv
 
 https://www.ncbi.nlm.nih.gov/pubmed/30608550
 Mol Biol Evol. 2019 Jan 4. doi: 10.1093/molbev/msy248. [Epub ahead of print]
@@ -112,7 +135,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/20080407
 Trends Microbiol. 2010 Apr;18(4):141-8. doi: 10.1016/j.tim.2009.12.010. Epub 2010 Jan 18.
 Introducing the bacterial 'chromid': not a chromosome, not a plasmid.
 Harrison PW1, Lower RP, Kim NK, Young JP.
-
 
 ----------
 
