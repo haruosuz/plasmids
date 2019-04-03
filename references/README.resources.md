@@ -150,20 +150,25 @@ Plasmid detection bioinformatics tools | Metagenomic sequencing analysis - omicX
 ----------
 
 ### mlplasmids
+https://gitlab.com/sirarredondo/mlplasmids
 
-https://www.biorxiv.org/content/early/2018/05/23/329045
-mlplasmids: a user-friendly tool to predict plasmid- and chromosome-derived sequences for single species | bioRxiv
+https://www.ncbi.nlm.nih.gov/pubmed/30383524
+Microb Genom. 2018 Nov;4(11). doi: 10.1099/mgen.0.000224. Epub 2018 Nov 1.
+mlplasmids: a user-friendly tool to predict plasmid- and chromosome-derived sequences for single species.
+Arredondo-Alonso S1, Rogers MRC1, Braat JC1, Verschuuren TD2, Top J1, Corander J3,4,5, Willems RJL1, Schürch AC1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6321875/
+We evaluated the performance of mlplasmids against PlasFlow (version 1.0), PlasmidSPAdes (version 3.8.2) and cBar (version 1.2). 
 
-https://www.biorxiv.org/content/biorxiv/early/2018/05/23/329045.full.pdf
-We evaluated the performance of mlplasmids against PlasFlow (version 1.0), PlasmidSPAdes (version
-3.8.2) and cBar (version 1.2).
 
 ### PlaScope
+https://github.com/GuilhemRoyer/PlaScope
 
-https://www.biorxiv.org/content/early/2018/05/30/334805
-PlaScope: a targeted approach to assess the plasmidome of Escherichia coli strains | bioRxiv
-
-Compared to other plasmid classifiers, Plasflow and cBar, it achieves better recall (0.87), specificity (0.99), precision (0.96) and accuracy (0.98) on a dataset of 70 genomes containing plasmids.
+https://www.ncbi.nlm.nih.gov/pubmed/30265232
+Microb Genom. 2018 Sep;4(9). doi: 10.1099/mgen.0.000211.
+PlaScope: a targeted approach to assess the plasmidome from genome assemblies at the species level.
+Royer G1,2,3, Decousser JW1,3, Branger C1, Dubois M2, Médigue C2, Denamur E4,1, Vallenet D2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6202455/
+Compared to other plasmid classifiers, PlasFlow and cBar, it achieves better recall (0.87), specificity (0.99), precision (0.96) and accuracy (0.98) on a dataset of 70 genomes of Escherichia coli containing plasmids. 
 
 ### MOB-suite
 https://github.com/phac-nml/mob-suite
