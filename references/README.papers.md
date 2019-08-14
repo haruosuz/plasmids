@@ -25,36 +25,41 @@ Reconsidering plasmid maintenance factors for computational plasmid design.
 Yano H, Shintani M, Tomita M, Suzuki H, Oshima T.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
 
+
 ----------
+## Hi-C
 
-## Wolbachia
+https://phasegenomics.com/hi-c-solves-the-problem-of-linking-plasmids-to-host-cells-in-a-mixed-sample/
+Hi-C solves the problem of linking plasmids to host cells in a mixed sample - Phase Genomics
 
-https://twitter.com/search?q=Wolbachia%20plasmid
+30 May 2019
+https://www.nature.com/articles/s41396-019-0446-4
+Linking the resistome and plasmidome to the microbiome | The ISME Journal
+Here we demonstrate that the in vivo proximity-ligation method Hi-C can reconstruct a known plasmid-host association from a wastewater community, and identify the in situ host range of ARGs, plasmids, and integrons by physically linking them to their host chromosomes. Hi-C detected both previously known and novel associations between ARGs, mobile genetic elements and host genomes, thus validating this method. 
 
-https://naturemicrobiologycommunity.nature.com/users/208603-julie-reveillaud/posts/44531-an-interdisciplinary-wolbachia-story-through-connections-across-the-atlantic-metagenomics-long-read-sequencing-and-other-things
-An interdisciplinary Wolbachia story through connections across the Atlantic: Metagenomics, long-read sequencing, and other things | Nature Research Microbiology Community
+https://twitter.com/copypasteusa/status/1135059257357885440
+#Plasmid 培養に依存しないメタゲノムHi-Cデータで、微生物群集における抗生物質耐性遺伝子(ARGs)とプラスミドとインテグロンのリザーバー（宿主域）を決定する。
+#Plasmid "IncQ plasmids had the broadest range of putative hosts, followed by the IncP-1β plasmids. This is consistent with the results of studies based on cultured bacteria [46]."
+https://www.ncbi.nlm.nih.gov/pubmed/20851899
+J Bacteriol. 2010 Nov;192(22):6045-55. 
+Predicting plasmid promiscuity based on genomic signature.
 
-https://www.nature.com/articles/s41467-019-08973-w
-The Wolbachia mobilome in Culex pipiens includes a putative plasmid | Nature Communications
+https://twitter.com/WvSchaik/status/1135501039023661056
+Willem van Schaik on Twitter: "Interesting paper (we discussed the preprint version in our lab meeting a few weeks ago): 'Linking the resistome and plasmidome to the microbiome' https://t.co/ogaG5XQeqp"
+7:58 PM · Jun 3, 2019
 
-https://twitter.com/vectorgen/status/1103032982191906817
-Jason Rasgon on Twitter: "That's very interesting. Wouldn't be the first time I heard someone talk about a wolbachia plasmid; never panned out before. Sequencing methods are better now. Were they able to isolate it?… https://t.co/tTJcKK9lBd"
-3:42 PM - 5 Mar 2019
-
-https://twitter.com/merenbey/status/1102959988098633729
-A. Murat Eren (Meren) on Twitter: "A Wolbachia plasmid?! A study by @JulieReve & @srbordenstein et al: https://t.co/J61RISirT6 This study also includes a reproducible bioinformatics workflow, https://t.co/RrZePXmc9p and all the data you can ask for 😇 https://t.co/E54vVXyjGR #openscience #openaccess… https://t.co/znKIoiwaRw"
-10:52 AM - 5 Mar 2019 from Chicago, IL
-
-https://twitter.com/JulieReve/status/1102893058784481281
-Julie Reveillaud on Twitter: "Very happy to announce the discovery of a plasmid in the mobilome of Wolbachia in Culex pipiens mosquitoes with fantastic team @merenbey @srbordenstein @Symbionticism @alon_shaiber @c4vansite @ozcanesen et al! https://t.co/Qrm9uGu788 just out in @NatureComms"
-6:26 AM - 5 Mar 2019
+https://twitter.com/ChristianRinke/status/1134292515706687488
+Linking plasmids to their hosts with #HiC and #metagenomics
+10:56 PM - 30 May 2019
 
 
-
-https://twitter.com/Symbionticism/status/211387158425116672
-Seth Bordenstein on Twitter: "Rickettsial plasmid also exchanged genes with Wolbachia phage WO http://t.co/ibAig0aE #Wolbachia2012"
-5:20 AM - 9 Jun 2012
-
+https://www.ncbi.nlm.nih.gov/pubmed/26104560
+Microbiol Spectr. 2015 Feb;3(1):PLAS-0038-2014. doi: 10.1128/microbiolspec.PLAS-0038-2014.
+Plasmid Detection, Characterization, and Ecology.
+Smalla K1, Jechalke S1, Top EM2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4480600/
+Figure 1
+Overview of applying Hi-C technology to a mixed bacterial population to reliably associate plasmids with the chromosomes of their hosts (modified from Burton et al. [41]).
 
 ----------
 
@@ -62,6 +67,38 @@ Seth Bordenstein on Twitter: "Rickettsial plasmid also exchanged genes with Wolb
 ## updates
 
 ### 2019
+
+https://twitter.com/WvSchaik/status/1148526049300496384
+Willem van Schaik on Twitter: "Next up: Eduardo Rocha on the diversity of mobile genetic elements. Sequenced 1305 natural E. coli isolates: up to a third of the pan-genome can be in plasmids and phages #FEMS2019"
+5:35 AM - 9 Jul 2019
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/29633935
+Microb Genom. 2018 Apr;4(4). doi: 10.1099/mgen.0.000168. Epub 2018 Apr 10.
+Correlation between bacterial G+C content, genome size and the G+C content of associated plasmids and bacteriophages.
+Almpanis A1,2, Swain M1, Gatherer D3, McEwan N1,4.
+
+
+GC含量
+https://twitter.com/Symbionticism/status/1123203760564637697
+Seth Bordenstein on Twitter: "This is a game changer. Many intracellular microbes have a genome wide bias in A’s and T’s. The major assumption has been a mutational bias / drift impacts this outcome. Well, not so fast. Evidence below that selection can contribute or cause it.… https://t.co/yfDqN3b3Lj"
+8:33 AM - 30 Apr 2019
+https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007778
+Selective advantages favour high genomic AT-contents in intracellular elements
+Accordingly, introducing AT-rich and GC-rich plasmids into other bacterial species with different genomic GC-contents revealed that the costs of G+C-rich plasmids decreased with an increasing GC-content of their host’s genomic DNA. 
+
+https://twitter.com/LauraPiddock/status/1123498515664199680
+Laura Piddock on Twitter: "Our latest paper 'Antibiotic resistance genes are abundant and diverse in raw sewage used for urban agriculture in Africa and associated with urban population density' is now online :) @BlaiseBougnom @alanmcn1 https://t.co/LREwajwm5Q"
+4:04 AM - 1 May 2019
+https://www.sciencedirect.com/science/article/pii/S0269749119303124
+Antibiotic resistance genes are abundant and diverse in raw sewage used for urban agriculture in Africa and associated with urban population density - ScienceDirect
+- The size of the city impacts on the abundance of ARGs in sewage water.
+- ESBL gene abundance is impacted by Enterobacteriaceae and plasmid abundance.
+
+https://twitter.com/CarinaBrehony/status/1122128633395650560
+carina brehony on Twitter: "Our paper out now in @BSACandJAC on OXA-48 plasmid molecular epidemiology in Ireland using a gene by gene approach @ARME_Galway @MaidenLab @sylvainbrisse MLST approach to support tracking of plasmids carrying OXA-48-like carbapenemase https://t.co/EjaaJeHBj4"
+9:21 AM - 27 Apr 2019
 
 
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006724
@@ -111,18 +148,24 @@ Plasmid sequences in VRSA. Heat map showing the extent of occurrence of known en
 ----------
 ## chromid
 
-Posted August 27, 2018.
-https://www.biorxiv.org/content/10.1101/264945v3
-Neo-formation of chromosomes in bacteria | bioRxiv
+https://www.ncbi.nlm.nih.gov/pubmed/31138741
+MBio. 2019 May 28;10(3). pii: e00505-19. doi: 10.1128/mBio.00505-19.
+Codon Usage Heterogeneity in the Multipartite Prokaryote Genome: Selection-Based Coding Bias Associated with Gene Location, Expression Level, and Ancestry.
+López JL1, Lozano MJ1, Lagares A Jr2,3, Fabre ML1, Draghi WO1, Del Papa MF1, Pistorio M1, Becker A3, Wibberg D4, Schlüter A4, Pühler A4, Blom J5, Goesmann A5, Lagares A6.
+- Sinorhizobium meliloti, which harbors a chromosome, a chromid (pSymB), a megaplasmid (pSymA), and, in many strains, one or more accessory plasmids.
+- modal codon usages
 
 https://www.ncbi.nlm.nih.gov/pubmed/30608550
 Mol Biol Evol. 2019 Jan 4. doi: 10.1093/molbev/msy248. [Epub ahead of print]
 Chromids aid genome expansion and functional diversification in the family Burkholderiaceae.
 diCenzo GC1, Mengoni A1, Perrin E1.
-
-The genomes of about 10% of bacterial species display a multipartite structure, consisting of a
+- The genomes of about 10% of bacterial species display a multipartite structure, consisting of a
 chromosome plus one or more large additional replicons of at least 350 kb (Harrison et al. 2010; diCenzo
 and Finan 2017).
+
+Posted August 27, 2018.
+https://www.biorxiv.org/content/10.1101/264945v3
+Neo-formation of chromosomes in bacteria | bioRxiv
 
 https://www.ncbi.nlm.nih.gov/pubmed/23123907
 J Bacteriol. 2013 Jan;195(2):202-12. doi: 10.1128/JB.01758-12. Epub 2012 Nov 2.
@@ -159,20 +202,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/16689800
 Mol Microbiol. 2006 Jun;60(5):1251-61.
 The effect of promoter strength, supercoiling and secondary structure on mutation rates in Escherichia coli.
 Schmidt KH1, Reimers JM, Wright BE.
-
-----------
-## Hi-C
-
-https://phasegenomics.com/hi-c-solves-the-problem-of-linking-plasmids-to-host-cells-in-a-mixed-sample/
-Hi-C solves the problem of linking plasmids to host cells in a mixed sample - Phase Genomics
-
-https://www.ncbi.nlm.nih.gov/pubmed/26104560
-Microbiol Spectr. 2015 Feb;3(1):PLAS-0038-2014. doi: 10.1128/microbiolspec.PLAS-0038-2014.
-Plasmid Detection, Characterization, and Ecology.
-Smalla K1, Jechalke S1, Top EM2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4480600/
-Figure 1
-Overview of applying Hi-C technology to a mixed bacterial population to reliably associate plasmids with the chromosomes of their hosts (modified from Burton et al. [41]).
 
 
 ----------
@@ -393,6 +422,24 @@ Dissemination and Mechanism for the MCR-1 Colistin Resistance.
 - [Skov RL, Monnet DL. Euro Surveill. 2016;21(9). "Plasmid-mediated colistin resistance (mcr-1 gene): three months later, the story unfolds."](http://www.ncbi.nlm.nih.gov/pubmed/26967914) | [Eurosurveillance - View Article](http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=21403)
 - [Liu YY et al. Lancet Infect Dis. 2016 Feb "Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study."](http://www.ncbi.nlm.nih.gov/pubmed/26603172)
 
+### IncP Colistin
+
+https://www.ncbi.nlm.nih.gov/pubmed/27895009
+Antimicrob Agents Chemother. 2017 Jan 24;61(2). pii: e02229-16. doi: 10.1128/AAC.02229-16. Print 2017 Feb.
+IncP Plasmid Carrying Colistin Resistance Gene mcr-1 in Klebsiella pneumoniae from Hospital Sewage.
+Zhao F1,2, Feng Y1,2, Lü X1,2, McNally A3, Zong Z4,2,5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5278755/
+, suggesting that mcr-1 was carried by a self-transmissible plasmid, which was assigned pMCR_1511. 
+
+Phylogenetic analysis of the IncP-1 plasmid backbone revealed that pMCR_1511 and pHNFP671 belonged to a new IncP-1 clade (see Fig. S1 in the supplemental material).
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5278755/bin/supp_61_2_e02229-16__index.html
+
+https://www.ncbi.nlm.nih.gov/nuccore/KX377410
+Klebsiella pneumoniae strain WCHKP1511 plasmid pMCR_1511, complete sequence
+
+https://www.ncbi.nlm.nih.gov/nuccore/KP324830
+Escherichia coli isolate FP671 plasmid pHNFP671, complete sequence
+
 ### IncP
 
 https://www.ncbi.nlm.nih.gov/pubmed/28264851
@@ -400,12 +447,6 @@ Antimicrob Agents Chemother. 2017 Apr 24;61(5).
 MCR-1.6, a New MCR Variant Carried by an IncP Plasmid in a Colistin-Resistant Salmonella enterica Serovar Typhimurium Isolate from a Healthy Individual.
 Lu X1, Hu Y2, Luo M3, Zhou H1, Wang X1,4, Du Y1, Li Z1, Xu J4, Zhu B5, Xu X6, Kan B7.
 https://www.ncbi.nlm.nih.gov/nuccore/KY352406
-
-https://www.ncbi.nlm.nih.gov/pubmed/27895009
-Antimicrob Agents Chemother. 2017 Jan 24;61(2).
-IncP Plasmid Carrying Colistin Resistance Gene mcr-1 in Klebsiella pneumoniae from Hospital Sewage.
-Zhao F1,2, Feng Y1,2, Lü X1,2, McNally A3, Zong Z4,2,5.
-
 
 ### Top EM
 
@@ -588,6 +629,8 @@ Campbell A1, Mrázek J, Karlin S.
 
 
 ----------
+### HGT
+
 
 塩基組成　Nucleotide composition profiling　
 https://www.ncbi.nlm.nih.gov/pubmed/15653627
@@ -649,6 +692,37 @@ https://www.jstage.jst.go.jp/article/jssm/36/0/36_KJ00008103115/_pdf/-char/ja
 http://www.seibutsushi.net/blog/2009/08/860.html
 2009-08-19
 プラスミドはどこからきたのか？２-不完全な生命同士の遺伝子交換
+
+
+----------
+
+## Wolbachia
+
+https://twitter.com/search?q=Wolbachia%20plasmid
+
+https://naturemicrobiologycommunity.nature.com/users/208603-julie-reveillaud/posts/44531-an-interdisciplinary-wolbachia-story-through-connections-across-the-atlantic-metagenomics-long-read-sequencing-and-other-things
+An interdisciplinary Wolbachia story through connections across the Atlantic: Metagenomics, long-read sequencing, and other things | Nature Research Microbiology Community
+
+https://www.nature.com/articles/s41467-019-08973-w
+The Wolbachia mobilome in Culex pipiens includes a putative plasmid | Nature Communications
+
+https://twitter.com/vectorgen/status/1103032982191906817
+Jason Rasgon on Twitter: "That's very interesting. Wouldn't be the first time I heard someone talk about a wolbachia plasmid; never panned out before. Sequencing methods are better now. Were they able to isolate it?… https://t.co/tTJcKK9lBd"
+3:42 PM - 5 Mar 2019
+
+https://twitter.com/merenbey/status/1102959988098633729
+A. Murat Eren (Meren) on Twitter: "A Wolbachia plasmid?! A study by @JulieReve & @srbordenstein et al: https://t.co/J61RISirT6 This study also includes a reproducible bioinformatics workflow, https://t.co/RrZePXmc9p and all the data you can ask for 😇 https://t.co/E54vVXyjGR #openscience #openaccess… https://t.co/znKIoiwaRw"
+10:52 AM - 5 Mar 2019 from Chicago, IL
+
+https://twitter.com/JulieReve/status/1102893058784481281
+Julie Reveillaud on Twitter: "Very happy to announce the discovery of a plasmid in the mobilome of Wolbachia in Culex pipiens mosquitoes with fantastic team @merenbey @srbordenstein @Symbionticism @alon_shaiber @c4vansite @ozcanesen et al! https://t.co/Qrm9uGu788 just out in @NatureComms"
+6:26 AM - 5 Mar 2019
+
+
+
+https://twitter.com/Symbionticism/status/211387158425116672
+Seth Bordenstein on Twitter: "Rickettsial plasmid also exchanged genes with Wolbachia phage WO http://t.co/ibAig0aE #Wolbachia2012"
+5:20 AM - 9 Jun 2012
 
 ----------
 
