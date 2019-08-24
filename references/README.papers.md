@@ -11,6 +11,7 @@
 - [mutation rate](#mutation-rate)
 - [Hi-C](#hi-c)
 - [review](#review)
+- [rRNA](#rrna)
 
 ----------
 ## featuring
@@ -25,6 +26,23 @@ Reconsidering plasmid maintenance factors for computational plasmid design.
 Yano H, Shintani M, Tomita M, Suzuki H, Oshima T.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
 
+
+
+----------
+## rRNA
+
+https://www.ncbi.nlm.nih.gov/pubmed/29937760
+Front Microbiol. 2018 Jun 8;9:1232. doi: 10.3389/fmicb.2018.01232. eCollection 2018.
+Multiple Ribosomal RNA Operons in Bacteria; Their Concerted Evolution and Potential Consequences on the Rate of Evolution of Their 16S rRNA.
+Espejo RT1, Plaza N1,2.
+Bacterial species differ greatly in the number and location of the rRNA operons which may be present in the bacterial chromosomes and plasmids. 
+https://www.frontiersin.org/articles/10.3389/fmicb.2018.01232/full
+MINI REVIEW ARTICLE
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6002687/
+- Moreover, its function can be replaced by a plasmid-encoded rRNA operon, which in E. coli can be exchanged for operons from Salmonella typhimurium and Proteus vulgaris (Asai et al., 1999a).
+- In addition, rrn copies are also found in both chromosomes and plasmids as in B. megaterium (Kunnimalaiyaan et al., 2001) or Paracoccus species (Battermann et al., 2003). A special case is Aureimonas sp. AU20 in which the only rRNA operon is in the plasmid (Anda et al., 2015).
+- Conclusion
+the effect of multiple rrs in bacterial genomes and their location in chromosomes or plasmids has not been considered. 
 
 ----------
 ## Hi-C
@@ -155,6 +173,10 @@ López JL1, Lozano MJ1, Lagares A Jr2,3, Fabre ML1, Draghi WO1, Del Papa MF1, Pi
 - Sinorhizobium meliloti, which harbors a chromosome, a chromid (pSymB), a megaplasmid (pSymA), and, in many strains, one or more accessory plasmids.
 - modal codon usages
 
+https://twitter.com/PMOrwin/status/1097589647390064640
+Paul Orwin on Twitter: "@surt_lab @GavinHThomas @vscooper @WaldminghausLab @biotweeps So chromid equals megaplasmid?" / Twitter
+5:12 AM · Feb 19, 2019
+
 https://www.ncbi.nlm.nih.gov/pubmed/30608550
 Mol Biol Evol. 2019 Jan 4. doi: 10.1093/molbev/msy248. [Epub ahead of print]
 Chromids aid genome expansion and functional diversification in the family Burkholderiaceae.
@@ -166,6 +188,14 @@ and Finan 2017).
 Posted August 27, 2018.
 https://www.biorxiv.org/content/10.1101/264945v3
 Neo-formation of chromosomes in bacteria | bioRxiv
+
+https://www.ncbi.nlm.nih.gov/pubmed/28794225
+Microbiol Mol Biol Rev. 2017 Aug 9;81(3). pii: e00019-17. doi: 10.1128/MMBR.00019-17. Print 2017 Sep.
+The Divided Bacterial Genome: Structure, Function, and Evolution.
+diCenzo GC1, Finan TM2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5584315/
+Replicon and Secondary Replicon
+We suggest that each replicon be classified into one of the following five groups, as described below and in Fig. 1: chromosome, second chromosome, chromid, megaplasmid, and plasmid.
 
 https://www.ncbi.nlm.nih.gov/pubmed/23123907
 J Bacteriol. 2013 Jan;195(2):202-12. doi: 10.1128/JB.01758-12. Epub 2012 Nov 2.
