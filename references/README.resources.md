@@ -15,14 +15,13 @@ Reconsidering plasmid maintenance factors for computational plasmid design.
 Yano H1, Shintani M2,3, Tomita M4,5, Suzuki H4,5, Oshima T6.
 https://doi.org/10.1016/j.csbj.2018.12.001
 https://www.sciencedirect.com/science/article/pii/S2001037018301685
-```
+
 3. Publicly Available Resources
 3.1. Plasmid Sequence Data
 
 Orlek et al. [135] presented a curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI database (https://figshare.com/s/18de8bdcbba47dbaba41). The web servers PLSDB (https://ccb-microbe.cs.uni-saarland.de/plsdb/) [136] and pATLAS (http://www.patlas.site) [137] provide a more comprehensive collection of bacterial plasmids retrieved from the NCBI nucleotide database.
 
 3.2. Bioinformatics Tools
-```
 
 https://www.ncbi.nlm.nih.gov/pubmed/28232822
 Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
@@ -34,6 +33,16 @@ Summary of common in silico tools used for plasmid analysis.
 
 ----------
 ## updates
+
+### PPR-Meta
+
+https://www.ncbi.nlm.nih.gov/pubmed/31220250
+Gigascience. 2019 Jun 1;8(6). pii: giz066. doi: 10.1093/gigascience/giz066.
+PPR-Meta: a tool for identifying phages and plasmids from metagenomic fragments using deep learning.
+Fang Z1,2, Tan J1,2, Wu S1,2, Li M1,2,3, Xu C1,2,4, Xie Z1,2, Zhu H1,2.
+PPR-Meta is freely available via http://cqb.pku.edu.cn/ZhuLab/PPR_Meta or https://github.com/zhenchengfang/PPR-Meta.
+
+
 
 ### tiptoft
 
@@ -82,7 +91,17 @@ Microbiol Resour Announc. 2019 Jan 3;8(1). pii: e01325-18. doi: 10.1128/MRA.0132
 A Curated, Comprehensive Database of Plasmid Sequences.
 Brooks L1, Kaze M2, Sistrom M2.
 https://mra.asm.org/content/8/1/e01325-18
+ftp://ftp.ncbi.nlm.nih.gov/refseq/release/plasmid/, resulting in 11,677 plasmid sequences. 
+This resulted in 7,426 complete and assembled plasmid sequences following this initial screening.
+(https://www.ncbi.nlm.nih.gov/genome/browse#!/prokaryotes/).
+This allowed us to include an additional 3,466 complete, annotated plasmid sequences, resulting in our database of 10,892 complete and annotated plasmid sequences for subsequent analyses.
+
 Data availability. The plasmid database is available in fasta format and associated metadata are available in csv format at https://doi.org/10.15146/R33X2J.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30625112
+Microb Genom. 2019 Jan;5(1). doi: 10.1099/mgen.0.000244.
+Where the plasmids roam: large-scale sequence analysis reveals plasmids with large host ranges.
+Brooks LE1,2, Kaze M2, Sistrom M2.
 
 https://twitter.com/Tyu_Shi/status/1083013705514680320
 Tyu_Shi on Twitter: "論文読んだ限りこのmethodでcuratedでcomprehensiveなplasmid sequence databaseと言う気にはならないな。"A Curated, Comprehensive Database of Plasmid Sequences" https://t.co/hndJfjzrYd 出張先なので800MB超のファイルダウンロードするのは避けたいが、 帰ったら一応ダウンロードしてみよう。"
@@ -99,9 +118,10 @@ https://www.ncbi.nlm.nih.gov/pubmed/30395323
 Nucleic Acids Res. 2019 Jan 8;47(D1):D188-D194. doi: 10.1093/nar/gky1073.
 Plasmid ATLAS: plasmid visual analytics and identification in high-throughput sequencing data.
 Jesus TF1, Ribeiro-Gonçalves B1, Silva DN1, Bortolaia V2, Ramirez M1, Carriço JA1.
-```
 pATLAS allows searching by plasmid name, bacterial host taxa, antibiotic resistance and virulence genes, plasmid families, and by sequence length and similarity.
-```
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323984/
+Currently, there are 13 924 entries in NCBI’s RefSeq plasmid database (14) and 
+Sequences of all the 13 232 plasmids are stored in pATLAS database so that users are able to download sequences and annotations from the pATLAS website or through requests to the REST API.
 
 https://twitter.com/WvSchaik/status/1060486271557091328
 Willem van Schaik on Twitter: "Very interesting tool by @jacarrico: 'Plasmid ATLAS: plasmid visual analytics and identification in high-throughput sequencing data' https://t.co/CWIAoV3449"
@@ -114,6 +134,14 @@ https://www.ncbi.nlm.nih.gov/pubmed/30380090
 Nucleic Acids Res. 2018 Oct 31. doi: 10.1093/nar/gky1050. [Epub ahead of print]
 PLSDB: a resource of complete bacterial plasmids.
 Galata V1, Fehlmann T1, Backes C1, Keller A1.
+Here, we present PLSDB, a resource containing 13 789 plasmid records collected from the NCBI nucleotide database. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323999/
+Data retrieval and processing pipeline
+Data collection
+Plasmid records were searched in the NCBI nucleotide database by using the query from Orlek et al. (4) and filtering the results to have ‘plasmid’ as location tag, being assigned to a bacterial organism and being from the specified resource (INSDC or RefSeq). 
+
+Overview of collected plasmids
+In total, 13 789 plasmid records (2945 from INSDC and 10 844 from RefSeq) were retrieved from the NCBI nucleotide database.
 
 ### Orlek
 https://www.ncbi.nlm.nih.gov/pubmed/28286183
@@ -147,7 +175,65 @@ Leplae R1, Lima-Mendez G, Toussaint A.
 https://omictools.com/plasmid-detection-category
 Plasmid detection bioinformatics tools | Metagenomic sequencing analysis - omicX
 
+
 ----------
+
+### oriTfinder
+
+https://www.ncbi.nlm.nih.gov/pubmed/29733379
+Nucleic Acids Res. 2018 Jul 2;46(W1):W229-W234. doi: 10.1093/nar/gky352.
+oriTfinder: a web-based tool for the identification of origin of transfers in DNA sequences of bacterial mobile genetic elements.
+Li X1, Xie Y1, Liu M1, Tai C1, Sun J2, Deng Z1, Ou HY1,3.
+http://bioinfo-mml.sjtu.edu.cn/oriTfinder
+
+### MacSyFinder
+CONJscan
+
+https://research.pasteur.fr/en/software/conjscan-t4ssscan/
+Eduardo Rocha - CONJscan-T4SSscan • Research - Institut Pasteur
+MacSyFinder. The T4SS for protein secretion can be identified using TXSScan. The CONJscan part is now a module in MacSyFinder.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28911112
+Nucleic Acids Res. 2017 Sep 6;45(15):8943-8956. doi: 10.1093/nar/gkx607.
+Integrative and conjugative elements and their hosts: composition, distribution and organization.
+Cury J1,2, Touchon M1,2, Rocha EPC1,2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5587801/
+Detection of conjugative systems
+Conjugative systems were found with the CONJscan module of MacSyFinder (29), using protein profiles and definitions following a previous work (16) 
+
+https://www.ncbi.nlm.nih.gov/pubmed/24623814
+Nucleic Acids Res. 2014 May;42(9):5715-27. doi: 10.1093/nar/gku194. Epub 2014 Mar 12.
+Key components of the eight classes of type IV secretion systems involved in bacterial conjugation or protein secretion.
+Guglielmini J1, Néron B2, Abby SS3, Garcillán-Barcia MP4, de la Cruz F4, Rocha EP3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4027160/
+Webservers
+We had previously made available a web site (now called CONJscan, http://mobyle.pasteur.fr/cgi-bin/portal.py#forms::CONJscan-T4SSscan or the short URL http://bit.ly/CONJscan) that allows searching for T4SS and conjugation-related protein profiles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25330359
+PLoS One. 2014 Oct 17;9(10):e110726. doi: 10.1371/journal.pone.0110726. eCollection 2014.
+MacSyFinder: a program to mine genomes for molecular systems with an application to CRISPR-Cas systems.
+Abby SS1, Néron B2, Ménager H2, Touchon M1, Rocha EP1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4201578/
+Macromolecular System Finder (MacSyFinder)
+
+### metaplasmidSPAdes
+
+Plasmid detection and assembly in genomic and metagenomic datasets
+https://genome.cshlp.org/content/early/2019/05/02/gr.241299.118.abstract …
+
+### [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
+  - [plasmidSPAdes - Twitter Search](https://twitter.com/search?f=tweets&vertical=default&q=plasmidSPAdes&src=typd)
+  - [SPAdes – Center for Algorithmic Biotechnology](http://cab.spbu.ru/software/spades/)
+    - [SPAdes 3.10.1 Manual](http://cab.spbu.ru/files/release3.10.1/manual.html)
+  - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
+    - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
+
+https://www.ncbi.nlm.nih.gov/pubmed/27466620
+Bioinformatics. 2016 Nov 15;32(22):3380-3387. Epub 2016 Jul 27.
+plasmidSPAdes: assembling plasmids from whole genome sequencing data.
+Antipov D1, Hartwick N2, Shen M3, Raiko M2, Lapidus A1, Pevzner PA1,2
+
+
 
 ### mlplasmids
 https://gitlab.com/sirarredondo/mlplasmids
@@ -247,19 +333,6 @@ Recycler: an algorithm for detecting plasmids from de novo assembly graphs.
 Rozov R1, Brown Kav A2, Bogumil D2, Shterzer N2, Halperin E1,3,4, Mizrahi I2, Shamir R1.
 
 - [Rozov R et al. (2017) Bioinformatics. 33(4):475-482. "Recycler: an algorithm for detecting plasmids from de novo assembly graphs."](https://www.ncbi.nlm.nih.gov/pubmed/28003256)
-
-### [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
-  - [plasmidSPAdes - Twitter Search](https://twitter.com/search?f=tweets&vertical=default&q=plasmidSPAdes&src=typd)
-  - [SPAdes – Center for Algorithmic Biotechnology](http://cab.spbu.ru/software/spades/)
-    - [SPAdes 3.10.1 Manual](http://cab.spbu.ru/files/release3.10.1/manual.html)
-  - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
-    - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
-
-https://www.ncbi.nlm.nih.gov/pubmed/27466620
-Bioinformatics. 2016 Nov 15;32(22):3380-3387. Epub 2016 Jul 27.
-plasmidSPAdes: assembling plasmids from whole genome sequencing data.
-Antipov D1, Hartwick N2, Shen M3, Raiko M2, Lapidus A1, Pevzner PA1,2
-
 
 ### PLACNET (PLAsmid Constellation NET)
   - [Placnet download | SourceForge.net](https://sourceforge.net/projects/placnet/)
