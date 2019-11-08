@@ -1,4 +1,4 @@
-# plasmids.tools
+# plasmid resources
 
 ## Table of Contents
 - [review](#review)
@@ -33,6 +33,11 @@ Summary of common in silico tools used for plasmid analysis.
 
 ----------
 ## updates
+
+
+https://www.biorxiv.org/content/10.1101/835900v1
+gplas: a comprehensive tool for plasmid analysis using short-read graphs | bioRxiv
+https://gitlab.com/sirarredondo/gplas
 
 
 https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz745/5582648
