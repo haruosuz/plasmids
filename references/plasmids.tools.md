@@ -1,10 +1,12 @@
-# plasmid resources
+# plasmid tools
 
 ## Table of Contents
 - [review](#review)
 - [updates](#updates)
 - [data](#data)
 - [tools](#tools)
+
+https://togotv.dbcls.jp/?search=第3回木村資生記念進化学セミナー
 
 ----------
 ## review
@@ -31,18 +33,18 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
 Table 2
 Summary of common in silico tools used for plasmid analysis.
 
+
 ----------
 ## updates
 
+## 2019
 
 https://www.biorxiv.org/content/10.1101/835900v1
 gplas: a comprehensive tool for plasmid analysis using short-read graphs | bioRxiv
 https://gitlab.com/sirarredondo/gplas
 
-
 https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz745/5582648
 WASPS: Web-Assisted Symbolic Plasmid Synteny Server | Bioinformatics | Oxford Academic
-
 
 ### PPR-Meta
 
@@ -51,8 +53,6 @@ Gigascience. 2019 Jun 1;8(6). pii: giz066. doi: 10.1093/gigascience/giz066.
 PPR-Meta: a tool for identifying phages and plasmids from metagenomic fragments using deep learning.
 Fang Z1,2, Tan J1,2, Wu S1,2, Li M1,2,3, Xu C1,2,4, Xie Z1,2, Zhu H1,2.
 PPR-Meta is freely available via http://cqb.pku.edu.cn/ZhuLab/PPR_Meta or https://github.com/zhenchengfang/PPR-Meta.
-
-
 
 ### tiptoft
 
@@ -84,6 +84,28 @@ gene databases are freely available on FunGene (http://fungene.cme.msu.edu/).
  Reference and BLAST databases are publicly
 available on GitHub (https://github.com/ShadeLab/meta_arsenic). 
 
+## 2018
+
+## 2017
+
+https://www.ncbi.nlm.nih.gov/pubmed/29220507
+Brief Bioinform. 2017 Dec 5. doi: 10.1093/bib/bbx162. [Epub ahead of print]
+Assessing the heterogeneity of in silico plasmid predictions based on whole-genome-sequenced clinical isolates.
+Laczny CC, Galata V, Plum A, Posch AE, Keller A.
+- tools (cBar, PlasmidFinder, plasmidSPAdes and Recycler)
+
+https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master
+Sergio_Arredondo / Plasmid_Assembly · GitLab
+
+https://www.ncbi.nlm.nih.gov/pubmed/29177087
+Microb Genom. 2017 Aug 18;3(10):e000128. doi: 10.1099/mgen.0.000128. eCollection 2017 Oct.
+On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data.
+Arredondo-Alonso S1, Willems RJ1, van Schaik W1,2, Schürch AC1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695206/
+- four programs (PlasmidSPAdes, Recycler, cBar and PlasmidFinder) 
+- Table 1.
+Overview of the programs to predict plasmids from short-read sequencing data
+
 ----------
 
 ## data
@@ -100,7 +122,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/30637385
 Microbiol Resour Announc. 2019 Jan 3;8(1). pii: e01325-18. doi: 10.1128/MRA.01325-18. eCollection 2019 Jan.
 A Curated, Comprehensive Database of Plasmid Sequences.
 Brooks L1, Kaze M2, Sistrom M2.
-https://mra.asm.org/content/8/1/e01325-18
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6318356/
 ftp://ftp.ncbi.nlm.nih.gov/refseq/release/plasmid/, resulting in 11,677 plasmid sequences. 
 This resulted in 7,426 complete and assembled plasmid sequences following this initial screening.
 (https://www.ncbi.nlm.nih.gov/genome/browse#!/prokaryotes/).
@@ -343,25 +365,13 @@ Nucleic Acids Res. 2018 Jan 13. doi: 10.1093/nar/gkx1321. [Epub ahead of print]
 PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures.
 Krawczyk PS1,2, Lipinski L1, Dziembowski A1,2.
 
-### 
-https://www.ncbi.nlm.nih.gov/pubmed/29220507
-Brief Bioinform. 2017 Dec 5. doi: 10.1093/bib/bbx162. [Epub ahead of print]
-Assessing the heterogeneity of in silico plasmid predictions based on whole-genome-sequenced clinical isolates.
-Laczny CC, Galata V, Plum A, Posch AE, Keller A.
+https://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.html
+Species and plasmids
+Prediction of plasmid sequences and classes using PlasFlow
 
-### sirarredondo
-[Sergio_Arredondo / Plasmid_Assembly · GitLab](https://gitlab.com/sirarredondo/Plasmid_Assembly/tree/master)
+### Recycler
+https://github.com/Shamir-Lab/Recycler
 
-https://www.ncbi.nlm.nih.gov/pubmed/29177087
-Microb Genom. 2017 Aug 18;3(10):e000128. doi: 10.1099/mgen.0.000128. eCollection 2017 Oct.
-On the (im)possibility of reconstructing plasmids from whole-genome short-read sequencing data.
-Arredondo-Alonso S1, Willems RJ1, van Schaik W1,2, Schürch AC1.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695206/
-Table 1.
-Overview of the programs to predict plasmids from short-read sequencing data
-
-
-### [Recycler](https://github.com/Shamir-Lab/Recycler)
 https://www.ncbi.nlm.nih.gov/pubmed/28003256
 Bioinformatics. 2017 Feb 15;33(4):475-482. doi: 10.1093/bioinformatics/btw651.
 Recycler: an algorithm for detecting plasmids from de novo assembly graphs.
@@ -402,6 +412,27 @@ Lanza VF1,2,3, Baquero F1,2,3, de la Cruz F4, Coque TM1,2,3.
 
 リンク切れ
 
+
+
+
+----------
+### PlasMapper
+
+リンク切れ
+http://wishart.biology.ualberta.ca/PlasMapper/
+Service Temporarily Unavailable
+
+https://www.ncbi.nlm.nih.gov/pubmed/15215471
+Nucleic Acids Res. 2004 Jul 1;32(Web Server issue):W660-4.
+PlasMapper: a web server for drawing and auto-annotating plasmid maps.
+Dong X1, Stothard P, Forsythe IJ, Wishart DS.
+
+https://en.wikipedia.org/wiki/Plasmapper
+PlasMapper (Plasmid Mapper) [1] is a freely available web server that automatically generates and annotates high-quality circular plasmid maps.
+
+http://togodb.biosciencedbc.jp/entry/stga_tool/410
+プラスミドなどの塩基配列に対して、制限酵素切断部位を始め、複製開始点、プロモーターなどの情報、さらに自分の定義した領域のマッピングを同時に行い、ベクトル形式(SVG)で描画するツール。
+
 ----------
 
 ### SnapGene
@@ -420,6 +451,28 @@ ApE(A plasmid Editor)
 ### [Addgene](https://www.addgene.org) non-profit plasmid repository
 - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
 
+
+
+
+----------
+### cira.kyoto-u
+
+https://www.cira.kyoto-u.ac.jp/hotta/link.html
+京大CiRA堀田研｜リンク集
+
+分子生物学実験関連
+- PlasMapperr
+未知のプラスミドDNAの配列を入力すると、自動的にアノテーションをして美しいマップを表示してくれる。アノテーション結果をGeneBank形式で書き出しApEで開く事も可能。
+
+研究用ソフトウェア
+- ApE
+無償であるにも関わらず、非常に優秀な塩基配列編集ソフトウェア。GeneBank形式等の各種塩基配列ファイルを読み込んで、アノテーション付きで表示や編集が可能。制限酵素の切断部位やサイズを様々に表示したり、さらにはDam/Dcm依存性の制限酵素の切り替えもボタン一つ。プラスミドマップの描画にも対応しており、シンプルだが実用上は十分。Mac, Win, Unix/Linux対応。
+- SnapGene Viewer
+有償ソフトSnapGeneのトライアル版的な位置付けで、プラスミドDNAなどの塩基配列管理ソフトウェア。GeneBank形式等の各種塩基配列ファイルを読み込んで、アノテーション付きで表示が可能。編集機能を利用するには有償版を購入する必要があるが、グラフィックスの美しさはさすが商用ソフト。Mac, Win, Linux対応。
+
+研究用データベース
+- Addgenes
+研究用プラスミドDNAの非営利分与団体。MTA(研究資料分与契約書)を締結すれば、登録されているプラスミドDNA一つをUS$65程度(+送付料)で分与してもらえる。また、自身の構築したプラスミドDNAを委託して、世界中に分与してもらうことも可能。
 
 ----------
 
@@ -458,6 +511,7 @@ http://kazumaxneo.hatenablog.com/entry/2017/08/27/233654
 
 http://kazumaxneo.hatenablog.com/entry/2017/06/27/133058
 DNA解析ソフト1 Snapgene - macでインフォマティクス
+SnapGeneはプラスミドやゲノムの解析ソフトである。ビジュアルで見やすく表示する機能に特化しており、制限酵素処理結果を画面で見やすく表示したり、TA cloningやgibson、in fuisionなどの反応結果を表示し設計を支援する機能などを持つ。
 
 ----------
 
