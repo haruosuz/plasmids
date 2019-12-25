@@ -43,8 +43,20 @@ https://www.biorxiv.org/content/10.1101/835900v1
 gplas: a comprehensive tool for plasmid analysis using short-read graphs | bioRxiv
 https://gitlab.com/sirarredondo/gplas
 
+
+### WASPS
+
+https://www.ncbi.nlm.nih.gov/pubmed/31589313
+Bioinformatics. 2019 Oct 7. pii: btz745. doi: 10.1093/bioinformatics/btz745. [Epub ahead of print]
+WASPS: Web-Assisted Symbolic Plasmid Synteny Server.
+Badel C1, Da Cunha V1, Catchpole R1, Forterre P1,2, Oberto J1.
 https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz745/5582648
-WASPS: Web-Assisted Symbolic Plasmid Synteny Server | Bioinformatics | Oxford Academic
+
+Recently, plasmid assets have been developed proposing either a comprehensive manually curated bacterial plasmid list (Brooks et al., 2019) or a bacterial plasmid database which can be interrogated using sequence similarity programs (Galata et al., 2019). 
+
+https://twitter.com/search?q=plasmid%20database&src=typed_query&f=live
+Oct 15
+WASPS, a new plasmid web service for similarity analyses and synteny map construction. Also includes a comprehensive and updated natural plasmid database.
 
 ### PPR-Meta
 
@@ -157,6 +169,12 @@ Currently, there are 13 924 entries in NCBI’s RefSeq plasmid database (14) and
 - DATABASE CREATION
   - With this filtered dataset, pairwise distances were calculated using Mash software (v2.0) (18) with the mash dist command, a sketch size of 1000 (-s option) and K-mer size of 21 (-k option). Pairwise distances were filtered to exclude distances with a p-value>0.05 and a mash distance<0.1. These values were selected in order to retain for display only the pairwise distances that correlate well with an Average Nucleotide Identity (ANI)>0.9 (18) (Supplementary Figures S2 and 3). 
   - Sequences of all the 13 232 plasmids are stored in pATLAS database so that users are able to download sequences and annotations from the pATLAS website or through requests to the REST API.
+
+http://kazumaxneo.hatenablog.com/entry/2019/11/08/073000
+pATLASflow - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2019/11/06/073000
+プラスミドの分析と視覚化のwebサービス Plasmid ATLAS - macでインフォマティクス
 
 https://twitter.com/WvSchaik/status/1060486271557091328
 Willem van Schaik on Twitter: "Very interesting tool by @jacarrico: 'Plasmid ATLAS: plasmid visual analytics and identification in high-throughput sequencing data' https://t.co/CWIAoV3449"
