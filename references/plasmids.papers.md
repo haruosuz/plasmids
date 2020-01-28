@@ -59,6 +59,7 @@ https://www.sbj.or.jp/wp-content/uploads/file/sbj/9601/9601_biomedia_1.pdf
 compensated mutation（代償的変異）
 以上のことは，少なくとも複数のプラスミドの宿主は，たとえ選択圧がなくとも，染色体・プラスミドの遺伝子に代償的変異を生じさせ，プラスミドを「生き残らせる」よう進化することを示唆している．
 
+動画（14:48）
 Nov 3, 2016
 https://www.youtube.com/watch?v=W2UR1i6ihXE
 第10回超領域研究会「複合微生物系における可動性遺伝因子の挙動解明に向けて」 新谷 政己 准教授-静岡大学 【研究者紹介】
@@ -125,7 +126,6 @@ ICEberg 2.0: an updated database of bacterial integrative and conjugative elemen
 Liu M1,2, Li X1, Xie Y1, Bi D3, Sun J4, Li J5, Tai C1, Deng Z1, Ou HY1,2.
 
 
-
 ----------
 
 ## Fernandez-Lopez_2017_taxonomy_plasmids
@@ -141,14 +141,29 @@ https://pfam.xfam.org/family/PF04796
 Pfam: Family: RepA_C (PF04796)
 
 
-
-
 ----------
 
 
 ## updates
 
 ### 2019
+
+https://twitter.com/BejaLab/status/1195926101509496832
+Oded Béjà on Twitter: "while preparing my microbial ecology lecture for today i came upon this one (not for the first time
+). Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome https://t.co/PsC007lQoY" / Twitter
+1:46 PM · Nov 17, 2019·Twitter Web App
+
+https://twitter.com/LucyvanDorp/status/1178584345579315200
+Lucy van Dorp on Twitter: "Our @biorxivpreprint led by @misac42 Large-scale network analysis captures biological features of bacterial plasmids https://t.co/xyr1kNBYYF Using network-based models + community detection algorithms we uncover the population structure of over 10,000 bacterial #plasmids (1/4) https://t.co/HsiFxyCU4o" / Twitter
+5:16 PM · Sep 30, 2019
+September 28, 2019.
+https://www.biorxiv.org/content/10.1101/785212v1
+Large-scale network analysis captures biological features of bacterial plasmids | bioRxiv
+
+https://www.ncbi.nlm.nih.gov/pubmed/31187446
+Genes Genomics. 2019 Sep;41(9):1077-1083. doi: 10.1007/s13258-019-00839-1. Epub 2019 Jun 11.
+Comparison of de-novo assembly tools for plasmid metagenome analysis.
+Gupta SK1, Raza S1, Unno T2,3.
 
 https://www.nature.com/articles/s41467-019-13709-x
 Published: 20 December 2019
