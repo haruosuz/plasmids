@@ -72,11 +72,6 @@ Front Microbiol. 2015 Mar 31;6:242. doi: 10.3389/fmicb.2015.00242. eCollection 2
 Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy.
 Shintani M1, Sanchez ZK2, Kimbara K2.
 
-https://www.ncbi.nlm.nih.gov/pubmed/24141122
-Appl Environ Microbiol. 2014 Jan;80(1):138-45. doi: 10.1128/AEM.02571-13. Epub 2013 Oct 18.
-Single-cell analyses revealed transfer ranges of IncP-1, IncP-7, and IncP-9 plasmids in a soil bacterial community.
-Shintani M1, Matsui K, Inoue J, Hosoyama A, Ohji S, Yamazoe A, Nojiri H, Kimbara K, Ohkuma M.
-
 2015-03
 http://ci.nii.ac.jp/naid/40020727466
 新谷政己，金原和秀．環境バイオテクノロジー学会誌 14(2), 81-86.
@@ -84,6 +79,16 @@ http://ci.nii.ac.jp/naid/40020727466
 Genomics of Plasmids
 https://www.jseb.jp/wordpress/wp-content/uploads/14-02-081.pdf
 表 2．Pseudomonas 属細菌におけるプラスミドの不和合性群とその接合伝達機構における分類
+
+https://www.ncbi.nlm.nih.gov/pubmed/24141122
+Appl Environ Microbiol. 2014 Jan;80(1):138-45. doi: 10.1128/AEM.02571-13. Epub 2013 Oct 18.
+Single-cell analyses revealed transfer ranges of IncP-1, IncP-7, and IncP-9 plasmids in a soil bacterial community.
+Shintani M1, Matsui K, Inoue J, Hosoyama A, Ohji S, Yamazoe A, Nojiri H, Kimbara K, Ohkuma M.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911017/
+Nucleotide sequence accession numbers.
+The partial sequences of 519 transconjugants were deposited in the DDBJ, EMBL, and GenBank databases (accession numbers AB772697 to AB773215). The pyrosequencing run data of the 16S rRNA genes in soil samples were deposited in the DDBJ Sequence Read Archive (DRA) (http://trace.ddbj.nig.ac.jp/dra/index_e.html; accession number DRA001209).
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911017/bin/supp_80_1_138__index.html
+Table S3. Top hit type strains with transconjugants identified in this study in BLAST searches.
 
 2013-12
 http://ci.nii.ac.jp/naid/40020320833
