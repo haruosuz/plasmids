@@ -1,3 +1,0 @@
-Archaea	170
-Bacteria	6922
-Eukaryota	110
