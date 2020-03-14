@@ -3,15 +3,15 @@ Last Update: 2020-02-13
 
 ----------
 
-# Mahalanobis distances between a plasmid and chromosomes
+# Measuring Mahalanobis distances between plasmid pSN1216-29 and chromosomes
 
-Measuring Mahalanobis distances between a plasmid and chromosomes
+Code used for analyses in Maho Tokuda, Haruo Suzuki, Kosuke Yanagiya, Masahiro Yuki, Kengo Inoue, Moriya Ohkuma, Kazuhide Kimbara, Masaki Shintani. (2020). "Determination of Plasmid pSN1216-29 Host Range and the Similarity in Oligonucleotide Composition between Plasmid and Host Chromosomes".
 
 ----------
 
 ## Project directory structures
 ```
-my_rho_mahalanobis/
+pSN1216-29/
 ./README.md: project documentation
 ./data/: contains sequence data in FASTA format (*.fna)
 ./results/: contains results of data analyses
@@ -20,10 +20,9 @@ my_rho_mahalanobis/
 
 ----------
 
-
 ## data
 
-Test data, plasmid pSN1216-29 (Accession: AP018710) and chromosomes from three bacterial strains, are as follows:
+Test data, plasmid pSN1216-29 (Accession: [AP018710](https://www.ncbi.nlm.nih.gov/nuccore/AP018710)) and chromosomes from three bacterial strains, are as follows:
 ```
 $grep "^>" data/AP018710.fna 
 >AP018710.1 Uncultured bacterium plasmid pSN1216-29 DNA, complete sequence
@@ -88,20 +87,17 @@ Mahalanobis distances and P values (ranging from 0 to 1) for plasmid-chromosome 
 
 ## references
 
-https://www.ncbi.nlm.nih.gov/pubmed/30459733
+- https://www.ncbi.nlm.nih.gov/pubmed/30459733
 Front Microbiol. 2018 Nov 6;9:2602. doi: 10.3389/fmicb.2018.02602. eCollection 2018.
 Novel Self-Transmissible and Broad-Host-Range Plasmids Exogenously Captured From Anaerobic Granules or Cow Manure.
 Yanagiya K1, Maejima Y1, Nakata H1, Tokuda M2, Moriuchi R3, Dohra H3, Inoue K4, Ohkuma M5, Kimbara K1,2, Shintani M1,2,5,6.
-
-https://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-6436-5_574-1
+- https://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-6436-5_574-1
 Suzuki H., Brown C.J., Top E.M. (2014) Genomic Signature Analysis to Predict Plasmid Host Range. In: Bell E. (eds) Molecular Life Sciences. Springer, New York, NY
-
-http://www.ncbi.nlm.nih.gov/pubmed/20851899
+- http://www.ncbi.nlm.nih.gov/pubmed/20851899
 J Bacteriol. 2010 Nov;192(22):6045-55. doi: 10.1128/JB.00277-10. Epub 2010 Sep 17.
 Predicting plasmid promiscuity based on genomic signature.
 Suzuki H, Yano H, Brown CJ, Top EM.
-
-http://www.ncbi.nlm.nih.gov/pubmed/18953039
+- http://www.ncbi.nlm.nih.gov/pubmed/18953039
 Nucleic Acids Res. 2008 Dec;36(22):e147. doi: 10.1093/nar/gkn753. Epub 2008 Oct 25.
 Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes.
 Suzuki H1, Sota M, Brown CJ, Top EM.
