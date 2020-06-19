@@ -126,8 +126,14 @@ Orlek et al. [135] presented a curated dataset of complete Enterobacteriaceae pl
 
 3.2. Bioinformatics Tools
 
-
 ## 2017
+
+2017年12月20日
+https://www.yodosha.co.jp/yodobook/book/9784758125031/
+実験医学：どこでも　誰でも　より長く　ナノポアシークエンサーが研究の常識を変える！ - 羊土社
+■サマリーを表示する
+ナノポアシークエンサーによる薬剤耐性菌ゲノムの解析【鈴木仁人，矢原耕史，平林亜希，柴山恵吾】
+近年，ナノポアシークエンサーによる1 分子長鎖（ロングリード）型シークエンシング技術の革新により，超長鎖DNA配列（～1 Mbp）の解読，RNA配列の直接解読，メチル化などの修飾塩基の検出などが可能になってきた．これらの技術は，細菌の染色体やプラスミドを含む完全配列の解析に加え，
 
 https://www.ncbi.nlm.nih.gov/pubmed/29220507
 Brief Bioinform. 2017 Dec 5. doi: 10.1093/bib/bbx162. [Epub ahead of print]
