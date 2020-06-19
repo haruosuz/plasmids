@@ -6,40 +6,13 @@
 - [data](#data)
 - [tools](#tools)
 
-https://togotv.dbcls.jp/?search=第3回木村資生記念進化学セミナー
-
-
-- Sequences of 19 plasmid replicon types. https://github.com/mscook/VFDB/blob/master/plasmid_replicons.fa
-
-
 ----------
 ## review
 
-https://www.ncbi.nlm.nih.gov/pubmed/30619542
-Comput Struct Biotechnol J. 2018 Dec 15;17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
-Reconsidering plasmid maintenance factors for computational plasmid design.
-Yano H1, Shintani M2,3, Tomita M4,5, Suzuki H4,5, Oshima T6.
-https://doi.org/10.1016/j.csbj.2018.12.001
-https://www.sciencedirect.com/science/article/pii/S2001037018301685
-
-3. Publicly Available Resources
-3.1. Plasmid Sequence Data
-
-Orlek et al. [135] presented a curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI database (https://figshare.com/s/18de8bdcbba47dbaba41). The web servers PLSDB (https://ccb-microbe.cs.uni-saarland.de/plsdb/) [136] and pATLAS (http://www.patlas.site) [137] provide a more comprehensive collection of bacterial plasmids retrieved from the NCBI nucleotide database.
-
-3.2. Bioinformatics Tools
-
-https://www.ncbi.nlm.nih.gov/pubmed/28232822
-Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
-Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology.
-Orlek A1, Stoesser N2, Anjum MF3, Doumith M4, Ellington MJ5, Peto T1, Crook D1, Woodford N5, Walker AS1, Phan H1, Sheppard AE1.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
-Table 2
-Summary of common in silico tools used for plasmid analysis.
-
-
 ----------
 ## updates
+
+## 2020
 
 https://www.ncbi.nlm.nih.gov/pubmed/32265894
 Front Microbiol. 2020 Mar 24;11:483. doi: 10.3389/fmicb.2020.00483. eCollection 2020.
@@ -47,8 +20,6 @@ Analysis of COMPASS, a New Comprehensive Plasmid Database Revealed Prevalence of
 Douarre PE1, Mallet L1, Radomski N1, Felten A1, Mistou MY2.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7105883/
 https://github.com/itsmeludo/COMPASS
-
-
 
 
 24 February 2020
@@ -75,13 +46,6 @@ Comparison of de-novo assembly tools for plasmid metagenome analysis.
 Gupta SK1, Raza S1, Unno T2,3.
 https://link.springer.com/article/10.1007/s13258-019-00839-1
 we suggest that the use of MEGAHIT for plasmid metagenome analysis may offer more diverse plasmids with less computer resource required.
-
-
-
-
-
-
-
 
 https://www.biorxiv.org/content/10.1101/835900v1
 gplas: a comprehensive tool for plasmid analysis using short-read graphs | bioRxiv
@@ -148,6 +112,21 @@ available on GitHub (https://github.com/ShadeLab/meta_arsenic).
 
 ## 2018
 
+https://www.ncbi.nlm.nih.gov/pubmed/30619542
+Comput Struct Biotechnol J. 2018 Dec 15;17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
+Reconsidering plasmid maintenance factors for computational plasmid design.
+Yano H1, Shintani M2,3, Tomita M4,5, Suzuki H4,5, Oshima T6.
+https://doi.org/10.1016/j.csbj.2018.12.001
+https://www.sciencedirect.com/science/article/pii/S2001037018301685
+
+3. Publicly Available Resources
+3.1. Plasmid Sequence Data
+
+Orlek et al. [135] presented a curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI database (https://figshare.com/s/18de8bdcbba47dbaba41). The web servers PLSDB (https://ccb-microbe.cs.uni-saarland.de/plsdb/) [136] and pATLAS (http://www.patlas.site) [137] provide a more comprehensive collection of bacterial plasmids retrieved from the NCBI nucleotide database.
+
+3.2. Bioinformatics Tools
+
+
 ## 2017
 
 https://www.ncbi.nlm.nih.gov/pubmed/29220507
@@ -167,6 +146,25 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695206/
 - four programs (PlasmidSPAdes, Recycler, cBar and PlasmidFinder) 
 - Table 1.
 Overview of the programs to predict plasmids from short-read sequencing data
+
+
+review
+https://www.ncbi.nlm.nih.gov/pubmed/28232822
+Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
+Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology.
+Orlek A1, Stoesser N2, Anjum MF3, Doumith M4, Ellington MJ5, Peto T1, Crook D1, Woodford N5, Walker AS1, Phan H1, Sheppard AE1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
+Table 2
+Summary of common in silico tools used for plasmid analysis.
+
+
+## 2014
+
+Apr 22, 2014
+https://github.com/mscook/VFDB
+Sequences of 19 plasmid replicon types.
+https://github.com/mscook/VFDB/blob/master/plasmid_replicons.fa
+
 
 ----------
 
@@ -527,9 +525,6 @@ ApE(A plasmid Editor)
 
 ### [Addgene](https://www.addgene.org) non-profit plasmid repository
 - [Addgene (@Addgene) | Twitter](https://twitter.com/addgene)
-
-
-
 
 ----------
 ### cira.kyoto-u
