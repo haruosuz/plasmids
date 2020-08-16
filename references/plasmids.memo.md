@@ -31,7 +31,11 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159552/
 
 https://github.com/phac-nml/mob-suite
 MOB-typer report file format
-predicted_mobility	Mobility prediction for the plasmid (Conjugative, Mobilizable, Non-mobilizable)
+
+| field  | Description |
+| --------- |  --------- | 
+| predicted_mobility | Mobility prediction for the plasmid (Conjugative, Mobilizable, Non-mobilizable) |
+
 
 ### Smillie_2010
 https://www.ncbi.nlm.nih.gov/pubmed/20805406
