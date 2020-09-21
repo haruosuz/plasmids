@@ -6,13 +6,75 @@
 - [data](#data)
 - [tools](#tools)
 
+
+----------
+## ZhuLab
+Zhencheng Fang
+
+### PlasGUN
+http://cqb.pku.edu.cn/ZhuLab/PlasGUN/
+https://github.com/zhenchengfang/PlasGUN/
+
+https://pubmed.ncbi.nlm.nih.gov/32091572/
+Bioinformatics
+. 2020 May 1;36(10):3239-3241. doi: 10.1093/bioinformatics/btaa103.
+PlasGUN: gene prediction in plasmid metagenomic short reads using deep learning
+Zhencheng Fang 1, Jie Tan 1, Shufang Wu 1, Mo Li 1, Chunhui Wang 1, Yongchu Liu 1, Huaiqiu Zhu 1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7214025/
+
+### PPR-Meta
+http://cqb.pku.edu.cn/ZhuLab/PPR_Meta
+https://github.com/zhenchengfang/PPR-Meta
+
+https://www.ncbi.nlm.nih.gov/pubmed/31220250
+Gigascience
+. 2019 Jun 1;8(6):giz066. doi: 10.1093/gigascience/giz066.
+PPR-Meta: a tool for identifying phages and plasmids from metagenomic fragments using deep learning
+Zhencheng Fang 1 2, Jie Tan 1 2, Shufang Wu 1 2, Mo Li 1 2 3, Congmin Xu 1 2 4, Zhongjie Xie 1 2, Huaiqiu Zhu 1 2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6586199/
+- Mathematical model of DNA sequences
+Here, we use a more detailed approach to represent the DNA fragments. Specifically, each sequence is represented by “base one-hot matrix (BOH)” and “codon one-hot matrix (COH).”
+
 ----------
 ## review
+
+
+
+
+----------
+### PlasmidFinder
+
+https://cge.cbs.dtu.dk/services/PlasmidFinder/
+PlasmidFinder 2.1
+Software version: 2.0.1 (2020-02-07)
+Database version: (2020-04-02)
+
+https://bitbucket.org/genomicepidemiology/plasmidfinder_db/src/master/
+クローンの作成
+
+Oct 10, 2018
+https://github.com/tseemann/abricate/issues/66
+PlasmidFinder data should be downloaded from BitBucket · Issue #66 · tseemann/abricate
+
+http://www.ncbi.nlm.nih.gov/pubmed/24777092
+Antimicrob Agents Chemother
+. 2014 Jul;58(7):3895-903. doi: 10.1128/AAC.02412-14. Epub 2014 Apr 28.
+In Silico Detection and Typing of Plasmids Using PlasmidFinder and Plasmid Multilocus Sequence Typing
+Alessandra Carattoli 1, Ea Zankari 2, Aurora García-Fernández 1, Mette Voldby Larsen 3, Ole Lund 3, Laura Villa 1, Frank Møller Aarestrup 2, Henrik Hasman 4
 
 ----------
 ## updates
 
 ## 2020
+
+Aug 20, 2020
+https://twitter.com/mSphereJ/status/1296110566424141825
+mSphere EIC on Twitter: "Tracking of Antibiotic Resistance Transfer and Rapid Plasmid Evolution in a Hospital Setting by Nanopore Sequencing https://t.co/VLrQf6hJsc @ASMicrobiology #mSphere" / Twitter
+https://msphere.asm.org/content/5/4/e00525-20
+Tracking of Antibiotic Resistance Transfer and Rapid Plasmid Evolution in a Hospital Setting by Nanopore Sequencing | mSphere 
+- We developed the computational platform plasmIDent for Nanopore-based characterization of clinical isolates and monitoring of ARG transfer, comprising de novo assembly of genomes and plasmids, plasmid circularization, ARG annotation, comparative genome analysis of multiple isolates, and visualization of results."
+- pathoLogic, plasmIDent and a graphical user interface (GUI) are freely available on github (plasmIDent pipeline, https://github.com/imgag/plasmIDent; pathoLogic pipeline, https://github.com/imgag/pathoLogic).
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/32265894
 Front Microbiol. 2020 Mar 24;11:483. doi: 10.3389/fmicb.2020.00483. eCollection 2020.
@@ -22,10 +84,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7105883/
 https://github.com/itsmeludo/COMPASS
 
 
-24 February 2020
-https://twitter.com/OUPBioinfo/status/1231957477908000771
-PlasGUN: Gene prediction in plasmid metagenomic short reads using deep learning https://ift.tt/2VfYq18 #bioinformatics
 
+Posted August 12, 2020.
+https://www.biorxiv.org/content/10.1101/2020.01.12.903252v3
 Posted January 14, 2020.
 https://www.biorxiv.org/content/10.1101/2020.01.12.903252v1
 SCAPP: An algorithm for improved plasmid assembly in metagenomes | bioRxiv
@@ -38,6 +99,18 @@ MOBscan: Automated Annotation of MOB Relaxases.
 Garcillán-Barcia MP1, Redondo-Salvo S2, Vielva L3, de la Cruz F4.
 
 
+
+### gplas
+https://gitlab.com/sirarredondo/gplas
+
+https://pubmed.ncbi.nlm.nih.gov/32271863/
+Bioinformatics
+. 2020 Jun 1;36(12):3874-3876. doi: 10.1093/bioinformatics/btaa233.
+gplas: a comprehensive tool for plasmid analysis using short-read graphs
+Sergio Arredondo-Alonso 1, Martin Bootsma 2 3, Yaïr Hein 3, Malbert R C Rogers 1, Jukka Corander 4 5 6, Rob J L Willems 1, Anita C Schürch 1
+
+
+
 ## 2019
 
 https://www.ncbi.nlm.nih.gov/pubmed/31187446
@@ -47,10 +120,16 @@ Gupta SK1, Raza S1, Unno T2,3.
 https://link.springer.com/article/10.1007/s13258-019-00839-1
 we suggest that the use of MEGAHIT for plasmid metagenome analysis may offer more diverse plasmids with less computer resource required.
 
-https://www.biorxiv.org/content/10.1101/835900v1
-gplas: a comprehensive tool for plasmid analysis using short-read graphs | bioRxiv
-https://gitlab.com/sirarredondo/gplas
+### DoriC
 
+https://pubmed.ncbi.nlm.nih.gov/30364951/
+Nucleic Acids Res
+. 2019 Jan 8;47(D1):D74-D77. doi: 10.1093/nar/gky1014.
+DoriC 10.0: an updated database of replication origins in prokaryotic genomes including chromosomes and plasmids
+Hao Luo 1 2 3, Feng Gao 1 2 3
+
+http://kazumaxneo.hatenablog.com/entry/2019/06/21/073000
+バクテリア、アーキア、プラスミドの複製起点（ori）データベース DoriC - macでインフォマティクス
 
 ### WASPS
 
@@ -65,17 +144,6 @@ Recently, plasmid assets have been developed proposing either a comprehensive ma
 https://twitter.com/search?q=plasmid%20database&src=typed_query&f=live
 Oct 15
 WASPS, a new plasmid web service for similarity analyses and synteny map construction. Also includes a comprehensive and updated natural plasmid database.
-
-### PPR-Meta
-
-https://www.ncbi.nlm.nih.gov/pubmed/31220250
-Gigascience. 2019 Jun 1;8(6). pii: giz066. doi: 10.1093/gigascience/giz066.
-PPR-Meta: a tool for identifying phages and plasmids from metagenomic fragments using deep learning.
-Fang Z1,2, Tan J1,2, Wu S1,2, Li M1,2,3, Xu C1,2,4, Xie Z1,2, Zhu H1,2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6586199/
-PPR-Meta is freely available via http://cqb.pku.edu.cn/ZhuLab/PPR_Meta or https://github.com/zhenchengfang/PPR-Meta.
-- Mathematical model of DNA sequences
-Here, we use a more detailed approach to represent the DNA fragments. Specifically, each sequence is represented by “base one-hot matrix (BOH)” and “codon one-hot matrix (COH).”
 
 ### tiptoft
 
@@ -478,14 +546,6 @@ Bioinformatics. 2017 Jan 15;33(2):283-285. doi: 10.1093/bioinformatics/btw601. E
 AcCNET (Accessory Genome Constellation Network): comparative genomics software for accessory genome analysis using bipartite networks.
 Lanza VF1,2,3, Baquero F1,2,3, de la Cruz F4, Coque TM1,2,3.
 https://academic.oup.com/bioinformatics/article/33/2/283/2525709
-
-
-
-### [PlasmidFinder 1.3](https://cge.cbs.dtu.dk//services/PlasmidFinder/)
-  - Updated 20 February 2017 [downloading databases](https://cge.cbs.dtu.dk//services/data.php)
-  - 2017-01-23 [genomicepidemiology / PlasmidFinder — Bitbucket](https://bitbucket.org/genomicepidemiology/plasmidfinder)
-  - [Carattoli A et al. Antimicrob Agents Chemother. 2014 Jul "In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing."](http://www.ncbi.nlm.nih.gov/pubmed/24777092)
-
 
 
 ### [cBar](http://csbl.bmb.uga.edu/~ffzhou/cBar/)
