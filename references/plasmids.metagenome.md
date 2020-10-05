@@ -10,39 +10,26 @@
 
 ----------
 
+https://www.ncbi.nlm.nih.gov/pubmed/28232822
+Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
+Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology.
+Orlek A1, Stoesser N2, Anjum MF3, Doumith M4, Ellington MJ5, Peto T1, Crook D1, Woodford N5, Walker AS1, Phan H1, Sheppard AE1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
+This review focuses on WGS datasets from cultured rather than metagenomic samples; for the latter, see recent reviews (Jørgensen et al., 2014; Martínez et al., 2016).
 
-----------
-## 
+https://pubmed.ncbi.nlm.nih.gov/27861983/
+Review Ann N Y Acad Sci
+. 2017 Jan;1388(1):26-41. doi: 10.1111/nyas.13282. Epub 2016 Nov 10.
+Genomic and metagenomic technologies to explore the antibiotic resistance mobilome
+José L Martínez 1, Teresa M Coque 2 3 4, Val F Lanza 2 3 4, Fernando de la Cruz 5, Fernando Baquero 2 3 4
+https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.13282
 
-https://en.wikipedia.org/wiki/ESKAPE
-
-Enterococcus faecium
-
-Staphylococcus aureus
-
-Klebsiella pneumoniae
-
-Acinetobacter baumannii
-
-Pseudomonas aeruginosa
-
-Enterobacter spp.
-
-
-https://pubmed.ncbi.nlm.nih.gov/32424207/
-Sci Rep
-. 2020 May 18;10(1):8174. doi: 10.1038/s41598-020-65031-y.
-Metagenomic analysis of an urban resistome before and after wastewater treatment
-Felipe Lira 1, Ivone Vaz-Moreira 2, Javier Tamames 1, Célia M Manaia 2, José Luis Martínez 3
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235214/
-
-ESKAPE
-
-The most abundant replicons were repUS2, IncP(6), and IncQ2, in this order. RepUS2 plasmids are narrow-range plasmids, present in Gram-positive bacteria, and have been recently found to be prevalent in gut microbiome40, while IncP(6) and IncQ2 are broad-range conjugative plasmids that contribute to the acquisition of multidrug resistance in a variety of Gram-negative bacteria41–45. (Fig. 1, Table S2). In agreement with the results obtained with ARGs data, PCA showed that influent samples grouped together in comparison with treated wastewater samples with a spreader distribution (Fig. 3). In this case, just one plasmid replicon was detected in the three sampling dates in the final UV, the IncP(Beta) replicon type (Table S2).
-
-IncP-6
-
-
+https://pubmed.ncbi.nlm.nih.gov/25657641/
+Front Microbiol
+. 2015 Jan 22;5:750. doi: 10.3389/fmicb.2014.00750. eCollection 2014.
+Current strategies for mobilome research
+Tue S Jørgensen 1, Anne S Kiil 1, Martin A Hansen 1, Søren J Sørensen 1, Lars H Hansen 2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302988/
 
 ----------
 ## updates
@@ -74,6 +61,37 @@ Front Microbiol
 First Report on the Plasmidome From a High-Altitude Lake of the Andean Puna
 María Florencia Perez 1, Daniel Kurth 1, María Eugenia Farías 1, Mariana Noelia Soria 1, Genis Andrés Castillo Villamizar 2 3, Anja Poehlein 2, Rolf Daniel 2, Julián Rafael Dib 1 4
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324554/
+
+### Lira_2020
+
+https://pubmed.ncbi.nlm.nih.gov/32424207/
+Sci Rep
+. 2020 May 18;10(1):8174. doi: 10.1038/s41598-020-65031-y.
+Metagenomic analysis of an urban resistome before and after wastewater treatment
+Felipe Lira 1, Ivone Vaz-Moreira 2, Javier Tamames 1, Célia M Manaia 2, José Luis Martínez 3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235214/
+
+ESKAPE
+
+The most abundant replicons were repUS2, IncP(6), and IncQ2, in this order. RepUS2 plasmids are narrow-range plasmids, present in Gram-positive bacteria, and have been recently found to be prevalent in gut microbiome40, while IncP(6) and IncQ2 are broad-range conjugative plasmids that contribute to the acquisition of multidrug resistance in a variety of Gram-negative bacteria41–45. (Fig. 1, Table S2). In agreement with the results obtained with ARGs data, PCA showed that influent samples grouped together in comparison with treated wastewater samples with a spreader distribution (Fig. 3). In this case, just one plasmid replicon was detected in the three sampling dates in the final UV, the IncP(Beta) replicon type (Table S2).
+
+IncP-6
+
+
+https://en.wikipedia.org/wiki/ESKAPE
+```
+Enterococcus faecium
+
+Staphylococcus aureus
+
+Klebsiella pneumoniae
+
+Acinetobacter baumannii
+
+Pseudomonas aeruginosa
+
+Enterobacter spp.
+```
 
 ### Brown_Kav_2020
 https://pubmed.ncbi.nlm.nih.gov/31602783/
@@ -235,7 +253,7 @@ plasmidome. Proc Natl Acad Sci U S A 109: 5452–5457
 ています。
 イルミナ技術：Genome AnalyzerIIx およびペアエンドリード
 
-### 
+### Ma_2012
 
 https://pubmed.ncbi.nlm.nih.gov/22059529/
 Environ Microbiol
@@ -300,6 +318,18 @@ http://kazumaxneo.hatenablog.com/entry/2019/05/11/073000
 
 http://kazumaxneo.hatenablog.com/entry/2018/07/03/113439
 抗生物質耐性遺伝子や病原性遺伝子を素早く検索できる ABRicate - macでインフォマティクス
+
+----------
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26657537
+FEMS Microbiol Rev. 2016 Mar;40(2):258-72. doi: 10.1093/femsre/fuv048. Epub 2015 Dec 9.
+Computational approaches to predict bacteriophage-host relationships.
+Edwards RA1, McNair K2, Faust K3, Raes J3, Dutilh BE4.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831537/
+All the bioinformatics code used in this work is available online at http://edwards.sdsu.edu/PhageHosts/.
+
+http://edwards.sdsu.edu/PhageHosts/
 
 
 
