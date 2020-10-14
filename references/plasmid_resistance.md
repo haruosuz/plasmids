@@ -1,7 +1,7 @@
 # plasmids.resistance
 
 **Table of Contents**
-- [featuring](#featuring)
+- [unclassified](#unclassified)
 - [updates](#updates)
   - [2020](#2020)
   - [2019](#2019)
@@ -9,12 +9,19 @@
   - [2017](#2017)
 
 ----------
+## unclassified
 
 https://en.wikipedia.org/wiki/Plasmid-mediated_resistance
 
 resistance plasmid
 耐性プラスミド
 
+- 紹介ビデオ [MetaSUB Introductory Video](https://vimeo.com/171773795)
+- TED-Ed [What causes antibiotic resistance? - Kevin Wu](https://ed.ted.com/lessons/how-antibiotics-become-resistant-over-time-kevin-wu) | [抗生物質に対する耐性が生まれるのはなぜか？ - ケビン・ウー](https://amara.org/en/videos/VllmqrFumzGt/ja/812239/)
+- [抗生物質が効かない悪魔のスーパーバグがどれくらい怖い存在なのか理解できるムービー「The Antibiotic Apocalypse Explained」](https://gigazine.net/news/20160318-antibiotic-apocalypse-explained/)
+細菌は染色体とプラスミドという2種類のDNAを持っています。
+細菌同士は接触するとプラスミドを交換。
+プラスミドを交換することで細菌の能力を強化。
 
 ----------
 ## updates
@@ -117,6 +124,8 @@ Review Int J Med Microbiol
 Plasmids and the spread of resistance
 Alessandra Carattoli 1
 https://www.sciencedirect.com/science/article/abs/pii/S1438422113000167?via%3Dihub
+
+----------
 
 
 ----------
