@@ -1,4 +1,4 @@
-# plasmids.resistance
+# plasmid resistance
 
 **Table of Contents**
 - [unclassified](#unclassified)
