@@ -18,12 +18,16 @@ Orlek A1, Stoesser N2, Anjum MF3, Doumith M4, Ellington MJ5, Peto T1, Crook D1, 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
 This review focuses on WGS datasets from cultured rather than metagenomic samples; for the latter, see recent reviews (Jørgensen et al., 2014; Martínez et al., 2016).
 
+### Martinez_2017
+
 https://pubmed.ncbi.nlm.nih.gov/27861983/
 Review Ann N Y Acad Sci
 . 2017 Jan;1388(1):26-41. doi: 10.1111/nyas.13282. Epub 2016 Nov 10.
 Genomic and metagenomic technologies to explore the antibiotic resistance mobilome
 José L Martínez 1, Teresa M Coque 2 3 4, Val F Lanza 2 3 4, Fernando de la Cruz 5, Fernando Baquero 2 3 4
 https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.13282
+
+### 
 
 https://pubmed.ncbi.nlm.nih.gov/25657641/
 Front Microbiol
@@ -200,6 +204,15 @@ Global Plasmid Studies in Cultured Strains
 Culture-Independent Plasmidome
 
 Metagenomic Plasmidome
+
+### 
+
+https://pubmed.ncbi.nlm.nih.gov/25657641/
+Front Microbiol
+. 2015 Jan 22;5:750. doi: 10.3389/fmicb.2014.00750. eCollection 2014.
+Current strategies for mobilome research
+Tue S Jørgensen 1, Anne S Kiil 1, Martin A Hansen 1, Søren J Sørensen 1, Lars H Hansen 2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302988/
 
 
 ## 2014
