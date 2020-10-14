@@ -3,25 +3,39 @@
 **Table of Contents**
 - [unclassified](#unclassified)
 - [updates](#updates)
-  - [2020](#2020)
-  - [2019](#2019)
-  - [2018](#2018)
-  - [2017](#2017)
+[2020](#2020)
+[2019](#2019)
+[2018](#2018)
+[2017](#2017)
+[2016](#2016)
+[2015](#2015)
+[2013](#2013)
 
 ----------
 ## unclassified
 
 https://en.wikipedia.org/wiki/Plasmid-mediated_resistance
 
-resistance plasmid
-耐性プラスミド
+https://vimeo.com/171773795
+MetaSUB Introductory Video
 
-- 紹介ビデオ [MetaSUB Introductory Video](https://vimeo.com/171773795)
-- TED-Ed [What causes antibiotic resistance? - Kevin Wu](https://ed.ted.com/lessons/how-antibiotics-become-resistant-over-time-kevin-wu) | [抗生物質に対する耐性が生まれるのはなぜか？ - ケビン・ウー](https://amara.org/en/videos/VllmqrFumzGt/ja/812239/)
-- [抗生物質が効かない悪魔のスーパーバグがどれくらい怖い存在なのか理解できるムービー「The Antibiotic Apocalypse Explained」](https://gigazine.net/news/20160318-antibiotic-apocalypse-explained/)
+10/26/2014
+https://amara.org/en/videos/VllmqrFumzGt/ja/812239/
+Japanese - What causes antibiotic resistance? - Kevin Wu | Amara
+
+Aug 7, 2014
+https://ed.ted.com/lessons/how-antibiotics-become-resistant-over-time-kevin-wu
+What causes antibiotic resistance? - Kevin Wu | TED-Ed
+
+https://gigazine.net/news/20160318-antibiotic-apocalypse-explained/
+抗生物質が効かない悪魔のスーパーバグがどれくらい怖い存在なのか理解できるムービー「The Antibiotic Apocalypse Explained」 - GIGAZINE
 細菌は染色体とプラスミドという2種類のDNAを持っています。
 細菌同士は接触するとプラスミドを交換。
 プラスミドを交換することで細菌の能力を強化。
+
+Mar 16, 2016
+https://www.youtube.com/watch?v=xZbcwi7SfZE
+The Antibiotic Apocalypse Explained - YouTube
 
 ----------
 ## updates
