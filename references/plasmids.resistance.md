@@ -9,6 +9,14 @@
   - [2017](#2017)
 
 ----------
+
+https://en.wikipedia.org/wiki/Plasmid-mediated_resistance
+
+resistance plasmid
+耐性プラスミド
+
+
+----------
 ## updates
 
 ## 2020
@@ -70,6 +78,17 @@ Nat Commun
 Persistence and reversal of plasmid-mediated antibiotic resistance
 Allison J Lopatkin 1, Hannah R Meredith 1, Jaydeep K Srimani 1, Connor Pfeiffer 2, Rick Durrett 3, Lingchong You 4 5 6
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5698434/
+
+### Martinez_2017
+
+https://pubmed.ncbi.nlm.nih.gov/27861983/
+Review Ann N Y Acad Sci
+. 2017 Jan;1388(1):26-41. doi: 10.1111/nyas.13282. Epub 2016 Nov 10.
+Genomic and metagenomic technologies to explore the antibiotic resistance mobilome
+José L Martínez 1, Teresa M Coque 2 3 4, Val F Lanza 2 3 4, Fernando de la Cruz 5, Fernando Baquero 2 3 4
+https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.13282
+
+## 2016
 
 ## 2015
 
