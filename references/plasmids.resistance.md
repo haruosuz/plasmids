@@ -34,6 +34,16 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/
 
 ### 
 
+https://pubmed.ncbi.nlm.nih.gov/31515374/
+Science
+. 2019 Sep 13;365(6458):1082-1083. doi: 10.1126/science.aax3879.
+The evolution of antibiotic resistance
+R Craig MacLean 1, Alvaro San Millan 2
+https://science.sciencemag.org/content/365/6458/1082.long
+
+
+### 
+
 https://pubmed.ncbi.nlm.nih.gov/30248271/
 Review Can J Microbiol
 . 2019 Jan;65(1):34-44. doi: 10.1139/cjm-2018-0275. Epub 2018 Sep 24.
