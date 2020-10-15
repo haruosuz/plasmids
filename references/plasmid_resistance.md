@@ -93,7 +93,25 @@ Persistence and reversal of plasmid-mediated antibiotic resistance
 Allison J Lopatkin 1, Hannah R Meredith 1, Jaydeep K Srimani 1, Connor Pfeiffer 2, Rick Durrett 3, Lingchong You 4 5 6
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5698434/
 
-### Martinez_2017
+
+### Orlek_2017_Review
+
+https://pubmed.ncbi.nlm.nih.gov/28232822/
+Front Microbiol
+. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
+Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology
+Alex Orlek 1, Nicole Stoesser 2, Muna F Anjum 3, Michel Doumith 4, Matthew J Ellington 5, Tim Peto 1, Derrick Crook 1, Neil Woodford 5, A Sarah Walker 1, Hang Phan 1, Anna E Sheppard 1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
+
+### Al-Tawfiq_2017_Review
+
+https://pubmed.ncbi.nlm.nih.gov/27915108/
+Review Int J Infect Dis
+. 2017 Jan;54:77-84. doi: 10.1016/j.ijid.2016.11.415. Epub 2016 Nov 30.
+How should we respond to the emergence of plasmid-mediated colistin resistance in humans and animals?
+Jaffar A Al-Tawfiq 1, Ramanan Laxminarayan 2, Marc Mendelson 3
+
+### Martinez_2017_Review
 
 https://pubmed.ncbi.nlm.nih.gov/27861983/
 Review Ann N Y Acad Sci
@@ -101,8 +119,6 @@ Review Ann N Y Acad Sci
 Genomic and metagenomic technologies to explore the antibiotic resistance mobilome
 José L Martínez 1, Teresa M Coque 2 3 4, Val F Lanza 2 3 4, Fernando de la Cruz 5, Fernando Baquero 2 3 4
 https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.13282
-
-## 2016
 
 ## 2015
 
@@ -125,21 +141,26 @@ https://www.sciencedirect.com/science/article/abs/pii/S1438422113000167?via%3Dih
 ----------
 ## video
 
+### 6:00
+TED-Ed | March 2020
+https://www.ted.com/talks/gerry_wright_how_can_we_solve_the_antibiotic_resistance_crisis
+Gerry Wright: How can we solve the antibiotic resistance crisis? | TED Talk
+https://www.ted.com/talks/gerry_wright_how_can_we_solve_the_antibiotic_resistance_crisis/transcript
+細菌は耐性を獲得し続け 同一種内や 種を超えて他菌種にまで 遺伝情報を共有することで 耐性が受け渡されました 今や 多くの抗生物質への 耐性を持つ細菌が一般的となり 既存の薬剤すべてに耐性を持つ 菌種が増えてきています
+薬剤耐性を獲得したサルモネラ菌が 食物連鎖を介して人に持ち込まれ 国際貿易や旅行によって 広まります
+
+### 3:04
+Jul 10, 2019
+https://www.youtube.com/watch?v=dE6SLkDf67g
 https://vimeo.com/171773795
 MetaSUB Introductory Video
 
+### 14:48
 Nov 3, 2016
 https://www.youtube.com/watch?v=W2UR1i6ihXE
 第10回超領域研究会「複合微生物系における可動性遺伝因子の挙動解明に向けて」 新谷 政己 准教授-静岡大学 【研究者紹介】
-14:48
 
-TED2015 | March 2015
-https://www.ted.com/talks/maryn_mckenna_what_do_we_do_when_antibiotics_don_t_work_any_more
-Maryn McKenna: What do we do when antibiotics don't work any more? | TED Talk
-https://www.ted.com/talks/maryn_mckenna_what_do_we_do_when_antibiotics_don_t_work_any_more/transcript?share=1b47e86532&language=ja
-マリーン・マッケーナ: 抗生物質が効かなくなったらどうすればよいのか？ | TED Talk
-16:52
-
+### 5:57
 Mar 16, 2016
 https://www.youtube.com/watch?v=xZbcwi7SfZE
 The Antibiotic Apocalypse Explained - YouTube
@@ -149,6 +170,15 @@ https://gigazine.net/news/20160318-antibiotic-apocalypse-explained/
 細菌同士は接触するとプラスミドを交換。
 プラスミドを交換することで細菌の能力を強化。
 
+### 16:52
+TED2015 | March 2015
+https://www.ted.com/talks/maryn_mckenna_what_do_we_do_when_antibiotics_don_t_work_any_more
+Maryn McKenna: What do we do when antibiotics don't work any more? | TED Talk
+https://www.ted.com/talks/maryn_mckenna_what_do_we_do_when_antibiotics_don_t_work_any_more/transcript?share=1b47e86532&language=ja
+マリーン・マッケーナ: 抗生物質が効かなくなったらどうすればよいのか？ | TED Talk
+まるで旅行者が 空港で荷物を預けるように バクテリアは互いのDNAを 受け渡す事が出来るので 一旦私たちがその耐性を作らせてしまうと それがどこに広がるかは 分からないのです
+
+### 4:34
 Aug 7, 2014
 https://ed.ted.com/lessons/how-antibiotics-become-resistant-over-time-kevin-wu
 What causes antibiotic resistance? - Kevin Wu | TED-Ed
