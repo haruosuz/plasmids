@@ -146,7 +146,7 @@ TED-Ed | March 2020
 https://www.ted.com/talks/gerry_wright_how_can_we_solve_the_antibiotic_resistance_crisis
 Gerry Wright: How can we solve the antibiotic resistance crisis? | TED Talk
 https://www.ted.com/talks/gerry_wright_how_can_we_solve_the_antibiotic_resistance_crisis/transcript
-細菌は耐性を獲得し続け 同一種内や 種を超えて他菌種にまで 遺伝情報を共有することで 耐性が受け渡されました 今や 多くの抗生物質への 耐性を持つ細菌が一般的となり 既存の薬剤すべてに耐性を持つ 菌種が増えてきています
+細菌は耐性を獲得し続け 同一種内や 種を超えて他菌種にまで 遺伝情報を共有することで 耐性が受け渡されました
 薬剤耐性を獲得したサルモネラ菌が 食物連鎖を介して人に持ち込まれ 国際貿易や旅行によって 広まります
 
 ### 3:04
@@ -176,7 +176,7 @@ https://www.ted.com/talks/maryn_mckenna_what_do_we_do_when_antibiotics_don_t_wor
 Maryn McKenna: What do we do when antibiotics don't work any more? | TED Talk
 https://www.ted.com/talks/maryn_mckenna_what_do_we_do_when_antibiotics_don_t_work_any_more/transcript?share=1b47e86532&language=ja
 マリーン・マッケーナ: 抗生物質が効かなくなったらどうすればよいのか？ | TED Talk
-まるで旅行者が 空港で荷物を預けるように バクテリアは互いのDNAを 受け渡す事が出来るので 一旦私たちがその耐性を作らせてしまうと それがどこに広がるかは 分からないのです
+バクテリアは互いのDNAを 受け渡す事が出来るので 一旦私たちがその耐性を作らせてしまうと それがどこに広がるかは 分からないのです
 
 ### 4:34
 Aug 7, 2014
