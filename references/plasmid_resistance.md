@@ -2,6 +2,7 @@
 
 **Table of Contents**
 - [updates](#updates)
+- [papers](#papers)
 [2020](#2020)
 [2019](#2019)
 [2018](#2018)
@@ -10,11 +11,18 @@
 [2015](#2015)
 [2013](#2013)
 - [unclassified](#unclassified)
+- [video](#video)
+
+----------
+## unclassified
 
 https://en.wikipedia.org/wiki/Plasmid-mediated_resistance
 
 ----------
 ## updates
+
+----------
+## papers
 
 ## 2020
 
@@ -29,7 +37,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/
 
 ## 2019
 
-### 
+### MacLean_2019_Science
 
 https://pubmed.ncbi.nlm.nih.gov/31515374/
 Science
@@ -38,8 +46,7 @@ The evolution of antibiotic resistance
 R Craig MacLean 1, Alvaro San Millan 2
 https://science.sciencemag.org/content/365/6458/1082.long
 
-
-### 
+### Lerminiaux_2019_Review
 
 https://pubmed.ncbi.nlm.nih.gov/30248271/
 Review Can J Microbiol
@@ -116,9 +123,7 @@ Alessandra Carattoli 1
 https://www.sciencedirect.com/science/article/abs/pii/S1438422113000167?via%3Dihub
 
 ----------
-
-----------
-## unclassified
+## video
 
 https://vimeo.com/171773795
 MetaSUB Introductory Video
