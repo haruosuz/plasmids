@@ -128,23 +128,36 @@ https://www.sciencedirect.com/science/article/abs/pii/S1438422113000167?via%3Dih
 https://vimeo.com/171773795
 MetaSUB Introductory Video
 
-10/26/2014
-https://amara.org/en/videos/VllmqrFumzGt/ja/812239/
-Japanese - What causes antibiotic resistance? - Kevin Wu | Amara
+Nov 3, 2016
+https://www.youtube.com/watch?v=W2UR1i6ihXE
+第10回超領域研究会「複合微生物系における可動性遺伝因子の挙動解明に向けて」 新谷 政己 准教授-静岡大学 【研究者紹介】
+14:48
 
-Aug 7, 2014
-https://ed.ted.com/lessons/how-antibiotics-become-resistant-over-time-kevin-wu
-What causes antibiotic resistance? - Kevin Wu | TED-Ed
+TED2015 | March 2015
+https://www.ted.com/talks/maryn_mckenna_what_do_we_do_when_antibiotics_don_t_work_any_more
+Maryn McKenna: What do we do when antibiotics don't work any more? | TED Talk
+https://www.ted.com/talks/maryn_mckenna_what_do_we_do_when_antibiotics_don_t_work_any_more/transcript?share=1b47e86532&language=ja
+マリーン・マッケーナ: 抗生物質が効かなくなったらどうすればよいのか？ | TED Talk
+16:52
 
+Mar 16, 2016
+https://www.youtube.com/watch?v=xZbcwi7SfZE
+The Antibiotic Apocalypse Explained - YouTube
 https://gigazine.net/news/20160318-antibiotic-apocalypse-explained/
 抗生物質が効かない悪魔のスーパーバグがどれくらい怖い存在なのか理解できるムービー「The Antibiotic Apocalypse Explained」 - GIGAZINE
 細菌は染色体とプラスミドという2種類のDNAを持っています。
 細菌同士は接触するとプラスミドを交換。
 プラスミドを交換することで細菌の能力を強化。
 
-Mar 16, 2016
-https://www.youtube.com/watch?v=xZbcwi7SfZE
-The Antibiotic Apocalypse Explained - YouTube
+Aug 7, 2014
+https://ed.ted.com/lessons/how-antibiotics-become-resistant-over-time-kevin-wu
+What causes antibiotic resistance? - Kevin Wu | TED-Ed
+10/26/2014
+https://amara.org/en/videos/VllmqrFumzGt/ja/812239/
+Japanese - What causes antibiotic resistance? - Kevin Wu | Amara
 
 ----------
+
+
+
 
