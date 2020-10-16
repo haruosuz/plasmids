@@ -80,7 +80,7 @@ Strategies to combat antimicrobial resistance: anti-plasmid and plasmid curing
 Michelle M C Buckner 1, Maria Laura Ciusa 1, Laura J V Piddock 1
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/
 
-<img alt="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/figure/fig1/" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/bin/fuy031fig1.jpg" width=25%>
+<img alt="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/figure/fig1/" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/bin/fuy031fig1.jpg" width=10%>
 
 ### Dolejska_2018_Review
 
@@ -103,7 +103,7 @@ Plasmids carrying antimicrobial resistance genes in Enterobacteriaceae
 M Rozwandowicz 1, M S M Brouwer 2, J Fischer 3, J A Wagenaar 1 2, B Gonzalez-Zorn 4, B Guerra 3, D J Mevius 1 2, J Hordijk 1
 https://academic.oup.com/jac/article/73/5/1121/4822282
 
-![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jac/73/5/10.1093_jac_dkx488/1/m_dkx488f1.png?Expires=1605847418&Signature=i53jdfgndqqtURbKm-08mSgTB9op~e25JtCtlDlrKIpNYg0bDEzRnr8Zh14WOWVCSUETluHWGhXQJRD~P~d6EJkHTV6O7a~10GNWLq0RyXnBsOzUr1fVqEPS~3hfSz3Fg~nsP8Si5-o8vrifq1lKoxDWK~1WyyfCRSDqJ~eDTvOAkF5wa0aode3dl2bZNkBxkIjCufvhUAb3vpQRE1-t2ZgfZk~Gdx1yquGltQxuFufDBVWBSsba1PEdL92q-kbsdyoBITYG14V6~H8DIVBCxk5wZCS~A50oQPKlJ0h3ZXxG4JrqaVm6p2ViKeQkOgGknpyptF0ZVuCtMrdcR4nCww__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+<img alt="" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jac/73/5/10.1093_jac_dkx488/1/m_dkx488f1.png?Expires=1605847418&Signature=i53jdfgndqqtURbKm-08mSgTB9op~e25JtCtlDlrKIpNYg0bDEzRnr8Zh14WOWVCSUETluHWGhXQJRD~P~d6EJkHTV6O7a~10GNWLq0RyXnBsOzUr1fVqEPS~3hfSz3Fg~nsP8Si5-o8vrifq1lKoxDWK~1WyyfCRSDqJ~eDTvOAkF5wa0aode3dl2bZNkBxkIjCufvhUAb3vpQRE1-t2ZgfZk~Gdx1yquGltQxuFufDBVWBSsba1PEdL92q-kbsdyoBITYG14V6~H8DIVBCxk5wZCS~A50oQPKlJ0h3ZXxG4JrqaVm6p2ViKeQkOgGknpyptF0ZVuCtMrdcR4nCww__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width=25%>
 
 ## 2017
 
