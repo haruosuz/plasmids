@@ -84,6 +84,15 @@ Plasmid-mediated resistance is going wild
 Monika Dolejska 1, Costas C Papagiannitsis 2
 https://www.sciencedirect.com/science/article/pii/S0147619X18300349?via%3Dihub
 
+### Rozwandowicz_2018_Review
+
+https://pubmed.ncbi.nlm.nih.gov/29370371/
+Review J Antimicrob Chemother
+. 2018 May 1;73(5):1121-1137. doi: 10.1093/jac/dkx488.
+Plasmids carrying antimicrobial resistance genes in Enterobacteriaceae
+M Rozwandowicz 1, M S M Brouwer 2, J Fischer 3, J A Wagenaar 1 2, B Gonzalez-Zorn 4, B Guerra 3, D J Mevius 1 2, J Hordijk 1
+https://academic.oup.com/jac/article/73/5/1121/4822282
+
 ## 2017
 
 https://pubmed.ncbi.nlm.nih.gov/29162798/
@@ -131,12 +140,14 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405625/
 
 ## 2013
 
+### 
 https://pubmed.ncbi.nlm.nih.gov/23499304/
 Review Int J Med Microbiol
 . 2013 Aug;303(6-7):298-304. doi: 10.1016/j.ijmm.2013.02.001. Epub 2013 Mar 14.
 Plasmids and the spread of resistance
 Alessandra Carattoli 1
 https://www.sciencedirect.com/science/article/abs/pii/S1438422113000167?via%3Dihub
+no access
 
 ----------
 ## video
