@@ -81,6 +81,9 @@ Strategies to combat antimicrobial resistance: anti-plasmid and plasmid curing
 Michelle M C Buckner 1, Maria Laura Ciusa 1, Laura J V Piddock 1
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/
 
+
+<img alt="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/figure/fig1/" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/bin/fuy031fig1.jpg" width=50%>
+
 ### Dolejska_2018_Review
 
 https://pubmed.ncbi.nlm.nih.gov/30243983/
@@ -89,6 +92,9 @@ Review Plasmid
 Plasmid-mediated resistance is going wild
 Monika Dolejska 1, Costas C Papagiannitsis 2
 https://www.sciencedirect.com/science/article/pii/S0147619X18300349?via%3Dihub
+Wildlife is a sentinel of human-influenced environment, reservoir and vector of antibiotic resistance over long distances.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0147619X18300349-gr1.sml)
 
 ### Rozwandowicz_2018_Review
 
