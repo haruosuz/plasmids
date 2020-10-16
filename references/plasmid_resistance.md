@@ -35,7 +35,7 @@ Targeting Plasmids to Limit Acquisition and Transmission of Antimicrobial Resist
 Corneliu Ovidiu Vrancianu 1 2, Laura Ioana Popa 1 2 3, Coralia Bleotu 1 2 4, Mariana Carmen Chifiriuc 1 2
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/
 
-![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/figure/F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/bin/fmicb-11-00761-g001.jpg)
+<img alt="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/figure/F1/" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/bin/fmicb-11-00761-g001.jpg" width=50%>
 
 ## 2019
 
