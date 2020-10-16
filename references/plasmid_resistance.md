@@ -35,6 +35,8 @@ Targeting Plasmids to Limit Acquisition and Transmission of Antimicrobial Resist
 Corneliu Ovidiu Vrancianu 1 2, Laura Ioana Popa 1 2 3, Coralia Bleotu 1 2 4, Mariana Carmen Chifiriuc 1 2
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/
 
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/figure/F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/bin/fmicb-11-00761-g001.jpg)
+
 ## 2019
 
 ### MacLean_2019_Science
@@ -44,7 +46,9 @@ Science
 . 2019 Sep 13;365(6458):1082-1083. doi: 10.1126/science.aax3879.
 The evolution of antibiotic resistance
 R Craig MacLean 1, Alvaro San Millan 2
-https://science.sciencemag.org/content/365/6458/1082.long
+https://science.sciencemag.org/content/365/6458/1082
+
+![https://science.sciencemag.org/content/365/6458/1082](https://science.sciencemag.org/content/sci/365/6458/1082/F1.medium.gif)
 
 ### Lerminiaux_2019_Review
 
@@ -64,7 +68,9 @@ Review Trends Microbiol
 Evolution of Plasmid-Mediated Antibiotic Resistance in the Clinical Context
 Alvaro San Millan 1
 https://www.sciencedirect.com/science/article/pii/S0966842X18301422?via%3Dihub
-https://www.cell.com/trends/microbiology/fulltext/S0966-842X(18)30142-2
+
+https://ars.els-cdn.com/content/image/1-s2.0-S0966842X18301422-mmc1.mp4
+Download : Download video (9MB)
 
 ### Buckner_2018_Review
 
@@ -95,13 +101,14 @@ https://academic.oup.com/jac/article/73/5/1121/4822282
 
 ## 2017
 
+Lopatkin_2017_Nat_Commun
+
 https://pubmed.ncbi.nlm.nih.gov/29162798/
 Nat Commun
 . 2017 Nov 22;8(1):1689. doi: 10.1038/s41467-017-01532-1.
 Persistence and reversal of plasmid-mediated antibiotic resistance
 Allison J Lopatkin 1, Hannah R Meredith 1, Jaydeep K Srimani 1, Connor Pfeiffer 2, Rick Durrett 3, Lingchong You 4 5 6
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5698434/
-
 
 ### Orlek_2017_Review
 
@@ -131,6 +138,8 @@ https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.13282
 
 ## 2015
 
+### Mathers_2015_Review
+
 https://pubmed.ncbi.nlm.nih.gov/25926236/
 Review Clin Microbiol Rev
 . 2015 Jul;28(3):565-91. doi: 10.1128/CMR.00116-14.
@@ -140,7 +149,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405625/
 
 ## 2013
 
-### 
+### Carattoli_2013_Review
+
 https://pubmed.ncbi.nlm.nih.gov/23499304/
 Review Int J Med Microbiol
 . 2013 Aug;303(6-7):298-304. doi: 10.1016/j.ijmm.2013.02.001. Epub 2013 Mar 14.
