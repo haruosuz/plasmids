@@ -35,7 +35,7 @@ Targeting Plasmids to Limit Acquisition and Transmission of Antimicrobial Resist
 Corneliu Ovidiu Vrancianu 1 2, Laura Ioana Popa 1 2 3, Coralia Bleotu 1 2 4, Mariana Carmen Chifiriuc 1 2
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/
 
-<img alt="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/figure/F1/" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/bin/fmicb-11-00761-g001.jpg" width=50%>
+<img alt="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/figure/F1/" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7219019/bin/fmicb-11-00761-g001.jpg" width=25%>
 
 ## 2019
 
@@ -69,8 +69,7 @@ Evolution of Plasmid-Mediated Antibiotic Resistance in the Clinical Context
 Alvaro San Millan 1
 https://www.sciencedirect.com/science/article/pii/S0966842X18301422?via%3Dihub
 
-https://ars.els-cdn.com/content/image/1-s2.0-S0966842X18301422-mmc1.mp4
-Download : Download video (9MB)
+[Download video (9MB)](https://ars.els-cdn.com/content/image/1-s2.0-S0966842X18301422-mmc1.mp4)
 
 ### Buckner_2018_Review
 
@@ -81,8 +80,7 @@ Strategies to combat antimicrobial resistance: anti-plasmid and plasmid curing
 Michelle M C Buckner 1, Maria Laura Ciusa 1, Laura J V Piddock 1
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/
 
-
-<img alt="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/figure/fig1/" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/bin/fuy031fig1.jpg" width=50%>
+<img alt="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/figure/fig1/" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199537/bin/fuy031fig1.jpg" width=25%>
 
 ### Dolejska_2018_Review
 
@@ -104,6 +102,8 @@ Review J Antimicrob Chemother
 Plasmids carrying antimicrobial resistance genes in Enterobacteriaceae
 M Rozwandowicz 1, M S M Brouwer 2, J Fischer 3, J A Wagenaar 1 2, B Gonzalez-Zorn 4, B Guerra 3, D J Mevius 1 2, J Hordijk 1
 https://academic.oup.com/jac/article/73/5/1121/4822282
+
+![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jac/73/5/10.1093_jac_dkx488/1/m_dkx488f1.png?Expires=1605847418&Signature=i53jdfgndqqtURbKm-08mSgTB9op~e25JtCtlDlrKIpNYg0bDEzRnr8Zh14WOWVCSUETluHWGhXQJRD~P~d6EJkHTV6O7a~10GNWLq0RyXnBsOzUr1fVqEPS~3hfSz3Fg~nsP8Si5-o8vrifq1lKoxDWK~1WyyfCRSDqJ~eDTvOAkF5wa0aode3dl2bZNkBxkIjCufvhUAb3vpQRE1-t2ZgfZk~Gdx1yquGltQxuFufDBVWBSsba1PEdL92q-kbsdyoBITYG14V6~H8DIVBCxk5wZCS~A50oQPKlJ0h3ZXxG4JrqaVm6p2ViKeQkOgGknpyptF0ZVuCtMrdcR4nCww__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 ## 2017
 
