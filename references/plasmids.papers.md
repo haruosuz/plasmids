@@ -12,12 +12,109 @@
 - [Hi-C](#hi-c)
 - [review](#review)
 - [rRNA](#rrna)
-- [ICE](#ice)
 - [people](#people)
 [Rocha](#rocha)
 [Shintani](#shintani)
 [Suzuki](#suzuki)
 - [compensatory](#compensatory)
+- [MOB](#mob)
+- [IncP7](#incp7)
+- [ICE](#ice)
+
+----------
+
+## ICE
+Integrative and Conjugative Elements
+
+https://www.ncbi.nlm.nih.gov/pubmed/26473380
+Annu Rev Genet. 2015;49:577-601. doi: 10.1146/annurev-genet-112414-055018. Epub 2015 Oct 14.
+Integrative and Conjugative Elements (ICEs): What They Do and How They Work.
+Johnson CM1, Grossman AD.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5180612/
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/29905872
+Mol Biol Evol. 2018 Jun 14. doi: 10.1093/molbev/msy123. [Epub ahead of print]
+Host range and genetic plasticity explain the co-existence of integrative and extrachromosomal mobile genetic elements.
+Cury J1,2, Oliveira PH1,2,3, de la Cruz F4, Rocha EPC1,2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107060/
+Conjugative systems were detected using the CONJscan module of MacSyFinder (Abby et al. 2014), with protein profiles and definitions of the MPF type T, published previously (Guglielmini et al. 2014).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28911112
+Nucleic Acids Res. 2017 Sep 6;45(15):8943-8956. doi: 10.1093/nar/gkx607.
+Integrative and conjugative elements and their hosts: composition, distribution and organization.
+Cury J1,2, Touchon M1,2, Rocha EPC1,2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5587801/
+Detection of conjugative systems
+Conjugative systems were found with the CONJscan module of MacSyFinder (29), using protein profiles and definitions following a previous work (16) 
+
+
+### ICEberg
+https://integbio.jp/dbcatalog/record/nbdc02055
+Integbio データベースカタログ
+Integrative and Conjugative Elements in Bacteria:  ICEberg
+
+http://db-mml.sjtu.edu.cn/ICEberg/
+ICEberg
+
+https://www.ncbi.nlm.nih.gov/pubmed/30407568
+Nucleic Acids Res. 2019 Jan 8;47(D1):D660-D665. doi: 10.1093/nar/gky1123.
+ICEberg 2.0: an updated database of bacterial integrative and conjugative elements.
+Liu M1,2, Li X1, Xie Y1, Bi D3, Sun J4, Li J5, Tai C1, Deng Z1, Ou HY1,2.
+
+
+
+----------
+
+## IncP7
+
+https://pubmed.ncbi.nlm.nih.gov/30863370/
+Front Microbiol
+. 2019 Feb 26;10:213. doi: 10.3389/fmicb.2019.00213. eCollection 2019.
+Genetic Characterization of a bla VIM-24-Carrying IncP-7β Plasmid p1160-VIM and a bla VIM-4-Harboring Integrative and Conjugative Element Tn 6413 From Clinical Pseudomonas aeruginosa
+Lijun Zeng 1 2, Zhe Zhan 1 3, Lingfei Hu 1, Xiaoyuan Jiang 1, Yanjun Zhang 3, Jiao Feng 1, Bo Gao 1, Yuee Zhao 1, Wenhui Yang 1, Huiying Yang 1, Zhe Yin 1, Dongsheng Zhou 1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6399125/
+FIGURE 1
+Neighbor-joining phylogenetic trees of sequenced IncP-7 plasmids.
+
+
+----------
+## MOB
+
+https://www.ncbi.nlm.nih.gov/pubmed/20805406
+Microbiol Mol Biol Rev. 2010 Sep;74(3):434-52. doi: 10.1128/MMBR.00020-10.
+Mobility of plasmids.
+Smillie C1, Garcillán-Barcia MP, Francia MV, Rocha EP, de la Cruz F.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2937521/
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/30718882/
+Nat Biotechnol
+. 2019 Feb;37(2):152-159. doi: 10.1038/s41587-018-0010-1. Epub 2019 Feb 4.
+Ultrafast search of all deposited bacterial and viral genomic data
+Phelim Bradley 1 2, Henk C den Bakker 3, Eduardo P C Rocha 4 5, Gil McVean 6, Zamin Iqbal 7 8
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6420049/
+- Host-range of plasmids in the all-microbial index
+The distribution of different versions of the machinery for conjugation of DNA between bacteria has previously been analysed in 1,124 genomes39 using sensitive, but slow, protein profile searches for relaxase (MOB) and type 4 secretion system (T4SS) genes. 
+- Plasmid search and exclusion of contaminated datasets
+2,826 plasmid sequences were taken from the ENA plasmid pages (www.ebi.ac.uk/genomes/plasmid.html; December 2016) (See Supplementary Data 2) and downloaded from the ENA. 
+- Conjugative system search
+MOB (MOB_B, MOB_C, MOB_CQ, MOB_F, MOB_H, MOB_P,MOB_T, MOB_V) and T4SS sequences (VirB4_TRaU, VirD4_TcpA) as defined in Guglielmini et al 39 and Supplementary Data 8 in the all-microbial-index with T=100%. Full search results are available in Supplementary Data 9. Results were filtered for bacteria and contamination following the same method as described in “Plasmid search”. Accessions with at least one MOB and T4SS were said to contain a putative conjugative system. BIGSI does not return copy number, or location on chromosome or plasmid, so it was not possible to determine if the genes were co-located on a chromosome or on a plasmid.
+- MCR-1,2,3
+We searched for MCR-1, MCR-2, MCR-3 in the all-microbial-index using k-mer percent threshold T=100%. See Supplementary Data 1 for sequences and results.
+
+
+https://pubmed.ncbi.nlm.nih.gov/21876676/
+PLoS Genet
+. 2011 Aug;7(8):e1002222. doi: 10.1371/journal.pgen.1002222. Epub 2011 Aug 18.
+The repertoire of ICE in prokaryotes underscores the unity, diversity, and ubiquity of conjugation
+Julien Guglielmini 1, Leonor Quintais, Maria Pilar Garcillán-Barcia, Fernando de la Cruz, Eduardo P C Rocha
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3158045/
+Relaxases (see [67] for a description of each family, except MOBB, and MOBT): MOBT (corresponding to protein Q47728 of Enterococcus faecalis conjugative transposon Tn916 Orf20 [70]), MOBB (corresponding to mobilization protein B of Bacteroides thetaiotaomicron VPI-5482 [71]), MOBV, MOBQ, MOBP, MOBH, MOBF, MOBC. Major ATPases: VirB4 and TraU. T4CP: VirD4. MPFF: TraLEKVCWUcNHD. MPFT: VirB3689. MPFI: TraIKLMNPQRWY. MPFG: p31, p35, p41, p44, p51, p52.
+
+
+
 
 
 ----------
@@ -185,29 +282,14 @@ http://www.jsbba.or.jp/wp-content/uploads/file/award/2012/topics/17_2C22a03.pdf
 
 
 
-----------
+### Yano
 
-## ICE
-Integrative and Conjugative Elements
+https://pubmed.ncbi.nlm.nih.gov/29879198/
+PLoS One
+. 2018 Jun 7;13(6):e0198613. doi: 10.1371/journal.pone.0198613. eCollection 2018.
+Interplay of a non-conjugative integrative element and a conjugative plasmid in the spread of antibiotic resistance via suicidal plasmid transfer from an aquaculture Vibrio isolate
+Lisa Nonaka 1, Tatsuya Yamamoto 2, Fumito Maruyama 3, Yuu Hirose 4, Yuki Onishi 5, Takeshi Kobayashi 6, Satoru Suzuki 5, Nobuhiko Nomura 2, Michiaki Masuda 1, Hirokazu Yano 2
 
-https://www.ncbi.nlm.nih.gov/pubmed/26473380
-Annu Rev Genet. 2015;49:577-601. doi: 10.1146/annurev-genet-112414-055018. Epub 2015 Oct 14.
-Integrative and Conjugative Elements (ICEs): What They Do and How They Work.
-Johnson CM1, Grossman AD.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5180612/
-
-### ICEberg
-https://integbio.jp/dbcatalog/record/nbdc02055
-Integbio データベースカタログ
-Integrative and Conjugative Elements in Bacteria:  ICEberg
-
-http://db-mml.sjtu.edu.cn/ICEberg/
-ICEberg
-
-https://www.ncbi.nlm.nih.gov/pubmed/30407568
-Nucleic Acids Res. 2019 Jan 8;47(D1):D660-D665. doi: 10.1093/nar/gky1123.
-ICEberg 2.0: an updated database of bacterial integrative and conjugative elements.
-Liu M1,2, Li X1, Xie Y1, Bi D3, Sun J4, Li J5, Tai C1, Deng Z1, Ou HY1,2.
 
 
 ----------
@@ -242,9 +324,6 @@ Front Microbiol
 Determination of Plasmid pSN1216-29 Host Range and the Similarity in Oligonucleotide Composition Between Plasmid and Host Chromosomes
 Maho Tokuda 1, Haruo Suzuki 2 3, Kosuke Yanagiya 1, Masahiro Yuki 4, Kengo Inoue 5, Moriya Ohkuma 4, Kazuhide Kimbara 1, Masaki Shintani 1 4 6
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7296055/
-
-https://www.frontiersin.org/articles/10.3389/fmicb.2020.01187/full
-Frontiers | Determination of Plasmid pSN1216-29 Host Range and the Similarity in Oligonucleotide Composition Between Plasmid and Host Chromosomes | Microbiology
 
 https://www.frontiersin.org/articles/10.3389/fmicb.2020.01187/full
 (Supplementary Table S1-1)
@@ -417,21 +496,6 @@ KrakenHLL allows extending the taxonomy with virtual nodes for genomes,
 https://twitter.com/WvSchaik/status/562549766790594560
 Willem van Schaik on Twitter: "@pathogenomenick @koadman @daanspeth I guess could vary in broad-host range plasmid (different copy number in different bugs)"
 4:54 AM - 3 Feb 2015
-
-https://www.ncbi.nlm.nih.gov/pubmed/29905872
-Mol Biol Evol. 2018 Jun 14. doi: 10.1093/molbev/msy123. [Epub ahead of print]
-Host range and genetic plasticity explain the co-existence of integrative and extrachromosomal mobile genetic elements.
-Cury J1,2, Oliveira PH1,2,3, de la Cruz F4, Rocha EPC1,2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107060/
-Conjugative systems were detected using the CONJscan module of MacSyFinder (Abby et al. 2014), with protein profiles and definitions of the MPF type T, published previously (Guglielmini et al. 2014).
-
-https://www.ncbi.nlm.nih.gov/pubmed/28911112
-Nucleic Acids Res. 2017 Sep 6;45(15):8943-8956. doi: 10.1093/nar/gkx607.
-Integrative and conjugative elements and their hosts: composition, distribution and organization.
-Cury J1,2, Touchon M1,2, Rocha EPC1,2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5587801/
-Detection of conjugative systems
-Conjugative systems were found with the CONJscan module of MacSyFinder (29), using protein profiles and definitions following a previous work (16) 
 
 ### 2017
 
@@ -620,12 +684,6 @@ Broad host range plasmids.
 Jain A1, Srivastava P.
 
 The present review article describes the features that confer broad host range to the plasmids, 
-
-https://www.ncbi.nlm.nih.gov/pubmed/20805406
-Microbiol Mol Biol Rev. 2010 Sep;74(3):434-52. doi: 10.1128/MMBR.00020-10.
-Mobility of plasmids.
-Smillie C1, Garcillán-Barcia MP, Francia MV, Rocha EP, de la Cruz F.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2937521/
 
 https://twitter.com/NatureJapan/status/957538744894189569
 Nature Japan on Twitter: "Nature Ecology & Evolution創刊1周年記念 Collection「代償性変異は抗生物質耐性プラスミドに対する全般的寛容性を向上させる」https://t.co/NII6UeGiDU… "
