@@ -1,6 +1,7 @@
 # plasmid resistance
 
 **Table of Contents**
+- [unclassified](#unclassified)
 - [updates](#updates)
 - [papers](#papers)
 [2020](#2020)
@@ -10,13 +11,22 @@
 [2016](#2016)
 [2015](#2015)
 [2013](#2013)
-- [unclassified](#unclassified)
 - [video](#video)
 
 ----------
 ## unclassified
 
 https://en.wikipedia.org/wiki/Plasmid-mediated_resistance
+
+----------
+## pubmed
+
+https://pubmed.ncbi.nlm.nih.gov/
+
+https://pubmed.ncbi.nlm.nih.gov/?term=resistance+plasmid+transposon
+
+https://doi.org/10.7875/togotv.2020.053
+2020-04-01 PubMedを使って論文を検索する
 
 ----------
 ## updates
@@ -70,6 +80,16 @@ Alvaro San Millan 1
 https://www.sciencedirect.com/science/article/pii/S0966842X18301422?via%3Dihub
 
 [Download video (9MB)](https://ars.els-cdn.com/content/image/1-s2.0-S0966842X18301422-mmc1.mp4)
+
+### Babakhani_2018_Review
+
+https://pubmed.ncbi.nlm.nih.gov/30113080/
+Review J Basic Microbiol
+. 2018 Nov;58(11):905-917. doi: 10.1002/jobm.201800204. Epub 2018 Aug 16.
+Transposons: the agents of antibiotic resistance in bacteria
+Sajad Babakhani 1, Mana Oloomi 2
+https://onlinelibrary.wiley.com/doi/abs/10.1002/jobm.201800204
+Transposons can transfer from a plasmid to other plasmids or from a DNA chromosome to plasmid and vice versa that cause the transmission of antibiotic resistance genes in bacteria.
 
 ### Buckner_2018_Review
 
