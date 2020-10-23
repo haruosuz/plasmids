@@ -49,6 +49,16 @@ Detection of conjugative systems
 Conjugative systems were found with the CONJscan module of MacSyFinder (29), using protein profiles and definitions following a previous work (16) 
 
 
+
+https://pubmed.ncbi.nlm.nih.gov/22977114/
+Mol Biol Evol
+. 2013 Feb;30(2):315-31. doi: 10.1093/molbev/mss221. Epub 2012 Sep 13.
+Evolution of conjugation and type IV secretion systems
+Julien Guglielmini 1, Fernando de la Cruz, Eduardo P C Rocha
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3548315/
+
+
+
 ### ICEberg
 https://integbio.jp/dbcatalog/record/nbdc02055
 Integbio データベースカタログ
@@ -331,8 +341,22 @@ https://www.frontiersin.org/articles/10.3389/fmicb.2020.01187/full#supplementary
 
 https://www.frontiersin.org/research-topics/11162/horizontal-gene-transfer-in-microbes
 
-#### Acman_2020
 
+
+#### Redondo-Salvo_2020_Nat_Commun
+
+4:51 PM · Jul 20, 2020
+https://twitter.com/epcrocha/status/1285120172605558785
+erocha on Twitter: "By making a global map of the prokaryotic plasmidome, we found that plasmids organize in clusters w/a common genomic backbone :plasmid taxonomic units (PTUs). This allowed us to define a scale of plasmid host range to understand how they shape horizontal transfer in bacteria. https://t.co/o6qba6Dnms" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/32681114/
+Nat Commun
+. 2020 Jul 17;11(1):3602. doi: 10.1038/s41467-020-17278-2.
+Pathways for horizontal gene transfer in bacteria revealed by a global map of their plasmids
+Santiago Redondo-Salvo 1, Raúl Fernández-López 1, Raúl Ruiz 1, Luis Vielva 2, María de Toro 3, Eduardo P C Rocha 4, M Pilar Garcillán-Barcia 1, Fernando de la Cruz 5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7367871/
+
+#### Acman_2020_Nat_Commun
 
 12:27 PM · May 7, 2020
 https://twitter.com/copypasteusa/status/1258237077390372864
