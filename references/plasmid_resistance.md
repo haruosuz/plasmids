@@ -91,6 +91,16 @@ Sajad Babakhani 1, Mana Oloomi 2
 https://onlinelibrary.wiley.com/doi/abs/10.1002/jobm.201800204
 Transposons can transfer from a plasmid to other plasmids or from a DNA chromosome to plasmid and vice versa that cause the transmission of antibiotic resistance genes in bacteria.
 
+### Partridge_2018_Review
+
+https://pubmed.ncbi.nlm.nih.gov/30068738/
+Review Clin Microbiol Rev
+. 2018 Aug 1;31(4):e00088-17. doi: 10.1128/CMR.00088-17. Print 2018 Oct.
+Mobile Genetic Elements Associated with Antimicrobial Resistance
+Sally R Partridge 1, Stephen M Kwong 2, Neville Firth 2, Slade O Jensen 3 4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6148190/
+mcr-1 (mobile colistin resistance) gene 
+
 ### Buckner_2018_Review
 
 https://pubmed.ncbi.nlm.nih.gov/30085063/
