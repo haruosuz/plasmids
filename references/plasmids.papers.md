@@ -26,12 +26,41 @@
 ## ICE
 Integrative and Conjugative Elements
 
+### ICEberg
+https://integbio.jp/dbcatalog/record/nbdc02055
+Integbio データベースカタログ
+Integrative and Conjugative Elements in Bacteria:  ICEberg
+細菌内で見られる integrative and conjugative element (ICE) に関するウェブベースリソースです。PostgreSQLベースのデータベースとして、既知または推定された細菌内の ICE に関する実験的･バイオインフォマティクス的解析、および文献から得られたデータを収集しています。データには、各組織によりアーカイブ化された全ての ICE および遺伝子に関する詳細な情報が含まれます（一意の識別子、種の詳細の他、NCBIUniprotKB、KEGG などの他の公共データベースへのハイパーリンクを含みます）。
+
+http://db-mml.sjtu.edu.cn/ICEberg/
+ICEberg
+
+#### Liu_2019_ICEberg2
+
+https://www.ncbi.nlm.nih.gov/pubmed/30407568
+Nucleic Acids Res. 2019 Jan 8;47(D1):D660-D665. doi: 10.1093/nar/gky1123.
+ICEberg 2.0: an updated database of bacterial integrative and conjugative elements.
+Liu M1,2, Li X1, Xie Y1, Bi D3, Sun J4, Li J5, Tai C1, Deng Z1, Ou HY1,2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323972/
+
+### Delavat_2017_Review
+
+https://pubmed.ncbi.nlm.nih.gov/28369623/
+Review FEMS Microbiol Rev
+. 2017 Jul 1;41(4):512-537. doi: 10.1093/femsre/fux008.
+The hidden life of integrative and conjugative elements
+François Delavat 1, Ryo Miyazaki 2, Nicolas Carraro 1, Nicolas Pradervand 1, Jan Roelof van der Meer 1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5812530/
+
+### 
+
 https://www.ncbi.nlm.nih.gov/pubmed/26473380
 Annu Rev Genet. 2015;49:577-601. doi: 10.1146/annurev-genet-112414-055018. Epub 2015 Oct 14.
 Integrative and Conjugative Elements (ICEs): What They Do and How They Work.
 Johnson CM1, Grossman AD.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5180612/
 
+### Rocha
 
 https://www.ncbi.nlm.nih.gov/pubmed/29905872
 Mol Biol Evol. 2018 Jun 14. doi: 10.1093/molbev/msy123. [Epub ahead of print]
@@ -48,31 +77,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5587801/
 Detection of conjugative systems
 Conjugative systems were found with the CONJscan module of MacSyFinder (29), using protein profiles and definitions following a previous work (16) 
 
-
-
 https://pubmed.ncbi.nlm.nih.gov/22977114/
 Mol Biol Evol
 . 2013 Feb;30(2):315-31. doi: 10.1093/molbev/mss221. Epub 2012 Sep 13.
 Evolution of conjugation and type IV secretion systems
 Julien Guglielmini 1, Fernando de la Cruz, Eduardo P C Rocha
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3548315/
-
-
-
-### ICEberg
-https://integbio.jp/dbcatalog/record/nbdc02055
-Integbio データベースカタログ
-Integrative and Conjugative Elements in Bacteria:  ICEberg
-
-http://db-mml.sjtu.edu.cn/ICEberg/
-ICEberg
-
-https://www.ncbi.nlm.nih.gov/pubmed/30407568
-Nucleic Acids Res. 2019 Jan 8;47(D1):D660-D665. doi: 10.1093/nar/gky1123.
-ICEberg 2.0: an updated database of bacterial integrative and conjugative elements.
-Liu M1,2, Li X1, Xie Y1, Bi D3, Sun J4, Li J5, Tai C1, Deng Z1, Ou HY1,2.
-
-
 
 ----------
 
@@ -362,12 +372,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7367871/
 https://twitter.com/copypasteusa/status/1258237077390372864
 Haruo Suzuki on Twitter: "21連続塩基（21 bp k-mers）の有無からJaccard indexでプラスミド間の類似度を測定。Mashを使わずに、Bindashで正確なJIを計算し、ネットワーク作成。 https://t.co/fb5m0Buc5f" / Twitter
 
-https://pubmed.ncbi.nlm.nih.gov/32415210/
-Nat Commun
-. 2020 May 15;11(1):2452. doi: 10.1038/s41467-020-16282-w.
-Large-scale Network Analysis Captures Biological Features of Bacterial Plasmids
-Mislav Acman 1, Lucy van Dorp 2, Joanne M Santini 3, Francois Balloux 4
-
 7:32 PM · May 15, 2020
 https://twitter.com/BallouxFrancois/status/1261243089437569024
 Prof Francois Balloux on Twitter: "Our paper on bacterial plasmids, the primary vehicles for antibiotic resistance and virulence genes, is out in Nature Comms. There is a 'natural classification' for plasmids and we reconstruct exchanges of plasmid-borne genes within/between species. (1/6) https://t.co/DF33U1NuTQ https://t.co/c48URZaStO" / Twitter
@@ -375,6 +379,14 @@ Prof Francois Balloux on Twitter: "Our paper on bacterial plasmids, the primary 
 7:28 PM · May 15, 2020
 https://twitter.com/misac42/status/1261241971861082112
 Mislav Acman on Twitter: "I am so happy this piece of work is out! 🥳 👉Large-scale network analysis captures biological features of bacterial plasmids (https://t.co/jLCyJCZ6zx). Hopefully a guide on how to study and classify #plasmids based on their genetic similarity #microbiology #genomics More below👇 https://t.co/hwtkasIPYk" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/32415210/
+Nat Commun
+. 2020 May 15;11(1):2452. doi: 10.1038/s41467-020-16282-w.
+Large-scale Network Analysis Captures Biological Features of Bacterial Plasmids
+Mislav Acman 1, Lucy van Dorp 2, Joanne M Santini 3, Francois Balloux 4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7229196/
+
 
 #### 2020-03
 
