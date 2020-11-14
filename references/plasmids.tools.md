@@ -8,10 +8,43 @@
 
 
 ----------
+
+
+### MOB-suite
+https://github.com/phac-nml/mob-suite
+
+11:40 PM · Sep 25, 2020
+https://twitter.com/JohnHENash/status/1309503134423748608
+John Nash on Twitter: "Our new paper on plasmid typing is out. I have the most amazing co-authors... https://t.co/49iOzFSWvz" / Twitter
+
+https://pubmed.ncbi.nlm.nih.gov/32969786/
+Microb Genom
+. 2020 Sep 24. doi: 10.1099/mgen.0.000435. Online ahead of print.
+Universal whole-sequence-based plasmid typing and its utility to prediction of host range and epidemiological surveillance
+James Robertson 1, Kyrylo Bessonov 1, Justin Schonfeld 1, John H E Nash 1
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000435#tab2
+
+https://www.ncbi.nlm.nih.gov/pubmed/30052170
+Microb Genom. 2018 Aug;4(8). doi: 10.1099/mgen.0.000206. Epub 2018 Jul 27.
+MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
+Robertson J1, Nash JHE2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159552/
+- Introduction
+  - There is a strong need for automatic tools for the detection of plasmids from WGS data and numerous tools have been developed using a diverse array of approaches [1, 4, 16–18]. 
+  - Additionally, the suite provides a scalable nomenclature for identifying plasmids over short evolutionary periods by estimating genomic distances based on mash min-hashing [22]. 
+- MOB-cluster method
+MOB-cluster uses mash dist [22] with default parameters to calculate all pairwise genomic distances for each plasmid contained in the closed plasmid reference database. 
+We selected a permissive mash dist clustering threshold of 0.05, which resulted in clusters consisting largely of single replicon and MOB types. The distance metric used by mash dist allows for plasmids with considerable differences in size to be grouped together.
+
+PlasFlowの論文（17.）は、引用されているものの、議論されていない。
+
+
+
+----------
 ## ZhuLab
 Zhencheng Fang
 
-### PlasGUN
+### Fang_2020_PlasGUN
 http://cqb.pku.edu.cn/ZhuLab/PlasGUN/
 https://github.com/zhenchengfang/PlasGUN/
 
@@ -22,7 +55,7 @@ PlasGUN: gene prediction in plasmid metagenomic short reads using deep learning
 Zhencheng Fang 1, Jie Tan 1, Shufang Wu 1, Mo Li 1, Chunhui Wang 1, Yongchu Liu 1, Huaiqiu Zhu 1
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7214025/
 
-### PPR-Meta
+### Fang_2019_PPR-Meta
 http://cqb.pku.edu.cn/ZhuLab/PPR_Meta
 https://github.com/zhenchengfang/PPR-Meta
 
@@ -37,9 +70,6 @@ Here, we use a more detailed approach to represent the DNA fragments. Specifical
 
 ----------
 ## review
-
-
-
 
 ----------
 ### PlasmidFinder
@@ -113,24 +143,6 @@ Sergio Arredondo-Alonso 1, Martin Bootsma 2 3, Yaïr Hein 3, Malbert R C Rogers 
 
 ## 2019
 
-https://www.ncbi.nlm.nih.gov/pubmed/31187446
-Genes Genomics. 2019 Sep;41(9):1077-1083. doi: 10.1007/s13258-019-00839-1. Epub 2019 Jun 11.
-Comparison of de-novo assembly tools for plasmid metagenome analysis.
-Gupta SK1, Raza S1, Unno T2,3.
-https://link.springer.com/article/10.1007/s13258-019-00839-1
-we suggest that the use of MEGAHIT for plasmid metagenome analysis may offer more diverse plasmids with less computer resource required.
-
-### DoriC
-
-https://pubmed.ncbi.nlm.nih.gov/30364951/
-Nucleic Acids Res
-. 2019 Jan 8;47(D1):D74-D77. doi: 10.1093/nar/gky1014.
-DoriC 10.0: an updated database of replication origins in prokaryotic genomes including chromosomes and plasmids
-Hao Luo 1 2 3, Feng Gao 1 2 3
-
-http://kazumaxneo.hatenablog.com/entry/2019/06/21/073000
-バクテリア、アーキア、プラスミドの複製起点（ori）データベース DoriC - macでインフォマティクス
-
 ### WASPS
 
 https://www.ncbi.nlm.nih.gov/pubmed/31589313
@@ -144,6 +156,41 @@ Recently, plasmid assets have been developed proposing either a comprehensive ma
 https://twitter.com/search?q=plasmid%20database&src=typed_query&f=live
 Oct 15
 WASPS, a new plasmid web service for similarity analyses and synteny map construction. Also includes a comprehensive and updated natural plasmid database.
+
+
+### 
+
+https://www.ncbi.nlm.nih.gov/pubmed/31187446
+Genes Genomics. 2019 Sep;41(9):1077-1083. doi: 10.1007/s13258-019-00839-1. Epub 2019 Jun 11.
+Comparison of de-novo assembly tools for plasmid metagenome analysis.
+Gupta SK1, Raza S1, Unno T2,3.
+https://link.springer.com/article/10.1007/s13258-019-00839-1
+we suggest that the use of MEGAHIT for plasmid metagenome analysis may offer more diverse plasmids with less computer resource required.
+
+### HyAsP
+https://github.com/cchauve/HyAsP
+
+https://www.ncbi.nlm.nih.gov/pubmed/31116364
+Bioinformatics. 2019 May 22. pii: btz413. doi: 10.1093/bioinformatics/btz413. [Epub ahead of print]
+HyAsP, a greedy tool for plasmids identification.
+Müller R1, Chauve C2.
+https://academic.oup.com/bioinformatics/article-abstract/35/21/4436/5497247?redirectedFrom=fulltext
+You do not currently have access to this article.
+
+http://kazumaxneo.hatenablog.com/entry/2019/07/14/073000
+アセンブリグラフからプラスミドを検出する HyAsP - macでインフォマティクス
+
+
+### DoriC
+
+https://pubmed.ncbi.nlm.nih.gov/30364951/
+Nucleic Acids Res
+. 2019 Jan 8;47(D1):D74-D77. doi: 10.1093/nar/gky1014.
+DoriC 10.0: an updated database of replication origins in prokaryotic genomes including chromosomes and plasmids
+Hao Luo 1 2 3, Feng Gao 1 2 3
+
+http://kazumaxneo.hatenablog.com/entry/2019/06/21/073000
+バクテリア、アーキア、プラスミドの複製起点（ori）データベース DoriC - macでインフォマティクス
 
 ### tiptoft
 
@@ -292,6 +339,12 @@ Currently, there are 13 924 entries in NCBI’s RefSeq plasmid database (14) and
   - With this filtered dataset, pairwise distances were calculated using Mash software (v2.0) (18) with the mash dist command, a sketch size of 1000 (-s option) and K-mer size of 21 (-k option). Pairwise distances were filtered to exclude distances with a p-value>0.05 and a mash distance<0.1. These values were selected in order to retain for display only the pairwise distances that correlate well with an Average Nucleotide Identity (ANI)>0.9 (18) (Supplementary Figures S2 and 3). 
   - Sequences of all the 13 232 plasmids are stored in pATLAS database so that users are able to download sequences and annotations from the pATLAS website or through requests to the REST API.
 
+https://integbio.jp/dbcatalog/record/nbdc02514
+pATLAS:  Plasmid Atlas
+説明: 	NCBI RefSeqに登録されているプラスミドとそのメタデータを検索できるデータベースです。プラスミド名、生物種、抗生物質耐性、病原性、プラスミドファミリー、配列長、類似性による検索が可能で、プラスミド間の関係を可視化することができます。また外部パイプラインによって同定されたプラスミドセットをプラスミドネットワークに表示することもできます。
+
+
+
 http://kazumaxneo.hatenablog.com/entry/2019/11/08/073000
 pATLASflow - macでインフォマティクス
 
@@ -353,16 +406,6 @@ Leplae R1, Lima-Mendez G, Toussaint A.
 https://omictools.com/plasmid-detection-category
 Plasmid detection bioinformatics tools | Metagenomic sequencing analysis - omicX
 
-
-----------
-
-### HyAsP
-https://github.com/cchauve/HyAsP
-
-https://www.ncbi.nlm.nih.gov/pubmed/31116364
-Bioinformatics. 2019 May 22. pii: btz413. doi: 10.1093/bioinformatics/btz413. [Epub ahead of print]
-HyAsP, a greedy tool for plasmids identification.
-Müller R1, Chauve C2.
 
 ----------
 
@@ -454,22 +497,6 @@ Royer G1,2,3, Decousser JW1,3, Branger C1, Dubois M2, Médigue C2, Denamur E4,1,
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6202455/
 Compared to other plasmid classifiers, PlasFlow and cBar, it achieves better recall (0.87), specificity (0.99), precision (0.96) and accuracy (0.98) on a dataset of 70 genomes of Escherichia coli containing plasmids. 
 
-### MOB-suite
-https://github.com/phac-nml/mob-suite
-
-https://www.ncbi.nlm.nih.gov/pubmed/30052170
-Microb Genom. 2018 Aug;4(8). doi: 10.1099/mgen.0.000206. Epub 2018 Jul 27.
-MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
-Robertson J1, Nash JHE2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159552/
-- Introduction
-  - There is a strong need for automatic tools for the detection of plasmids from WGS data and numerous tools have been developed using a diverse array of approaches [1, 4, 16–18]. 
-  - Additionally, the suite provides a scalable nomenclature for identifying plasmids over short evolutionary periods by estimating genomic distances based on mash min-hashing [22]. 
-- MOB-cluster method
-MOB-cluster uses mash dist [22] with default parameters to calculate all pairwise genomic distances for each plasmid contained in the closed plasmid reference database. 
-We selected a permissive mash dist clustering threshold of 0.05, which resulted in clusters consisting largely of single replicon and MOB types. The distance metric used by mash dist allows for plasmids with considerable differences in size to be grouped together.
-
-PlasFlowの論文（17.）は、引用されているものの、議論されていない。
 
 ### PlasmidSeeker
 https://github.com/bioinfo-ut/PlasmidSeeker
@@ -620,6 +647,9 @@ plasmid カテゴリーの記事一覧 - macでインフォマティクス
 
 http://kazumaxneo.hatenablog.com/entry/2019/10/09/234533
 メタゲノムのアセンブリ配列からファージやプラスミドを予測する PPR-Meta - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2019/06/05/073000
+metaplasmidSPAdes - macでインフォマティクス
 
 http://kazumaxneo.hatenablog.com/entry/2019/05/11/073000
 メタゲノムのアセンブリ配列からプラスミド配列を予測する PlasFlow - macでインフォマティクス
