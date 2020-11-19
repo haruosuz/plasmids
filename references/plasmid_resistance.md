@@ -31,6 +31,15 @@ https://doi.org/10.7875/togotv.2020.053
 ----------
 ## updates
 
+## 2020
+
+Nov. 17, 2020
+https://asm.org/Articles/2020/November/Some-Good-News-for-World-Antimicrobial-Awareness-W
+Some Good News for World Antimicrobial Awareness Week
+- The Decline of mcr-1-Mediated Colistin Resistance in China
+The gene, named mobilized colistin resistance-1 (mcr-1), was concerning because it was spread on a plasmid, a mobile genetic element that can easily be transmitted from one bacterial isolate to another. While colistin resistance due to mutations on bacterial chromosomes had existed for years, mcr-1 had the potential for rapid, far-reaching spread as a result of its mechanism of transmission. It was soon observed in countries throughout the world.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5862964/
+
 ----------
 ## papers
 
@@ -137,7 +146,16 @@ https://academic.oup.com/jac/article/73/5/1121/4822282
 
 ## 2017
 
-Lopatkin_2017_Nat_Commun
+
+### 
+
+https://pubmed.ncbi.nlm.nih.gov/29665883/
+Review Anim Health Res Rev
+. 2017 Dec;18(2):136-152. doi: 10.1017/S1466252317000111.
+Plasmid-mediated colistin resistance in animals: current status and future directions
+Jian Sun 1, Ximin Zeng 2, Xing-Ping Li 1, Xiao-Ping Liao 1, Ya-Hong Liu 1, Jun Lin 2
+
+### Lopatkin_2017_Nat_Commun
 
 https://pubmed.ncbi.nlm.nih.gov/29162798/
 Nat Commun
@@ -162,6 +180,7 @@ Review Int J Infect Dis
 . 2017 Jan;54:77-84. doi: 10.1016/j.ijid.2016.11.415. Epub 2016 Nov 30.
 How should we respond to the emergence of plasmid-mediated colistin resistance in humans and animals?
 Jaffar A Al-Tawfiq 1, Ramanan Laxminarayan 2, Marc Mendelson 3
+https://www.ijidonline.com/article/S1201-9712(16)31634-4/fulltext
 
 ### Martinez_2017_Review
 
