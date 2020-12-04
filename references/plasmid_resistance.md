@@ -87,6 +87,8 @@ Review Trends Microbiol
 Evolution of Plasmid-Mediated Antibiotic Resistance in the Clinical Context
 Alvaro San Millan 1
 https://www.sciencedirect.com/science/article/pii/S0966842X18301422?via%3Dihub
+- Highlights
+- Outstanding Questions
 
 [Download video (9MB)](https://ars.els-cdn.com/content/image/1-s2.0-S0966842X18301422-mmc1.mp4)
 
@@ -144,8 +146,16 @@ https://academic.oup.com/jac/article/73/5/1121/4822282
 
 <img alt="" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jac/73/5/10.1093_jac_dkx488/1/m_dkx488f1.png?Expires=1605847418&Signature=i53jdfgndqqtURbKm-08mSgTB9op~e25JtCtlDlrKIpNYg0bDEzRnr8Zh14WOWVCSUETluHWGhXQJRD~P~d6EJkHTV6O7a~10GNWLq0RyXnBsOzUr1fVqEPS~3hfSz3Fg~nsP8Si5-o8vrifq1lKoxDWK~1WyyfCRSDqJ~eDTvOAkF5wa0aode3dl2bZNkBxkIjCufvhUAb3vpQRE1-t2ZgfZk~Gdx1yquGltQxuFufDBVWBSsba1PEdL92q-kbsdyoBITYG14V6~H8DIVBCxk5wZCS~A50oQPKlJ0h3ZXxG4JrqaVm6p2ViKeQkOgGknpyptF0ZVuCtMrdcR4nCww__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width=25%>
 
-## 2017
+### Wang_2018
 
+https://pubmed.ncbi.nlm.nih.gov/29563494/
+Nat Commun
+. 2018 Mar 21;9(1):1179. doi: 10.1038/s41467-018-03205-z.
+The global distribution and spread of the mobilized colistin resistance gene mcr-1
+Ruobing Wang 1, Lucy van Dorp 2, Liam P Shaw 2, Phelim Bradley 3, Qi Wang 1, Xiaojuan Wang 1, Longyang Jin 1, Qing Zhang 4, Yuqing Liu 4, Adrien Rieux 5, Thamarai Dorai-Schneiders 6, Lucy Anne Weinert 7, Zamin Iqbal 3 8, Xavier Didelot 9, Hui Wang 10, Francois Balloux 11
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5862964/
+
+## 2017
 
 ### 
 
@@ -166,12 +176,14 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5698434/
 
 ### Orlek_2017_Review
 
+review
 https://pubmed.ncbi.nlm.nih.gov/28232822/
 Front Microbiol
 . 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
 Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology
 Alex Orlek 1, Nicole Stoesser 2, Muna F Anjum 3, Michel Doumith 4, Matthew J Ellington 5, Tim Peto 1, Derrick Crook 1, Neil Woodford 5, A Sarah Walker 1, Hang Phan 1, Anna E Sheppard 1
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
+This review focuses on WGS datasets from cultured rather than metagenomic samples; for the latter, see recent reviews (Jørgensen et al., 2014; Martínez et al., 2016).
 
 ### Al-Tawfiq_2017_Review
 
@@ -225,11 +237,23 @@ https://www.ted.com/talks/gerry_wright_how_can_we_solve_the_antibiotic_resistanc
 細菌は耐性を獲得し続け 同一種内や 種を超えて他菌種にまで 遺伝情報を共有することで 耐性が受け渡されました
 薬剤耐性を獲得したサルモネラ菌が 食物連鎖を介して人に持ち込まれ 国際貿易や旅行によって 広まります
 
+### 12:32
+December 14th, 2019
+https://www.jove.com/v/60749/quantification-plasmid-mediated-antibiotic-resistance-an-experimental
+Quantification of Plasmid-Mediated Antibiotic Resistance in an Experimental Evolution Approach | Protocol
+
 ### 3:04
 Jul 10, 2019
 https://www.youtube.com/watch?v=dE6SLkDf67g
 https://vimeo.com/171773795
 MetaSUB Introductory Video
+
+### 22:38
+2017/04/26
+https://www.youtube.com/watch?v=U7Dshq5Npdg
+Basic Mechanisms of Antibiotic Resistance and Gene Spread by Marilyn Roberts, PhD - YouTube
+American Society for Microbiology
+Marilyn Roberts, PhD, University of Washington, presents an historical background of bacterial antibiotic resistances. In this lecture Roberts discusses the basic mechanism and elements (plasmids, transposons, integrons) of bacterial antibiotic resistance gene transfer. 
 
 ### 14:48
 Nov 3, 2016
@@ -245,6 +269,11 @@ https://gigazine.net/news/20160318-antibiotic-apocalypse-explained/
 細菌は染色体とプラスミドという2種類のDNAを持っています。
 細菌同士は接触するとプラスミドを交換。
 プラスミドを交換することで細菌の能力を強化。
+
+### 3:35
+2016/02/10
+https://www.youtube.com/watch?v=B4XOSW_oY-I
+Michelle Buckner - Mitigating the risks of plasmid mediated antibiotic resistance - YouTube
 
 ### 16:52
 TED2015 | March 2015
