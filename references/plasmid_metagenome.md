@@ -10,13 +10,6 @@
 
 ----------
 
-https://www.ncbi.nlm.nih.gov/pubmed/28232822
-Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
-Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology.
-Orlek A1, Stoesser N2, Anjum MF3, Doumith M4, Ellington MJ5, Peto T1, Crook D1, Woodford N5, Walker AS1, Phan H1, Sheppard AE1.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
-This review focuses on WGS datasets from cultured rather than metagenomic samples; for the latter, see recent reviews (Jørgensen et al., 2014; Martínez et al., 2016).
-
 ### Martinez_2017
 
 https://pubmed.ncbi.nlm.nih.gov/27861983/
