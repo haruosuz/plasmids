@@ -1,7 +1,6 @@
-# plasmids.metagenome
+# plasmid metagenome
 
 **Table of Contents**
-- [featuring](#featuring)
 - [updates](#updates)
   - [2020](#2020)
   - [2019](#2019)
@@ -27,7 +26,7 @@ Genomic and metagenomic technologies to explore the antibiotic resistance mobilo
 José L Martínez 1, Teresa M Coque 2 3 4, Val F Lanza 2 3 4, Fernando de la Cruz 5, Fernando Baquero 2 3 4
 https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.13282
 
-### 
+### Jorgensen_2015
 
 https://pubmed.ncbi.nlm.nih.gov/25657641/
 Front Microbiol
@@ -35,6 +34,7 @@ Front Microbiol
 Current strategies for mobilome research
 Tue S Jørgensen 1, Anne S Kiil 1, Martin A Hansen 1, Søren J Sørensen 1, Lars H Hansen 2
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302988/
+
 
 ----------
 ## updates
@@ -191,7 +191,17 @@ https://www.sciencedirect.com/science/article/abs/pii/S2213716516300261?via%3Dih
 
 ## 2015
 
+### Li_2015
+
+https://pubmed.ncbi.nlm.nih.gov/26441947/
+Front Microbiol
+. 2015 Sep 24;6:1025. doi: 10.3389/fmicb.2015.01025. eCollection 2015.
+Exploring antibiotic resistance genes and metal resistance genes in plasmid metagenomes from wastewater treatment plants
+An-Dong Li 1, Li-Guan Li 1, Tong Zhang 1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4585309/
+
 ### Dib_2015
+
 https://pubmed.ncbi.nlm.nih.gov/26074886/
 Review Front Microbiol
 . 2015 May 26;6:463. doi: 10.3389/fmicb.2015.00463. eCollection 2015.
@@ -204,15 +214,6 @@ Global Plasmid Studies in Cultured Strains
 Culture-Independent Plasmidome
 
 Metagenomic Plasmidome
-
-### 
-
-https://pubmed.ncbi.nlm.nih.gov/25657641/
-Front Microbiol
-. 2015 Jan 22;5:750. doi: 10.3389/fmicb.2014.00750. eCollection 2014.
-Current strategies for mobilome research
-Tue S Jørgensen 1, Anne S Kiil 1, Martin A Hansen 1, Søren J Sørensen 1, Lars H Hansen 2
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302988/
 
 
 ## 2014
