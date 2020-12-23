@@ -111,6 +111,7 @@ Front Microbiol. 2020 Mar 24;11:483. doi: 10.3389/fmicb.2020.00483. eCollection 
 Analysis of COMPASS, a New Comprehensive Plasmid Database Revealed Prevalence of Multireplicon and Extensive Diversity of IncF Plasmids.
 Douarre PE1, Mallet L1, Radomski N1, Felten A1, Mistou MY2.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7105883/
+https://www.frontiersin.org/articles/10.3389/fmicb.2020.00483/full
 https://github.com/itsmeludo/COMPASS
 
 
@@ -269,15 +270,11 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695206/
 Overview of the programs to predict plasmids from short-read sequencing data
 
 
-review
-https://www.ncbi.nlm.nih.gov/pubmed/28232822
-Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
-Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology.
-Orlek A1, Stoesser N2, Anjum MF3, Doumith M4, Ellington MJ5, Peto T1, Crook D1, Woodford N5, Walker AS1, Phan H1, Sheppard AE1.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
-Table 2
-Summary of common in silico tools used for plasmid analysis.
+## 2016
 
+https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(16)32965-3
+156. A Plasmid Manager, a Comprehensive Database for Archiving Plasmid DNA Sequence: Molecular Therapy
+OLIGONUCLEOTIDE THERAPEUTICS I| VOLUME 24, SUPPLEMENT 1, S61, MAY 01, 2016
 
 ## 2014
 
@@ -285,7 +282,6 @@ Apr 22, 2014
 https://github.com/mscook/VFDB
 Sequences of 19 plasmid replicon types.
 https://github.com/mscook/VFDB/blob/master/plasmid_replicons.fa
-
 
 ----------
 
@@ -297,7 +293,7 @@ Mick Watson on Twitter: "Best database of microbial plasmid sequences?"
 not sure if "best" but: pATLAS (http://www.patlas.site/ ) and our, recently created, database PLSDB (https://ccb-microbe.cs.uni-saarland.de/plsdb/ )
 
 ### Sistrom
-Sistrom, Mark (2018), Plasmids database, v2, DataONE Dash, Dataset, https://doi.org/10.15146/R33X2J
+Sistrom, Mark (2018), Plasmids database, Dryad, Dataset, https://doi.org/10.15146/R33X2J
 
 https://www.ncbi.nlm.nih.gov/pubmed/30637385
 Microbiol Resour Announc. 2019 Jan 3;8(1). pii: e01325-18. doi: 10.1128/MRA.01325-18. eCollection 2019 Jan.
@@ -375,15 +371,37 @@ Overview of collected plasmids
 In total, 13 789 plasmid records (2945 from INSDC and 10 844 from RefSeq) were retrieved from the NCBI nucleotide database.
 
 ### Orlek
+
+#### Orlek_2017-05_Plasmid
+
 https://www.ncbi.nlm.nih.gov/pubmed/28286183
-Plasmid. 2017 May;91:42-52.
-Ordering the mob: Insights into replicon and MOB typing schemes from analysis of a curated dataset of publicly available plasmids.
-Orlek A et al.
+Plasmid
+. 2017 May;91:42-52. doi: 10.1016/j.plasmid.2017.03.002. Epub 2017 Mar 9.
+Ordering the mob: Insights into replicon and MOB typing schemes from analysis of a curated dataset of publicly available plasmids
+Alex Orlek 1, Hang Phan 2, Anna E Sheppard 2, Michel Doumith 3, Matthew Ellington 4, Tim Peto 2, Derrick Crook 2, A Sarah Walker 2, Neil Woodford 4, Muna F Anjum 5, Nicole Stoesser 6
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5466382/
+
+#### Orlek_2017-04
 
 https://www.ncbi.nlm.nih.gov/pubmed/28516137
-Data Brief. 2017 Apr 23;12:423-426. 
-A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI nucleotide database.
-Orlek A et al.
+Data Brief
+. 2017 Apr 23;12:423-426. doi: 10.1016/j.dib.2017.04.024. eCollection 2017 Jun.
+A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI nucleotide database
+Alex Orlek 1 2, Hang Phan 1 2, Anna E Sheppard 1 2, Michel Doumith 3, Matthew Ellington 2 3, Tim Peto 1 2, Derrick Crook 1 2, A Sarah Walker 1 2, Neil Woodford 2 3, Muna F Anjum 2 4, Nicole Stoesser 1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5426034/
+Data accessibility	Data is publicly available in the Figshare repository.
+https://figshare.com/s/18de8bdcbba47dbaba41
+
+review
+https://www.ncbi.nlm.nih.gov/pubmed/28232822
+Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
+Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology.
+Orlek A1, Stoesser N2, Anjum MF3, Doumith M4, Ellington MJ5, Peto T1, Crook D1, Woodford N5, Walker AS1, Phan H1, Sheppard AE1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
+Table 2
+Summary of common in silico tools used for plasmid analysis.
+
+
 
 ### aclame
 ACLAME は、version 0.4 (5 August 2009) 以降は更新されていない。
