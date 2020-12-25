@@ -91,6 +91,9 @@ Antimicrob Agents Chemother
 . 2014 Jul;58(7):3895-903. doi: 10.1128/AAC.02412-14. Epub 2014 Apr 28.
 In Silico Detection and Typing of Plasmids Using PlasmidFinder and Plasmid Multilocus Sequence Typing
 Alessandra Carattoli 1, Ea Zankari 2, Aurora García-Fernández 1, Mette Voldby Larsen 3, Ole Lund 3, Laura Villa 1, Frank Møller Aarestrup 2, Henrik Hasman 4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4068535/
+https://aac.asm.org/content/58/7/3895.long
+
 
 ----------
 ## updates
@@ -391,6 +394,8 @@ Alex Orlek 1 2, Hang Phan 1 2, Anna E Sheppard 1 2, Michel Doumith 3, Matthew El
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5426034/
 Data accessibility	Data is publicly available in the Figshare repository.
 https://figshare.com/s/18de8bdcbba47dbaba41
+
+A bioinformatic protocol and code for MOB typing using the protein dataset are provided on GitHub (https://github.com/AlexOrlek/MOBtyping).
 
 review
 https://www.ncbi.nlm.nih.gov/pubmed/28232822
