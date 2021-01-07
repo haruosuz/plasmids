@@ -1039,7 +1039,6 @@ Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: su
 Fig. 3.
 ML tree of concatenated data estimated from a partitioned analysis based on codon position. Nodal support is shown as nonparametric ML bootstrap values. The tree was rooted using IncP-1γ as outgroup.
 
-![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f1p.jpg)
 
 https://www.ncbi.nlm.nih.gov/nuccore/AB231906.2
 Sphingomonas sp. A1 plasmid pA1 DNA, complete sequence
