@@ -1,7 +1,6 @@
 # plasmids.papers
 
 **Table of Contents**
-- [featuring](#featuring)
 - [wolbachia](#wolbachia)
 - [updates](#updates)
   - [2019](#2019)
@@ -17,9 +16,88 @@
 [Shintani](#shintani)
 [Suzuki](#suzuki)
 - [compensatory](#compensatory)
-- [MOB](#mob)
 - [IncP7](#incp7)
 - [ICE](#ice)
+- [MOB](#mob)
+- [rep](#rep)
+
+
+
+
+----------
+
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.rRNA.md
+
+https://link.springer.com/chapter/10.1007/978-981-13-3411-5_6
+Shintani M., Suzuki H. (2019) Plasmids and Their Hosts. In: Nishida H., Oshima T. (eds) DNA Traffic in the Environment. Springer, Singapore
+
+
+
+### Yano
+
+
+総説
+https://www.ncbi.nlm.nih.gov/pubmed/30619542
+Comput Struct Biotechnol J. 2018 Dec 15;17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
+Reconsidering plasmid maintenance factors for computational plasmid design.
+Yano H, Shintani M, Tomita M, Suzuki H, Oshima T.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
+
+
+https://pubmed.ncbi.nlm.nih.gov/29879198/
+PLoS One
+. 2018 Jun 7;13(6):e0198613. doi: 10.1371/journal.pone.0198613. eCollection 2018.
+Interplay of a non-conjugative integrative element and a conjugative plasmid in the spread of antibiotic resistance via suicidal plasmid transfer from an aquaculture Vibrio isolate
+Lisa Nonaka 1, Tatsuya Yamamoto 2, Fumito Maruyama 3, Yuu Hirose 4, Yuki Onishi 5, Takeshi Kobayashi 6, Satoru Suzuki 5, Nobuhiko Nomura 2, Michiaki Masuda 1, Hirokazu Yano 2
+
+
+https://sites.google.com/view/hirokazuyano/koremadeno-yan-jiu
+Hirokazu Yano - これまでの研究 (in Japanese)
+
+タンパク質のN末の長さ多型の意義
+
+上記の進化実験では、複製開始タンパク質に集中的に変異が入りましたが、類似の変異がデータベースに登録されている他のプラスミドにも見つかることに研究の過程で気づきました。そこで、得られた変異体プラ スミドの表現型を様々な角度から解析することで、 プラスミドに見られる複製開始タンパク質遺伝子の5’-endの長さの多様性（in/del) が、genetic driftではなくトレード・オフの関係にある形質（この場合は水平伝播 と垂直伝播）に対するnatural selectionの結果として説明できるというアイデアを提案しました（Yano et al., J. Bacteriol. 2012)。TrfAのN末の多型のような長さ多型は他のタンパク質（遺伝子座）にも見かけられま す。他のタンパク質に関しても、N末の長さ多型にには何か重要な意味があるのではないでしょうか。
+
+
+https://pubmed.ncbi.nlm.nih.gov/22228734/
+J Bacteriol
+. 2012 Mar;194(6):1533-43. doi: 10.1128/JB.06395-11. Epub 2012 Jan 6.
+Roles of long and short replication initiation proteins in the fate of IncP-1 plasmids
+Hirokazu Yano 1, Gail E Deckert, Linda M Rogers, Eva M Top
+https://jb.asm.org/content/194/6/1533.long
+
+
+----------
+
+
+https://ja.wikipedia.org/wiki/モバイローム
+モバイローム(Mobilome)は、ゲノム中の可動遺伝因子の総体である。ゲノム内を移動する遺伝因子（トランスポゾン）は、真核生物のモバイロームの中心である。しかし原核生物では、可動遺伝因子は、プロファージやプラスミドのようにゲノム間を移動でき、モバイロームの重要な要素である。
+
+----------
+
+https://kotobank.jp/word/プラスミド-161388
+コリシン因子は他の細菌を殺す作用をもつコリシンといわれる物質の生産を支配し、普通、一細胞に10個あるいはそれ以上含まれている。酵母では2ミクロンDNAとよばれるプラスミドがみいだされている。これは長さが2ミクロンのDNA分子で、一細胞当り50個余り含まれるが、その働きは不明である。
+
+https://ja.wikipedia.org/wiki/ColE1
+ColE1はバクテリアに用いられるプラスミド。その名前は、 コリシン E1遺伝子（ cea遺伝子）を持っていることに由来している。また、 imm遺伝子を使用して、この産生物からの免疫をコードする。さらに、プラスミドには一連の移動性（ mob ）遺伝子がある。そのサイズと単一のEcoRI認識部位の存在により、ベクター候補と見なされた [1]。
+
+
+----------
+
+
+## rep
+
+#### Stenger_2011_TrfA
+
+https://www.ncbi.nlm.nih.gov/pubmed/21296948
+Appl Environ Microbiol. 2011 Apr;77(7):2522-6. 
+Phylogeny of replication initiator protein TrfA reveals a highly divergent clade of incompatibility group P1 plasmids.
+Stenger DC, Lee MW.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067460/
+Genes for four TrfA homologues are integrated into chromosomes of their respective hosts
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067460/table/t1/
+cNA, not applicable; integrated in host chromosome.
 
 ----------
 
@@ -77,12 +155,16 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5587801/
 Detection of conjugative systems
 Conjugative systems were found with the CONJscan module of MacSyFinder (29), using protein profiles and definitions following a previous work (16) 
 
+### Guglielmini_2013
+
 https://pubmed.ncbi.nlm.nih.gov/22977114/
 Mol Biol Evol
 . 2013 Feb;30(2):315-31. doi: 10.1093/molbev/mss221. Epub 2012 Sep 13.
 Evolution of conjugation and type IV secretion systems
 Julien Guglielmini 1, Fernando de la Cruz, Eduardo P C Rocha
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3548315/
+https://academic.oup.com/mbe/article/30/2/315/1013981
+
 
 ----------
 
@@ -189,23 +271,11 @@ PCR-based replicon typing (PBRT) or relaxase typing. Currently, there are 28 kno
 
 
 ----------
-## featuring
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.rRNA.md
-
-https://link.springer.com/chapter/10.1007/978-981-13-3411-5_6
-Shintani M., Suzuki H. (2019) Plasmids and Their Hosts. In: Nishida H., Oshima T. (eds) DNA Traffic in the Environment. Springer, Singapore
-
-総説
-https://www.ncbi.nlm.nih.gov/pubmed/30619542
-Comput Struct Biotechnol J. 2018 Dec 15;17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
-Reconsidering plasmid maintenance factors for computational plasmid design.
-Yano H, Shintani M, Tomita M, Suzuki H, Oshima T.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
-
-----------
 ## people
 ### Rocha
+
+
+
 
 ### Shintani
 新谷 政己
@@ -302,15 +372,6 @@ http://www.jsbba.or.jp/wp-content/uploads/file/award/2012/topics/17_2C22a03.pdf
 
 
 
-### Yano
-
-https://pubmed.ncbi.nlm.nih.gov/29879198/
-PLoS One
-. 2018 Jun 7;13(6):e0198613. doi: 10.1371/journal.pone.0198613. eCollection 2018.
-Interplay of a non-conjugative integrative element and a conjugative plasmid in the spread of antibiotic resistance via suicidal plasmid transfer from an aquaculture Vibrio isolate
-Lisa Nonaka 1, Tatsuya Yamamoto 2, Fumito Maruyama 3, Yuu Hirose 4, Yuki Onishi 5, Takeshi Kobayashi 6, Satoru Suzuki 5, Nobuhiko Nomura 2, Michiaki Masuda 1, Hirokazu Yano 2
-
-
 
 ----------
 
@@ -365,6 +426,7 @@ Nat Commun
 Pathways for horizontal gene transfer in bacteria revealed by a global map of their plasmids
 Santiago Redondo-Salvo 1, Raúl Fernández-López 1, Raúl Ruiz 1, Luis Vielva 2, María de Toro 3, Eduardo P C Rocha 4, M Pilar Garcillán-Barcia 1, Fernando de la Cruz 5
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7367871/
+Here, we analyze genomic composition and pairwise sequence identity for over 10,000 reference plasmids to obtain a global map of the prokaryotic plasmidome.
 
 #### Acman_2020_Nat_Commun
 
@@ -386,7 +448,7 @@ Nat Commun
 Large-scale Network Analysis Captures Biological Features of Bacterial Plasmids
 Mislav Acman 1, Lucy van Dorp 2, Joanne M Santini 3, Francois Balloux 4
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7229196/
-
+Here, we study the population structure and dynamics of over 10,000 bacterial plasmids, by quantifying their genetic similarities and reconstructing a network based on their shared k-mer content.
 
 #### 2020-03
 
@@ -421,19 +483,19 @@ https://www.nature.com/articles/s41467-019-13709-x
 Published: 20 December 2019
 Evolution of satellite plasmids can prolong the maintenance of newly acquired accessory genes in bacteria
 
+
+https://pubmed.ncbi.nlm.nih.gov/31745554/
+Nucleic Acids Res
+. 2020 Jan 24;48(2):748-760. doi: 10.1093/nar/gkz1091.
+Atypical organizations and epistatic interactions of CRISPRs and cas clusters in genomes and their mobile genetic elements
+Aude Bernheim 1 2 3 4, David Bikard 2, Marie Touchon 1, Eduardo P C Rocha 1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7145637/
+https://academic.oup.com/nar/article/48/2/748/5634034
+- Phages and 25 000 prophages were almost devoid of CRISPR–Cas systems, whereas 3% of plasmids had CRISPR–Cas systems or isolated CRISPRs. The latter were often compatible with the chromosomal cas clusters, suggesting that plasmids can co-opt the latter. 
 https://twitter.com/epcrocha/status/1197489104507883521
 erocha on Twitter: "If one CRISPR-Cas is great, why have two ? Or more? Or combinations of them? Atypical organizations and epistatic interactions of CRISPRs and cas clusters in genomes and their mobile genetic elements: https://t.co/fBjMLKXX1d https://t.co/Bv7dWNAgOt"
 9:17 PM · Nov 21, 2019
-https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz1091/5634034
-Atypical organizations and epistatic interactions of CRISPRs and cas clusters in genomes and their mobile genetic elements | 
-- Phages and 25 000 prophages were almost devoid of CRISPR–Cas systems, whereas 3% of plasmids had CRISPR–Cas systems or isolated CRISPRs. The latter were often compatible with the chromosomal cas clusters, suggesting that plasmids can co-opt the latter. 
 
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/31602783
-Environ Microbiol. 2019 Oct 10. doi: 10.1111/1462-2920.14813. [Epub ahead of print]
-Unravelling plasmidome distribution and interaction with its hosting microbiome.
-Brown Kav A1,2, Rozov R3, Bogumil D1, Sørensen SJ4, Hansen LH5, Benhar I2, Halperin E2,3,6, Shamir R3, Mizrahi I1.
 
 https://www.ncbi.nlm.nih.gov/pubmed/31626589
 Microb Genom. 2019 Oct 18. doi: 10.1099/mgen.0.000309. [Epub ahead of print]
@@ -809,17 +871,6 @@ analysis of plasmid metagenomes is still in its infancy.
 - [Anindyajati et al. Sci Pharm. 2016 Feb 14;84(1):89-101. "Plasmid Copy Number Determination by Quantitative Polymerase Chain Reaction."](https://www.ncbi.nlm.nih.gov/pubmed/27110501) | [Tab. 2. Plasmid Copy Number Determination by qPCR](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4839616/table/T2/)
 - [San Millan A et al. Antimicrob Agents Chemother. 2015;59(6):3335-41. "Small-plasmid-mediated antibiotic resistance is enhanced by increases in plasmid copy number and bacterial fitness."](https://www.ncbi.nlm.nih.gov/pubmed/25824216) | [FIG 5. Plasmid copy number and bacterial fitness enhance antibiotic resistance.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432117/figure/F5/)
 
-## rep
-
-https://www.ncbi.nlm.nih.gov/pubmed/21296948
-Appl Environ Microbiol. 2011 Apr;77(7):2522-6. 
-Phylogeny of replication initiator protein TrfA reveals a highly divergent clade of incompatibility group P1 plasmids.
-Stenger DC, Lee MW.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067460/
-Genes for four TrfA homologues are integrated into chromosomes of their respective hosts
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067460/table/t1/
-cNA, not applicable; integrated in host chromosome.
-
 ## resistance
 
 https://holtlab.net/tag/antibiotic-resistance/
@@ -856,9 +907,25 @@ New Delhi metallo-β-lactamase-1 (NDM-1)
 ### mcr-1
 Colistin resistance (mcr-1 gene)
 
+
+https://pubmed.ncbi.nlm.nih.gov/29563494/
+Nat Commun
+. 2018 Mar 21;9(1):1179. doi: 10.1038/s41467-018-03205-z.
+The global distribution and spread of the mobilized colistin resistance gene mcr-1
+Ruobing Wang 1, Lucy van Dorp 2, Liam P Shaw 2, Phelim Bradley 3, Qi Wang 1, Xiaojuan Wang 1, Longyang Jin 1, Qing Zhang 4, Yuqing Liu 4, Adrien Rieux 5, Thamarai Dorai-Schneiders 6, Lucy Anne Weinert 7, Zamin Iqbal 3 8, Xavier Didelot 9, Hui Wang 10, Francois Balloux 11
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5862964/
+https://www.nature.com/articles/s41467-018-03205-z
+
+
+
+
+
 https://www.ncbi.nlm.nih.gov/pubmed/28507118
 Antimicrob Agents Chemother. 2017 May 15. pii: AAC.00404-17.
 Colistin resistance in carbapenem-resistant Klebsiella pneumoniae mediated by chromosomal integration of plasmid DNA.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5527652/
+https://aac.asm.org/content/61/8/e00404-17.long
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/28487432
 MBio. 2017 May 9;8(3). pii: e00625-17. 
@@ -880,6 +947,8 @@ Dissemination and Mechanism for the MCR-1 Colistin Resistance.
 
 ### IncP Colistin
 
+### Zhao_2017_IncP_mcr-1
+
 https://www.ncbi.nlm.nih.gov/pubmed/27895009
 Antimicrob Agents Chemother. 2017 Jan 24;61(2). pii: e02229-16. doi: 10.1128/AAC.02229-16. Print 2017 Feb.
 IncP Plasmid Carrying Colistin Resistance Gene mcr-1 in Klebsiella pneumoniae from Hospital Sewage.
@@ -896,27 +965,79 @@ Klebsiella pneumoniae strain WCHKP1511 plasmid pMCR_1511, complete sequence
 https://www.ncbi.nlm.nih.gov/nuccore/KP324830
 Escherichia coli isolate FP671 plasmid pHNFP671, complete sequence
 
-### IncP
+## IncP1
 
 https://www.ncbi.nlm.nih.gov/pubmed/28264851
 Antimicrob Agents Chemother. 2017 Apr 24;61(5).
 MCR-1.6, a New MCR Variant Carried by an IncP Plasmid in a Colistin-Resistant Salmonella enterica Serovar Typhimurium Isolate from a Healthy Individual.
 Lu X1, Hu Y2, Luo M3, Zhou H1, Wang X1,4, Du Y1, Li Z1, Xu J4, Zhu B5, Xu X6, Kan B7.
+
 https://www.ncbi.nlm.nih.gov/nuccore/KY352406
+Salmonella enterica subsp. enterica serovar Typhimurium strain YL14P053 plasmid pMCR16_P053, complete sequence
+LOCUS       KY352406               47824 bp    DNA     linear   BCT 14-FEB-2017
+
+
+https://pubmed.ncbi.nlm.nih.gov/21468020/
+Nat Commun
+. 2011;2:268. doi: 10.1038/ncomms1267. Epub 2011 Apr 5.
+The IncP-1 plasmid backbone adapts to different host bacterial species and evolves through homologous recombination
+Peter Norberg 1, Maria Bergström, Vinay Jethava, Devdatt Dubhashi, Malte Hermansson
+
+### Pachulec_2010
+
+https://pubmed.ncbi.nlm.nih.gov/20376355/
+PLoS One
+. 2010 Apr 1;5(4):e9962. doi: 10.1371/journal.pone.0009962.
+Conjugative plasmids of Neisseria gonorrhoeae
+Emilia Pachulec 1, Chris van der Does
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/
+Figure 3
+Phylogenetic analysis of genes of different IncP1 plasmids.
+
+
+
+### IncQ
+https://www.ncbi.nlm.nih.gov/pubmed/11729261
+Microbiol Mol Biol Rev. 2001 Dec;65(4):481-96, table of contents.
+Comparative biology of IncQ and IncQ-like plasmids.
+Rawlings DE1, Tietze E.
+
 
 ### Top EM
+
+### Brown_2013
 
 https://www.ncbi.nlm.nih.gov/pubmed/24096417
 Appl Environ Microbiol. 2013 Dec;79(24):7684-95.
 Diverse broad-host-range plasmids from freshwater carry few accessory genes.
 Brown CJ1, Sen D, Yano H, Bauer ML, Rogers LM, Van der Auwera GA, Top EM.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/table/T2/
 
+Table 2
+General features of completely sequenced plasmids
+dPlasmids pDS1 and pDS2 were transferable into E. coli but could not be transferred to P. putida, C. pinatubonensis, or S. meliloti.
+
+A phylogeny inferred from the trfA gene showed that pDS1 is distinct from other known subgroups including the new IncP-1ζ plasmids isolated from marine biofilms (57) (Fig. 4). Surprisingly, unlike most other IncP-1 plasmids, pDS1 could not be transferred to P. putida or C. pinatubonensis (Table 2). To verify the placement of pDS1 in the IncP-1 group, an incompatibility assay was performed. The marked plasmid pDS1T was introduced into E. coli DH10B(pQKH54) by conjugation, and loss of pQKH54 was monitored when we selected for the incoming plasmid only. Nearly 80% of the clones tested had lost pQKH54 by day 1, in contrast to only a 16% loss of pQKH54 in a separate stability assay. This indicates that pDS1T is incompatible with IncP-1 plasmids and can be classified as an IncP-1 plasmid. We therefore propose the new subgroup IncP-1η for pDS1.
+
+The narrow host range of the IncP-1η plasmid pDS1 was unexpected, given that most IncP-1-like plasmids have a broad host range. A preliminary plasmid genomic signature analysis suggested a signature that is quite different from the other IncP-1 plasmids captured in this study (H. Suzuki, personal communication). As pDS1 transferred very well between E. coli strains, the plasmid's transfer system seems intact. Since the molecular basis of the apparent narrow host range of this IncP-1η plasmid is of great interest, a detailed host range investigation will be the subject of a future study, combining experimental host range testing with a plasmid genomic signature analysis to assess its potential host range (81).
+
+
+### Sen_2013
 https://www.ncbi.nlm.nih.gov/pubmed/22936717
 Mol Biol Evol. 2013 Jan;30(1):154-66. doi: 10.1093/molbev/mss210. Epub 2012 Aug 30.
 Inferring the evolutionary history of IncP-1 plasmids despite incongruence among backbone gene trees.
 Sen D1, Brown CJ, Top EM, Sullivan J.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F1/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/
+Nucleotide Sequence Alignments and Model Selection
+The amino acid sequences of each gene were aligned with ClustalX (Thompson et al. 2002). Tranalign (Rice et al. 2000) was used to align the nucleotide sequences of each gene guided by the aligned amino acid sequences. 
+
+Fig. 2.
+Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: supported by 46% of gene trees, namely, those of trfA2, trbA, trbC, trbG, traG, traH, traI, kfrA, kfrB, kfrC, korB, korA, and kleE. (B) Topology 2: supported by gene trees of trbD, trbK, and traJ. (C) Topology 3: supported by gene trees of trbF, trbI, and traE. (D) Topology 4: supported by gene trees of korC and klcA. Trees were rooted using IncP-1γ as outgroup.
+
+Fig. 3.
+ML tree of concatenated data estimated from a partitioned analysis based on codon position. Nodal support is shown as nonparametric ML bootstrap values. The tree was rooted using IncP-1γ as outgroup.
 
 ![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/figure/mss210-F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f1p.jpg)
 
@@ -950,13 +1071,6 @@ Schlüter A1, Szczepanowski R, Pühler A, Top EM.
 https://academic.oup.com/femsre/article/31/4/449/2399130
 Figure 2
 Modular structure of completely sequenced IncP-1 plasmids.
-
-
-### IncQ
-https://www.ncbi.nlm.nih.gov/pubmed/11729261
-Microbiol Mol Biol Rev. 2001 Dec;65(4):481-96, table of contents.
-Comparative biology of IncQ and IncQ-like plasmids.
-Rawlings DE1, Tietze E.
 
 
 ### HGT
