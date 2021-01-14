@@ -21,16 +21,10 @@
 - [MOB](#mob)
 - [rep](#rep)
 
-
-
-
 ----------
 
 
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.rRNA.md
-
-https://link.springer.com/chapter/10.1007/978-981-13-3411-5_6
-Shintani M., Suzuki H. (2019) Plasmids and Their Hosts. In: Nishida H., Oshima T. (eds) DNA Traffic in the Environment. Springer, Singapore
 
 
 
@@ -42,6 +36,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/30619542
 Comput Struct Biotechnol J. 2018 Dec 15;17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
 Reconsidering plasmid maintenance factors for computational plasmid design.
 Yano H, Shintani M, Tomita M, Suzuki H, Oshima T.
+https://www.sciencedirect.com/science/article/pii/S2001037018301685
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
 
 
@@ -280,6 +275,10 @@ PCR-based replicon typing (PBRT) or relaxase typing. Currently, there are 28 kno
 ### Shintani
 新谷 政己
 
+https://link.springer.com/chapter/10.1007/978-981-13-3411-5_6
+Shintani M., Suzuki H. (2019) Plasmids and Their Hosts. In: Nishida H., Oshima T. (eds) DNA Traffic in the Environment. Springer, Singapore
+
+
 https://tdb.shizuoka.ac.jp/RDB/public/Default2.aspx?id=11068&l=0&t=21
 静岡大学：教員データベース - 新谷 政己 （SHINTANI Masaki）
 [37]. 新規プラスミドグループPromA群に属するGC含量の異なるプラスミドの宿主域比較
@@ -336,6 +335,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/25873913
 Front Microbiol. 2015 Mar 31;6:242. doi: 10.3389/fmicb.2015.00242. eCollection 2015.
 Genomics of microbial plasmids: classification and identification based on replication and transfer systems and host taxonomy.
 Shintani M1, Sanchez ZK2, Kimbara K2.
+https://www.frontiersin.org/articles/10.3389/fmicb.2015.00242/full
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4379921/
 
 2015-03
