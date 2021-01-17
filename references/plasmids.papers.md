@@ -21,10 +21,12 @@
 - [MOB](#mob)
 - [rep](#rep)
 
+
 ----------
 
 
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.rRNA.md
+
 
 
 
@@ -178,13 +180,8 @@ Neighbor-joining phylogenetic trees of sequenced IncP-7 plasmids.
 ----------
 ## MOB
 
-https://www.ncbi.nlm.nih.gov/pubmed/20805406
-Microbiol Mol Biol Rev. 2010 Sep;74(3):434-52. doi: 10.1128/MMBR.00020-10.
-Mobility of plasmids.
-Smillie C1, Garcillán-Barcia MP, Francia MV, Rocha EP, de la Cruz F.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2937521/
 
-
+### 2019
 
 https://pubmed.ncbi.nlm.nih.gov/30718882/
 Nat Biotechnol
@@ -212,6 +209,33 @@ Relaxases (see [67] for a description of each family, except MOBB, and MOBT): MO
 
 
 
+### Smillie_2010
+
+https://www.ncbi.nlm.nih.gov/pubmed/20805406
+Microbiol Mol Biol Rev. 2010 Sep;74(3):434-52. doi: 10.1128/MMBR.00020-10.
+Mobility of plasmids.
+Smillie C1, Garcillán-Barcia MP, Francia MV, Rocha EP, de la Cruz F.
+https://mmbr.asm.org/content/74/3/434.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2937521/
+
+### Francia_2004
+
+https://pubmed.ncbi.nlm.nih.gov/14975531/
+Review FEMS Microbiol Rev
+. 2004 Feb;28(1):79-100. doi: 10.1016/j.femsre.2003.09.001.
+A classification scheme for mobilization regions of bacterial plasmids
+M Victoria Francia 1, Athanasia Varsaki, M Pilar Garcillán-Barcia, Amparo Latorre, Constantin Drainas, Fernando de la Cruz
+https://onlinelibrary.wiley.com/doi/abs/10.1016/j.femsre.2003.09.001?sid=nlm%3Apubmed
+https://academic.oup.com/femsre/article/28/1/79/635761
+
+### Garcillan-Barcia_2009
+
+https://pubmed.ncbi.nlm.nih.gov/19396961/
+Review FEMS Microbiol Rev
+. 2009 May;33(3):657-87. doi: 10.1111/j.1574-6976.2009.00168.x.
+The diversity of conjugative relaxases and its application in plasmid classification
+María Pilar Garcillán-Barcia 1, María Victoria Francia, Fernando de la Cruz
+https://academic.oup.com/femsre/article/33/3/657/591359
 
 
 ----------
