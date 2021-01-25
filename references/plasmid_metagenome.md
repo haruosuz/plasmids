@@ -15,6 +15,18 @@
 
 ----------
 
+### Orlek_2017_Review
+
+review
+https://pubmed.ncbi.nlm.nih.gov/28232822/
+Front Microbiol
+. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
+Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology
+Alex Orlek 1, Nicole Stoesser 2, Muna F Anjum 3, Michel Doumith 4, Matthew J Ellington 5, Tim Peto 1, Derrick Crook 1, Neil Woodford 5, A Sarah Walker 1, Hang Phan 1, Anna E Sheppard 1
+https://www.frontiersin.org/articles/10.3389/fmicb.2017.00182/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
+This review focuses on WGS datasets from cultured rather than metagenomic samples; for the latter, see recent reviews (Jørgensen et al., 2014; Martínez et al., 2016).
+
 ### Martinez_2017
 
 https://pubmed.ncbi.nlm.nih.gov/27861983/
