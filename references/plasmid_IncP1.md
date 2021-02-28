@@ -202,6 +202,49 @@ ML tree of concatenated data estimated from a partitioned analysis based on codo
 
 ## 2011
 
+### Norberg_2011
+
+https://www.ncbi.nlm.nih.gov/nuccore/AY950444
+```
+LOCUS       AY950444               62689 bp    DNA     circular BCT 03-APR-2020
+DEFINITION  Plasmid pMCBF1, complete sequence.
+
+     CDS             complement(60971..62410)
+                     /gene="trfA"
+                     /note="initiation of replication"
+```
+
+https://www.ncbi.nlm.nih.gov/nuccore/EF107516
+```
+LOCUS       EF107516               66615 bp    DNA     circular ENV 14-JUL-2016
+DEFINITION  Uncultured bacterium pMCBF6 plasmid pMCBF6, complete sequence.
+
+     CDS             complement(64897..66336)
+                     /gene="trfA"
+                     /note="initiation of replication"
+```
+
+https://pubmed.ncbi.nlm.nih.gov/21468020/
+Nat Commun
+. 2011;2:268. doi: 10.1038/ncomms1267. Epub 2011 Apr 5.
+The IncP-1 plasmid backbone adapts to different host bacterial species and evolves through homologous recombination
+Peter Norberg 1, Maria Bergström, Vinay Jethava, Devdatt Dubhashi, Malte Hermansson
+https://www.nature.com/articles/ncomms1267
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104523/
+
+Phylogenetic analysis of the IncP-1 backbone
+A splits network (Fig. 2a) was initially constructed for 1,000 bootstrap replicates of the concatenated segments A1, A2, B and C of 24 IncP-1 plasmids (plasmid pEST4011 was excluded from the analysis as it lacks the genes in A2). The network, which presents a combinatorial generalization of phylogenetic trees, presented a star-like topology with seven main clades. pMCBF1 formed a novel clade, hereafter called ζ. As visible in a previous study26, the β-clade16 could be divided into two subclades, β-1 and β-2. Parallel edges in the phylogenetic network indicated, however, conflicting phylogenetic signals, possibly resulting from homologous recombination. In particular, in addition to plasmid pIJB1, plasmid pAOVO02 was a putative recombinant, not clustering to any of the above-described clades. A second network, excluding these two plasmids, was therefore constructed for comparison (Fig. 2b).
+
+Figure 2
+Phylogenetic analysis of the IncP-1 plasmid backbone.
+(a) Phylogenetic network based on the concatenated backbone regions A, B and C of 25 IncP-1 plasmids. The network displays seven main clades, including a novel clade containing the two newly sequenced plasmids pMCBF1 (in bold) and two sub-clades, β-1 and β-2, of the previously described β-clade. The putative recent recombinant plasmids pIJB1 and pAOVO02 are marked with red ellipses. (b) Phylogenetic network excluding the putative recent recombinant plasmids pIJB1 and pAOVO02.
+
+![](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3104523_ncomms1267-f2.jpg)
+
+
+Sequences of pMCBF1 and pMCBF6 were deposited in GenBank; Nucleotide Core #(accession AY950444 and EF107516).
+
+
 ### Stenger_2011
 
 https://www.ncbi.nlm.nih.gov/pubmed/21296948
@@ -222,7 +265,6 @@ Phylogeny of IncP-1 TrfA homologues. Presented is a neighbor joining tree (1,000
 ## 2011
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP002441
-
 ```
 LOCUS       CP002441               39054 bp    DNA     circular BCT 25-JUL-2016
 DEFINITION  Neisseria gonorrhoeae TCDC-NG08107 plasmid pNGTCDC08107, complete
@@ -396,6 +438,10 @@ DEFINITION  Sphingomonas sp. A1 plasmid pA1 DNA, complete sequence.
                      /codon_start=1
                      /transl_table=11
                      /product="Ssb"
+                     /protein_id="BAE19727.1"
+                     /translation="MSHNQFQFIGNLTRDTDVRHSENSVRAVFDLAVNRVWRDRAGEK
+                     KEQTDFFRIKSFAGLAENAGKYLGKGSKVFVQGRIEPTKFEKEGQTEYGFDFIADVIE
+                     YLDTKEPGSK"
 
 ```
 
