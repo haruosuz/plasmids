@@ -2,8 +2,8 @@
 
 **Table of Contents**
 - [unclassified](#unclassified)
+- [](#)
 - [updates](#updates)
-- [papers](#papers)
 [2020](#2020)
 [2019](#2019)
 [2013](#2013)
@@ -11,9 +11,12 @@
 [2010](#2010)
 [2007](#2007)
 [2006](#2006)
+- [](#)
+- [mob](#mob)
 - [chromosome](#chromosome)
 - [outgroup](#outgroup)
 - [non-IncP1](#non-IncP1)
+- [](#)
 
 ----------
 ## unclassified
@@ -193,10 +196,7 @@ Figure 3
 Phylogenetic analysis of genes of different IncP1 plasmids.
 The TraI (A), TrbE (B), TraG (C) and TrfA (D) proteins of the neisserial conjugative plasmids and of representative members of different IncP1 plasmid subfamilies (α, RP4; β, pADP-1; γ, QKH54; δ, pEST4011 and ε, pKJK5) representative for different regions of the conjugative plasmids were used to create phylogenetic trees of the IncP1 plasmid family. (For details see materials and methods).
 
-<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg" width=50%>
 <img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg" width=25%>
-
-
 
 ----------
 
@@ -268,6 +268,36 @@ Plasmid
 Sequence and analysis of the 46.6-kb plasmid pA1 from Sphingomonas sp. A1 that corresponds to the typical IncP-1beta plasmid backbone without any accessory gene
 Karen Mine Harada 1, Yuji Aso, Wataru Hashimoto, Bunzo Mikami, Kousaku Murata
 https://www.sciencedirect.com/science/article/abs/pii/S0147619X05001289?via%3Dihub
+
+----------
+## mob
+
+### Garcillan-Barcia_2009
+
+https://pubmed.ncbi.nlm.nih.gov/19396961/
+Review FEMS Microbiol Rev
+. 2009 May;33(3):657-87. doi: 10.1111/j.1574-6976.2009.00168.x.
+The diversity of conjugative relaxases and its application in plasmid classification
+María Pilar Garcillán-Barcia 1, María Victoria Francia, Fernando de la Cruz
+https://academic.oup.com/femsre/article/33/3/657/591359
+
+The MOBP cluster
+A PSI-BLAST search using TraI_RP4 as a query and a score threshold P<10−4 converged after 14 iterations and retrieved 259 relaxase sequences (Tables S4–S6). 
+
+<img alt="" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsre/33/3/10.1111_j.1574-6976.2009.00168.x/1/m_FMR_168_f12.jpeg?Expires=1616421721&Signature=EvcURjpPvEXUliFwoJo4QZiA6yTlbsQUmv03yqtXyjSUzFlofuW3di4fAk8Wbj5eXDhEtNpL0S0eLzSbrt4L-rfbmjPJlvef3b9P6-KcjKp3UUTMSbOcXcSgESN4kpC2R3IGTffeGLrJo5o~d2EuDH-jZdX1KzJJhhRMVNLKVmblXd7LcltzQF9NPYmnSb4stsDMTG-Vo9P2Hk2hERWNpjJ9GU56kFtONrwOLXtpCaZLaH9Z7GTh0ax6sDzpG55YsyqPCmSQQfv60dYT-DLQU2Q4aggcEbaDiYjk5NBfMW2xAfLYm96AzN0fBxd~g~cys6bQ1CoIc3eIw8uCQ3MNeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width=25%>
+
+Figure 12
+
+Phylogeny tree of MOBP1 relaxases. Codes for underlines, asterisks, boxes, gene synteny and vertical bars are the same as in Fig. 2. Azosp, Azoarcus sp. EbN1; Niteu, Nitrosomonas eutropha; Desps=Desulfotalea psychrophila; Nitmu=Nitrosospira multiformis.
+
+Clade MOBP11 is composed exclusively of conjugative plasmids and has RP4 (IncP1α) and R751 (IncP1β) as prototypes. In fact, the IncP cluster (Heuer et al., 2004; Haines et al., 2006b; Bahl et al., 2007) is broad, and includes probably all plasmids listed in Fig. 12 from RP4 down to ‘plasmid 59 kb’. Thus, the IncP group is a deep, well-populated clade that contains a large number of conjugative plasmids. We propose to call it MOBP111. Because this is probably the most thoroughly analysed plasmid incompatibility group, it serves to underline the spread we can expect of an Inc group when it is analysed exhaustively. Although many other Inc groups are only represented by a single member in this work, each Inc group might be expected to encompass a clade that can reach the extension of IncP or IncF groups.
+
+
+The conserved motifs in MOBP1 are shown in Fig. 13. As can be seen, MOBP1 relaxases share the classical motifs of MOBF and MOBQ relaxases. The most conspicuous is the 3H motif, which shows the signature H-x-(DE)-T-(DE)-x2-H-x-H-x3-N-x3-P. The argument about the acidic residue in motif II, which was invoked in section The MOBQ family, continues here because MOBP1 relaxases also contain a conserved D/E (E80 in TraI_RP4, signalled by a white arrowhead in Fig. 13) that could play the same role as D85 in TrwC_R388. Site-directed mutagenesis of TraI_RP4 (Pansegrau et al., 1994) defined the three sequence motifs in MOBP relaxases and identified one essential residue in each motif (Y22, S74 and H116). E80 was not tested and, surprisingly, H109 or H118 showed to be nonessential (Fig. 13).
+
+Figure 13
+
+Conserved sequence motifs in the MOBP1 subclades. Vertical black arrowheads and black circles point to residues configuring the catalytic centre. Mutations in TraI_RP4 affecting those residues either affected conjugation (black arrowheads) or did not (black circles). The vertical white arrowhead points to E79 in TraI_RP4, another potential key residue (see The MOBP cluster). *The N-terminal sequences of these relaxases were wrongly annotated (by comparison with homologous relaxases). Visual inspection allowed us to realize that if the annotated CDSs were extended upstream (pRAS3: −57 codons; pTF-FC2: −41 codons; pPNAP06: −13 codons), motif I was found. Azosp, Azoarcus sp. EbN1; Niteu, Nitrosomonas eutropha C91; Desps, Desulfotalea psychrophila LSv54.
 
 
 
