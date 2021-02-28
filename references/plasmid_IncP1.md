@@ -25,22 +25,28 @@ https://en.wikipedia.org/wiki/Plasmid-mediated_resistance
 
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP050254
+```
 LOCUS       CP050254               32446 bp    DNA     circular BCT 25-MAR-2020
 DEFINITION  Orbus sp. IPMB12 plasmid pIPMB12, complete sequence.
 
+     CDS             complement(30709..31527)
+
+                     /product="TrfA protein"
+```
 
 
 <img alt="" src="" width=50%>
 <img alt="" src="" width=25%>
 ![]()
 
+```
+
+```
 
 ----------
 ## updates
 
 ## 2020
-
-
 
 ----------
 
@@ -54,13 +60,22 @@ KP324830
 KX377410
 
 https://www.ncbi.nlm.nih.gov/nuccore/KP324830
+```
 LOCUS       KP324830               82807 bp    DNA     circular BCT 06-APR-2020
 DEFINITION  Escherichia coli isolate FP671 plasmid pHNFP671, complete sequence.
 
+     CDS             36412..37290
+                     /gene="trfA"
+```
+
 https://www.ncbi.nlm.nih.gov/nuccore/KX377410
+```
 LOCUS       KX377410               57278 bp    DNA     circular BCT 06-APR-2020
 DEFINITION  Klebsiella pneumoniae strain WCHKP1511 plasmid pMCR_1511, complete
-            sequence.
+
+     CDS             complement(39191..40069)
+                     /gene="trfA"
+```
 
 https://pubmed.ncbi.nlm.nih.gov/27895009/
 Antimicrob Agents Chemother
@@ -76,8 +91,52 @@ pMCR_1511 and pHNFP671 belonged to a new IncP-1 clade (see Fig. S1 in the supple
 
 Sequencing reads and the whole-genome shotgun sequencing project of K. pneumoniae strain WCHKP1511 have been deposited into DDBJ/EMBL/GenBank under accession numbers SRR3170679 and LSMF00000000, respectively. The sequence of pMCR_1511 has been deposited into DDBJ/EMBL/GenBank under accession number KX377410.
 
+## 2015
+
+### Robson_2015
+
+IncP1-γ
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP010418
+```
+LOCUS       CP010418               62783 bp    DNA     circular BCT 02-JUL-2015
+DEFINITION  Azotobacter chroococcum NCIMB 8003 plasmid pAcX50c, complete
+
+     CDS             724..1809
+                     /gene="trfA"
+```
+
+https://pubmed.ncbi.nlm.nih.gov/26061173/
+PLoS One
+. 2015 Jun 10;10(6):e0127997. doi: 10.1371/journal.pone.0127997. eCollection 2015.
+Azotobacter Genomes: The Genome of Azotobacter chroococcum NCIMB 8003 (ATCC 4412)
+Robert L Robson 1, Robert Jones 2, R Moyra Robson 1, Ariel Schwartz 3, Toby H Richardson 3
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127997
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4465626/
+
+Plasmid pAcX50c
+
+It appears that pACX50c most closely matches plasmids isolated from Pseudomonas species amongst the γ-proteobacteria including pQKH54 [108]. In our earlier work pACX50c was apparently cured when the IncP-1 plasmid RP4 was introduced and stably maintained in the strain by selecting for the antibiotic resistance it encodes [40]. This would appear to provide further evidence that pACX50c belongs to the IncP-1 incompatibility group. 
+
+One of the plasmids in Ac-8003, pAcX50c, belongs to the IncP-1 incompatability group and the genomic analysis shows it contains tra and trb gene clusters found in the IncP1-γ family of plasmids from Pseudomonads.
+
 
 ## 2013
+
+### Andersen_2013
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP006788
+```
+LOCUS       CP006788               55956 bp    DNA     circular BCT 26-JUL-2016
+DEFINITION  Escherichia coli JJ1886 plasmid pJJ1886_4, complete sequence.
+```
+
+https://pubmed.ncbi.nlm.nih.gov/24309736/
+Genome Announc
+. 2013 Dec 5;1(6):e00988-13. doi: 10.1128/genomeA.00988-13.
+Complete Genome Sequence of the Epidemic and Highly Virulent CTX-M-15-Producing H30-Rx Subclone of Escherichia coli ST131
+Paal S Andersen 1, Marc Stegger, Maliha Aziz, Tania Contente-Cuomo, Henry S Gibbons, Paul Keim, Evgeni V Sokurenko, James R Johnson, Lance B Price
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3853059/
 
 
 ### Brown_2013
@@ -160,20 +219,47 @@ Phylogeny of IncP-1 TrfA homologues. Presented is a neighbor joining tree (1,000
 
 ----------
 
+## 2011
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP002441
+
+```
+LOCUS       CP002441               39054 bp    DNA     circular BCT 25-JUL-2016
+DEFINITION  Neisseria gonorrhoeae TCDC-NG08107 plasmid pNGTCDC08107, complete
+
+     CDS             31659..32537
+
+                     /product="TrfA"
+```
+
+https://pubmed.ncbi.nlm.nih.gov/21257765/
+J Bacteriol
+. 2011 Apr;193(7):1788-9. doi: 10.1128/JB.00007-11. Epub 2011 Jan 21.
+Draft genome sequence of a dominant, multidrug-resistant Neisseria gonorrhoeae strain, TCDC-NG08107, from a sexual group at high risk of acquiring human immunodeficiency virus infection and syphilis
+Chun-Chen Chen 1, Ko-Chiang Hsia, Chung-Ter Huang, Wing-Wai Wong, Muh-Yong Yen, Lan-Hui Li, Kun-Yen Lin, Kuo-Wei Chen, Shu-Ying Li
+https://jb.asm.org/content/193/7/1788.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067668/
+We also isolated a 39,054-bp circular plasmid, pNGTCDC08107, whose sequence was ∼3 kb shorter than but nearly identical to that of pEP5289 (GenBank accession no. GU479466), which has a Dutch-type backbone (7).
+
+----------
+
 ## 2010
 
 ### Pachulec_2010
 
 GU479466
-
 pEP5289
 
 https://www.ncbi.nlm.nih.gov/nuccore/GU479466
+```
 LOCUS       GU479466               42004 bp    DNA     circular BCT 06-APR-2020
 DEFINITION  Neisseria gonorrhoeae strain 5289 plasmid pEP5289, complete
-            sequence.
+
+     CDS             27050..27928
+                     /note="oriV activator protein; plasmid replication"
 
                      /product="TrfA"
+```
 
 https://pubmed.ncbi.nlm.nih.gov/20376355/
 PLoS One
@@ -203,6 +289,13 @@ The TraI (A), TrbE (B), TraG (C) and TrfA (D) proteins of the neisserial conjuga
 # <img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg" width=25%>
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg)
 
+Figure 4
+Comparison of the oriT sequences of different members of the IncP1 subfamilies.
+
+Figure 5
+Comparison of the oriV iterons of different members of the IncP1 subfamilies.
+
+
 
 ----------
 
@@ -211,10 +304,12 @@ The TraI (A), TrbE (B), TraG (C) and TrfA (D) proteins of the neisserial conjuga
 FP475957
 
 https://www.ncbi.nlm.nih.gov/nuccore/FP475957
+```
 LOCUS       FP475957               46756 bp    DNA     circular BCT 25-JUL-2016
 DEFINITION  Thiomonas sp. str. 3As plasmid pTHI, complete genome.
 
                      /product="putative TrfA protein"
+```
 
 https://pubmed.ncbi.nlm.nih.gov/20195515/
 PLoS Genet
@@ -233,29 +328,6 @@ The EMBL (http://www.ebi.ac.uk/embl) accession numbers for the genome of Thiomon
 
 ## 2007
 
-### Stein_2007
-
-CP000451
-
-https://www.ncbi.nlm.nih.gov/nuccore/CP000451
-LOCUS       CP000451               65132 bp    DNA     circular BCT 27-SEP-2019
-DEFINITION  Nitrosomonas eutropha C91 plasmid p1, complete sequence.
-
-                     /product="TrfA family protein"
-
-https://pubmed.ncbi.nlm.nih.gov/17991028/
-Environ Microbiol
-. 2007 Dec;9(12):2993-3007. doi: 10.1111/j.1462-2920.2007.01409.x.
-Whole-genome analysis of the ammonia-oxidizing bacterium, Nitrosomonas eutropha C91: implications for niche adaptation
-Lisa Y Stein 1, Daniel J Arp, Paul M Berube, Patrick S G Chain, Loren Hauser, Mike S M Jetten, Martin G Klotz, Frank W Larimer, Jeanette M Norton, Huub J M Op den Camp, Maria Shin, Xueming Wei
-https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1462-2920.2007.01409.x
-
-Multiple gene‐shuffling events are apparent, including mobilized and replicated transposition, as well as plasmid or phage integration events into the 2.66 Mbp chromosome and two plasmids (65 and 56 kbp) of N. eutropha C91. A 117 kbp genomic island encodes multiple genes for heavy metal resistance, including clusters for copper and mercury transport, which are absent from the genomes of other ammonia‐oxidizing bacteria (AOB). 
-
-The N. eutropha C91 genome is composed of a single circular chromosome (2 661 057 bp, 48.5% G + C content) and two large plasmids, pNeutP1 (65 132 bp, 49.8% G + C) and pNeutP2 (55 635 bp, 49.7% G + C) (Table 1). The two plasmids each contain an identical 11 414 bp (56.1% G + C) transposon (Tn_Neut) flanked by short inverted repeats (Table 2).
-
-The chromosome and the 65 and 56 kbp plasmids of N. eutropha (pNeutP1 and pNeutP2, respectively) can be found in the GenBank/EMBL/DDBJ database under accession numbers CP000450, CP000451 and CP000452 respectively.
-
 ----------
 
 ## 2006
@@ -265,8 +337,67 @@ The chromosome and the 65 and 56 kbp plasmids of N. eutropha (pNeutP1 and pN
 AB231906 pA1
 
 https://www.ncbi.nlm.nih.gov/nuccore/AB231906
+```
 LOCUS       AB231906               46557 bp    DNA     circular BCT 26-JUL-2016
 DEFINITION  Sphingomonas sp. A1 plasmid pA1 DNA, complete sequence.
+
+     protein_bind    29970..29984
+                     /bound_moiety="TrfA binding"
+     protein_bind    complement(30481..30495)
+                     /bound_moiety="TrfA binding"
+     protein_bind    complement(30504..30518)
+                     /bound_moiety="TrfA binding"
+     protein_bind    complement(30526..30540)
+                     /bound_moiety="TrfA binding"
+     protein_bind    complement(30549..30563)
+                     /bound_moiety="TrfA binding"
+     protein_bind    complement(30572..30586)
+                     /bound_moiety="TrfA binding"
+     protein_bind    complement(30613..30635)
+                     /bound_moiety="DnaA binding"
+     protein_bind    complement(30709..30723)
+                     /bound_moiety="TrfA binding"
+     protein_bind    complement(30743..30757)
+                     /bound_moiety="TrfA binding"
+     protein_bind    complement(31034..31048)
+                     /bound_moiety="TrfA binding"
+     repeat_region   complement(31061..31080)
+                     /note="palindromic sequence"
+     repeat_region   complement(31104..31123)
+                     /note="palindromic sequence"
+     repeat_region   complement(31136..31155)
+                     /note="palindromic sequence"
+     repeat_region   complement(31182..31201)
+                     /note="palindromic sequence"
+     repeat_region   complement(31241..31260)
+                     /note="palindromic sequence"
+     gene            complement(31316..32542)
+                     /gene="trfA"
+     CDS             complement(31316..32542)
+                     /gene="trfA"
+                     /function="Replication initiation protein"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TrfA"
+                     /protein_id="BAE19726.2"
+                     /translation="MPDSFDEQGYRRKLIEGGLSEADATALARRYAAERTAQAGTAGG
+                     AFRPAGSLFELPDGPAAPEPPPPPPSAAVVRSEQMAAESAELARTMGLPPEPRTVVNA
+                     LAEKVNGVTTERRTQQMATKENDREAGRRCRRAGRPGQPGQAGRLAQAHEAADQGHAA
+                     FLVRPRAVARPHARDAQRLRPVGDLHDQEQEGATRPPCSARRSTTISKDVEITVTGVE
+                     LRADSDELVFAQVLEYAKRTPLGEPVTFTFYEICQDLGWSINGRYYKQAEDCLSRLQA
+                     SAMQFSSQRLGRLESVSLIRRFRILDRGKRTSRCQVEIDTEMVVLFAGDHYTKFVWEK
+                     YRKLSPTARRMFDYFATHREPYPLKLETFRLMCGSDSTRPKKWREQVSEACDELRENG
+                     LVDSAWINDDLVHCKR"
+     gene            complement(32590..32928)
+                     /gene="ssb"
+     CDS             complement(32590..32928)
+                     /gene="ssb"
+                     /function="Single-strand binding protein"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Ssb"
+
+```
 
 https://pubmed.ncbi.nlm.nih.gov/16445980/
 Plasmid
@@ -315,12 +446,16 @@ Conserved sequence motifs in the MOBP1 subclades. Vertical black arrowheads and 
 ### Jackson_2020
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP060709
+```
 LOCUS       CP060709             4825686 bp    DNA     circular BCT 31-AUG-2020
 DEFINITION  Escherichia coli strain ST18 chromosome, complete genome.
+```
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP060708
+```
 LOCUS       CP060708             4686434 bp    DNA     circular BCT 31-AUG-2020
 DEFINITION  Escherichia coli strain MFDpir chromosome, complete genome.
+```
 
 https://pubmed.ncbi.nlm.nih.gov/33154010/
 Microbiol Resour Announc
@@ -345,13 +480,43 @@ The complete genome sequences have been deposited in NCBI GenBank with accession
 Not IncP-1?
 
 ----------
-CR522871
+
+### Stein_2007
+
+CP000451
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP000451
+```
+LOCUS       CP000451               65132 bp    DNA     circular BCT 27-SEP-2019
+DEFINITION  Nitrosomonas eutropha C91 plasmid p1, complete sequence.
+
+                     /product="TrfA family protein"
+```
+
+https://pubmed.ncbi.nlm.nih.gov/17991028/
+Environ Microbiol
+. 2007 Dec;9(12):2993-3007. doi: 10.1111/j.1462-2920.2007.01409.x.
+Whole-genome analysis of the ammonia-oxidizing bacterium, Nitrosomonas eutropha C91: implications for niche adaptation
+Lisa Y Stein 1, Daniel J Arp, Paul M Berube, Patrick S G Chain, Loren Hauser, Mike S M Jetten, Martin G Klotz, Frank W Larimer, Jeanette M Norton, Huub J M Op den Camp, Maria Shin, Xueming Wei
+https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1462-2920.2007.01409.x
+
+Multiple gene‐shuffling events are apparent, including mobilized and replicated transposition, as well as plasmid or phage integration events into the 2.66 Mbp chromosome and two plasmids (65 and 56 kbp) of N. eutropha C91. A 117 kbp genomic island encodes multiple genes for heavy metal resistance, including clusters for copper and mercury transport, which are absent from the genomes of other ammonia‐oxidizing bacteria (AOB). 
+
+The N. eutropha C91 genome is composed of a single circular chromosome (2 661 057 bp, 48.5% G + C content) and two large plasmids, pNeutP1 (65 132 bp, 49.8% G + C) and pNeutP2 (55 635 bp, 49.7% G + C) (Table 1). The two plasmids each contain an identical 11 414 bp (56.1% G + C) transposon (Tn_Neut) flanked by short inverted repeats (Table 2).
+
+The chromosome and the 65 and 56 kbp plasmids of N. eutropha (pNeutP1 and pNeutP2, respectively) can be found in the GenBank/EMBL/DDBJ database under accession numbers CP000450, CP000451 and CP000452 respectively.
+
+----------
 
 ### Rabus_2004
 
+CR522871
+
 https://www.ncbi.nlm.nih.gov/nuccore/CR522871
+```
 LOCUS       CR522871              121587 bp    DNA     circular BCT 27-FEB-2015
 DEFINITION  Desulfotalea psychrophila LSv54, large plasmid.
+```
 
 https://pubmed.ncbi.nlm.nih.gov/15305914/
 Comparative Study Environ Microbiol
@@ -367,9 +532,53 @@ The G+C content of both plasmids is significantly lower than that of the chromos
 
 ----------
 
+### Yano
+
+総説
+https://www.ncbi.nlm.nih.gov/pubmed/30619542
+Comput Struct Biotechnol J. 2018 Dec 15;17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
+Reconsidering plasmid maintenance factors for computational plasmid design.
+Yano H, Shintani M, Tomita M, Suzuki H, Oshima T.
+https://www.sciencedirect.com/science/article/pii/S2001037018301685
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
+
+https://sites.google.com/view/hirokazuyano/koremadeno-yan-jiu
+Hirokazu Yano - これまでの研究 (in Japanese)
+
+薬剤耐性プラスミドの宿主適応
+
+本現象の背景にある分子機構を解明するため、ある宿主集団内で進化した進化型プラスミドの配列を決定したのち、進化型プラスミドを先祖型宿主に戻す実験を行ったところ、プラスミド存続性の向上がプラスミド の複製タンパク質（TrfA1）のN末の変異に依存していることがわかりました。このTrfAのN末は宿主のDnaBヘリカーゼと結合する部位であることが知られていました。生化学、分子遺伝学実験の結果から、プラスミ ドが宿主の中で複製できる場合、「宿主のDNAヘリカーゼとプラスミドとの相互作用の度合いが、プラスミドの細菌集団内での存続性を決める要因の一つ、フィットネス・コストの正体である」ことがわかりました（Yano et al., Mol. Microbiol. 2016)。
+
+タンパク質のN末の長さ多型の意義
+
+上記の進化実験では、複製開始タンパク質に集中的に変異が入りましたが、類似の変異がデータベースに登録されている他のプラスミドにも見つかることに研究の過程で気づきました。そこで、得られた変異体プラ スミドの表現型を様々な角度から解析することで、 プラスミドに見られる複製開始タンパク質遺伝子の5’-endの長さの多様性（in/del) が、genetic driftではなくトレード・オフの関係にある形質（この場合は水平伝播 と垂直伝播）に対するnatural selectionの結果として説明できるというアイデアを提案しました（Yano et al., J. Bacteriol. 2012)。TrfAのN末の多型のような長さ多型は他のタンパク質（遺伝子座）にも見かけられま す。他のタンパク質に関しても、N末の長さ多型にには何か重要な意味があるのではないでしょうか。
+
+https://pubmed.ncbi.nlm.nih.gov/22228734/
+J Bacteriol
+. 2012 Mar;194(6):1533-43. doi: 10.1128/JB.06395-11. Epub 2012 Jan 6.
+Roles of long and short replication initiation proteins in the fate of IncP-1 plasmids
+Hirokazu Yano 1, Gail E Deckert, Linda M Rogers, Eva M Top
+https://jb.asm.org/content/194/6/1533.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294859/
 
 
 
+----------
+
+
+
+
+
+<img alt="" src="" width=50%>
+<img alt="" src="" width=25%>
+![]()
+
+```
+
+```
+
+
+----------
 
 
 
