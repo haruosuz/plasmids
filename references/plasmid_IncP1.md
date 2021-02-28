@@ -239,8 +239,7 @@ Figure 2
 Phylogenetic analysis of the IncP-1 plasmid backbone.
 (a) Phylogenetic network based on the concatenated backbone regions A, B and C of 25 IncP-1 plasmids. The network displays seven main clades, including a novel clade containing the two newly sequenced plasmids pMCBF1 (in bold) and two sub-clades, β-1 and β-2, of the previously described β-clade. The putative recent recombinant plasmids pIJB1 and pAOVO02 are marked with red ellipses. (b) Phylogenetic network excluding the putative recent recombinant plasmids pIJB1 and pAOVO02.
 
-![](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3104523_ncomms1267-f2.jpg)
-
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104523/bin/ncomms1267-f2.jpg)
 
 Sequences of pMCBF1 and pMCBF6 were deposited in GenBank; Nucleotide Core #(accession AY950444 and EF107516).
 
