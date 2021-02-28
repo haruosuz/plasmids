@@ -83,7 +83,6 @@ Diverse broad-host-range plasmids from freshwater carry few accessory genes
 Celeste J Brown 1, Diya Sen, Hirokazu Yano, Matthew L Bauer, Linda M Rogers, Geraldine A Van der Auwera, Eva M Top
 https://aem.asm.org/content/79/24/7684.long
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/table/T2/
 
 Phylogenetic analysis of IncP-1 plasmids.
 The part of the trfA gene that is conserved among the IncP-1 plasmids was used to infer the phylogenetic relationship of pDS1 with the other IncP-1 subgroups. 
@@ -103,7 +102,7 @@ DISCUSSION
 
 The narrow host range of the IncP-1η plasmid pDS1 was unexpected, given that most IncP-1-like plasmids have a broad host range. A preliminary plasmid genomic signature analysis suggested a signature that is quite different from the other IncP-1 plasmids captured in this study (H. Suzuki, personal communication). As pDS1 transferred very well between E. coli strains, the plasmid's transfer system seems intact. Since the molecular basis of the apparent narrow host range of this IncP-1η plasmid is of great interest, a detailed host range investigation will be the subject of a future study, combining experimental host range testing with a plasmid genomic signature analysis to assess its potential host range (81).
 
-
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/bin/zam9991049450004.jpg)
 
 ### Sen_2013
 
@@ -121,8 +120,14 @@ The amino acid sequences of each gene were aligned with ClustalX (Thompson et al
 Fig. 2.
 Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: supported by 46% of gene trees, namely, those of trfA2, trbA, trbC, trbG, traG, traH, traI, kfrA, kfrB, kfrC, korB, korA, and kleE. (B) Topology 2: supported by gene trees of trbD, trbK, and traJ. (C) Topology 3: supported by gene trees of trbF, trbI, and traE. (D) Topology 4: supported by gene trees of korC and klcA. Trees were rooted using IncP-1γ as outgroup.
 
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg)
+
+For the concatenated tree (shown in fig. 3), individual genes were aligned and concatenated in the order in which they appear on IncP-1 plasmids: trfA2, trbA, trbB, trbC, trbD, trbF, trbG, trbI, trbJ, trbK, traD, traE, traF, traG, traH, traI, traJ, traK, traL, kfrC, kfrB, kfrA, korB, incC, korA, kleE, korC, and klcA (fig. 1). The concatenated tree had the same topology as topology 3 described (fig. 2C). It represents the null hypothesis that all genes have a single history (i.e., all gene trees are estimates of a single-gene tree) as would be the case in the absence of recombination, either within or among groups.
+
 Fig. 3.
 ML tree of concatenated data estimated from a partitioned analysis based on codon position. Nodal support is shown as nonparametric ML bootstrap values. The tree was rooted using IncP-1γ as outgroup.
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f3p.jpg)
 
 ----------
 
