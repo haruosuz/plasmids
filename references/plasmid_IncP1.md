@@ -27,6 +27,10 @@ DEFINITION  Orbus sp. IPMB12 plasmid pIPMB12, complete sequence.
 
 
 
+<img alt="" src="" width=50%>
+<img alt="" src="" width=25%>
+
+
 
 ----------
 ## updates
@@ -68,7 +72,6 @@ The backbone of pMCR_1511 was highly similar (99% identity) to that of plasmid p
 pMCR_1511 and pHNFP671 belonged to a new IncP-1 clade (see Fig. S1 in the supplemental material).
 
 Sequencing reads and the whole-genome shotgun sequencing project of K. pneumoniae strain WCHKP1511 have been deposited into DDBJ/EMBL/GenBank under accession numbers SRR3170679 and LSMF00000000, respectively. The sequence of pMCR_1511 has been deposited into DDBJ/EMBL/GenBank under accession number KX377410.
-
 
 
 ## 2013
@@ -127,7 +130,7 @@ For the concatenated tree (shown in fig. 3), individual genes were aligned and c
 Fig. 3.
 ML tree of concatenated data estimated from a partitioned analysis based on codon position. Nodal support is shown as nonparametric ML bootstrap values. The tree was rooted using IncP-1γ as outgroup.
 
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f3p.jpg)
+<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f3p.jpg" width=50%>
 
 ----------
 
@@ -190,7 +193,9 @@ Figure 3
 Phylogenetic analysis of genes of different IncP1 plasmids.
 The TraI (A), TrbE (B), TraG (C) and TrfA (D) proteins of the neisserial conjugative plasmids and of representative members of different IncP1 plasmid subfamilies (α, RP4; β, pADP-1; γ, QKH54; δ, pEST4011 and ε, pKJK5) representative for different regions of the conjugative plasmids were used to create phylogenetic trees of the IncP1 plasmid family. (For details see materials and methods).
 
-![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/figure/pone-0009962-g003/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg)
+<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg" width=50%>
+<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg" width=25%>
+
 
 
 ----------
