@@ -468,7 +468,7 @@ A PSI-BLAST search using TraI_RP4 as a query and a score threshold P<10−4 conv
 
 <img alt="" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsre/33/3/10.1111_j.1574-6976.2009.00168.x/1/m_FMR_168_f12.jpeg?Expires=1616421721&Signature=EvcURjpPvEXUliFwoJo4QZiA6yTlbsQUmv03yqtXyjSUzFlofuW3di4fAk8Wbj5eXDhEtNpL0S0eLzSbrt4L-rfbmjPJlvef3b9P6-KcjKp3UUTMSbOcXcSgESN4kpC2R3IGTffeGLrJo5o~d2EuDH-jZdX1KzJJhhRMVNLKVmblXd7LcltzQF9NPYmnSb4stsDMTG-Vo9P2Hk2hERWNpjJ9GU56kFtONrwOLXtpCaZLaH9Z7GTh0ax6sDzpG55YsyqPCmSQQfv60dYT-DLQU2Q4aggcEbaDiYjk5NBfMW2xAfLYm96AzN0fBxd~g~cys6bQ1CoIc3eIw8uCQ3MNeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width=25%>
 
-![]()
+![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsre/33/3/10.1111_j.1574-6976.2009.00168.x/1/m_FMR_168_f12.jpeg?Expires=1616421721&Signature=EvcURjpPvEXUliFwoJo4QZiA6yTlbsQUmv03yqtXyjSUzFlofuW3di4fAk8Wbj5eXDhEtNpL0S0eLzSbrt4L-rfbmjPJlvef3b9P6-KcjKp3UUTMSbOcXcSgESN4kpC2R3IGTffeGLrJo5o~d2EuDH-jZdX1KzJJhhRMVNLKVmblXd7LcltzQF9NPYmnSb4stsDMTG-Vo9P2Hk2hERWNpjJ9GU56kFtONrwOLXtpCaZLaH9Z7GTh0ax6sDzpG55YsyqPCmSQQfv60dYT-DLQU2Q4aggcEbaDiYjk5NBfMW2xAfLYm96AzN0fBxd~g~cys6bQ1CoIc3eIw8uCQ3MNeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 Figure 12
 
