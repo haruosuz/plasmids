@@ -16,7 +16,7 @@
 - [chromosome](#chromosome)
 - [outgroup](#outgroup)
 - [non-IncP1](#non-IncP1)
-- [](#)
+- [Yano](#yano)
 
 ----------
 ## unclassified
@@ -522,9 +522,19 @@ The complete genome sequences have been deposited in NCBI GenBank with accession
 ----------
 ## non-IncP1
 
-Not IncP-1?
+https://pubmed.ncbi.nlm.nih.gov/7646006/
+Comparative Study Appl Environ Microbiol
+. 1995 May;61(5):1691-8. doi: 10.1128/AEM.61.5.1691-1698.1995.
+Characterization of diverse 2,4-dichlorophenoxyacetic acid-degradative plasmids isolated from soil by complementation
+E M Top 1, W E Holben, L J Forney
+https://aem.asm.org/content/61/5/1691.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC167431/
+https://aem.asm.org/content/aem/61/5/1691.full.pdf
 
-----------
+Plasmid pEMT1 obtained in this study is a non-IncP1 plasmid that has catabolic genes that show high degrees of homology to the tfdABCDEFR/S pathways of the IncP1 plasmid pJP4.
+
+Both IncP1 and non-IncP1 plasmids encoding 2,4-D degradation were present in the soil samples. The incompatibility group designation of several 2,4-D-degradative plasmids described in the literature is still unknown (5, 35). 
+
 
 ### Stein_2007
 
@@ -587,6 +597,16 @@ Yano H, Shintani M, Tomita M, Suzuki H, Oshima T.
 https://www.sciencedirect.com/science/article/pii/S2001037018301685
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
 
+Fig. 1
+Modular structure of the plasmid genome. An example of the IncP-1 plasmid genome is shown. The replication module is the only element essential for plasmid maintenance. The other modules assist in plasmid maintenance. IncP-1β and IncP-1α are lineages of IncP-1 plasmids. Horizontal arrows indicate the direction of transcription. Each functional module is regulated by a transcriptional regulator encoded in the module block or global regulators encoded in the central control region [188,189].
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/bin/gr1.jpg)
+
+Fig. 2
+Replication module. (A) Replication module of IncP-1 plasmids. Ssb encodes a single-strand DNA binding protein. trfA encodes the Rep protein. (B) Replication initiation of IncP-1 plasmid. Monomeric TrfA bound to iterons opens base pairs in the DUE, and then host DnaA or TrfA itself recruits DnaB onto the unwound DUE. TrfA molecules bind to single-stranded DNA to assist replisome assembly on one strand via direct interaction with β-clamp, starting unidirectional replication. Lagging strand synthesis is not shown for simplicity. Illustration follows [8], with minor modifications. (C) Replication inhibition by Rep protein dimer. Paired oriV can dissociate via proteolysis or an increased Rep protein monomer to dimer ratio [32].
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/bin/gr2.jpg)
+
 https://sites.google.com/view/hirokazuyano/koremadeno-yan-jiu
 Hirokazu Yano - これまでの研究 (in Japanese)
 
@@ -606,7 +626,10 @@ Hirokazu Yano 1, Gail E Deckert, Linda M Rogers, Eva M Top
 https://jb.asm.org/content/194/6/1533.long
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294859/
 
+Fig 1
+(A) Schematic representation of the diversity in TrfA structure. M98 and M124 indicate the start methionines of TrfA-33 in RK2 and TrfA2 in pBP136, respectively. QLSLF indicates the conserved amino acid sequence motif responsible for interaction with DNA polymerase III (33). DBD1 and DBD2 indicate DNA-binding (winged-helix) domains deduced from secondary structure comparisons (22, 49). (B) The trfA gene locus of pBP136 and its mini-pBP136 derivative pMS0506. A+T and G+C indicate the A/T- and G/C-rich regions, respectively. Triangles and pentagons indicate iterons (TrfA-binding motif) and DnaA-boxes (DnaA-binding motif), respectively. Flags indicate promoters. The region cloned in pHY872 is indicated. (C) Western blots showing TrfA production from pMS0506 in three hosts: E. coli, P. putida, and S. japonicum. The quantities of cell extracts were normalized to total protein content using a Bradford assay (11). Exp, exponential phase; Stat, stationary phase.
 
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294859/bin/zjb9990912760001.jpg)
 
 ----------
 
