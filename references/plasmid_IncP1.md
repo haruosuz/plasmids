@@ -91,6 +91,14 @@ pMCR_1511 and pHNFP671 belonged to a new IncP-1 clade (see Fig. S1 in the supple
 
 Sequencing reads and the whole-genome shotgun sequencing project of K. pneumoniae strain WCHKP1511 have been deposited into DDBJ/EMBL/GenBank under accession numbers SRR3170679 and LSMF00000000, respectively. The sequence of pMCR_1511 has been deposited into DDBJ/EMBL/GenBank under accession number KX377410.
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5278755/bin/supp_61_2_e02229-16__index.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5278755/bin/AAC.02229-16_zac002175899s1.pdf
+Supplementary file
+Figure S1. Phylogenetic tree of IncP-1 plasmids. The plasmids included are RK2 (IncP1-α clade; GenBank accession no. BN000925), R751 (β1 subclade; GenBank accession no. NC_001735), pA1 (β2 subclade; GenBank accession no. NC_007353), pQKH54 (γ clade; GenBank accession no. AM157767), pAKD4 (δ clade; GenBank accession no. NC_025029), pKJK5 (ε clade; GenBank accession no. AM261282), pMCBF1 (ζ clade; GenBank accession no. AY950444), pHNFP671 (a new clade; GenBank accession no. KP324830) and pMCR_1511 (the same new clade as pHNFP671; this study). The tree was constructed using concatenated sequences of 30 genes belonging to the IncP-1 backbone as described previously (1).
+
+Reference
+1. Norberg P, Bergstrom M, Jethava V, Dubhashi D, Hermansson M. 2011. The IncP-1 plasmid backbone adapts to different host bacterial species and evolves through homologous recombination. Nat Commun 2:268.
+
 ## 2015
 
 ### Robson_2015
@@ -466,7 +474,7 @@ https://academic.oup.com/femsre/article/33/3/657/591359
 The MOBP cluster
 A PSI-BLAST search using TraI_RP4 as a query and a score threshold P<10−4 converged after 14 iterations and retrieved 259 relaxase sequences (Tables S4–S6). 
 
-<img alt="" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsre/33/3/10.1111_j.1574-6976.2009.00168.x/1/m_FMR_168_f12.jpeg?Expires=1616421721&Signature=EvcURjpPvEXUliFwoJo4QZiA6yTlbsQUmv03yqtXyjSUzFlofuW3di4fAk8Wbj5eXDhEtNpL0S0eLzSbrt4L-rfbmjPJlvef3b9P6-KcjKp3UUTMSbOcXcSgESN4kpC2R3IGTffeGLrJo5o~d2EuDH-jZdX1KzJJhhRMVNLKVmblXd7LcltzQF9NPYmnSb4stsDMTG-Vo9P2Hk2hERWNpjJ9GU56kFtONrwOLXtpCaZLaH9Z7GTh0ax6sDzpG55YsyqPCmSQQfv60dYT-DLQU2Q4aggcEbaDiYjk5NBfMW2xAfLYm96AzN0fBxd~g~cys6bQ1CoIc3eIw8uCQ3MNeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width=25%>
+#<img alt="" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsre/33/3/10.1111_j.1574-6976.2009.00168.x/1/m_FMR_168_f12.jpeg?Expires=1616421721&Signature=EvcURjpPvEXUliFwoJo4QZiA6yTlbsQUmv03yqtXyjSUzFlofuW3di4fAk8Wbj5eXDhEtNpL0S0eLzSbrt4L-rfbmjPJlvef3b9P6-KcjKp3UUTMSbOcXcSgESN4kpC2R3IGTffeGLrJo5o~d2EuDH-jZdX1KzJJhhRMVNLKVmblXd7LcltzQF9NPYmnSb4stsDMTG-Vo9P2Hk2hERWNpjJ9GU56kFtONrwOLXtpCaZLaH9Z7GTh0ax6sDzpG55YsyqPCmSQQfv60dYT-DLQU2Q4aggcEbaDiYjk5NBfMW2xAfLYm96AzN0fBxd~g~cys6bQ1CoIc3eIw8uCQ3MNeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width=25%>
 
 ![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsre/33/3/10.1111_j.1574-6976.2009.00168.x/1/m_FMR_168_f12.jpeg?Expires=1616421721&Signature=EvcURjpPvEXUliFwoJo4QZiA6yTlbsQUmv03yqtXyjSUzFlofuW3di4fAk8Wbj5eXDhEtNpL0S0eLzSbrt4L-rfbmjPJlvef3b9P6-KcjKp3UUTMSbOcXcSgESN4kpC2R3IGTffeGLrJo5o~d2EuDH-jZdX1KzJJhhRMVNLKVmblXd7LcltzQF9NPYmnSb4stsDMTG-Vo9P2Hk2hERWNpjJ9GU56kFtONrwOLXtpCaZLaH9Z7GTh0ax6sDzpG55YsyqPCmSQQfv60dYT-DLQU2Q4aggcEbaDiYjk5NBfMW2xAfLYm96AzN0fBxd~g~cys6bQ1CoIc3eIw8uCQ3MNeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
