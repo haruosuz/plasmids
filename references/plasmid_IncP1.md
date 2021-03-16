@@ -157,14 +157,25 @@ Celeste J Brown 1, Diya Sen, Hirokazu Yano, Matthew L Bauer, Linda M Rogers, Ger
 https://aem.asm.org/content/79/24/7684.long
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837812/
 
+MATERIALS AND METHODS
+
+Host range assays.
+The host range of the marked plasmids was evaluated by conjugative transfer to three bacterial strains: Pseudomonas putida UCW1gfp, Cupriavidus pinatubonensis JMP228gfp, and Sinorhizobium meliloti RM1021, belonging to the Gamma-, Beta-, and Alphaproteobacteria, respectively (36). 
+
 Phylogenetic analysis of IncP-1 plasmids.
 The part of the trfA gene that is conserved among the IncP-1 plasmids was used to infer the phylogenetic relationship of pDS1 with the other IncP-1 subgroups. 
 
 RESULTS
 
+Capture of plasmids from freshwater sources.
+
+Except for pDS1 and pDS2, all plasmids showed a broad host range as they transferred and replicated in alpha-, beta-, and gammaproteobacteria (Table 2).
+
+
 Table 2
 General features of completely sequenced plasmids
 dPlasmids pDS1 and pDS2 were transferable into E. coli but could not be transferred to P. putida, C. pinatubonensis, or S. meliloti.
+
 
 A phylogeny inferred from the trfA gene showed that pDS1 is distinct from other known subgroups including the new IncP-1ζ plasmids isolated from marine biofilms (57) (Fig. 4). Surprisingly, unlike most other IncP-1 plasmids, pDS1 could not be transferred to P. putida or C. pinatubonensis (Table 2). To verify the placement of pDS1 in the IncP-1 group, an incompatibility assay was performed. The marked plasmid pDS1T was introduced into E. coli DH10B(pQKH54) by conjugation, and loss of pQKH54 was monitored when we selected for the incoming plasmid only. Nearly 80% of the clones tested had lost pQKH54 by day 1, in contrast to only a 16% loss of pQKH54 in a separate stability assay. This indicates that pDS1T is incompatible with IncP-1 plasmids and can be classified as an IncP-1 plasmid. We therefore propose the new subgroup IncP-1η for pDS1.
 
@@ -380,6 +391,92 @@ The EMBL (http://www.ebi.ac.uk/embl) accession numbers for the genome of Thiomon
 ----------
 
 ## 2006
+
+### Haines_2006
+
+AM157767 QKH54
+
+https://www.ncbi.nlm.nih.gov/nuccore/AM157767
+```
+LOCUS       AM157767               69966 bp    DNA     circular ENV 26-JUL-2016
+DEFINITION  Uncultured bacterium IncP-1gamma plasmid QKH54 complete genome.
+
+     protein_bind    8892..8906
+                     /note="iteron"
+                     /bound_moiety="trfA"
+     protein_bind    8941..8955
+                     /note="iteron"
+                     /bound_moiety="trfA"
+
+     CDS             complement(23120..24241)
+                     /gene="trfA1"
+                     /operon="ssb-trfA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="trans-acting replication factor A"
+                     /protein_id="CAJ43307.1"
+                     /db_xref="InterPro:IPR010751"
+                     /db_xref="UniProtKB/TrEMBL:Q1H9T9"
+                     /translation="MEQQDFDEAAYRDSLIARGMEPSAASSVAAHKAKDLGYTAPKHR
+                     AKSVGELLGQIPDAGHDPAERLDQIDWSESIPPPPSTAKPSKPAKRGKSDTVADDLSH
+                     KVGEAKRNALLQKTLKEVKDEQLSLFDIAPWDDDMRAMPNDIARTALFTVRNKRKPRD
+                     ALQSQPIYSYNQDVQITFSGIELRAEDDELVWQQVLEYSKRFPIGSPITFTFYELCSD
+                     LAWPINGKYYKKAEDSLTRLQTSALQFQSRRLGNMVSLSLLRRFGVLDRGKRTSRCQV
+                     ELEDEMVYLFAGDHYSKFVWEKYRELTPTTRRLFDYCASHKQPYPLALEKFQKMCGSD
+                     TARAAKWKEQSKAACDELKKSGLVADAYVNGELIYTKRG"
+
+     CDS             complement(24282..24641)
+                     /gene="ssb"
+                     /operon="ssb-trfA"
+```
+
+https://pubmed.ncbi.nlm.nih.gov/16946264/
+Microbiology (Reading)
+. 2006 Sep;152(Pt 9):2689-2701. doi: 10.1099/mic.0.28941-0.
+Plasmids from freshwater environments capable of IncQ retrotransfer are diverse and include pQKH54, a new IncP-1 subgroup archetype
+Anthony S Haines 1, Parveen Akhtar 1, Elton R Stephens 1, Karen Jones 1, Christopher M Thomas 1, Caroline D Perkins 2, Jacqueline R Williams 2, Martin J Day 2, John C Fry 2
+https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.28941-0#tab2
+
+RESULTS
+
+Plasmid host range
+
+Epilithic plasmids pQKH6 and pQM719 showed a pattern of transfer similar to that of the IncP-1β plasmids pJP4 and pSS50, with higher transfer frequencies to A. tumefaciens. The transfer frequency of pQKH54 was somewhat lower to this alphaproteobacterial species but high transfer frequencies, as shown by pQKH6 and pQM719, were detected to the gamma- and betaproteobacteria subgroups. 
+
+DNA sequencing and the IncP-1 backbone of pQKH54
+
+The G+C content of the backbone is generally lower than for the other subgroups. If the trb region is excluded beyond the end of trbL (as the majority of these genes are unique to pQKH54), then the mean G+C content of the backbone is 56.5 mol%, while it is 63.1 mol% for RK2 (Pansegrau et al., 1994), 66.6 mol% for R751 (Thorsted et al., 1998) and 62.0 mol% for pEST4011 (Vedler et al., 2004). Thus it appears that pQKH54 has spent a considerable proportion of its recent evolutionary history in species with a lower G+C content than the other branches of the IncP-1 family.
+
+
+Fig. 2.
+Sequence logos of iterons for representatives of the four known IncP-1 subgroups. In a DNA sequence logo (Schneider & Stephens, 1990; Crooks et al., 2004), the height of each base represents its conservation, with the information content of each position measured in bits. There are some minor variations between the groups, which may to some extent be due to neutral mutations. However, the consensus for pQKH54 shows a very clear difference of the last two bases. This suggests that this replicon is the most distant member of the IncP-1 group yet found, confirming the phylogenetic tree (Fig. 3F3), and possibly explaining the only partial incompatibility phenotype against RP4.
+
+![](https://www.microbiologyresearch.org/docserver/ahah/fulltext/micro/152/9/2689fig2_thmb.gif)
+
+Fig. 3.
+Phylogenetic tree for IncP-1 plasmids currently available in public databases, using several proteins. Primary sequences of KorA, IncC2, KorB, KorC and KfrC (Upf54.4) were joined together and then aligned for IncP-1 plasmids plus a plasmid of the IncU group, which carries versions of these genes (Rhodes et al., 2004). The alignment was then used to build the phylogeny. The plasmids pB10 and pJP4 are not included since they appear to be chimeric products of recombination between pB4-like and R751 subgroup plasmids.
+
+![](https://www.microbiologyresearch.org/docserver/ahah/fulltext/micro/152/9/2689fig3_thmb.gif)
+
+Table 2.
+
+Plasmid	Size (kb)	Known characteristics	Known host range*
+pQKH54	80	Hgr Tra+	ABG
+
+*16S rRNA classification subgroups of Proteobacteria to which plasmids can transfer. BHR, broad host range, can be transferred to a wide range of Gram-negative bacteria (A=α, B=β, and G=γ 16S rRNA subgroups of the Proteobacteria listed in Table 1 T1 ). nd, Not determined.
+
+
+Table 3.
+Summary of characteristics of plasmids studied in this work
+
+Plasmid	Hybridization* R751 probes	Hybridization† pQKH6 probes	IncP-1 by replicon probing‡	Excluded by/excludes RP4§	PCR trfA/korA||	IncP-1β by restriction profile¶	Transfer/Retrotransfer/Mobilization#	Host range††
+
+pQKH54	bde	ABCDE	−	+/+	−/−	−	100/10−5/10−2**	aBG
+
+††Host range is indicated in the same way as in Table 2 T2 . Upper-case letters are used when tested species/strains of that group could receive the plasmid; lower-case letters indicate that transfer frequency into the test strain for that group is significantly reduced. The host range of RP4 was not tested in this study.
+
+
+
 
 ### Harada_2006
 
