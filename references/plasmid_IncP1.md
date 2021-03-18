@@ -394,6 +394,31 @@ The EMBL (http://www.ebi.ac.uk/embl) accession numbers for the genome of Thiomon
 
 ## 2007
 
+### Bahl_2007-07
+
+https://pubmed.ncbi.nlm.nih.gov/17306874/
+Plasmid
+. 2007 Jul;58(1):31-43. doi: 10.1016/j.plasmid.2006.11.007. Epub 2007 Feb 16.
+The multiple antibiotic resistance IncP-1 plasmid pKJK5 isolated from a soil environment is phylogenetically divergent from members of the previously established alpha, beta and delta sub-groups
+Martin Iain Bahl 1, Lars Hestbjerg Hansen, Alexander Goesmann, Søren J Sørensen
+https://www.sciencedirect.com/science/article/abs/pii/S0147619X06001168?via%3Dihub
+
+### Bahl_2007-01
+
+https://www.ncbi.nlm.nih.gov/nuccore/AM261282
+```
+LOCUS       AM261282               54383 bp    DNA     circular ENV 14-JUL-2016
+DEFINITION  Uncultured bacterium IncP-1 plasmid pKJK5 complete sequence.
+```
+
+https://pubmed.ncbi.nlm.nih.gov/17132149/
+FEMS Microbiol Lett
+. 2007 Jan;266(2):250-6. doi: 10.1111/j.1574-6968.2006.00536.x. Epub 2006 Nov 21.
+Impact of conjugal transfer on the stability of IncP-1 plasmid pKJK5 in bacterial populations
+Martin Iain Bahl 1, Lars Hestbjerg Hansen, Søren J Sørensen
+https://academic.oup.com/femsle/article/266/2/250/565715
+
+
 ----------
 
 ## 2006
@@ -750,6 +775,21 @@ Fig 1
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294859/bin/zjb9990912760001.jpg)
 
 ----------
+
+### Suzuki
+
+https://pubmed.ncbi.nlm.nih.gov/20851899/
+J Bacteriol
+. 2010 Nov;192(22):6045-55. doi: 10.1128/JB.00277-10. Epub 2010 Sep 17.
+Predicting plasmid promiscuity based on genomic signature
+Haruo Suzuki 1, Hirokazu Yano, Celeste J Brown, Eva M Top
+https://jb.asm.org/content/192/22/6045.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2976448/
+
+
+
+----------
+
 
 
 
