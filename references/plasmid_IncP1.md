@@ -11,12 +11,18 @@
 [2010](#2010)
 [2007](#2007)
 [2006](#2006)
+[1998](#1998)
 - [](#)
 - [mob](#mob)
 - [chromosome](#chromosome)
 - [outgroup](#outgroup)
 - [non-IncP1](#non-IncP1)
 - [Yano](#yano)
+
+
+
+
+
 
 ----------
 ## unclassified
@@ -489,36 +495,11 @@ DEFINITION  Sphingomonas sp. A1 plasmid pA1 DNA, complete sequence.
 
      protein_bind    29970..29984
                      /bound_moiety="TrfA binding"
-     protein_bind    complement(30481..30495)
-                     /bound_moiety="TrfA binding"
-     protein_bind    complement(30504..30518)
-                     /bound_moiety="TrfA binding"
-     protein_bind    complement(30526..30540)
-                     /bound_moiety="TrfA binding"
-     protein_bind    complement(30549..30563)
-                     /bound_moiety="TrfA binding"
-     protein_bind    complement(30572..30586)
-                     /bound_moiety="TrfA binding"
-     protein_bind    complement(30613..30635)
-                     /bound_moiety="DnaA binding"
-     protein_bind    complement(30709..30723)
-                     /bound_moiety="TrfA binding"
-     protein_bind    complement(30743..30757)
-                     /bound_moiety="TrfA binding"
-     protein_bind    complement(31034..31048)
+
                      /bound_moiety="TrfA binding"
      repeat_region   complement(31061..31080)
                      /note="palindromic sequence"
-     repeat_region   complement(31104..31123)
-                     /note="palindromic sequence"
-     repeat_region   complement(31136..31155)
-                     /note="palindromic sequence"
-     repeat_region   complement(31182..31201)
-                     /note="palindromic sequence"
-     repeat_region   complement(31241..31260)
-                     /note="palindromic sequence"
-     gene            complement(31316..32542)
-                     /gene="trfA"
+
      CDS             complement(31316..32542)
                      /gene="trfA"
                      /function="Replication initiation protein"
@@ -555,6 +536,38 @@ Plasmid
 Sequence and analysis of the 46.6-kb plasmid pA1 from Sphingomonas sp. A1 that corresponds to the typical IncP-1beta plasmid backbone without any accessory gene
 Karen Mine Harada 1, Yuji Aso, Wataru Hashimoto, Bunzo Mikami, Kousaku Murata
 https://www.sciencedirect.com/science/article/abs/pii/S0147619X05001289?via%3Dihub
+
+## 1998
+
+### Thorsted_1998
+
+EAU67194
+R751
+
+https://www.ncbi.nlm.nih.gov/nuccore/U67194
+```
+LOCUS       EAU67194               53423 bp    DNA     circular BCT 06-APR-2020
+DEFINITION  Enterobacter aerogenes plasmid R751, complete sequence.
+
+
+  TITLE     The ancestral IncP replication system consisted of contiguous oriV
+            and trfA segments as deduced from a comparison of the nucleotide
+            sequences of diverse IncP plasmids
+  JOURNAL   J. Gen. Microbiol. 139 (Pt 8), 1761-1766 (1993)
+   PUBMED   8409919
+
+
+     protein_bind    14947..14961
+                     /bound_moiety="TrfA"
+```
+
+https://pubmed.ncbi.nlm.nih.gov/9753548/
+J Mol Biol
+. 1998 Oct 9;282(5):969-90. doi: 10.1006/jmbi.1998.2060.
+Complete sequence of the IncPbeta plasmid R751: implications for evolution and organisation of the IncP backbone
+P B Thorsted 1, D P Macartney, P Akhtar, A S Haines, N Ali, P Davidson, T Stafford, M J Pocklington, W Pansegrau, B M Wilkins, E Lanka, C M Thomas
+https://www.sciencedirect.com/science/article/abs/pii/S0022283698920605?via%3Dihub
+
 
 ----------
 ## mob
