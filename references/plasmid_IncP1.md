@@ -6,6 +6,9 @@
 - [updates](#updates)
 [2020](#2020)
 [2019](#2019)
+[2017](#2017)
+[2016](#2016)
+[2015](#2015)
 [2013](#2013)
 [2011](#2011)
 [2010](#2010)
@@ -18,11 +21,6 @@
 - [outgroup](#outgroup)
 - [non-IncP1](#non-IncP1)
 - [Yano](#yano)
-
-
-
-
-
 
 ----------
 ## unclassified
@@ -57,8 +55,6 @@ DEFINITION  Orbus sp. IPMB12 plasmid pIPMB12, complete sequence.
 ----------
 
 ## 2017
-
-----------
 
 ### Zhao_2017
 
@@ -104,6 +100,55 @@ Figure S1. Phylogenetic tree of IncP-1 plasmids. The plasmids included are RK2 (
 
 Reference
 1. Norberg P, Bergstrom M, Jethava V, Dubhashi D, Hermansson M. 2011. The IncP-1 plasmid backbone adapts to different host bacterial species and evolves through homologous recombination. Nat Commun 2:268.
+
+----------
+
+## 2016
+
+### Yakimov_2016
+
+IncP-1θ
+CP006601
+p7ME01
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP006601
+```
+LOCUS       CP006601               42347 bp    DNA     circular BCT 03-DEC-2015
+DEFINITION  Cycloclasticus zancles 78-ME plasmid p7ME01, complete sequence.
+
+     CDS             complement(2091..3221)
+                     /locus_tag="CYCME_3003"
+                     /product="TrfA protein"
+```
+
+https://pubmed.ncbi.nlm.nih.gov/27345842/
+Environ Microbiol Rep
+. 2016 Aug;8(4):508-19. doi: 10.1111/1758-2229.12424. Epub 2016 Jun 27.
+Analysis of defence systems and a conjugative IncP-1 plasmid in the marine polyaromatic hydrocarbons-degrading bacterium Cycloclasticus sp. 78-ME
+Michail M Yakimov 1, Francesca Crisafi 1, Enzo Messina 1, Francesco Smedile 1, Anna Lopatina 2, Renata Denaro 1, Dietmar H Pieper 3, Peter N Golyshin 4, Laura Giuliano 1
+https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.12424
+Furthermore, a conjugative plasmid p7ME01, which belongs to a new IncP-1θ ancestral archetype without any accessory mobile elements was found in 78-ME.
+
+Using approach of Norberg et al. (2011), we compared the concatenated backbone regions A, B and C of p7ME01 with corresponding regions of 23 IncP‐1 plasmids retrieved from GenBank through BLAST and literature searches. As supported by phylogenetic analysis of the IncP‐1 backbones, p7ME01 does belong to a novel clade, hereafter called θ (from the Greek word ‘θαλαθθα or thalassa’, meaning ‘sea’) (del Castillo et al., 2013). Additionally to p7ME01, this novel IncP‐1θ clade currently consists of three other closely related plasmids (Fig. 4). Noteworthy, all of them were found in marine biofilm‐forming gammaproteobacteria: Alcanivorax hongengensis A‐11‐3 (Lai and Shao, 2012b), Marinobacter adhaerens HP15 (Gärdes et al., 2010) and Methylophaga frappieri JAM7 (Auclair et al., 2010; Villeneuve et al., 2013). 
+
+![](https://sfamjournals.onlinelibrary.wiley.com/cms/asset/641c8c24-a3b6-4b66-8aec-190bb934cf8f/emi412424-fig-0004-m.png)
+
+Figure 4
+Phylogenetic analysis showing the relationship of p7ME01 with other incP‐1 plasmids of the IncP‐1plasmid backbone. Maximum Likelihood tree was inferred from concatenated backbone regions A, B and C of 23 IncP‐1 plasmids belonging to all currently recognized clades (Norberg et al., 2011; del Castillo et al., 2013). Novel IncP‐1θ clade is shaded in grey. Five IncP‐1 plasmids without any accessory mobile elements known so far are highlighted in bold. Sequence of the uncharacterized plasmid MEALZ_p (FD082061) from Methylomicrobum alcaliphilum 20Z was used as an outgroup. The scale bar represents the probability of amino acid substitutions per site.
+
+
+
+
+
+https://www.ncbi.nlm.nih.gov/nuccore/FO082061
+```
+LOCUS       FO082061              128415 bp    DNA     circular BCT 25-JUL-2016
+DEFINITION  Methylomicrobium alcaliphilum str. 20Z plasmid MEALZ_p, complete
+            genome.
+```
+
+
+----------
 
 ## 2015
 
@@ -194,6 +239,18 @@ Phylogenetic relationship of pDS1 to other IncP-1 plasmid subgroups. The conserv
 DISCUSSION
 
 The narrow host range of the IncP-1η plasmid pDS1 was unexpected, given that most IncP-1-like plasmids have a broad host range. A preliminary plasmid genomic signature analysis suggested a signature that is quite different from the other IncP-1 plasmids captured in this study (H. Suzuki, personal communication). As pDS1 transferred very well between E. coli strains, the plasmid's transfer system seems intact. Since the molecular basis of the apparent narrow host range of this IncP-1η plasmid is of great interest, a detailed host range investigation will be the subject of a future study, combining experimental host range testing with a plasmid genomic signature analysis to assess its potential host range (81).
+
+
+### del_Castillo_2013
+
+https://pubmed.ncbi.nlm.nih.gov/23602560/
+Int J Antimicrob Agents
+. 2013 Jul;42(1):10-8. doi: 10.1016/j.ijantimicag.2013.02.027. Epub 2013 Apr 18.
+Comparative analysis and distribution of pP9014, a novel drug resistance IncP-1 plasmid from Photobacterium damselae subsp. piscicida
+Carmelo S del Castillo 1, Ho Bin Jang, Jun-Ichi Hikima, Tae Sung Jung, Hideaki Morii, Ikuo Hirono, Hidehiro Kondo, Chihiro Kurosaka, Takashi Aoki
+https://www.sciencedirect.com/science/article/abs/pii/S0924857913001015?via%3Dihub
+
+*Get Access*
 
 ### Sen_2013
 
@@ -508,10 +565,20 @@ pQKH54	bde	ABCDE	−	+/+	−/−	−	100/10−5/10−2**	aBG
 
 
 
-
 ### Harada_2006
 
-AB231906 pA1
+Sphingomonas sp. A1 plasmid pA1
+NC_007353
+AB231906
+
+https://www.ncbi.nlm.nih.gov/nuccore/NC_007353
+```
+LOCUS       NC_007353              46557 bp    DNA     circular CON 26-JAN-2021
+DEFINITION  Sphingomonas sp. A1 plasmid pA1, complete sequence.
+
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            AB231906.2.
+```
 
 https://www.ncbi.nlm.nih.gov/nuccore/AB231906
 ```
@@ -625,6 +692,10 @@ The conserved motifs in MOBP1 are shown in Fig. 13. As can be seen, MOBP1 relaxa
 Figure 13
 
 Conserved sequence motifs in the MOBP1 subclades. Vertical black arrowheads and black circles point to residues configuring the catalytic centre. Mutations in TraI_RP4 affecting those residues either affected conjugation (black arrowheads) or did not (black circles). The vertical white arrowhead points to E79 in TraI_RP4, another potential key residue (see The MOBP cluster). *The N-terminal sequences of these relaxases were wrongly annotated (by comparison with homologous relaxases). Visual inspection allowed us to realize that if the annotated CDSs were extended upstream (pRAS3: −57 codons; pTF-FC2: −41 codons; pPNAP06: −13 codons), motif I was found. Azosp, Azoarcus sp. EbN1; Niteu, Nitrosomonas eutropha C91; Desps, Desulfotalea psychrophila LSv54.
+
+
+----------
+
 
 
 
