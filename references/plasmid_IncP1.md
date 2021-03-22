@@ -27,7 +27,6 @@
 
 https://en.wikipedia.org/wiki/Plasmid-mediated_resistance
 
-
 https://www.ncbi.nlm.nih.gov/nuccore/CP050254
 ```
 LOCUS       CP050254               32446 bp    DNA     circular BCT 25-MAR-2020
@@ -46,6 +45,27 @@ DEFINITION  Orbus sp. IPMB12 plasmid pIPMB12, complete sequence.
 ```
 
 ```
+
+
+
+IncP-1alpha
+IncP-1beta
+IncP-1beta1
+IncP-1beta2
+IncP-1gamma
+IncP-1delta
+IncP-1epsilon
+IncP-1dzeta
+IncP-1eta
+IncP-1theta
+
+
+
+
+
+
+
+
 
 ----------
 ## updates
@@ -107,9 +127,9 @@ Reference
 
 ### Yakimov_2016
 
-IncP-1θ
-CP006601
+IncP-1theta
 p7ME01
+CP006601
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP006601
 ```
@@ -265,6 +285,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/
 Nucleotide Sequence Alignments and Model Selection
 The amino acid sequences of each gene were aligned with ClustalX (Thompson et al. 2002). Tranalign (Rice et al. 2000) was used to align the nucleotide sequences of each gene guided by the aligned amino acid sequences. 
 
+Detection of Recombinants
+To detect recombination among the plasmids in the data set, alignment files of the backbone genes were concatenated in the order and orientation in which they appear on IncP-1 plasmids (fig. 1). The recombination detection programs RDP, GENECONV, BootScan, MaxChi, and Chimaera, which are implemented in RDP3 (Martin et al. 2010), were run with default parameters. Only recombinants that were identified by at least two programs were considered.
+
 Fig. 2.
 Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: supported by 46% of gene trees, namely, those of trfA2, trbA, trbC, trbG, traG, traH, traI, kfrA, kfrB, kfrC, korB, korA, and kleE. (B) Topology 2: supported by gene trees of trbD, trbK, and traJ. (C) Topology 3: supported by gene trees of trbF, trbI, and traE. (D) Topology 4: supported by gene trees of korC and klcA. Trees were rooted using IncP-1γ as outgroup.
 
@@ -285,6 +308,9 @@ ML tree of concatenated data estimated from a partitioned analysis based on codo
 ## 2011
 
 ### Norberg_2011
+
+IncP-1dzeta
+pMCBF1
 
 https://www.ncbi.nlm.nih.gov/nuccore/AY950444
 ```
@@ -418,7 +444,29 @@ Comparison of the oriT sequences of different members of the IncP1 subfamilies.
 Figure 5
 Comparison of the oriV iterons of different members of the IncP1 subfamilies.
 
+----------
 
+### Sen_2010
+
+IncP-1delta
+pAKD4
+GQ983559
+
+https://www.ncbi.nlm.nih.gov/nuccore/NC_025029.1?report=genbank
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+https://www.ncbi.nlm.nih.gov/nuccore/GQ983559
+```
+LOCUS       GQ983559               56803 bp    DNA     circular ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium pAKD4 plasmid pAKD4, complete sequence.
+```
+
+https://pubmed.ncbi.nlm.nih.gov/20018208/
+Comparative Study Plasmid
+. 2010 Mar;63(2):98-107. doi: 10.1016/j.plasmid.2009.11.005. Epub 2009 Dec 16.
+Comparative genomics of pAKD4, the prototype IncP-1delta plasmid with a complete backbone
+Diya Sen 1, Hirokazu Yano, Haruo Suzuki, Jaroslaw E Król, Linda Rogers, Celeste J Brown, Eva M Top
+https://www.sciencedirect.com/science/article/abs/pii/S0147619X09001267?via%3Dihub
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/
 
 ----------
 
@@ -462,6 +510,10 @@ https://www.sciencedirect.com/science/article/abs/pii/S0147619X06001168?via%3Dih
 
 ### Bahl_2007-01
 
+IncP-1epsilon
+pKJK5
+AM261282
+
 https://www.ncbi.nlm.nih.gov/nuccore/AM261282
 ```
 LOCUS       AM261282               54383 bp    DNA     circular ENV 14-JUL-2016
@@ -475,14 +527,40 @@ Impact of conjugal transfer on the stability of IncP-1 plasmid pKJK5 in bacteria
 Martin Iain Bahl 1, Lars Hestbjerg Hansen, Søren J Sørensen
 https://academic.oup.com/femsle/article/266/2/250/565715
 
-
 ----------
 
 ## 2006
 
+### Kamachi_2006
+
+IncP-1beta
+pBP136
+AB237782
+NC_008459
+
+https://www.ncbi.nlm.nih.gov/nuccore/NC_008459
+https://www.ncbi.nlm.nih.gov/nuccore/AB237782
+```
+LOCUS       AB237782               41268 bp    DNA     circular BCT 14-JUL-2016
+DEFINITION  Bordetella pertussis plasmid pBP136 DNA, complete sequence.
+
+     CDS             complement(9526..10749)
+                     /gene="trfA"
+                     /function="DNA-binding protein for plasmid replication"
+```
+
+https://pubmed.ncbi.nlm.nih.gov/17159199/
+Microbiology (Reading)
+. 2006 Dec;152(Pt 12):3477-3484. doi: 10.1099/mic.0.29056-0.
+Plasmid pBP136 from Bordetella pertussis represents an ancestral form of IncP-1beta plasmids without accessory mobile elements
+Kazunari Kamachi 1, Masahiro Sota 2, Yuji Tamai 3, Noriyo Nagata 4, Toshifumi Konda 1, Toshiro Inoue 3, Eva M Top 2, Yoshichika Arakawa 1
+https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.29056-0#tab2
+
 ### Haines_2006
 
-AM157767 QKH54
+IncP-1gamma
+QKH54
+AM157767
 
 https://www.ncbi.nlm.nih.gov/nuccore/AM157767
 ```
@@ -567,9 +645,10 @@ pQKH54	bde	ABCDE	−	+/+	−/−	−	100/10−5/10−2**	aBG
 
 ### Harada_2006
 
-Sphingomonas sp. A1 plasmid pA1
-NC_007353
+IncP-1beta2
+pA1
 AB231906
+NC_007353
 
 https://www.ncbi.nlm.nih.gov/nuccore/NC_007353
 ```
@@ -629,12 +708,46 @@ Sequence and analysis of the 46.6-kb plasmid pA1 from Sphingomonas sp. A1 that c
 Karen Mine Harada 1, Yuji Aso, Wataru Hashimoto, Bunzo Mikami, Kousaku Murata
 https://www.sciencedirect.com/science/article/abs/pii/S0147619X05001289?via%3Dihub
 
+
+## 2004
+
+### Trefault_2004
+
+pJP4
+AY365053
+
+https://www.ncbi.nlm.nih.gov/nuccore/AY365053
+```
+LOCUS       AY365053               87688 bp    DNA     circular BCT 03-APR-2020
+DEFINITION  Ralstonia eutropha JMP134 plasmid pJP4, complete sequence.
+
+     CDS             complement(55727..56947)
+                     /gene="trfA1"
+                     /product="transreplication factor"
+
+     CDS             complement(55727..56581)
+                     /gene="trfA2"
+                     /product="transreplication factor"
+```
+
+
+https://pubmed.ncbi.nlm.nih.gov/15186344/
+Environ Microbiol
+. 2004 Jul;6(7):655-68. doi: 10.1111/j.1462-2920.2004.00596.x.
+Genetic organization of the catabolic plasmid pJP4 from Ralstonia eutropha JMP134 (pJP4) reveals mechanisms of adaptation to chloroaromatic pollutants and evolution of specialized chloroaromatic degradation pathways
+N Trefault 1, R De la Iglesia, A M Molina, M Manzano, T Ledger, D Pérez-Pantoja, M A Sánchez, M Stuardo, B González
+https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1462-2920.2004.00596.x?sid=nlm%3Apubmed
+Get access to the full version of this article.
+View access options below.
+
+
 ## 1998
 
 ### Thorsted_1998
 
-EAU67194
+IncP-1beta1
 R751
+EAU67194
 
 https://www.ncbi.nlm.nih.gov/nuccore/U67194
 ```
@@ -800,6 +913,33 @@ The G+C content of both plasmids is significantly lower than that of the chromos
 
 
 ----------
+
+
+### Shintani
+
+https://pubmed.ncbi.nlm.nih.gov/24141122/
+Appl Environ Microbiol
+. 2014 Jan;80(1):138-45. doi: 10.1128/AEM.02571-13. Epub 2013 Oct 18.
+Single-cell analyses revealed transfer ranges of IncP-1, IncP-7, and IncP-9 plasmids in a soil bacterial community
+Masaki Shintani 1, Kazuhiro Matsui, Jun-Ichi Inoue, Akira Hosoyama, Shoko Ohji, Atsushi Yamazoe, Hideaki Nojiri, Kazuhide Kimbara, Moriya Ohkuma
+https://aem.asm.org/content/80/1/138.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911017/
+The host ranges of the three plasmids have been previously documented as being broad (pBP136), narrow (pCAR1), and intermediate (NAH7) (13). A broad-host-range plasmid is proposed to be able to replicate itself and be maintained stably in at least two different bacterial classes without selection, whereas a narrow-host-range plasmid is in the same class or genus (13).
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/24141122
+Appl Environ Microbiol. 2014 Jan;80(1):138-45. doi: 10.1128/AEM.02571-13. Epub 2013 Oct 18.
+Single-cell analyses revealed transfer ranges of IncP-1, IncP-7, and IncP-9 plasmids in a soil bacterial community.
+Shintani M1, Matsui K, Inoue J, Hosoyama A, Ohji S, Yamazoe A, Nojiri H, Kimbara K, Ohkuma M.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911017/
+Nucleotide sequence accession numbers.
+The partial sequences of 519 transconjugants were deposited in the DDBJ, EMBL, and GenBank databases (accession numbers AB772697 to AB773215). The pyrosequencing run data of the 16S rRNA genes in soil samples were deposited in the DDBJ Sequence Read Archive (DRA) (http://trace.ddbj.nig.ac.jp/dra/index_e.html; accession number DRA001209).
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911017/bin/supp_80_1_138__index.html
+Table S3. Top hit type strains with transconjugants identified in this study in BLAST searches.
+
+
+
 
 ### Yano
 
