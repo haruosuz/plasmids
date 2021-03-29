@@ -1,7 +1,7 @@
 # plasmid IncP1
 
 **Table of Contents**
-- [unclassified](#unclassified)
+
 - [](#)
 - [updates](#updates)
 [2020](#2020)
@@ -17,25 +17,18 @@
 [1998](#1998)
 - [](#)
 - [mob](#mob)
-- [chromosome](#chromosome)
+- [unclassified](#unclassified)
 - [outgroup](#outgroup)
 - [non-IncP1](#non-IncP1)
+- [chromosome](#chromosome)
+- [Shintani](#shintani)
 - [Yano](#yano)
 
 ----------
-## unclassified
+
+https://archaea.i2bc.paris-saclay.fr/wasps/
 
 https://en.wikipedia.org/wiki/Plasmid-mediated_resistance
-
-https://www.ncbi.nlm.nih.gov/nuccore/CP050254
-```
-LOCUS       CP050254               32446 bp    DNA     circular BCT 25-MAR-2020
-DEFINITION  Orbus sp. IPMB12 plasmid pIPMB12, complete sequence.
-
-     CDS             complement(30709..31527)
-
-                     /product="TrfA protein"
-```
 
 
 <img alt="" src="" width=50%>
@@ -58,12 +51,6 @@ IncP-1epsilon
 IncP-1dzeta
 IncP-1eta
 IncP-1theta
-
-
-
-
-
-
 
 
 
@@ -262,6 +249,14 @@ The narrow host range of the IncP-1η plasmid pDS1 was unexpected, given that mo
 
 
 ### del_Castillo_2013
+
+https://www.ncbi.nlm.nih.gov/nuccore/AB453229
+```
+LOCUS       AB453229               55851 bp    DNA     circular BCT 24-JUL-2016
+DEFINITION  Photobacterium damselae subsp. piscicida plasmid pP9014 DNA,
+            complete sequence.
+
+```
 
 https://pubmed.ncbi.nlm.nih.gov/23602560/
 Int J Antimicrob Agents
@@ -533,7 +528,7 @@ https://academic.oup.com/femsle/article/266/2/250/565715
 
 ### Kamachi_2006
 
-IncP-1beta
+IncP-1beta1
 pBP136
 AB237782
 NC_008459
@@ -651,13 +646,6 @@ AB231906
 NC_007353
 
 https://www.ncbi.nlm.nih.gov/nuccore/NC_007353
-```
-LOCUS       NC_007353              46557 bp    DNA     circular CON 26-JAN-2021
-DEFINITION  Sphingomonas sp. A1 plasmid pA1, complete sequence.
-
-COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
-            AB231906.2.
-```
 
 https://www.ncbi.nlm.nih.gov/nuccore/AB231906
 ```
@@ -715,6 +703,13 @@ https://www.sciencedirect.com/science/article/abs/pii/S0147619X05001289?via%3Dih
 
 pJP4
 AY365053
+NZ_AY365053
+
+https://www.ncbi.nlm.nih.gov/nuccore/NZ_AY365053
+```
+LOCUS       NZ_AY365053            87688 bp    DNA     circular CON 05-NOV-2020
+DEFINITION  Cupriavidus pinatubonensis JMP134 plasmid pJP4, complete sequence.
+```
 
 https://www.ncbi.nlm.nih.gov/nuccore/AY365053
 ```
@@ -739,6 +734,30 @@ N Trefault 1, R De la Iglesia, A M Molina, M Manzano, T Ledger, D Pérez-Pantoja
 https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1462-2920.2004.00596.x?sid=nlm%3Apubmed
 Get access to the full version of this article.
 View access options below.
+
+
+
+## 2003
+
+### Schluter_2003
+
+IncP-1beta1
+pB10
+AJ564903
+
+https://www.ncbi.nlm.nih.gov/nuccore/AJ564903
+```
+LOCUS       AJ564903               64508 bp    DNA     circular ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium IncP-1beta multiresistance plasmid pB10.
+```
+
+https://pubmed.ncbi.nlm.nih.gov/14600226/
+Microbiology (Reading)
+. 2003 Nov;149(Pt 11):3139-3153. doi: 10.1099/mic.0.26570-0.
+The 64 508 bp IncP-1beta antibiotic multiresistance plasmid pB10 isolated from a waste-water treatment plant provides evidence for recombination between members of different branches of the IncP-1beta group
+A Schlüter 1, H Heuer 2, R Szczepanowski 1, L J Forney 2, C M Thomas 3, A Pühler 1, E M Top 2
+https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.26570-0#tab2
+
 
 
 ## 1998
@@ -772,6 +791,69 @@ J Mol Biol
 Complete sequence of the IncPbeta plasmid R751: implications for evolution and organisation of the IncP backbone
 P B Thorsted 1, D P Macartney, P Akhtar, A S Haines, N Ali, P Davidson, T Stafford, M J Pocklington, W Pansegrau, B M Wilkins, E Lanka, C M Thomas
 https://www.sciencedirect.com/science/article/abs/pii/S0022283698920605?via%3Dihub
+
+
+
+
+## 1994
+
+### Pansegrau_1994
+
+IncP-1alpha
+RK2
+BN000925
+
+https://www.ncbi.nlm.nih.gov/nuccore/L27758
+```
+LOCUS       BIACOMGEN              60099 bp    DNA     linear   BCT 31-JAN-2013
+DEFINITION  Pseudomonas aeruginosa plasmid Birmingham IncP-alpha, complete
+            sequence.
+
+```
+
+https://www.ncbi.nlm.nih.gov/nuccore/BN000925
+```
+LOCUS       BN000925               60096 bp    DNA     circular BCT 23-OCT-2008
+DEFINITION  TPA_exp: Birmingham IncP-alpha plasmid, complete sequence, isolate
+            RK2.
+
+
+     protein_bind    11864..11878
+                     /note="orphan iteron"
+                     /bound_moiety="TrfA"
+     regulatory      12089..12120
+                     /regulatory_class="terminator"
+     misc_feature    12256..12301
+                     /note="AT rich"
+     protein_bind    complement(12279..12287)
+                     /bound_moiety="DnaA"
+     protein_bind    complement(12368..12382)
+                     /note="iteron 9"
+                     /bound_moiety="TrfA"
+
+
+     CDS             complement(16521..17669)
+                     /gene="trfA"
+                     /operon="ssb,trfA,upf16.5"
+                     /function="replication"
+                     /note="essential for replication in P. aeruginosa;
+                     long form TrfA1, alternative start codon"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TrfA replication protein"
+
+```
+
+https://pubmed.ncbi.nlm.nih.gov/8014987/
+Comparative Study J Mol Biol
+. 1994 Jun 24;239(5):623-63. doi: 10.1006/jmbi.1994.1404.
+Complete nucleotide sequence of Birmingham IncP alpha plasmids. Compilation and comparative analysis
+W Pansegrau 1, E Lanka, P T Barth, D H Figurski, D G Guiney, D Haas, D R Helinski, H Schwab, V A Stanisich, C M Thomas
+https://www.sciencedirect.com/science/article/abs/pii/S0022283684714045?via%3Dihub
+The IncP alpha promiscuous plasmid (R18, R68, RK2, RP1 and RP4) comprises 60,099 bp of nucleotide sequence, encoding at least 74 genes. 
+The most frequently used initiation codon is AUG but translation for a few open reading frames begins at GUG or UUG. The most common stop-codon is UGA followed by UAA and then UAG. 
+
+
 
 
 ----------
@@ -810,41 +892,54 @@ Conserved sequence motifs in the MOBP1 subclades. Vertical black arrowheads and 
 ----------
 
 
-
-
 ----------
-## chromosome
+## unclassified
 
-### Jackson_2020
 
-https://www.ncbi.nlm.nih.gov/nuccore/CP060709
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP062120
 ```
-LOCUS       CP060709             4825686 bp    DNA     circular BCT 31-AUG-2020
-DEFINITION  Escherichia coli strain ST18 chromosome, complete genome.
+LOCUS       CP062120              197271 bp    DNA     linear   BCT 05-OCT-2020
+DEFINITION  Aminobacter sp. SR38 plasmid pSR8.
+
+     CDS             90629..91849
+                     /locus_tag="IG197_35495"
+
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+
+                     /product="replication initiator protein A"
+
+     CDS             188635..189851
+                     /locus_tag="IG197_36005"
+
+                     /note="frameshifted; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo
+
+                     /product="transcriptional regulator"
 ```
 
-https://www.ncbi.nlm.nih.gov/nuccore/CP060708
+
+https://www.ncbi.nlm.nih.gov/protein/WP_011114072
+LOCUS       WP_011114072             406 aa            linear   BCT 27-APR-2020
+DEFINITION  MULTISPECIES: replication initiator protein A [Bacteria].
+
+
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP050254
 ```
-LOCUS       CP060708             4686434 bp    DNA     circular BCT 31-AUG-2020
-DEFINITION  Escherichia coli strain MFDpir chromosome, complete genome.
+LOCUS       CP050254               32446 bp    DNA     circular BCT 25-MAR-2020
+DEFINITION  Orbus sp. IPMB12 plasmid pIPMB12, complete sequence.
+
+     CDS             complement(30709..31527)
+
+                     /product="TrfA protein"
 ```
-
-https://pubmed.ncbi.nlm.nih.gov/33154010/
-Microbiol Resour Announc
-. 2020 Nov 5;9(45):e01014-20. doi: 10.1128/MRA.01014-20.
-Complete Genome Sequences of the Escherichia coli Donor Strains ST18 and MFD pir
-Simon A Jackson 1 2, Bridget J Fellows 3 2, Peter C Fineran 3 2 4
-https://mra.asm.org/content/9/45/e01014-20
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7645665/
-Escherichia coli ST18 and MFDpir are donors commonly used to transfer oriTRP4-containing plasmids to diverse bacteria via conjugation. 
-
-Several E. coli K-12 derivative strains have been engineered as donors, typically based on mobilization machinery derived from the broad-host-range plasmid RP4 (1,–4).
-
-The complete genome sequences have been deposited in NCBI GenBank with accession numbers CP060709 (ST18) and CP060708 (MFDpir) 
-
 
 ----------
 ## outgroup
+
 
 ----------
 ## non-IncP1
@@ -908,14 +1003,61 @@ R Rabus 1, A Ruepp, T Frickey, T Rattei, B Fartmann, M Stark, M Bauer, A Zibat, 
 https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1462-2920.2004.00665.x
 The G+C content of both plasmids is significantly lower than that of the chromosome (46.8%): large plasmid 43.6%, small plasmid 27.5%. The large plasmid is dominated by genes for conjugal transfer functions, trbBCEIJLFGM and traCGFIJ, and plasmid‐specific functions, e.g. plasmid partition protein ParF or TrfA. The large plasmid also encodes a complete pyruvate dehydrogenase complex and a functionally uncharacterized large protein of 472 793 Da (4749 amino acids). Coding regions for three IS elements were identified; however, all transposase‐encoding regions appear to be fragmentary and are probably non‐functional. As on the chromosome, one putative reverse transcriptase/maturase has been identified. 
 
-----------
-
-
 
 ----------
+## chromosome
+
+### Jackson_2020
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP060709
+```
+LOCUS       CP060709             4825686 bp    DNA     circular BCT 31-AUG-2020
+DEFINITION  Escherichia coli strain ST18 chromosome, complete genome.
+```
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP060708
+```
+LOCUS       CP060708             4686434 bp    DNA     circular BCT 31-AUG-2020
+DEFINITION  Escherichia coli strain MFDpir chromosome, complete genome.
+```
+
+https://pubmed.ncbi.nlm.nih.gov/33154010/
+Microbiol Resour Announc
+. 2020 Nov 5;9(45):e01014-20. doi: 10.1128/MRA.01014-20.
+Complete Genome Sequences of the Escherichia coli Donor Strains ST18 and MFD pir
+Simon A Jackson 1 2, Bridget J Fellows 3 2, Peter C Fineran 3 2 4
+https://mra.asm.org/content/9/45/e01014-20
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7645665/
+Escherichia coli ST18 and MFDpir are donors commonly used to transfer oriTRP4-containing plasmids to diverse bacteria via conjugation. 
+
+Several E. coli K-12 derivative strains have been engineered as donors, typically based on mobilization machinery derived from the broad-host-range plasmid RP4 (1,–4).
+
+The complete genome sequences have been deposited in NCBI GenBank with accession numbers CP060709 (ST18) and CP060708 (MFDpir) 
+
+
+
+
+
+
+
+
+
+
+----------
+
 
 
 ### Shintani
+
+
+https://pubmed.ncbi.nlm.nih.gov/33329469/
+Front Microbiol
+. 2020 Nov 27;11:590776. doi: 10.3389/fmicb.2020.590776. eCollection 2020.
+Plant Species-Dependent Increased Abundance and Diversity of IncP-1 Plasmids in the Rhizosphere: New Insights Into Their Role and Ecology
+Masaki Shintani 1 2 3, Eman Nour 4, Tarek Elsayed 4, Khald Blau 4, Inessa Wall 4, Sven Jechalke 4, Cathrin Spröer 5, Boyke Bunk 5, Jörg Overmann 5, Kornelia Smalla 4
+https://www.frontiersin.org/articles/10.3389/fmicb.2020.590776/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7728920/
+
 
 https://pubmed.ncbi.nlm.nih.gov/24141122/
 Appl Environ Microbiol
@@ -988,6 +1130,10 @@ Fig 1
 ----------
 
 ### Suzuki
+
+
+https://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-6436-5_574-1
+Suzuki H., Brown C.J., Top E.M. (2014) Genomic Signature Analysis to Predict Plasmid Host Range. In: Bell E. (eds) Molecular Life Sciences. Springer, New York, NY
 
 https://pubmed.ncbi.nlm.nih.gov/20851899/
 J Bacteriol
