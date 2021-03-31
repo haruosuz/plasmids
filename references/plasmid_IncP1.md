@@ -145,6 +145,8 @@ Phylogenetic analysis showing the relationship of p7ME01 with other incP‐1 pla
 
 
 
+(Norberg et al., 2011; del Castillo et al., 2013)
+
 
 
 https://www.ncbi.nlm.nih.gov/nuccore/FO082061
@@ -247,25 +249,6 @@ DISCUSSION
 
 The narrow host range of the IncP-1η plasmid pDS1 was unexpected, given that most IncP-1-like plasmids have a broad host range. A preliminary plasmid genomic signature analysis suggested a signature that is quite different from the other IncP-1 plasmids captured in this study (H. Suzuki, personal communication). As pDS1 transferred very well between E. coli strains, the plasmid's transfer system seems intact. Since the molecular basis of the apparent narrow host range of this IncP-1η plasmid is of great interest, a detailed host range investigation will be the subject of a future study, combining experimental host range testing with a plasmid genomic signature analysis to assess its potential host range (81).
 
-
-### del_Castillo_2013
-
-https://www.ncbi.nlm.nih.gov/nuccore/AB453229
-```
-LOCUS       AB453229               55851 bp    DNA     circular BCT 24-JUL-2016
-DEFINITION  Photobacterium damselae subsp. piscicida plasmid pP9014 DNA,
-            complete sequence.
-
-```
-
-https://pubmed.ncbi.nlm.nih.gov/23602560/
-Int J Antimicrob Agents
-. 2013 Jul;42(1):10-8. doi: 10.1016/j.ijantimicag.2013.02.027. Epub 2013 Apr 18.
-Comparative analysis and distribution of pP9014, a novel drug resistance IncP-1 plasmid from Photobacterium damselae subsp. piscicida
-Carmelo S del Castillo 1, Ho Bin Jang, Jun-Ichi Hikima, Tae Sung Jung, Hideaki Morii, Ikuo Hirono, Hidehiro Kondo, Chihiro Kurosaka, Takashi Aoki
-https://www.sciencedirect.com/science/article/abs/pii/S0924857913001015?via%3Dihub
-
-*Get Access*
 
 ### Sen_2013
 
@@ -465,7 +448,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/
 
 ----------
 
-### Barbe_2010
+### Arsene-Ploetze_2010
+
 
 FP475957
 
@@ -936,6 +920,59 @@ DEFINITION  Orbus sp. IPMB12 plasmid pIPMB12, complete sequence.
 
                      /product="TrfA protein"
 ```
+
+
+https://github.com/SionBayliss/PIRATE/issues/65
+gaps in core_alignment.fasta · Issue #65 · SionBayliss/PIRATE
+
+
+
+
+### del_Castillo_2013
+
+https://www.ncbi.nlm.nih.gov/nuccore/AB453229
+```
+LOCUS       AB453229               55851 bp    DNA     circular BCT 24-JUL-2016
+DEFINITION  Photobacterium damselae subsp. piscicida plasmid pP9014 DNA,
+            complete sequence.
+
+
+     CDS             complement(23694..24128)
+                     /gene="KlcA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="KlcA protein"
+                     /protein_id="BAH83599.1"
+                     /translation="MNSINEITLIVASKVALSDRLSFYPTFFGSRFMMRGEAYVMGYM
+                     TKFSEDYDGGYWDFYSLSNGGYYMAPNMDTSLFLEISSNWFSGEMSADAAGIIATLFA
+                     LGQLAGESEGTALGDRFITLYHLLRDFAKEHKESSLILRAID"
+     gene            24851..25615
+                     /gene="RepB"
+     CDS             24851..25615
+                     /gene="RepB"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="RepB initiator protein"
+                     /protein_id="BAH83600.1"
+                     /translation="MKKLNKFREPINVFPASLGAAEQDVFALVLCEISKVVGFNSTQI
+                     KQCDDFEKKPIPYQFEFSEEELTTLFQCSVDNLRKTIEPAAKSLVKREVSYSSERGFD
+                     VFSPIARARYNMGQPFFIEMAPSVAELLAENVEAGFSEIDFKLFVSLSGRYERRLLKA
+                     LSQWKHNPSKEVKFKIQDYRDYIGLEDGEYQRTEALVRKTIKKPISDIIEKSEGCWVP
+                     TDPEKKGFLLTREGKGRAYTHVTLKLRYDPKAALLL"
+
+```
+
+https://pubmed.ncbi.nlm.nih.gov/23602560/
+Int J Antimicrob Agents
+. 2013 Jul;42(1):10-8. doi: 10.1016/j.ijantimicag.2013.02.027. Epub 2013 Apr 18.
+Comparative analysis and distribution of pP9014, a novel drug resistance IncP-1 plasmid from Photobacterium damselae subsp. piscicida
+Carmelo S del Castillo 1, Ho Bin Jang, Jun-Ichi Hikima, Tae Sung Jung, Hideaki Morii, Ikuo Hirono, Hidehiro Kondo, Chihiro Kurosaka, Takashi Aoki
+https://www.sciencedirect.com/science/article/abs/pii/S0924857913001015?via%3Dihub
+
+*Get Access*
+
+
+
 
 ----------
 ## outgroup
