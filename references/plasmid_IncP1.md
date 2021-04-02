@@ -767,6 +767,23 @@ DEFINITION  Enterobacter aerogenes plasmid R751, complete sequence.
 
      protein_bind    14947..14961
                      /bound_moiety="TrfA"
+
+
+     CDS             complement(15226..16449)
+                     /gene="trfA1"
+                     /function="initiation of vegetative plasmid replication;
+                     DNA binding"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TrfA1"
+
+     CDS             complement(15226..16083)
+                     /gene="trfA2"
+                     /note="initiation of vegetative plasmid replication; DNA
+                     binding"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="S-TrfA"
 ```
 
 https://pubmed.ncbi.nlm.nih.gov/9753548/
