@@ -750,7 +750,7 @@ https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.26570-0
 
 IncP-1beta1
 R751
-EAU67194
+U67194
 
 https://www.ncbi.nlm.nih.gov/nuccore/U67194
 ```
@@ -1201,6 +1201,65 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2976448/
 
 ----------
 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/table/t0005/?report=objectonly
+https://www.sciencedirect.com/science/article/pii/S2001037018301685#t0005
+Table 1. Lists of plasmids in different incompatibility groups.
+
+
+### IncF
+### F
+
+IncF
+F
+AP001918
+
+https://www.ncbi.nlm.nih.gov/nuccore/AP001918
+LOCUS       AP001918               99159 bp    DNA     circular BCT 29-SEP-2018
+DEFINITION  Escherichia coli K-12 plasmid F DNA, complete sequence.
+
+
+
+### IncR
+### pKP1780
+
+IncR
+pKP1780
+JX424614
+
+https://www.ncbi.nlm.nih.gov/nuccore/JX424614
+```
+LOCUS       JX424614               49770 bp    DNA     linear   BCT 26-JUL-2016
+DEFINITION  Klebsiella pneumoniae plasmid pKP1780, complete sequence.
+```
+
+https://pubmed.ncbi.nlm.nih.gov/23711894/
+J Antimicrob Chemother
+. 2013 Oct;68(10):2259-62. doi: 10.1093/jac/dkt196. Epub 2013 May 27.
+Characterization of pKP1780, a novel IncR plasmid from the emerging Klebsiella pneumoniae ST147, encoding the VIM-1 metallo-β-lactamase
+C C Papagiannitsis 1, V Miriagou, P Giakkoupi, L S Tzouvelekis, A C Vatopoulos
+
+
+
+### IncW
+### R388
+
+IncW
+R388
+BR000038
+
+https://www.ncbi.nlm.nih.gov/nuccore/NC_028464
+https://www.ncbi.nlm.nih.gov/nuccore/BR000038
+```
+LOCUS       BR000038               33913 bp    DNA     circular BCT 09-MAY-2006
+DEFINITION  TPA_inf: Escherichia coli plasmid R388 DNA, complete sequence.
+```
+
+
+
+
+
+----------
 
 
 
