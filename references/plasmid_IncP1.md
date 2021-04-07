@@ -569,13 +569,21 @@ https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.28941-0
 
 RESULTS
 
-Plasmid host range
+**Plasmid host range**
+Host range was tested using P. putida PaW340 as donor against the various representative species listed in Table 1T1 as recipients: Escherichia coli, Alcaligenes eutrophus, Agrobacterium tumefaciens and Cytophaga heparina. Transfer to the C. heparina strain could not be detected for any of the plasmids tested (Table 3T3). However, the RP4 derivative plasmid pQM899 and the IncP-1β plasmids showed a broad host range, being transferred and maintained in all subgroups of the Proteobacteria. Epilithic plasmids pQKH6 and pQM719 showed a pattern of transfer similar to that of the IncP-1β plasmids pJP4 and pSS50, with higher transfer frequencies to A. tumefaciens. The transfer frequency of pQKH54 was somewhat lower to this alphaproteobacterial species but high transfer frequencies, as shown by pQKH6 and pQM719, were detected to the gamma- and betaproteobacteria subgroups. The remaining plasmid tested, pQKH33, only showed a higher transfer frequency to P. putida, with transfer to the other strains at or below the limit of detection.
 
-Epilithic plasmids pQKH6 and pQM719 showed a pattern of transfer similar to that of the IncP-1β plasmids pJP4 and pSS50, with higher transfer frequencies to A. tumefaciens. The transfer frequency of pQKH54 was somewhat lower to this alphaproteobacterial species but high transfer frequencies, as shown by pQKH6 and pQM719, were detected to the gamma- and betaproteobacteria subgroups. 
 
 DNA sequencing and the IncP-1 backbone of pQKH54
 
 The G+C content of the backbone is generally lower than for the other subgroups. If the trb region is excluded beyond the end of trbL (as the majority of these genes are unique to pQKH54), then the mean G+C content of the backbone is 56.5 mol%, while it is 63.1 mol% for RK2 (Pansegrau et al., 1994), 66.6 mol% for R751 (Thorsted et al., 1998) and 62.0 mol% for pEST4011 (Vedler et al., 2004). Thus it appears that pQKH54 has spent a considerable proportion of its recent evolutionary history in species with a lower G+C content than the other branches of the IncP-1 family.
+
+
+
+
+**DISCUSSION**
+
+While pQKH54 clearly belongs to the IncP-1 family it is distinct from IncP-1β plasmids and appears to be somewhat less broad host range than pQKH6 and pQM719. This would also be consistent with the lower G+C content of the genome since it suggests adaptation to a different group of hosts. 
+
 
 
 Fig. 2.
@@ -604,6 +612,8 @@ Plasmid	Hybridization* R751 probes	Hybridization† pQKH6 probes	IncP-1 by repli
 pQKH54	bde	ABCDE	−	+/+	−/−	−	100/10−5/10−2**	aBG
 
 ††Host range is indicated in the same way as in Table 2 T2 . Upper-case letters are used when tested species/strains of that group could receive the plasmid; lower-case letters indicate that transfer frequency into the test strain for that group is significantly reduced. The host range of RP4 was not tested in this study.
+
+
 
 
 
