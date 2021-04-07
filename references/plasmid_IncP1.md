@@ -25,36 +25,6 @@
 - [Yano](#yano)
 
 ----------
-
-https://archaea.i2bc.paris-saclay.fr/wasps/
-
-https://en.wikipedia.org/wiki/Plasmid-mediated_resistance
-
-
-<img alt="" src="" width=50%>
-<img alt="" src="" width=25%>
-![]()
-
-```
-
-```
-
-
-
-IncP-1alpha
-IncP-1beta
-IncP-1beta1
-IncP-1beta2
-IncP-1gamma
-IncP-1delta
-IncP-1epsilon
-IncP-1dzeta
-IncP-1eta
-IncP-1theta
-
-
-
-----------
 ## updates
 
 ## 2020
@@ -208,6 +178,16 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3853059/
 
 
 ### Brown_2013
+
+IncP-1eta
+pDS1
+KC170283
+
+https://www.ncbi.nlm.nih.gov/nuccore/KC170283
+```
+LOCUS       KC170283               40596 bp    DNA     circular ENV 26-JUL-2016
+DEFINITION  Uncultured bacterium plasmid pDS1, complete sequence.
+```
 
 https://pubmed.ncbi.nlm.nih.gov/24096417/
 Appl Environ Microbiol
@@ -869,12 +849,20 @@ The diversity of conjugative relaxases and its application in plasmid classifica
 María Pilar Garcillán-Barcia 1, María Victoria Francia, Fernando de la Cruz
 https://academic.oup.com/femsre/article/33/3/657/591359
 
+The MOBQ family
+
+From the first iteration, the family included a number of relaxases that also appeared in the BLAST search querying TraI_RP4 (the MOBP prototype), indicating that MOBQ and MOBP overlap. 
+
+Figure 9
+
+The members of this clade are related to MOBP, because they appeared in a BLAST using TraI_RP4 as a query. The intersection with MOBP only applied to the MOBQ1 clade. The rest of MOBQ relaxases have further evolved so that similarity with MOBP was not longer detected by PSI-BLAST when using the standard threshold. MOBQ1 relaxases are highly divergent; hence, some internal nodes of this subclade change in the ML topology.
+
 The MOBP cluster
 A PSI-BLAST search using TraI_RP4 as a query and a score threshold P<10−4 converged after 14 iterations and retrieved 259 relaxase sequences (Tables S4–S6). 
 
-#<img alt="" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsre/33/3/10.1111_j.1574-6976.2009.00168.x/1/m_FMR_168_f12.jpeg?Expires=1616421721&Signature=EvcURjpPvEXUliFwoJo4QZiA6yTlbsQUmv03yqtXyjSUzFlofuW3di4fAk8Wbj5eXDhEtNpL0S0eLzSbrt4L-rfbmjPJlvef3b9P6-KcjKp3UUTMSbOcXcSgESN4kpC2R3IGTffeGLrJo5o~d2EuDH-jZdX1KzJJhhRMVNLKVmblXd7LcltzQF9NPYmnSb4stsDMTG-Vo9P2Hk2hERWNpjJ9GU56kFtONrwOLXtpCaZLaH9Z7GTh0ax6sDzpG55YsyqPCmSQQfv60dYT-DLQU2Q4aggcEbaDiYjk5NBfMW2xAfLYm96AzN0fBxd~g~cys6bQ1CoIc3eIw8uCQ3MNeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width=25%>
+#<img alt="" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsre/33/3/10.1111_j.1574-6976.2009.00168.x/1/m_FMR_168_f12.jpeg?Expires=1620716729&Signature=nyh68fd1LQuuisY7DCnpvuUkiTH1ED2aQjYYpSj-16RJFbzL7fq3U1sKUW6p49lK4cbPVQgDlsJ4d8PIsPIcHu-CIA4wAkO3ORFixWNq9qiNlPyL5FmwD87PJzkRVmkfkvKJR6ChYDUFYnzXJLZ6bAFr5aYCGu6zDdEonzvXxrDF~qxuFqSMnDUXh1oF1yVLuwGo9zGPbZAeYo4~mFI3lff2UTweInCwUf6hTs8Htat0TDb3qU~nWFXZChdxcyJ3mgBnFZLxwAcTD~LIwD8t-U79j0ceXTcK5xYSSWQylauAK1wO6Clt5rG534QqCogxpsT8tZOBg10x68ZBTyhKXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" width=25%>
 
-![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsre/33/3/10.1111_j.1574-6976.2009.00168.x/1/m_FMR_168_f12.jpeg?Expires=1616421721&Signature=EvcURjpPvEXUliFwoJo4QZiA6yTlbsQUmv03yqtXyjSUzFlofuW3di4fAk8Wbj5eXDhEtNpL0S0eLzSbrt4L-rfbmjPJlvef3b9P6-KcjKp3UUTMSbOcXcSgESN4kpC2R3IGTffeGLrJo5o~d2EuDH-jZdX1KzJJhhRMVNLKVmblXd7LcltzQF9NPYmnSb4stsDMTG-Vo9P2Hk2hERWNpjJ9GU56kFtONrwOLXtpCaZLaH9Z7GTh0ax6sDzpG55YsyqPCmSQQfv60dYT-DLQU2Q4aggcEbaDiYjk5NBfMW2xAfLYm96AzN0fBxd~g~cys6bQ1CoIc3eIw8uCQ3MNeQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsre/33/3/10.1111_j.1574-6976.2009.00168.x/1/m_FMR_168_f12.jpeg?Expires=1620716729&Signature=nyh68fd1LQuuisY7DCnpvuUkiTH1ED2aQjYYpSj-16RJFbzL7fq3U1sKUW6p49lK4cbPVQgDlsJ4d8PIsPIcHu-CIA4wAkO3ORFixWNq9qiNlPyL5FmwD87PJzkRVmkfkvKJR6ChYDUFYnzXJLZ6bAFr5aYCGu6zDdEonzvXxrDF~qxuFqSMnDUXh1oF1yVLuwGo9zGPbZAeYo4~mFI3lff2UTweInCwUf6hTs8Htat0TDb3qU~nWFXZChdxcyJ3mgBnFZLxwAcTD~LIwD8t-U79j0ceXTcK5xYSSWQylauAK1wO6Clt5rG534QqCogxpsT8tZOBg10x68ZBTyhKXA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 Figure 12
 
@@ -1264,6 +1252,12 @@ DEFINITION  TPA_inf: Escherichia coli plasmid R388 DNA, complete sequence.
 
 
 
+----------
+
+https://archaea.i2bc.paris-saclay.fr/wasps/
+
+https://en.wikipedia.org/wiki/Plasmid-mediated_resistance
+
 
 <img alt="" src="" width=50%>
 <img alt="" src="" width=25%>
@@ -1273,6 +1267,19 @@ DEFINITION  TPA_inf: Escherichia coli plasmid R388 DNA, complete sequence.
 
 ```
 
+
+https://www.koka.ac.jp/morigiwa/sfc/greek.htm
+
+IncP-1alpha
+IncP-1beta
+IncP-1beta1
+IncP-1beta2
+IncP-1gamma
+IncP-1delta
+IncP-1epsilon
+IncP-1dzeta
+IncP-1eta
+IncP-1theta
 
 ----------
 
