@@ -354,13 +354,17 @@ We also isolated a 39,054-bp circular plasmid, pNGTCDC08107, whose sequence was 
 
 ### Pachulec_2010
 
+Neisseria gonorrhoeae strain 5289 plasmid pEP5289
 GU479466
-pEP5289
 
 https://www.ncbi.nlm.nih.gov/nuccore/GU479466
 ```
 LOCUS       GU479466               42004 bp    DNA     circular BCT 06-APR-2020
 DEFINITION  Neisseria gonorrhoeae strain 5289 plasmid pEP5289, complete
+
+  ORGANISM  Neisseria gonorrhoeae
+            Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
+            Neisseriaceae; Neisseria.
 
      CDS             27050..27928
                      /note="oriV activator protein; plasmid replication"
@@ -375,6 +379,7 @@ Conjugative plasmids of Neisseria gonorrhoeae
 Emilia Pachulec 1, Chris van der Does
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009962
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/
+Many clinical isolates of the human pathogen Neisseria gonorrhoeae contain conjugative plasmids. The host range of these plasmids is limited to Neisseria species, 
 Analysis of the backbone sequences showed that they belong to a novel IncP1 subfamily divergent from the IncP1α, β, γ, δ and ε subfamilies. 
 The presence of the toxin and antitoxin on different plasmids might explain why the host range of this IncP1 plasmid is limited to Neisseria species. 
 
