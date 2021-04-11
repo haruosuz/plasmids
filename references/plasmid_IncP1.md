@@ -407,6 +407,10 @@ Comparison of the oriT sequences of different members of the IncP1 subfamilies.
 Figure 5
 Comparison of the oriV iterons of different members of the IncP1 subfamilies.
 
+
+
+
+
 ----------
 
 ### Sen_2010
@@ -855,6 +859,16 @@ The most frequently used initiation codon is AUG but translation for a few open 
 ----------
 ## mob
 
+### Guglielmini_2013
+
+https://pubmed.ncbi.nlm.nih.gov/22977114/
+Mol Biol Evol
+. 2013 Feb;30(2):315-31. doi: 10.1093/molbev/mss221. Epub 2012 Sep 13.
+Evolution of conjugation and type IV secretion systems
+Julien Guglielmini 1, Fernando de la Cruz, Eduardo P C Rocha
+https://academic.oup.com/mbe/article/30/2/315/1013981
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3548315/
+
 ### Garcillan-Barcia_2009
 
 https://pubmed.ncbi.nlm.nih.gov/19396961/
@@ -899,7 +913,12 @@ Conserved sequence motifs in the MOBP1 subclades. Vertical black arrowheads and 
 ----------
 ## unclassified
 
+### CP062120
 
+https://github.com/SionBayliss/PIRATE/issues/65
+gaps in core_alignment.fasta · Issue #65 · SionBayliss/PIRATE
+
+Regarding whole nucleotide sequence, length is longer in CP062120 (197271 bp) than in the other sequences (
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP062120
 ```
@@ -924,12 +943,13 @@ DEFINITION  Aminobacter sp. SR38 plasmid pSR8.
                      /product="transcriptional regulator"
 ```
 
-
 https://www.ncbi.nlm.nih.gov/protein/WP_011114072
+```
 LOCUS       WP_011114072             406 aa            linear   BCT 27-APR-2020
 DEFINITION  MULTISPECIES: replication initiator protein A [Bacteria].
+```
 
-
+### CP050254
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP050254
 ```
@@ -940,13 +960,6 @@ DEFINITION  Orbus sp. IPMB12 plasmid pIPMB12, complete sequence.
 
                      /product="TrfA protein"
 ```
-
-
-https://github.com/SionBayliss/PIRATE/issues/65
-gaps in core_alignment.fasta · Issue #65 · SionBayliss/PIRATE
-
-
-
 
 ### del_Castillo_2013
 
@@ -990,8 +1003,6 @@ Carmelo S del Castillo 1, Ho Bin Jang, Jun-Ichi Hikima, Tae Sung Jung, Hideaki M
 https://www.sciencedirect.com/science/article/abs/pii/S0924857913001015?via%3Dihub
 
 *Get Access*
-
-
 
 
 ----------
