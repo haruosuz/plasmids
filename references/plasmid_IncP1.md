@@ -133,7 +133,9 @@ DEFINITION  Methylomicrobium alcaliphilum str. 20Z plasmid MEALZ_p, complete
 
 ### Robson_2015
 
-IncP1-γ
+IncP-1gamma
+pAcX50c
+CP010418
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP010418
 ```
