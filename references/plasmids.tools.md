@@ -7,8 +7,10 @@
 - [tools](#tools)
 
 
-----------
 
+https://twitter.com/search?q=plasmid%20database&src=typed_query&f=live
+
+----------
 
 ### MOB-suite
 https://github.com/phac-nml/mob-suite
@@ -23,11 +25,13 @@ Microb Genom
 Universal whole-sequence-based plasmid typing and its utility to prediction of host range and epidemiological surveillance
 James Robertson 1, Kyrylo Bessonov 1, Justin Schonfeld 1, John H E Nash 1
 https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000435#tab2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7660255/
 
 https://www.ncbi.nlm.nih.gov/pubmed/30052170
 Microb Genom. 2018 Aug;4(8). doi: 10.1099/mgen.0.000206. Epub 2018 Jul 27.
 MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
 Robertson J1, Nash JHE2.
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000206#tab2
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6159552/
 - Introduction
   - There is a strong need for automatic tools for the detection of plasmids from WGS data and numerous tools have been developed using a diverse array of approaches [1, 4, 16–18]. 
@@ -100,6 +104,10 @@ https://aac.asm.org/content/58/7/3895.long
 
 ## 2020
 
+
+
+
+
 Aug 20, 2020
 https://twitter.com/mSphereJ/status/1296110566424141825
 mSphere EIC on Twitter: "Tracking of Antibiotic Resistance Transfer and Rapid Plasmid Evolution in a Hospital Setting by Nanopore Sequencing https://t.co/VLrQf6hJsc @ASMicrobiology #mSphere" / Twitter
@@ -109,13 +117,18 @@ Tracking of Antibiotic Resistance Transfer and Rapid Plasmid Evolution in a Hosp
 - pathoLogic, plasmIDent and a graphical user interface (GUI) are freely available on github (plasmIDent pipeline, https://github.com/imgag/plasmIDent; pathoLogic pipeline, https://github.com/imgag/pathoLogic).
 
 
+
+### COMPASS
+https://github.com/itsmeludo/COMPASS
+
 https://www.ncbi.nlm.nih.gov/pubmed/32265894
 Front Microbiol. 2020 Mar 24;11:483. doi: 10.3389/fmicb.2020.00483. eCollection 2020.
 Analysis of COMPASS, a New Comprehensive Plasmid Database Revealed Prevalence of Multireplicon and Extensive Diversity of IncF Plasmids.
 Douarre PE1, Mallet L1, Radomski N1, Felten A1, Mistou MY2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7105883/
 https://www.frontiersin.org/articles/10.3389/fmicb.2020.00483/full
-https://github.com/itsmeludo/COMPASS
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7105883/
+
+
 
 
 
@@ -147,20 +160,6 @@ Sergio Arredondo-Alonso 1, Martin Bootsma 2 3, Yaïr Hein 3, Malbert R C Rogers 
 
 ## 2019
 
-### WASPS
-
-https://www.ncbi.nlm.nih.gov/pubmed/31589313
-Bioinformatics. 2019 Oct 7. pii: btz745. doi: 10.1093/bioinformatics/btz745. [Epub ahead of print]
-WASPS: Web-Assisted Symbolic Plasmid Synteny Server.
-Badel C1, Da Cunha V1, Catchpole R1, Forterre P1,2, Oberto J1.
-https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz745/5582648
-
-Recently, plasmid assets have been developed proposing either a comprehensive manually curated bacterial plasmid list (Brooks et al., 2019) or a bacterial plasmid database which can be interrogated using sequence similarity programs (Galata et al., 2019). 
-
-https://twitter.com/search?q=plasmid%20database&src=typed_query&f=live
-Oct 15
-WASPS, a new plasmid web service for similarity analyses and synteny map construction. Also includes a comprehensive and updated natural plasmid database.
-
 
 ### 
 
@@ -170,6 +169,24 @@ Comparison of de-novo assembly tools for plasmid metagenome analysis.
 Gupta SK1, Raza S1, Unno T2,3.
 https://link.springer.com/article/10.1007/s13258-019-00839-1
 we suggest that the use of MEGAHIT for plasmid metagenome analysis may offer more diverse plasmids with less computer resource required.
+
+
+### WASPS
+https://archaea.i2bc.paris-saclay.fr/wasps/
+
+https://pubmed.ncbi.nlm.nih.gov/31589313/
+Bioinformatics
+. 2020 Mar 1;36(5):1629-1631. doi: 10.1093/bioinformatics/btz745.
+WASPS: web-assisted symbolic plasmid synteny server
+Catherine Badel 1, Violette Da Cunha 1, Ryan Catchpole 1, Patrick Forterre 1 2, Jacques Oberto 1
+https://academic.oup.com/bioinformatics/article/36/5/1629/5582648
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7703779/
+
+Recently, plasmid assets have been developed proposing either a comprehensive manually curated bacterial plasmid list (Brooks et al., 2019) or a bacterial plasmid database which can be interrogated using sequence similarity programs (Galata et al., 2019). 
+
+2:32 AM · Oct 15, 2019
+https://twitter.com/Catherine_Badel/status/1183797777110843393
+Catherine Badel on Twitter: "WASPS, a new plasmid web service for similarity analyses and synteny map construction. Also includes a comprehensive and updated natural plasmid database. https://t.co/ee2kqXEAoz" / Twitter
 
 ### HyAsP
 https://github.com/cchauve/HyAsP
@@ -302,6 +319,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/30637385
 Microbiol Resour Announc. 2019 Jan 3;8(1). pii: e01325-18. doi: 10.1128/MRA.01325-18. eCollection 2019 Jan.
 A Curated, Comprehensive Database of Plasmid Sequences.
 Brooks L1, Kaze M2, Sistrom M2.
+https://mra.asm.org/content/8/1/e01325-18
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6318356/
 ftp://ftp.ncbi.nlm.nih.gov/refseq/release/plasmid/, resulting in 11,677 plasmid sequences. 
 This resulted in 7,426 complete and assembled plasmid sequences following this initial screening.
@@ -310,10 +328,16 @@ This allowed us to include an additional 3,466 complete, annotated plasmid seque
 
 Data availability. The plasmid database is available in fasta format and associated metadata are available in csv format at https://doi.org/10.15146/R33X2J.
 
-https://www.ncbi.nlm.nih.gov/pubmed/30625112
-Microb Genom. 2019 Jan;5(1). doi: 10.1099/mgen.0.000244.
-Where the plasmids roam: large-scale sequence analysis reveals plasmids with large host ranges.
-Brooks LE1,2, Kaze M2, Sistrom M2.
+
+https://pubmed.ncbi.nlm.nih.gov/30625112/
+Microb Genom
+. 2019 Jan;5(1):e000244. doi: 10.1099/mgen.0.000244.
+Where the plasmids roam: large-scale sequence analysis reveals plasmids with large host ranges
+Lauren Elisabeth Brooks 1 2, Mo Kaze 2, Mark Sistrom 2
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000244#tab2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6412061/
+
+
 
 https://twitter.com/Tyu_Shi/status/1083013705514680320
 Tyu_Shi on Twitter: "論文読んだ限りこのmethodでcuratedでcomprehensiveなplasmid sequence databaseと言う気にはならないな。"A Curated, Comprehensive Database of Plasmid Sequences" https://t.co/hndJfjzrYd 出張先なので800MB超のファイルダウンロードするのは避けたいが、 帰ったら一応ダウンロードしてみよう。"
@@ -360,11 +384,12 @@ https://ccb-microbe.cs.uni-saarland.de/plsdb/
 https://integbio.jp/dbcatalog/record/nbdc02515
 NCBI nucleotide database から取得したバクテリアプラスミドの配列とメタデータを整理したデータベースです。各レコードには配列長、トポロジー、分類学的情報のような種々のパラメータを付けており、これらでフィルタリングができます。 また、コンティグやロングリードのようなより長い配列についてはMashを使用することによって、遺伝子のようなより短い配列についてはBLASTnを使用することによって配列を検索することが可能です。
 
-https://www.ncbi.nlm.nih.gov/pubmed/30380090
-Nucleic Acids Res. 2018 Oct 31. doi: 10.1093/nar/gky1050. [Epub ahead of print]
-PLSDB: a resource of complete bacterial plasmids.
-Galata V1, Fehlmann T1, Backes C1, Keller A1.
-Here, we present PLSDB, a resource containing 13 789 plasmid records collected from the NCBI nucleotide database. 
+https://pubmed.ncbi.nlm.nih.gov/30380090/
+Nucleic Acids Res
+. 2019 Jan 8;47(D1):D195-D202. doi: 10.1093/nar/gky1050.
+PLSDB: a resource of complete bacterial plasmids
+Valentina Galata 1, Tobias Fehlmann 1, Christina Backes 1, Andreas Keller 1
+https://academic.oup.com/nar/article/47/D1/D195/5149885
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323999/
 Data retrieval and processing pipeline
 Data collection
@@ -485,17 +510,19 @@ Plasmid detection and assembly in genomic and metagenomic data sets.
 Antipov D#1, Raiko M#1, Lapidus A1, Pevzner PA1,2.
 
 
-### [plasmidSPAdes](http://spades.bioinf.spbau.ru/plasmidSPAdes/)
-  - [plasmidSPAdes - Twitter Search](https://twitter.com/search?f=tweets&vertical=default&q=plasmidSPAdes&src=typd)
-  - [SPAdes – Center for Algorithmic Biotechnology](http://cab.spbu.ru/software/spades/)
-    - [SPAdes 3.10.1 Manual](http://cab.spbu.ru/files/release3.10.1/manual.html)
-  - [SPAdes Genome Assembler | Algorithmic Biology Lab](http://bioinf.spbau.ru/spades)
-    - [SPAdes 3.9.0 Manual](http://spades.bioinf.spbau.ru/release3.9.0/manual.html)
+### plasmidSPAdes
+- https://cab.spbu.ru/software/plasmid-spades/
+- https://cab.spbu.ru/software/spades/
+- https://cab.spbu.ru/files/release3.15.2/manual.html
 
-https://www.ncbi.nlm.nih.gov/pubmed/27466620
-Bioinformatics. 2016 Nov 15;32(22):3380-3387. Epub 2016 Jul 27.
-plasmidSPAdes: assembling plasmids from whole genome sequencing data.
-Antipov D1, Hartwick N2, Shen M3, Raiko M2, Lapidus A1, Pevzner PA1,2
+https://pubmed.ncbi.nlm.nih.gov/27466620/
+Bioinformatics
+. 2016 Nov 15;32(22):3380-3387. doi: 10.1093/bioinformatics/btw493. Epub 2016 Jul 27.
+plasmidSPAdes: assembling plasmids from whole genome sequencing data
+Dmitry Antipov 1, Nolan Hartwick 2, Max Shen 3, Mikhail Raiko 2, Alla Lapidus 1, Pavel A Pevzner 1 2
+https://academic.oup.com/bioinformatics/article/32/22/3380/2525610
+
+
 
 
 
@@ -667,6 +694,12 @@ https://www.cira.kyoto-u.ac.jp/hotta/link.html
 ### kazumaxneo
 http://kazumaxneo.hatenablog.com/archive/category/plasmid
 plasmid カテゴリーの記事一覧 - macでインフォマティクス
+
+
+
+http://kazumaxneo.hatenablog.com/entry/2020/07/01/140556
+ターゲットアセンブリにより保存されたプラスミド配列を再構成してアノテーションをつける PlasmidID - macでインフォマティクス
+
 
 http://kazumaxneo.hatenablog.com/entry/2019/10/09/234533
 メタゲノムのアセンブリ配列からファージやプラスミドを予測する PPR-Meta - macでインフォマティクス
