@@ -133,7 +133,7 @@ DEFINITION  Methylomicrobium alcaliphilum str. 20Z plasmid MEALZ_p, complete
 
 ### Robson_2015
 
-IncP-1gamma
+IncP-1gamma?
 pAcX50c
 CP010418
 
@@ -251,7 +251,7 @@ To detect recombination among the plasmids in the data set, alignment files of t
 Fig. 2.
 Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: supported by 46% of gene trees, namely, those of trfA2, trbA, trbC, trbG, traG, traH, traI, kfrA, kfrB, kfrC, korB, korA, and kleE. (B) Topology 2: supported by gene trees of trbD, trbK, and traJ. (C) Topology 3: supported by gene trees of trbF, trbI, and traE. (D) Topology 4: supported by gene trees of korC and klcA. Trees were rooted using IncP-1γ as outgroup.
 
-#<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg" width=25%>
+<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg" width=25%>
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg)
 
 For the concatenated tree (shown in fig. 3), individual genes were aligned and concatenated in the order in which they appear on IncP-1 plasmids: trfA2, trbA, trbB, trbC, trbD, trbF, trbG, trbI, trbJ, trbK, traD, traE, traF, traG, traH, traI, traJ, traK, traL, kfrC, kfrB, kfrA, korB, incC, korA, kleE, korC, and klcA (fig. 1). The concatenated tree had the same topology as topology 3 described (fig. 2C). It represents the null hypothesis that all genes have a single history (i.e., all gene trees are estimates of a single-gene tree) as would be the case in the absence of recombination, either within or among groups.
@@ -259,9 +259,8 @@ For the concatenated tree (shown in fig. 3), individual genes were aligned and c
 Fig. 3.
 ML tree of concatenated data estimated from a partitioned analysis based on codon position. Nodal support is shown as nonparametric ML bootstrap values. The tree was rooted using IncP-1γ as outgroup.
 
-#<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f3p.jpg" width=50%>
+<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f3p.jpg" width=50%>
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f3p.jpg)
-
 
 ----------
 
@@ -308,6 +307,7 @@ Figure 2
 Phylogenetic analysis of the IncP-1 plasmid backbone.
 (a) Phylogenetic network based on the concatenated backbone regions A, B and C of 25 IncP-1 plasmids. The network displays seven main clades, including a novel clade containing the two newly sequenced plasmids pMCBF1 (in bold) and two sub-clades, β-1 and β-2, of the previously described β-clade. The putative recent recombinant plasmids pIJB1 and pAOVO02 are marked with red ellipses. (b) Phylogenetic network excluding the putative recent recombinant plasmids pIJB1 and pAOVO02.
 
+<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104523/bin/ncomms1267-f2.jpg" width=50%>
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104523/bin/ncomms1267-f2.jpg)
 
 Sequences of pMCBF1 and pMCBF6 were deposited in GenBank; Nucleotide Core #(accession AY950444 and EF107516).
@@ -327,6 +327,8 @@ cNA, not applicable; integrated in host chromosome.
 
 FIG. 1.
 Phylogeny of IncP-1 TrfA homologues. Presented is a neighbor joining tree (1,000 bootstrap iterations) based on alignment of TrfA amino acid sequences. 
+
+![](https://aem.asm.org/content/aem/77/7/2522/F1.medium.gif)
 
 ----------
 
@@ -401,7 +403,7 @@ Figure 3
 Phylogenetic analysis of genes of different IncP1 plasmids.
 The TraI (A), TrbE (B), TraG (C) and TrfA (D) proteins of the neisserial conjugative plasmids and of representative members of different IncP1 plasmid subfamilies (α, RP4; β, pADP-1; γ, QKH54; δ, pEST4011 and ε, pKJK5) representative for different regions of the conjugative plasmids were used to create phylogenetic trees of the IncP1 plasmid family. (For details see materials and methods).
 
-# <img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg" width=25%>
+<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg" width=25%>
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg)
 
 Figure 4
@@ -409,10 +411,6 @@ Comparison of the oriT sequences of different members of the IncP1 subfamilies.
 
 Figure 5
 Comparison of the oriV iterons of different members of the IncP1 subfamilies.
-
-
-
-
 
 ----------
 
@@ -437,6 +435,22 @@ Comparative genomics of pAKD4, the prototype IncP-1delta plasmid with a complete
 Diya Sen 1, Hirokazu Yano, Haruo Suzuki, Jaroslaw E Król, Linda Rogers, Celeste J Brown, Eva M Top
 https://www.sciencedirect.com/science/article/abs/pii/S0147619X09001267?via%3Dihub
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/
+
+Moreover, since both pEST4011 and pIJB1 are missing a portion of their transfer genes, pAKD4 represents the first completely sequenced self-transferable plasmid with a complete IncP-1δ backbone. We therefore propose it to be the prototype IncP-1δ plasmid.
+
+3.2.1. The replication initiation protein TrfA
+An interesting feature of the IncP-1δ plasmids is the replication initiation gene trfA. In most IncP-1 plasmids known so far this gene has two in-frame translational start codons, and thus encodes a long TrfA1 and a shorter TrfA2 protein (also called TrfA-44 and TrfA-33 in IncP-1α plasmid RK2) [31]. Interestingly, since all three IncP-1δ plasmids are missing the 5′end of trfA, which encodes the start codon for and the N-terminal region (350 bp) of TrfA1, TrfA2 is the only replication initiation protein encoded by these plasmids. The 3′-end of the ssb gene, which is usually found upstream of trfA in most IncP-1 plasmids, is also missing in these plasmids. This gene codes for a single strand DNA-binding protein, which helps in DNA replication, recombination and repair. TrfA1 and Ssb proteins play a crucial role in plasmid replication in some bacterial hosts such as P. aeruginosa and may not be needed in some others such as P. putida and E. coli [32]. Therefore we postulate that IncP-1δ plasmids co-evolved with hosts that do not require TrfA1 and Ssb proteins and thereby contracted their host range. Further research is needed to test this hypothesis.
+
+3.2.4. Phylogenetic analysis of plasmid pAKD4
+To confirm that pAKD4 is an IncP-1δ plasmid, a maximum likelihood tree was inferred from concatenated sequences of 20 backbone proteins shared by all IncP-1 plasmids and pAKD4 (Fig. 3). Note that none of the trbF-P genes missing in pEST4011 were included in this list. Also, of the two sets of trbABCD genes on pIJB1, only the ones having 99% identity to pAKD4 and pEST4011 were used. This tree shows that the three IncP-1δ plasmids share a common ancestor and form a monophyletic group.
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/bin/nihms-171031-f0003.jpg)
+
+Figure 3
+Phylogenetic tree showing the relationship of pAKD4 with other IncP-1 plasmids. Maximum Likelihood tree was inferred from concatenated amino acid sequences of 20 backbone proteins shared by completely sequenced IncP-1 plasmids and pAKD4. The scale bar represents the probability of amino acid substitutions per site. References for the plasmids used to construct the phylogenetic tree are given in the Materials and Methods section.
+
+3.5. Plasmid host range
+To confirm previous findings that plasmid pAKD4 can transfer and replicate in γ- and β-Proteobacteria, but not in α-Proteobacteria [19], the host range of pAKD4 was examined again. We showed transfer of pAKD4 from its laboratory host P. putida UWC1 (γ-Proteobacteria) to P. putida KT2442::gfp (γ-Proteobacteria), E. coli CV601::gfp (γ-Proteobacteria) and C. necator JMP228 (β-Proteobacteria), but transfer to Agrobacterium tumefaciens UBAPF2::gfp (α-Proteobacteria) could not be detected (data not shown). This is in agreement with previous results [19] and confirms that pAKD4 is a broad-host-range plasmid, albeit with a narrower host range than most other IncP-1 plasmids. Future rigorous host range studies will be needed to determine to what extent truncation of ssb and trfA in the IncP-1δ plasmids, or other missing backbone genes, caused a contraction of their host range, and if natural recombination events like the one that likely resulted in plasmid pIJB1, can reverse that host range contraction.
 
 ----------
 
@@ -685,6 +699,34 @@ https://www.sciencedirect.com/science/article/abs/pii/S0147619X05001289?via%3Dih
 
 ## 2004
 
+### Vedler_2004
+
+IncP-1delta
+pEST4011
+AY540995
+
+https://www.ncbi.nlm.nih.gov/nuccore/AY540995
+```
+LOCUS       AY540995               76958 bp    DNA     circular BCT 03-APR-2020
+DEFINITION  Achromobacter xylosoxidans subsp. denitrificans strain EST4002
+            plasmid pEST4011, complete sequence.
+```
+
+https://pubmed.ncbi.nlm.nih.gov/15489427/
+J Bacteriol
+. 2004 Nov;186(21):7161-74. doi: 10.1128/JB.186.21.7161-7174.2004.
+The completely sequenced plasmid pEST4011 contains a novel IncP1 backbone and a catabolic transposon harboring tfd genes for 2,4-dichlorophenoxyacetic acid degradation
+Eve Vedler 1, Merle Vahter, Ain Heinaru
+
+https://jb.asm.org/content/186/21/7161.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC523222/
+We show that despite the overall similarity in plasmid organization, the pEST4011 backbone is sufficiently different (51 to 86% amino acid sequence identity between individual backbone genes) from the backbones of members of the three IncP1 subgroups (theα , β, and γ subgroups) that it belongs to a new IncP1subgroup, the δ subgroup. This conclusion was also supported by a phylogenetic analysis of the trfA2, korA, and traG gene products of different IncP1 plasmids.
+
+The bootstrapped neighbor-joining trees derived from these alignments (obtained by using the program CLUSTALX) (Fig. ​(Fig.7)7) showed that pEST4011 TrfA, KorA, and TraG are distinct from all other corresponding sequences and that they occupy individual branches of each tree. Similar results were obtained with the different PHYLIP programs used (data not shown). As C. M. Thomas and coworkers have assigned plasmid pQKH54 (14) to the γ subgroup (personal communication) and the amino acid sequence of TrfA of pQKH54 appeared to be different from the pEST4011 TrfA sequence (unpublished data), we placed pEST4011 in a new IncP1 subgroup, the δ subgroup. The other four IncP1 catabolic plasmids sequenced, pJP4, pADP-1, pUO1, and pTSA, together with pIJB1, possess the well-conserved IncP1 subgroup β backbone. The TrfA2 phylogenetic tree (Fig. ​(Fig.7A)7A) shows that the 2,4-D-degradative plasmid pEMT3 is also different from all other IncP1 plasmids and could also form a separate subgroup. Unfortunately, the incompatibility group of the 2,4-D-degradative plasmid pTV1 is unknown (T. Vallaeys, personal communication).
+
+FIG. 7.
+Bootstrapped neighbor-joining trees derived from multiple alignments of trfA2 (A), korA (B), and traG (C) gene products of different IncP1 plasmids, constructed with the CLUSTALX program. The GenBank accession numbers of the proteins are indicated in parentheses. The numbers at the nodes of the trees represent the bootstrap values (1,000 replicates) for each node.
+
 ### Trefault_2004
 
 pJP4
@@ -855,9 +897,6 @@ W Pansegrau 1, E Lanka, P T Barth, D H Figurski, D G Guiney, D Haas, D R Helinsk
 https://www.sciencedirect.com/science/article/abs/pii/S0022283684714045?via%3Dihub
 The IncP alpha promiscuous plasmid (R18, R68, RK2, RP1 and RP4) comprises 60,099 bp of nucleotide sequence, encoding at least 74 genes. 
 The most frequently used initiation codon is AUG but translation for a few open reading frames begins at GUG or UUG. The most common stop-codon is UGA followed by UAA and then UAG. 
-
-
-
 
 ----------
 ## mob
