@@ -251,19 +251,16 @@ To detect recombination among the plasmids in the data set, alignment files of t
 Fig. 2.
 Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: supported by 46% of gene trees, namely, those of trfA2, trbA, trbC, trbG, traG, traH, traI, kfrA, kfrB, kfrC, korB, korA, and kleE. (B) Topology 2: supported by gene trees of trbD, trbK, and traJ. (C) Topology 3: supported by gene trees of trbF, trbI, and traE. (D) Topology 4: supported by gene trees of korC and klcA. Trees were rooted using IncP-1γ as outgroup.
 
+#<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg" width=25%>
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg)
-
-<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg" width=25%>
 
 For the concatenated tree (shown in fig. 3), individual genes were aligned and concatenated in the order in which they appear on IncP-1 plasmids: trfA2, trbA, trbB, trbC, trbD, trbF, trbG, trbI, trbJ, trbK, traD, traE, traF, traG, traH, traI, traJ, traK, traL, kfrC, kfrB, kfrA, korB, incC, korA, kleE, korC, and klcA (fig. 1). The concatenated tree had the same topology as topology 3 described (fig. 2C). It represents the null hypothesis that all genes have a single history (i.e., all gene trees are estimates of a single-gene tree) as would be the case in the absence of recombination, either within or among groups.
 
 Fig. 3.
 ML tree of concatenated data estimated from a partitioned analysis based on codon position. Nodal support is shown as nonparametric ML bootstrap values. The tree was rooted using IncP-1γ as outgroup.
 
-
+#<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f3p.jpg" width=50%>
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f3p.jpg)
-
-<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f3p.jpg" width=50%>
 
 ----------
 
@@ -310,8 +307,8 @@ Figure 2
 Phylogenetic analysis of the IncP-1 plasmid backbone.
 (a) Phylogenetic network based on the concatenated backbone regions A, B and C of 25 IncP-1 plasmids. The network displays seven main clades, including a novel clade containing the two newly sequenced plasmids pMCBF1 (in bold) and two sub-clades, β-1 and β-2, of the previously described β-clade. The putative recent recombinant plasmids pIJB1 and pAOVO02 are marked with red ellipses. (b) Phylogenetic network excluding the putative recent recombinant plasmids pIJB1 and pAOVO02.
 
+#<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104523/bin/ncomms1267-f2.jpg" width=50%>
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104523/bin/ncomms1267-f2.jpg)
-<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104523/bin/ncomms1267-f2.jpg" width=50%>
 
 Sequences of pMCBF1 and pMCBF6 were deposited in GenBank; Nucleotide Core #(accession AY950444 and EF107516).
 
