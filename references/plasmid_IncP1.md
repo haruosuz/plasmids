@@ -242,6 +242,19 @@ Diya Sen 1, Celeste J Brown, Eva M Top, Jack Sullivan
 https://academic.oup.com/mbe/article/30/1/154/1020766
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/
 
+Introduction
+
+Fig. 1.
+Genetic map of a typical IncP-1 plasmid showing the different functional modules:
+
+Phylogenies inferred from single or concatenated backbone genes have shown the IncP-1 group to be composed of five diverse subgroups: IncP-1α, -β, -γ, -δ, and -ε (Pansegrau et al. 1994; Thorsted et al. 1998; Vedler et al. 2004; Haines et al. 2006; Bahl et al. 2007). Recently, three new potential IncP-1 subgroups have been identified: ζ (Norberg et al. 2011), η (Sen D, Yano H, Bauer M, Rogers LM, Van der Auwera GA, Brown C, and Top E, unpublished), and an unnamed subgroup (Pachulec and van der Does 2010), thus indicating the tremendous diversity that exists within this plasmid group. The biological significance of these subgroups is unknown, and more work is required to distinguish between them phenotypically.
+
+Materials and Methods
+Plasmids and Genes
+
+The plasmids from the recently proposed ζ, η, and an unnamed subgroups (see Introduction) were not included because their sequences only became publically available in the middle of this study and because of their wide sequence divergence and lack of evidence that they are physically incompatible with the prototype IncP-1 plasmids.
+
+
 Nucleotide Sequence Alignments and Model Selection
 The amino acid sequences of each gene were aligned with ClustalX (Thompson et al. 2002). Tranalign (Rice et al. 2000) was used to align the nucleotide sequences of each gene guided by the aligned amino acid sequences. 
 
