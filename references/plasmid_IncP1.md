@@ -17,6 +17,7 @@
 [1998](#1998)
 - [](#)
 - [mob](#mob)
+- [Neisseria gonorrhoeae](#neisseria-gonorrhoeae)
 - [unclassified](#unclassified)
 - [outgroup](#outgroup)
 - [non-IncP1](#non-IncP1)
@@ -345,89 +346,15 @@ Phylogeny of IncP-1 TrfA homologues. Presented is a neighbor joining tree (1,000
 
 ![](https://aem.asm.org/content/aem/77/7/2522/F1.medium.gif)
 
+
 ----------
 
 ## 2011
-
-https://www.ncbi.nlm.nih.gov/nuccore/CP002441
-```
-LOCUS       CP002441               39054 bp    DNA     circular BCT 25-JUL-2016
-DEFINITION  Neisseria gonorrhoeae TCDC-NG08107 plasmid pNGTCDC08107, complete
-
-     CDS             31659..32537
-
-                     /product="TrfA"
-```
-
-https://pubmed.ncbi.nlm.nih.gov/21257765/
-J Bacteriol
-. 2011 Apr;193(7):1788-9. doi: 10.1128/JB.00007-11. Epub 2011 Jan 21.
-Draft genome sequence of a dominant, multidrug-resistant Neisseria gonorrhoeae strain, TCDC-NG08107, from a sexual group at high risk of acquiring human immunodeficiency virus infection and syphilis
-Chun-Chen Chen 1, Ko-Chiang Hsia, Chung-Ter Huang, Wing-Wai Wong, Muh-Yong Yen, Lan-Hui Li, Kun-Yen Lin, Kuo-Wei Chen, Shu-Ying Li
-https://jb.asm.org/content/193/7/1788.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067668/
-We also isolated a 39,054-bp circular plasmid, pNGTCDC08107, whose sequence was ∼3 kb shorter than but nearly identical to that of pEP5289 (GenBank accession no. GU479466), which has a Dutch-type backbone (7).
 
 ----------
 
 ## 2010
 
-### Pachulec_2010
-
-Neisseria gonorrhoeae strain 5289 plasmid pEP5289
-GU479466
-
-https://www.ncbi.nlm.nih.gov/nuccore/GU479466
-```
-LOCUS       GU479466               42004 bp    DNA     circular BCT 06-APR-2020
-DEFINITION  Neisseria gonorrhoeae strain 5289 plasmid pEP5289, complete
-
-  ORGANISM  Neisseria gonorrhoeae
-            Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
-            Neisseriaceae; Neisseria.
-
-     CDS             27050..27928
-                     /note="oriV activator protein; plasmid replication"
-
-                     /product="TrfA"
-```
-
-https://pubmed.ncbi.nlm.nih.gov/20376355/
-PLoS One
-. 2010 Apr 1;5(4):e9962. doi: 10.1371/journal.pone.0009962.
-Conjugative plasmids of Neisseria gonorrhoeae
-Emilia Pachulec 1, Chris van der Does
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009962
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/
-Many clinical isolates of the human pathogen Neisseria gonorrhoeae contain conjugative plasmids. The host range of these plasmids is limited to Neisseria species, 
-Analysis of the backbone sequences showed that they belong to a novel IncP1 subfamily divergent from the IncP1α, β, γ, δ and ε subfamilies. 
-The presence of the toxin and antitoxin on different plasmids might explain why the host range of this IncP1 plasmid is limited to Neisseria species. 
-
-Results
-
-Complete sequencing of the plasmid (pEP5289) resulted in a sequence of 42.004 bp. 
-
-Figure 1
-Circular map of the Neisserial conjugative plasmid (pEP5289) with the Dutch type tetM determinant and a Dutch type backbone.
-
-
-The conjugative plasmids with the Dutch type backbone are phylogenetically divergent from the other IncP1 sub-families
-The modular arrangement of the conjugative plasmid and derivates thereof, the absence of several genes often found in the IncP1-α subfamily, and an insertion of an additional module suggested that these plasmids are members of the IncP1-β sub-family. To verify placement of the plasmids in the IncP1-β sub-family, a phylogenetic analysis was performed on the TraI and TraG proteins encoded in the Tra region, the TrbE and TrbC proteins encoded in the Trb region, and the TrfA and KorB proteins encoded within the Rep and Ctl regions. Neighbor-joining tree containing representative members of the different IncP1 plasmid subfamilies (α, RP4; β, pADP-1; γ, QKH54; δ, pEST4011 and ε, pKJK5) and the neisserial conjugative plasmids with the Dutch type backbone were created (See figure 3). Remarkably this showed that these neisserial conjugative plasmids fall within the IncP1 family, but are phylogenetically divergent from the other IncP1 sub-families, and are members of a new subfamily.
-
-Figure 3
-Phylogenetic analysis of genes of different IncP1 plasmids.
-The TraI (A), TrbE (B), TraG (C) and TrfA (D) proteins of the neisserial conjugative plasmids and of representative members of different IncP1 plasmid subfamilies (α, RP4; β, pADP-1; γ, QKH54; δ, pEST4011 and ε, pKJK5) representative for different regions of the conjugative plasmids were used to create phylogenetic trees of the IncP1 plasmid family. (For details see materials and methods).
-
-<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg" width=25%>
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg)
-
-Figure 4
-Comparison of the oriT sequences of different members of the IncP1 subfamilies.
-
-Figure 5
-Comparison of the oriV iterons of different members of the IncP1 subfamilies.
-
-----------
 
 ### Sen_2010
 
@@ -966,6 +893,111 @@ Conserved sequence motifs in the MOBP1 subclades. Vertical black arrowheads and 
 
 ----------
 
+## Neisseria gonorrhoeae
+
+### Cherdtrakulkiat_2020
+
+Neisseria gonorrhoeae strain NG196 plasmid p1
+CP043872
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP043872
+```
+LOCUS       CP043872               41355 bp    DNA     circular BCT 11-MAY-2020
+DEFINITION  Neisseria gonorrhoeae strain NG196 plasmid p1, complete sequence.
+```
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP043871
+```
+LOCUS       CP043871             2218879 bp    DNA     circular BCT 11-MAY-2020
+DEFINITION  Neisseria gonorrhoeae strain NG196 chromosome, complete genome.
+```
+
+https://pubmed.ncbi.nlm.nih.gov/32381609/
+Microbiol Resour Announc
+. 2020 May 7;9(19):e00198-20. doi: 10.1128/MRA.00198-20.
+Complete Genome Sequences of Three Neisseria gonorrhoeae Isolates from Thailand with Multidrug Resistance and Multilocus Sequence Type 1903
+Thitima Cherdtrakulkiat 1 2 3, Thidathip Wongsurawat 4, Piroon Jenjaroenpun 4, Sawannee Sutheeworapong 5, Wanna Leelawiwat 1 2, Andrew C Hickey 1 2, Eileen F Dunne 1 2, Boonyos Raengsakulrach 1 2, Chanwit Tribuddharat 6
+https://mra.asm.org/content/9/19/e00198-20
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206487/
+
+
+### Chen_2011
+
+Neisseria gonorrhoeae TCDC-NG08107 plasmid pNGTCDC08107
+CP002441
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP002441
+```
+LOCUS       CP002441               39054 bp    DNA     circular BCT 25-JUL-2016
+DEFINITION  Neisseria gonorrhoeae TCDC-NG08107 plasmid pNGTCDC08107, complete
+
+     CDS             31659..32537
+
+                     /product="TrfA"
+```
+
+https://pubmed.ncbi.nlm.nih.gov/21257765/
+J Bacteriol
+. 2011 Apr;193(7):1788-9. doi: 10.1128/JB.00007-11. Epub 2011 Jan 21.
+Draft genome sequence of a dominant, multidrug-resistant Neisseria gonorrhoeae strain, TCDC-NG08107, from a sexual group at high risk of acquiring human immunodeficiency virus infection and syphilis
+Chun-Chen Chen 1, Ko-Chiang Hsia, Chung-Ter Huang, Wing-Wai Wong, Muh-Yong Yen, Lan-Hui Li, Kun-Yen Lin, Kuo-Wei Chen, Shu-Ying Li
+https://jb.asm.org/content/193/7/1788.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3067668/
+We also isolated a 39,054-bp circular plasmid, pNGTCDC08107, whose sequence was ∼3 kb shorter than but nearly identical to that of pEP5289 (GenBank accession no. GU479466), which has a Dutch-type backbone (7).
+
+### Pachulec_2010
+
+Neisseria gonorrhoeae strain 5289 plasmid pEP5289
+GU479466
+
+https://www.ncbi.nlm.nih.gov/nuccore/GU479466
+```
+LOCUS       GU479466               42004 bp    DNA     circular BCT 06-APR-2020
+DEFINITION  Neisseria gonorrhoeae strain 5289 plasmid pEP5289, complete
+
+  ORGANISM  Neisseria gonorrhoeae
+            Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
+            Neisseriaceae; Neisseria.
+
+     CDS             27050..27928
+                     /note="oriV activator protein; plasmid replication"
+
+                     /product="TrfA"
+```
+
+https://pubmed.ncbi.nlm.nih.gov/20376355/
+PLoS One
+. 2010 Apr 1;5(4):e9962. doi: 10.1371/journal.pone.0009962.
+Conjugative plasmids of Neisseria gonorrhoeae
+Emilia Pachulec 1, Chris van der Does
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009962
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/
+Many clinical isolates of the human pathogen Neisseria gonorrhoeae contain conjugative plasmids. The host range of these plasmids is limited to Neisseria species, 
+Analysis of the backbone sequences showed that they belong to a novel IncP1 subfamily divergent from the IncP1α, β, γ, δ and ε subfamilies. 
+The presence of the toxin and antitoxin on different plasmids might explain why the host range of this IncP1 plasmid is limited to Neisseria species. 
+
+Results
+
+Complete sequencing of the plasmid (pEP5289) resulted in a sequence of 42.004 bp. 
+
+Figure 1
+Circular map of the Neisserial conjugative plasmid (pEP5289) with the Dutch type tetM determinant and a Dutch type backbone.
+
+The conjugative plasmids with the Dutch type backbone are phylogenetically divergent from the other IncP1 sub-families
+The modular arrangement of the conjugative plasmid and derivates thereof, the absence of several genes often found in the IncP1-α subfamily, and an insertion of an additional module suggested that these plasmids are members of the IncP1-β sub-family. To verify placement of the plasmids in the IncP1-β sub-family, a phylogenetic analysis was performed on the TraI and TraG proteins encoded in the Tra region, the TrbE and TrbC proteins encoded in the Trb region, and the TrfA and KorB proteins encoded within the Rep and Ctl regions. Neighbor-joining tree containing representative members of the different IncP1 plasmid subfamilies (α, RP4; β, pADP-1; γ, QKH54; δ, pEST4011 and ε, pKJK5) and the neisserial conjugative plasmids with the Dutch type backbone were created (See figure 3). Remarkably this showed that these neisserial conjugative plasmids fall within the IncP1 family, but are phylogenetically divergent from the other IncP1 sub-families, and are members of a new subfamily.
+
+Figure 3
+Phylogenetic analysis of genes of different IncP1 plasmids.
+The TraI (A), TrbE (B), TraG (C) and TrfA (D) proteins of the neisserial conjugative plasmids and of representative members of different IncP1 plasmid subfamilies (α, RP4; β, pADP-1; γ, QKH54; δ, pEST4011 and ε, pKJK5) representative for different regions of the conjugative plasmids were used to create phylogenetic trees of the IncP1 plasmid family. (For details see materials and methods).
+
+<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg" width=25%>
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg)
+
+Figure 4
+Comparison of the oriT sequences of different members of the IncP1 subfamilies.
+
+Figure 5
+Comparison of the oriV iterons of different members of the IncP1 subfamilies.
 
 ----------
 ## unclassified
