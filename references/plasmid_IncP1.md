@@ -895,6 +895,34 @@ Conserved sequence motifs in the MOBP1 subclades. Vertical black arrowheads and 
 
 ## Neisseria gonorrhoeae
 
+### Baines_2020
+
+https://pubmed.ncbi.nlm.nih.gov/33180013/
+Microb Genom
+. 2020 Dec;6(12). doi: 10.1099/mgen.0.000471. Epub 2020 Nov 12.
+Complete microbial genomes for public health in Australia and the Southwest Pacific
+Sarah L Baines 1, Anders Gonçalves da Silva 2, Glen P Carter 1, Amy Jennison 3, Irani Rathnayake 3, Rikki M Graham 3, Vitali Sintchenko 4 5, Qinning Wang 5, Rebecca J Rockett 4 5, Verlaine J Timms 4 5, Elena Martinez 5, Susan Ballard 2, Takehiro Tomita 2, Nicole Isles 2, Kristy A Horan 2, William Pitchers 2, Timothy P Stinear 1, Deborah A Williamson 2 1, Benjamin P Howden 2 1, Torsten Seemann 1 2, Communicable Diseases Genomics 
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000471
+Table 1.
+
+Neisseria gonorrhoeae	AUSMDU00010541_02 (p01)	41 998 bp
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP045833
+```
+LOCUS       CP045833               41998 bp    DNA     circular BCT 12-NOV-2019
+DEFINITION  Neisseria gonorrhoeae strain AUSMDU00010541 plasmid
+            pAUSMDU00010541_01, complete sequence.
+```
+https://www.ncbi.nlm.nih.gov/biosample/SAMN10920452
+https://www.ncbi.nlm.nih.gov/assembly/GCA_009650075.1
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP045832
+```
+LOCUS       CP045832             2174817 bp    DNA     circular BCT 12-NOV-2019
+DEFINITION  Neisseria gonorrhoeae strain AUSMDU00010541 chromosome, complete
+            genome.
+```
+
 ### Cherdtrakulkiat_2020
 
 Neisseria gonorrhoeae strain NG196 plasmid p1
