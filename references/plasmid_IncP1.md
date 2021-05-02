@@ -87,8 +87,14 @@ Reference
 
 IncP-1theta
 p7ME01
-CP006601
 
+https://www.ncbi.nlm.nih.gov/bioproject/PRJNA201013
+https://www.ncbi.nlm.nih.gov/assembly/GCA_000442595.1
+
+Chromosome
+https://www.ncbi.nlm.nih.gov/nuccore/CP005996
+
+Plasmid p7ME01
 https://www.ncbi.nlm.nih.gov/nuccore/CP006601
 ```
 LOCUS       CP006601               42347 bp    DNA     circular BCT 03-DEC-2015
@@ -278,6 +284,41 @@ ML tree of concatenated data estimated from a partitioned analysis based on codo
 
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f3p.jpg)
 
+
+### Leao_2013
+
+IncP-1beta
+pMAB01
+
+https://www.ncbi.nlm.nih.gov/bioproject/85611
+https://www.ncbi.nlm.nih.gov/assembly/GCA_000363915.2
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP003376
+```
+LOCUS       CP003376               56267 bp    DNA     linear   BCT 26-JUL-2016
+DEFINITION  Mycobacterium abscessus subsp. bolletii INCQS 00594 plasmid pMAB01,
+            complete sequence.
+```
+
+https://pubmed.ncbi.nlm.nih.gov/24201191/
+Genome Announc
+. 2013 Nov 7;1(6):e00896-13. doi: 10.1128/genomeA.00896-13.
+Draft Genome Sequence of Mycobacterium abscessus subsp. bolletii INCQS 00594
+Sylvia Cardoso Leão 1, Cristianne Kayoko Matsumoto, Cristina Viana-Niero, Rommel Thiago Jucá Ramos, Adriana Ribeiro Carneiro, Maria Silvanira Barbosa, Karla Valéria Batista Lima, Maria Luiza Lopes, Vasco Azevedo, Artur Silva
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820772/
+This isolate was shown to carry a circular plasmid of the IncP-1β group, named pMAB01, which was the subject of a previous publication by Leão et al. (13).
+Eighteen contigs matched sequences in the plasmid pMAB01 (GenBank accession no. CP003376), and these were not considered here. 
+
+https://pubmed.ncbi.nlm.nih.gov/23565273/
+PLoS One
+. 2013;8(4):e60746. doi: 10.1371/journal.pone.0060746. Epub 2013 Apr 2.
+The detection and sequencing of a broad-host-range conjugative IncP-1β plasmid in an epidemic strain of Mycobacterium abscessus subsp. bolletii
+Sylvia Cardoso Leão 1, Cristianne Kayoko Matsumoto, Adriana Carneiro, Rommel Thiago Ramos, Christiane Lourenço Nogueira, James Daltro Lima Jr, Karla Valéria Lima, Maria Luiza Lopes, Horacio Schneider, Vasco Ariston Azevedo, Artur da Costa da Silva
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0060746
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614916/
+
+
+
 ----------
 
 ## 2011
@@ -426,6 +467,17 @@ The EMBL (http://www.ebi.ac.uk/embl) accession numbers for the genome of Thiomon
 
 ## 2007
 
+### Schluter_2007
+
+https://pubmed.ncbi.nlm.nih.gov/17553065/
+Review FEMS Microbiol Rev
+. 2007 Jul;31(4):449-77. doi: 10.1111/j.1574-6976.2007.00074.x. Epub 2007 Jun 6.
+Genomics of IncP-1 antibiotic resistance plasmids isolated from wastewater treatment plants provides evidence for a widely accessible drug resistance gene pool
+Andreas Schlüter 1, Rafael Szczepanowski, Alfred Pühler, Eva M Top
+https://onlinelibrary.wiley.com/doi/full/10.1111/j.1574-6976.2007.00074.x
+https://academic.oup.com/femsre/article/31/4/449/2399130
+
+
 ### Bahl_2007-07
 
 https://pubmed.ncbi.nlm.nih.gov/17306874/
@@ -453,6 +505,8 @@ FEMS Microbiol Lett
 Impact of conjugal transfer on the stability of IncP-1 plasmid pKJK5 in bacterial populations
 Martin Iain Bahl 1, Lars Hestbjerg Hansen, Søren J Sørensen
 https://academic.oup.com/femsle/article/266/2/250/565715
+
+
 
 ----------
 
