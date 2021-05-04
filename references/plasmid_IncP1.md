@@ -170,6 +170,28 @@ One of the plasmids in Ac-8003, pAcX50c, belongs to the IncP-1 incompatability g
 
 ## 2013
 
+### Yano_2013
+
+https://pubmed.ncbi.nlm.nih.gov/24002747/
+Microbiology (Reading)
+. 2013 Nov;159(Pt 11):2303-2315. doi: 10.1099/mic.0.068387-0. Epub 2013 Sep 3.
+Host range diversification within the IncP-1 plasmid group
+Hirokazu Yano 1 2, Linda M Rogers 1 2, Molly G Knox 1, Holger Heuer 3, Kornelia Smalla 3, Celeste J Brown 1 2, Eva M Top 1 2
+https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.068387-0#tab2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836486/
+
+![](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3836486_068387-f1.jpg)
+
+![](https://www.microbiologyresearch.org/docserver/fulltext/micro/159/11/068387-f1.gif)
+
+Fig. 1.
+Diversity of IncP-1 plasmids. (a) Phylogenetic tree of 55 IncP-1 plasmids based on the 819 bp conserved region in trfA2. The tree was generated using the maximum-likelihood method for the alignment made by the program muscle and Kimura–Nei method in mega5 (Tamura et al., 2011). Triangles indicate branches composed of multiple plasmids. Bar, 0.05 changes per position. (b) Similarities of replication initiation proteins and relaxases (TraI) between representative plasmids of each IncP-1 subgroup (RK2, IncP-1α; R751, pBP136, pB1 and pB12, IncP-1β; pQKH54, pMBUI1 and pKS208, IncP-1γ; pAKD4, IncP-1δ; pKJK5 and pAKD34, IncP-1ϵ; pMCBF1, IncP-1ξ). Amino-acid sequence identities were determined using blastp, and are represented in the heat map.
+
+Methods
+Bioinformatic analysis.
+A phylogenetic tree was generated using maximum-likelihood based on DNA sequences aligned by muscle in mega5 (Edgar, 2004; Tamura et al., 2011).
+
+
 ### Andersen_2013
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP006788
@@ -184,7 +206,6 @@ Genome Announc
 Complete Genome Sequence of the Epidemic and Highly Virulent CTX-M-15-Producing H30-Rx Subclone of Escherichia coli ST131
 Paal S Andersen 1, Marc Stegger, Maliha Aziz, Tania Contente-Cuomo, Henry S Gibbons, Paul Keim, Evgeni V Sokurenko, James R Johnson, Lance B Price
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3853059/
-
 
 ### Brown_2013
 
@@ -1382,6 +1403,13 @@ Haruo Suzuki 1, Hirokazu Yano, Celeste J Brown, Eva M Top
 https://jb.asm.org/content/192/22/6045.long
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2976448/
 
+
+http://www.ncbi.nlm.nih.gov/pubmed/18953039
+Nucleic Acids Res. 2008 Dec;36(22):e147. doi: 10.1093/nar/gkn753. Epub 2008 Oct 25.
+Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes.
+Suzuki H1, Sota M, Brown CJ, Top EM.
+https://academic.oup.com/nar/article/36/22/e147/1196271
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
 
 
 ----------
