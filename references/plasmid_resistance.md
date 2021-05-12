@@ -153,6 +153,7 @@ Nat Commun
 . 2018 Mar 21;9(1):1179. doi: 10.1038/s41467-018-03205-z.
 The global distribution and spread of the mobilized colistin resistance gene mcr-1
 Ruobing Wang 1, Lucy van Dorp 2, Liam P Shaw 2, Phelim Bradley 3, Qi Wang 1, Xiaojuan Wang 1, Longyang Jin 1, Qing Zhang 4, Yuqing Liu 4, Adrien Rieux 5, Thamarai Dorai-Schneiders 6, Lucy Anne Weinert 7, Zamin Iqbal 3 8, Xavier Didelot 9, Hui Wang 10, Francois Balloux 11
+https://www.nature.com/articles/s41467-018-03205-z
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5862964/
 
 ## 2017
@@ -182,6 +183,7 @@ Front Microbiol
 . 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
 Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology
 Alex Orlek 1, Nicole Stoesser 2, Muna F Anjum 3, Michel Doumith 4, Matthew J Ellington 5, Tim Peto 1, Derrick Crook 1, Neil Woodford 5, A Sarah Walker 1, Hang Phan 1, Anna E Sheppard 1
+https://www.frontiersin.org/articles/10.3389/fmicb.2017.00182/full
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
 This review focuses on WGS datasets from cultured rather than metagenomic samples; for the latter, see recent reviews (Jørgensen et al., 2014; Martínez et al., 2016).
 
@@ -205,6 +207,16 @@ https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.13282
 
 ## 2015
 
+### Pal_2015
+
+https://pubmed.ncbi.nlm.nih.gov/26576951/
+BMC Genomics
+. 2015 Nov 17;16:964. doi: 10.1186/s12864-015-2153-5.
+Co-occurrence of resistance genes to antibiotics, biocides and metals reveals novel insights into their co-selection potential
+Chandan Pal 1, Johan Bengtsson-Palme 1, Erik Kristiansson 2, D G Joakim Larsson 3
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2153-5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4650350/
+
 ### Mathers_2015_Review
 
 https://pubmed.ncbi.nlm.nih.gov/25926236/
@@ -213,6 +225,7 @@ Review Clin Microbiol Rev
 The role of epidemic resistance plasmids and international high-risk clones in the spread of multidrug-resistant Enterobacteriaceae
 Amy J Mathers 1, Gisele Peirano 2, Johann D D Pitout 3
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405625/
+
 
 ## 2013
 
@@ -225,6 +238,111 @@ Plasmids and the spread of resistance
 Alessandra Carattoli 1
 https://www.sciencedirect.com/science/article/abs/pii/S1438422113000167?via%3Dihub
 no access
+
+
+
+----------
+## mcr-12345
+
+### Kieffer_2018
+https://pubmed.ncbi.nlm.nih.gov/29712655/
+Antimicrob Agents Chemother
+. 2018 Jun 26;62(7):e00278-18. doi: 10.1128/AAC.00278-18. Print 2018 Jul.
+Genetic and Functional Characterization of an MCR-3-Like Enzyme-Producing Escherichia coli Isolate Recovered from Swine in Brazil
+Nicolas Kieffer 1 2, Patrice Nordmann 1 2 3 4, Andrea Micke Moreno 5, Luisa Zanolli Moreno 5, Richard Chaby 6, Aude Breton 6, Pierre Tissières 6, Laurent Poirel 7 2 4
+https://aac.asm.org/content/62/7/e00278-18.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021659/
+Five different plasmid-mediated colistin resistance genes have been identified so far in Enterobacteriaceae, including mcr-1, mcr-2, mcr-3, mcr-4, and mcr-5 (2,–6).
+
+FIG 1
+Phylogenetic tree obtained for all the identified MCR-like enzymes, including all MCR-3 variants, by the distance method using the neighbor-joining algorithm (SeaView, version 4, software).
+
+### Zhang_2018
+
+https://pubmed.ncbi.nlm.nih.gov/29463301/
+BMC Res Notes
+. 2018 Feb 20;11(1):143. doi: 10.1186/s13104-018-3255-3.
+Molecular detection of colistin resistance genes (mcr-1 to mcr-5) in human vaginal swabs
+Jilei Zhang 1, Li Chen 1, Jiawei Wang 1, Patrick Butaye 2 3, Ke Huang 1, Haixiang Qiu 1, Xiaomei Zhang 4, Weijuan Gong 5, Chengming Wang 6
+https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-018-3255-3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5819219/
+Fig. 1
+Phylogenetic tree of sequences in five mcr genes. The nucleotide sequences of colistin resistance genes (mcr-1, 342 bp; mcr-2, 282 bp; mcr-3, 267 bp; mcr-4, 1062 bp; mcr-5, 197 bp) in human beings obtained this study (in bold font) were compared with those of representative mcr variants obtained from NCBI. 
+
+### Gao_2016
+
+https://pubmed.ncbi.nlm.nih.gov/27893854/
+PLoS Pathog
+. 2016 Nov 28;12(11):e1005957. doi: 10.1371/journal.ppat.1005957. eCollection 2016 Nov.
+Dissemination and Mechanism for the MCR-1 Colistin Resistance
+Rongsui Gao 1, Yongfei Hu 2, Zhencui Li 1, Jian Sun 3, Qingjing Wang 1, Jingxia Lin 1, Huiyan Ye 1, Fei Liu 2, Swaminath Srinivas 4, Defeng Li 5, Baoli Zhu 2, Ya-Hong Liu 3, Guo-Bao Tian 6, Youjun Feng 1
+https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005957
+Fig 5. Phylogeny of MCR-1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125707/
+Fig 5
+Phylogeny of MCR-1.
+
+
+## mcr-5
+### Borowiak_2017
+https://pubmed.ncbi.nlm.nih.gov/28962028/
+J Antimicrob Chemother
+. 2017 Dec 1;72(12):3317-3324. doi: 10.1093/jac/dkx327.
+Identification of a novel transposon-associated phosphoethanolamine transferase gene, mcr-5, conferring colistin resistance in d-tartrate fermenting Salmonella enterica subsp. enterica serovar Paratyphi B
+Maria Borowiak 1, Jennie Fischer 1, Jens A Hammerl 1, Rene S Hendriksen 2, Istvan Szabo 1, Burkhard Malorny 1
+https://academic.oup.com/jac/article/72/12/3317/4161410
+Challenges in naming our novel colistin resistance genes
+Naming of the novel phosphoethanolamine transferase gene proved to be challenging. Previously described mcr genes were either located on conjugational IncI2, IncX4, IncHI1B, IncHI2A, IncFII or IncFIB plasmids (mcr-1, mcr-2 and mcr-3)9,14,15,43 or on ColE-type plasmids mobilizable by a helper plasmid (mcr-4).16 Our mcr-5 gene is harboured by small multi-copy ColE-type plasmids that do not carry any transfer genes involved in plasmid conjugation. 
+
+
+## mcr-4
+### Carattoli_2017
+https://pubmed.ncbi.nlm.nih.gov/28797329/
+Euro Surveill
+. 2017 Aug 3;22(31):30589. doi: 10.2807/1560-7917.ES.2017.22.31.30589.
+Novel plasmid-mediated colistin resistance mcr-4 gene in Salmonella and Escherichia coli, Italy 2013, Spain and Belgium, 2015 to 2016
+Alessandra Carattoli 1, Laura Villa 1, Claudia Feudi 1 2, Ludovica Curcio 3, Serenella Orsini 3, Andrea Luppi 4, Giovanni Pezzotti 3, Chiara Francesca Magistrali 3
+https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.31.30589
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5553062/
+A novel mcr-gene in Salmonella with origins from Shewanella frigidimarina
+
+The Sh. frigidimarina region in pMCR encoded only one large protein that had an amino acid sequence with 82.0%–99.0% identity to phosphoethanolamine transferases found in Shewanella species and 34.0%, 35.0% and 49.0% amino acid sequence identity to MCR-1, MCR-2 and MCR-3 respectively (Figure 2).
+
+Figure 2.Phylogenetic analysis of the entire MCR-4 protein sequence
+
+
+## mcr-3
+### Yin_2017
+https://pubmed.ncbi.nlm.nih.gov/28655818/
+mBio
+. 2017 Jun 27;8(3):e00543-17. doi: 10.1128/mBio.00543-17.
+Novel Plasmid-Mediated Colistin Resistance Gene mcr-3 in Escherichia coli
+Wenjuan Yin 1, Hui Li 1, Yingbo Shen 1, Zhihai Liu 1, Shaolin Wang 1, Zhangqi Shen 1, Rong Zhang 2, Timothy R Walsh 3, Jianzhong Shen 1, Yang Wang 4
+https://mbio.asm.org/content/8/3/e00543-17.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5487729/
+
+The deduced amino acid sequence of the mcr-3 gene product, MCR-3, showed 32.5% and 31.7% amino acid identity to MCR-1 and MCR-2, respectively. 
+
+FIG 2 
+Phylogenetic tree of the deduced amino acid sequences of 28 putative phosphoethanolamine transferases from different bacterial species with MCR-3 using CLC Genomics Workbench 9 (CLC Bio-Qiagen, Aarhus, Denmark).
+
+
+## mcr-2
+### Xavier_2016
+https://pubmed.ncbi.nlm.nih.gov/27416987/
+Euro Surveill
+. 2016 Jul 7;21(27). doi: 10.2807/1560-7917.ES.2016.21.27.30280.
+Identification of a novel plasmid-mediated colistin-resistance gene, mcr-2, in Escherichia coli, Belgium, June 2016
+Basil Britto Xavier 1, Christine Lammens, Rohit Ruhal, Samir Kumar-Singh, Patrick Butaye, Herman Goossens, Surbhi Malhotra-Kumar
+https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2016.21.27.30280
+Structure predictions and phylogenetic analyses of the MCR-2 protein
+MCR-2 protein was predicted to have two domains, with domain 1 (1 to 229 residues) as a transporter and domain 2 (230 to 538 residues) as a transferase domain (Figure 2).
+
+Phylogenetic analysis showed that MCR-2 might have originated from Moraxella catarrhalis (56% bootstrap value) (Figure 3).
+
+Figure 3.Phylogenetic analysis of the entire MCR-2 protein sequence
+
+
 
 ----------
 ## video
