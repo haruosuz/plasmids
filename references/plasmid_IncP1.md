@@ -4,6 +4,7 @@
 
 - [](#)
 - [updates](#updates)
+[2021](#2021)
 [2020](#2020)
 [2019](#2019)
 [2017](#2017)
@@ -22,11 +23,77 @@
 - [outgroup](#outgroup)
 - [non-IncP1](#non-IncP1)
 - [chromosome](#chromosome)
-- [Shintani](#shintani)
-- [Yano](#yano)
+- [](#)
+- [people](#people)
+[Shintani](#shintani)
+[Suzuki](#suzuki)
+[Yano](#yano)
+- [PromA](#proma)
 
 ----------
 ## updates
+
+
+## 2021
+
+https://pubmed.ncbi.nlm.nih.gov/33660784/
+Nucleic Acids Res
+. 2021 Apr 6;49(6):3394-3408. doi: 10.1093/nar/gkab113.
+Defining a novel domain that provides an essential contribution to site-specific interaction of Rep protein with DNA
+Katarzyna Wegrzyn 1, Elzbieta Zabrocka 1, Katarzyna Bury 1, Bartlomiej Tomiczek 1, Milosz Wieczor 2, Jacek Czub 2, Urszula Uciechowska 1, María Moreno-Del Alamo 3, Urszula Walkow 1, Igor Grochowina 1, Rafal Dutkiewicz 1, Janusz M Bujnicki 4 5, Rafael Giraldo 3, Igor Konieczny 1
+https://academic.oup.com/nar/article/49/6/3394/6154473
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8034659/
+
+Supplementary Materials
+gkab113_Supplemental_Files.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8034659/bin/gkab113_supplemental_files.zip
+Supplementary Data_3.02.21.pdf
+
+Figure S1. Phylogenetic relations between Origin Binding Proteins (OBPs) based on their conserved WH domain. Maximum Likelihood phylogenetic tree calculated with the GAMMA+I+LG model rooted to WH domain from Eukaryotes (Orc1, Orc4, Orc5 and cdc6; orange). TrfA sequences are displayed in purple (TrfA33 in bold), whereas the proteins most closely related to RepC are marked in blue. Sequences with genomic annotations are labelled in grey (italics), plasmid sequences labelled black. Level of bootstrap support is indicated with dots, bootstrap >75 in black, bootstrap ≤75 and >25 in grey, bootstrap ≤25 in yellow.
+
+Figure S2. Phylogenetic relations within the Rep superfamily, based on the full-length proteins. The tree was calculated with Maximum Likelihood method with the GAMMA+I+LG model. TrfA sequences are displayed in purple, other Rep superfamily members in green. Level of bootstrap support is indicated with dots, bootstrap >75 in black, bootstrap ≤75 and >25 in grey, bootstrap ≤25 in yellow.
+
+ABSTRACT
+
+The phylogenetic analysis revealed that the composition of this unique domain is typical within the described TrfA-like protein family.
+
+MATERIALS AND METHODS
+
+Phylogenetic analysis and determination of sequence divergence
+Protein sequences of the Rep; TrfA; Orc1, 2, 3, 4, 5; and Cdc6 families were obtained from the Pfam database, version 31.0 (28). Sequences were aligned separately using Clustal Omega v1.2.2 with default parameters (29). The alignment was corrected manually. 
+
+
+12 Orc, 16 Rep and 8 TrfA sequences were chosen for phylogenetic analysis based on sequence divergence and literature data. One thousand ML searches were performed using RAxML v.8.2.10 (32) with 100 rapid bootstrap replicates under the LG model of amino acid substitution and GAMMA model of rate heterogeneity with four discrete rate categories and the estimates proportion of invariable sites (LG + I + G) (33), which was determined to be the best-fit model for all families by ProtTest v3.2 following the Akaike criterion (34).
+
+RESULTS
+
+Interestingly, in some Rep proteins, we identified a short hydrophobic region located before the WH1 domain. This region shares a degree of similarity with a sequence within the N-terminal TrfA region (Figure 1). We thus asked how the TrfA-like proteins are related to other replication initiators. To answer this question, we performed phylogenetic analysis of the representative DNA replication initiators using the maximum likelihood method (ML) (Supplementary Figure S1). Our ML analysis of the WH domains revealed a close monophyletic relationship among all TrfA-like proteins containing extended N-termini. Moreover, the phylogenetic analysis indicated that the TrfA-like proteins are most closely related to RepC, an IncQ-type replication protein C (51,52), and belong to a common protein family together with other plasmid replication initiation factors (Supplementary Figures S1, S2). 
+
+
+
+http://pfam.xfam.org/families
+Pfam: All Pfam families
+
+This is a list of all 19179 Pfam-A families in Pfam release 34.0 (release date 2021-03-04).
+
+Accession	Id	Description
+
+PF04084	ORC2	Origin recognition complex subunit 2
+
+PF05460	ORC6	Origin recognition complex subunit 6 (ORC6)
+
+PF06504	RepC	Replication protein C (RepC)
+
+PF07034	ORC3_N	Origin recognition complex (ORC) subunit 3 N-terminus
+
+PF07042	TrfA	TrfA protein
+
+PF14629	ORC4_C	Origin recognition complex (ORC) subunit 4 C-terminus
+PF14630	ORC5_C	Origin recognition complex (ORC) subunit 5 C-terminus
+
+PF18137	ORC_WH_C	Origin recognition complex winged helix C-terminal
+
+
 
 ## 2020
 
@@ -125,12 +192,36 @@ Phylogenetic analysis showing the relationship of p7ME01 with other incP‐1 pla
 (Norberg et al., 2011; del Castillo et al., 2013)
 
 
-
 https://www.ncbi.nlm.nih.gov/nuccore/FO082061
 ```
 LOCUS       FO082061              128415 bp    DNA     circular BCT 25-JUL-2016
 DEFINITION  Methylomicrobium alcaliphilum str. 20Z plasmid MEALZ_p, complete
             genome.
+```
+
+
+### Dang_2016
+
+IncP-1beta1
+pDTC28
+KU238092
+
+https://pubmed.ncbi.nlm.nih.gov/27152950/
+PLoS One
+. 2016 May 6;11(5):e0154975. doi: 10.1371/journal.pone.0154975. eCollection 2016.
+Complete Nucleotide Sequence of IncP-1β Plasmid pDTC28 Reveals a Non-Functional Variant of the blaGES-Type Gene
+Bingjun Dang 1 2, Daqing Mao 1, Yi Luo 2
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154975
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4859535/
+A phylogenetic tree was constructed using the trfA proteins of 54 IncP-1 plasmids including plasmid pDTC28 (Fig 2). The tree shows that plasmid pDTC28 belongs to the IncP-1β group and clusters with the IncP-1β prototype R751. The tree also shows that plasmid pDTC28 is slightly different from a smaller IncP-1β clade formed by plasmids pB1, pB12, pNB8c, pLME1, pB4, pTB30, pBAM1 and pRSB223.
+
+https://www.ncbi.nlm.nih.gov/nuccore/KU238092
+```
+LOCUS       KU238092               61503 bp    DNA     circular ENV 17-MAY-2016
+DEFINITION  Uncultured bacterium plasmid pDTC28, complete sequence.
+
+                     /country="China"
+
 ```
 
 
@@ -166,6 +257,51 @@ Plasmid pAcX50c
 It appears that pACX50c most closely matches plasmids isolated from Pseudomonas species amongst the γ-proteobacteria including pQKH54 [108]. In our earlier work pACX50c was apparently cured when the IncP-1 plasmid RP4 was introduced and stably maintained in the strain by selecting for the antibiotic resistance it encodes [40]. This would appear to provide further evidence that pACX50c belongs to the IncP-1 incompatibility group. 
 
 One of the plasmids in Ac-8003, pAcX50c, belongs to the IncP-1 incompatability group and the genomic analysis shows it contains tra and trb gene clusters found in the IncP1-γ family of plasmids from Pseudomonads.
+
+### Li_2015
+
+https://pubmed.ncbi.nlm.nih.gov/25367902/
+Antimicrob Agents Chemother
+. 2015 Jan;59(1):338-43. doi: 10.1128/AAC.03061-14. Epub 2014 Nov 3.
+First report of a clinical, multidrug-resistant Enterobacteriaceae isolate coharboring fosfomycin resistance gene fosA3 and carbapenemase gene blaKPC-2 on the same transposon, Tn1721
+Gang Li 1, Ying Zhang 2, Dexi Bi 3, Pinghua Shen 2, Fuqi Ai 2, Hong Liu 2, Yueru Tian 2, Yiming Ma 2, Bei Wang 2, Kumar Rajakumar 4, Hong-Yu Ou 5, Xiaofei Jiang 6
+https://aac.asm.org/content/59/1/338.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4291370/
+The complete sequence of pHS102707 showed that this plasmid belongs to the P11 subfamily (IncP1) 
+
+novel IncP group plasmid.
+
+![](https://aac.asm.org/content/aac/59/1/338/F2.large.jpg)
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4291370/bin/zac0011535940002.jpg)
+
+FIG 2
+(a) Schematic map of pHS102707, an IncP plasmid found in the carbapenem-resistant E. coli isolate investigated in this study. 
+(b) Inferred phylogenetic relationships of the plasmid-coding relaxase homologs. Seventeen protein sequences were aligned and the tree was generated with MEGA5 (21, 22) using the maximum-likelihood method. The relaxase sequences obtained in this study are indicated by blank arrows, while others were taken from Alvarado et al. (25). The sequences marked by an asterisk denote the ones taken from the prototype plasmid of each subfamily.
+
+
+Within each family, subfamilies corresponding to phylogenetic clades contain more members (e.g., MOBF12, which harbors relaxases encoded by IncF plasmids, and MOBP11, which groups relaxases encoded by IncP plasmids) (23). Phylogenetic analysis shows that the three relaxases encoded by pHS102707, pHS092839, and pHS112625 were grouped as the P11 relaxase subfamily (Fig. 2b). Relaxase protein sequence comparison of pHS102707 revealed 30.5% identity with RP4 (Inc P1α), the prototype plasmid for the P11 subfamily. The relaxase most similar to that of pHS102707, pXFAS01, exhibited 47% identity; no identity was found with any other non-P11 subfamily relaxases by NCBI blast.
+
+
+The blaKPC-2 and fosA3 genes are borne on a novel mosaic transposon.
+
+pKP048 belongs to the F family (IncF), while pHS102707, pHS092839, and pHS112625 belong to the P11 subfamily (IncP1). This suggests that a block mobilization of the complex transposon may happen among IncP1 plasmids.
+
+
+
+https://www.ncbi.nlm.nih.gov/nuccore/KF701335
+```
+LOCUS       KF701335               69453 bp    DNA     circular BCT 06-APR-2020
+DEFINITION  Escherichia coli strain HS102707 plasmid pHS102707, complete
+            sequence.
+
+```
+
+
+
+## 2014
+
+
 
 
 ## 2013
@@ -339,6 +475,24 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0060746
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614916/
 
 
+### Popowska_2013
+
+https://pubmed.ncbi.nlm.nih.gov/23471189/
+Front Microbiol
+. 2013 Mar 7;4:44. doi: 10.3389/fmicb.2013.00044. eCollection 2013.
+Broad-host-range IncP-1 plasmids and their resistance potential
+Magdalena Popowska 1, Agata Krawczyk-Balska
+https://www.frontiersin.org/articles/10.3389/fmicb.2013.00044/full
+MINI REVIEW article
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3590792/
+
+These plasmids demonstrate great diversity – a phylogenetic study has shown the presence of 45 backbone genes on IncP-1 plasmids, but only 33 are shared by all the plasmids that have been completely sequenced to date.
+
+A detailed phylogenetic analysis and study of the amino acid sequence of protein TrfA, which initiates plasmid replication, have allowed the classification of group IncP-1 into six subgroups: -α, -β, -γ, -ε, -δ (Bahl, 2009), and -ζ (Norberg et al., 2011) and also into an unnamed subgroup (Pachulec and van der Does, 2010). Unpublished data also indicate the existence of a η subgroup (Sen et al., 2012). IncP-1 plasmids have been identified in clinical and environmental, phylogenetically very distant, host bacterial species from around the world. 
+
+
+
+
 
 ----------
 
@@ -430,6 +584,14 @@ https://www.ncbi.nlm.nih.gov/nuccore/GQ983559
 ```
 LOCUS       GQ983559               56803 bp    DNA     circular ENV 25-JUL-2016
 DEFINITION  Uncultured bacterium pAKD4 plasmid pAKD4, complete sequence.
+
+     CDS             complement(1..870)
+                     /gene="trfA2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TrfA2 replication initiation protein"
+                     /protein_id="ADD63272.1"
+
 ```
 
 https://pubmed.ncbi.nlm.nih.gov/20018208/
@@ -549,6 +711,11 @@ DEFINITION  Bordetella pertussis plasmid pBP136 DNA, complete sequence.
      CDS             complement(9526..10749)
                      /gene="trfA"
                      /function="DNA-binding protein for plasmid replication"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TrfA"
+                     /protein_id="BAF33454.1"
+
 ```
 
 https://pubmed.ncbi.nlm.nih.gov/17159199/
@@ -585,13 +752,6 @@ DEFINITION  Uncultured bacterium IncP-1gamma plasmid QKH54 complete genome.
                      /protein_id="CAJ43307.1"
                      /db_xref="InterPro:IPR010751"
                      /db_xref="UniProtKB/TrEMBL:Q1H9T9"
-                     /translation="MEQQDFDEAAYRDSLIARGMEPSAASSVAAHKAKDLGYTAPKHR
-                     AKSVGELLGQIPDAGHDPAERLDQIDWSESIPPPPSTAKPSKPAKRGKSDTVADDLSH
-                     KVGEAKRNALLQKTLKEVKDEQLSLFDIAPWDDDMRAMPNDIARTALFTVRNKRKPRD
-                     ALQSQPIYSYNQDVQITFSGIELRAEDDELVWQQVLEYSKRFPIGSPITFTFYELCSD
-                     LAWPINGKYYKKAEDSLTRLQTSALQFQSRRLGNMVSLSLLRRFGVLDRGKRTSRCQV
-                     ELEDEMVYLFAGDHYSKFVWEKYRELTPTTRRLFDYCASHKQPYPLALEKFQKMCGSD
-                     TARAAKWKEQSKAACDELKKSGLVADAYVNGELIYTKRG"
 
      CDS             complement(24282..24641)
                      /gene="ssb"
@@ -903,6 +1063,10 @@ DEFINITION  TPA_exp: Birmingham IncP-alpha plasmid, complete sequence, isolate
                      /codon_start=1
                      /transl_table=11
                      /product="TrfA replication protein"
+                     /protein_id="CAJ85684.1"
+                     /db_xref="InterPro:IPR010751"
+                     /db_xref="UniProtKB/TrEMBL:A6H936"
+
 
 ```
 
@@ -1294,18 +1458,8 @@ Several E. coli K-12 derivative strains have been engineered as donors, typicall
 
 The complete genome sequences have been deposited in NCBI GenBank with accession numbers CP060709 (ST18) and CP060708 (MFDpir) 
 
-
-
-
-
-
-
-
-
-
 ----------
-
-
+## people
 
 ### Shintani
 
@@ -1340,6 +1494,27 @@ The partial sequences of 519 transconjugants were deposited in the DDBJ, EMBL, a
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911017/bin/supp_80_1_138__index.html
 Table S3. Top hit type strains with transconjugants identified in this study in BLAST searches.
 
+### Suzuki
+
+
+https://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-6436-5_574-1
+Suzuki H., Brown C.J., Top E.M. (2014) Genomic Signature Analysis to Predict Plasmid Host Range. In: Bell E. (eds) Molecular Life Sciences. Springer, New York, NY
+
+https://pubmed.ncbi.nlm.nih.gov/20851899/
+J Bacteriol
+. 2010 Nov;192(22):6045-55. doi: 10.1128/JB.00277-10. Epub 2010 Sep 17.
+Predicting plasmid promiscuity based on genomic signature
+Haruo Suzuki 1, Hirokazu Yano, Celeste J Brown, Eva M Top
+https://jb.asm.org/content/192/22/6045.long
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2976448/
+
+
+http://www.ncbi.nlm.nih.gov/pubmed/18953039
+Nucleic Acids Res. 2008 Dec;36(22):e147. doi: 10.1093/nar/gkn753. Epub 2008 Oct 25.
+Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes.
+Suzuki H1, Sota M, Brown CJ, Top EM.
+https://academic.oup.com/nar/article/36/22/e147/1196271
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
 
 
 
@@ -1387,36 +1562,36 @@ Fig 1
 
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294859/bin/zjb9990912760001.jpg)
 
+https://www.ncbi.nlm.nih.gov/nuccore/X58896
+```
+LOCUS       X58896                  1823 bp    DNA     linear   BCT 26-JUL-2016
+DEFINITION  P.syringae pPS10 plasmid DNA for basic replicon.
+
+     CDS             575..1270
+                     /gene="repA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="replication protein"
+                     /protein_id="CAA41700.1"
+                     /db_xref="GOA:Q52546"
+                     /db_xref="InterPro:IPR000525"
+                     /db_xref="InterPro:IPR011991"
+                     /db_xref="PDB:1HKQ"
+                     /db_xref="UniProtKB/TrEMBL:Q52546"
+                     /translation="MMVENKVTQSNKLIESSHTLTLNEKRLVLCAASLIDSRKPLPKD
+                     GYLTIRADTFAEVFGIDVKHAYAALDDAATKLFNRDIRRYVKGKVVERMRWVFHVKYR
+                     EGQGCVELGFSPTIIPHLTMLHKEFTSYQLKQIGSLSSFYAVRLYELMSQFIKLKQRE
+                     CTLAQLREMFDLGDKYQDVKDMRKRVLYPALEEVNKNTDLTVAVEPRRQGRRIIGFSF
+                     TIAKNDQLALSLE"
+
+
+```
+
 ----------
 
-### Suzuki
-
-
-https://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-6436-5_574-1
-Suzuki H., Brown C.J., Top E.M. (2014) Genomic Signature Analysis to Predict Plasmid Host Range. In: Bell E. (eds) Molecular Life Sciences. Springer, New York, NY
-
-https://pubmed.ncbi.nlm.nih.gov/20851899/
-J Bacteriol
-. 2010 Nov;192(22):6045-55. doi: 10.1128/JB.00277-10. Epub 2010 Sep 17.
-Predicting plasmid promiscuity based on genomic signature
-Haruo Suzuki 1, Hirokazu Yano, Celeste J Brown, Eva M Top
-https://jb.asm.org/content/192/22/6045.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2976448/
-
-
-http://www.ncbi.nlm.nih.gov/pubmed/18953039
-Nucleic Acids Res. 2008 Dec;36(22):e147. doi: 10.1093/nar/gkn753. Epub 2008 Oct 25.
-Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes.
-Suzuki H1, Sota M, Brown CJ, Top EM.
-https://academic.oup.com/nar/article/36/22/e147/1196271
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
-
-
-----------
-
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/table/t0005/?report=objectonly
+Reconsidering plasmid maintenance factors for computational plasmid design - ScienceDirect
 https://www.sciencedirect.com/science/article/pii/S2001037018301685#t0005
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/table/t0005/?report=objectonly
 Table 1. Lists of plasmids in different incompatibility groups.
 
 
@@ -1473,8 +1648,40 @@ DEFINITION  TPA_inf: Escherichia coli plasmid R388 DNA, complete sequence.
 
 
 ----------
+## PromA
 
 
+https://pubmed.ncbi.nlm.nih.gov/33967971/
+Front Microbiol
+. 2021 Apr 21;12:606409. doi: 10.3389/fmicb.2021.606409. eCollection 2021.
+Biosolids as a Source of Antibiotic Resistance Plasmids for Commensal and Pathogenic Bacteria
+Aaron Law 1, Olubunmi Solano 1 2, Celeste J Brown 1 3, Samuel S Hunter 3 4, Matt Fagnan 3, Eva M Top 1 3, Thibault Stalder 1 3
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.606409/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8098119/
+
+
+https://pubmed.ncbi.nlm.nih.gov/32132980/
+Front Microbiol
+. 2020 Feb 18;11:149. doi: 10.3389/fmicb.2020.00149. eCollection 2020.
+PromA Plasmids Are Instrumental in the Dissemination of Linuron Catabolic Genes Between Different Genera
+Johannes Werner 1, Eman Nour 2 3, Boyke Bunk 4, Cathrin Spröer 5, Kornelia Smalla 2, Dirk Springael 6, Başak Öztürk 6 7
+https://www.frontiersin.org/articles/10.3389/fmicb.2020.00149/full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7039861/
+
+
+https://pubmed.ncbi.nlm.nih.gov/30637959/
+Environ Microbiol
+. 2019 Mar;21(3):1113-1123. doi: 10.1111/1462-2920.14531. Epub 2019 Feb 22.
+Real time monitoring of Aeromonas salmonicida evolution in response to successive antibiotic therapies in a commercial fish farm
+Xiaochen Du 1, Sion C Bayliss 2, Edward J Feil 2, Ying Liu 3, Chao Wang 1, Gang Zhang 1, Dongsheng Zhou 4, Dawei Wei 1, Na Tang 1, Sébastien O Leclercq 5, Jie Feng 1
+https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.14531
+Plasmid pS28‐3 present in isolate S28 (floR, oxyS, enrS) is 48.922 kb, (Supporting Information Fig. S3A) and shares 99% identity to the environmental plasmid pSFA231 isolated from petroleum‐contaminated sediment in China (Li et al., 2015). The major difference between pS28‐3 and pSFA231 is that pS28‐3 contains an additional 7.3 kb transposon, Tn6351, which harbours the floR gene known to confer resistance to florfenicol (Table 1). 
+
+https://pubmed.ncbi.nlm.nih.gov/25628616/
+Front Microbiol
+. 2015 Jan 12;5:777. doi: 10.3389/fmicb.2014.00777. eCollection 2014.
+The broad-host-range plasmid pSFA231 isolated from petroleum-contaminated sediment represents a new member of the PromA plasmid family
+Xiaobin Li 1, Eva M Top 2, Yafei Wang 3, Celeste J Brown 2, Fei Yao 1, Shan Yang 3, Yong Jiang 3, Hui Li 3
 
 
 ----------
