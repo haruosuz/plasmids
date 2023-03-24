@@ -3423,7 +3423,7 @@ Hirokazu Yano - これまでの研究 (in Japanese)
 
 
 ### Yano_2013
-
+### 2013-11-
 https://pubmed.ncbi.nlm.nih.gov/24002747/
 Microbiology (Reading)
 . 2013 Nov;159(Pt 11):2303-2315. doi: 10.1099/mic.0.068387-0. Epub 2013 Sep 3.
@@ -3431,25 +3431,21 @@ Host range diversification within the IncP-1 plasmid group
 Hirokazu Yano 1 2, Linda M Rogers 1 2, Molly G Knox 1, Holger Heuer 3, Kornelia Smalla 3, Celeste J Brown 1 2, Eva M Top 1 2
 https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.068387-0#tab2
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836486/
+Of the two IncP-1γ plasmids, both were unable to replicate in alphaproteobacterial host Sphingobium japonicum, and one established itself in Agrobacterium tumefaciens but was very unstable.
 
 Introduction
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836486/#sec1-1title
 
 Since Yakobson & Guiney (1983) proposed to separate plasmids RP4 and R751 as different subgroups (α, β) based on the sequence similarity in the transfer origin (Yakobson & Guiney, 1983), six IncP-1 subgroups (α, β, γ, δ, ϵ and ξ, see Fig. 1a) have been proposed based on the results of phylogenetic analysis for plasmid backbone genes (Jobanputra & Datta, 1974; Haines et al., 2006; Sen et al., 2010, 2013; Bahl et al., 2007; Norberg et al., 2011). To date, more than 55 IncP-1 plasmid sequences have been deposited in the NCBI database. 
 
-![](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3836486/bin/068387-f1.jpg)
-
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3836486/figure/f1/
 Fig. 1.
-Diversity of IncP-1 plasmids. (a) Phylogenetic tree of 55 IncP-1 plasmids based on the 819 bp conserved region in trfA2. The tree was generated using the maximum-likelihood method for the alignment made by the program muscle and Kimura–Nei method in mega5 (Tamura et al., 2011). Triangles indicate branches composed of multiple plasmids. Bar, 0.05 changes per position. (b) Similarities of replication initiation proteins and relaxases (TraI) between representative plasmids of each IncP-1 subgroup (RK2, IncP-1α; R751, pBP136, pB1 and pB12, IncP-1β; pQKH54, pMBUI1 and pKS208, IncP-1γ; pAKD4, IncP-1δ; pKJK5 and pAKD34, IncP-1ϵ; pMCBF1, IncP-1ξ). Amino-acid sequence identities were determined using blastp, and are represented in the heat map.
-
+Diversity of IncP-1 plasmids. (a) Phylogenetic tree 
+(b) Similarities of replication initiation proteins and relaxases (TraI) between representative plasmids of each IncP-1 subgroup (
+Amino-acid sequence identities were determined using blastp, and are represented in the heat map.
 
 Methods
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836486/#sec1-2title
-
-Bioinformatic analysis.
-A phylogenetic tree was generated using maximum-likelihood based on DNA sequences aligned by muscle in mega5 (Edgar, 2004; Tamura et al., 2011).
-
 
 Results
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836486/#sec1-3title
@@ -3457,7 +3453,50 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836486/#sec1-3title
 General features of the pKS208 and pMBUI1 genomes
 Plasmids pKS208 and pMBUI1 consist of 50 604 and 44 303 bp, respectively. 
 
-Phylogenetic analysis using the sequence that is homologous to trfA2 places these two plasmids within the same clade as pQKH54, with pKS208 more distantly related to the other two plasmids (Fig. 1a). In addition, pMBUI1 and pQKH54 are closely related to each other in terms of the number of shared genes, gene product identity and local DNA G+C content (Fig. 2); for example, TrfApMBUI1 and TrfApQKH54 are 98 % identical over the entire length of the protein, while TrfApMBU1 and TrfApKS208 show only 79 % identity. Amino-acid sequence identities of TrfA proteins between IncP-1 subgroups were 48–79 % (Fig. 1b). This extent of diversity was also true for the relaxase TraI (Fig. 1b), which has also been used to infer plasmid phylogeny for plasmid classification purposes (Garcillán-Barcia et al., 2009).
+Replication host range of the intact IncP-1 plasmids
+
+Table 2.
+Plasmid transfer frequencies
+
+When the alphaproteobacteria were used as recipients, no transfer was detected for either of the IncP-1γ plasmids from P. putida as donor, whereas pBP136Km was transferred successfully. When E. coli was the donor, transfer of the IncP-1γ plasmids to A. tumefaciens was detected, but at low to extremely low frequencies, and no transfer to S. japonicum was observed.
+
+https://www.ncbi.nlm.nih.gov/nuccore/JQ432564
+```
+LOCUS       JQ432564               50604 bp    DNA     circular ENV 26-JUL-2016
+DEFINITION  Uncultured bacterium plasmid pKS208, complete sequence.
+
+     CDS             complement(1..1089)
+                     /gene="trfA1"
+                     /note="trans-acting factor A; Homologous to TrfA1 of R751"
+                     /product="TrfA replication initiation protein"
+                     /protein_id="AFS51515.1"
+
+     CDS             complement(36446..38857)
+                     /gene="traI"
+                     /note="DNA transfer protein"
+                     /product="TraI relaxase"
+                     /protein_id="AFS51557.1"
+
+```
+
+https://www.ncbi.nlm.nih.gov/nuccore/JQ432563
+```
+LOCUS       JQ432563               44304 bp    DNA     circular ENV 26-JUL-2016
+DEFINITION  Uncultured bacterium plasmid pMBUI1, complete sequence.
+
+     CDS             complement(1..1122)
+                     /gene="trfA1"
+                     /note="trans-acting factor A, homologous to TrfA1 of R751"
+                     /product="TrfA1 replication initiation protein"
+                     /protein_id="AFS51460.1"
+
+     CDS             complement(29447..31855)
+                     /gene="traI"
+                     /note="DNA transfer protein"
+                     /product="TraI relaxase"
+                     /protein_id="AFS51493.1"
+
+```
 
 ### Yano_2012
 
