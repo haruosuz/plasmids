@@ -2263,7 +2263,9 @@ https://academic.oup.com/femsre/article/31/4/449/2399130
 
 ----------
 
+### 2016-01
 ### Li_2016-01
+IncP-1epsilon
 
 https://pubmed.ncbi.nlm.nih.gov/26635412/
 FEMS Microbiol Ecol
@@ -2272,7 +2274,11 @@ Diversification of broad host range plasmids correlates with the presence of ant
 Xiaobin Li 1, Yafei Wang 2, Celeste J Brown 3, Fei Yao 1, Yong Jiang 2, Eva M Top 3, Hui Li 4
 https://academic.oup.com/femsec/article/92/1/fiv151/2467447
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809973/
-The IncP-1ɛ plasmids can be clearly subdivided into two subclades, designated as ɛ-I and ɛ-II, based on phylogenetic analysis of backbone proteins TraI and TrfA. 
+The IncP-1ε plasmids can be clearly subdivided into two subclades, designated as ε-I and ε-II, based on phylogenetic analysis of backbone proteins TraI and TrfA. 
+
+
+The partial genome sequences of these plasmids were determined by Illumina sequencing, and the backbone regions were completely assembled.
+
 
 MATERIALS AND METHODS
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809973/#sec2title
@@ -2283,6 +2289,7 @@ To determine the host range of captured plasmids, the plasmids were transferred 
 Sequencing and annotation
 
 The backbone genes of four plasmids (pSFS12, pSFS26, pSFS52 and pSFW53) were deposited in GenBank under accession numbers KM655308 to KM655311.
+https://www.ncbi.nlm.nih.gov/nuccore/?term=KM655308:KM655311[pacc]
 
 Bioinformatic analysis and software
 
@@ -2291,11 +2298,146 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809973/#sec3title
 
 To determine the host range of the four plasmids, we tested their ability to transfer from the γ-Proteobacterium E. coli and replicate in A. tumefaciens C58 and C. necator JMP228, members of the α- and β-Proteobacteria, respectively. These host range tests indicated that the four plasmids were self-transferrable and could replicate in the tested strains of α-, β- and γ-Proteobacteria.
 
+
+Table 2.
+Structural organization of the four IncP-1ε plasmids isolated in this study.
+
+Although the sequences of these four plasmids were not completely closed, the fully assembled backbone regions enabled us to infer the insertion sites of the partially sequenced accessory elements (Fig. 1 and Fig. S2, Supporting Information).
+
+
 Phylogenetic analysis of selected IncP-1 plasmids based on TraI and TrfA
 
-Furthermore, as clearly visualized in Fig. 2, the ε-clade of IncP-1 plasmids could be divided into two separate subclades, designated as ε-I and ε-II. Within the ε-I subclade, plasmids pSFS26 and pSFS52 showed the highest similarity to pKJK5,
 
-the four novel IncP-1ε plasmids
+ε-I subclade
+pSFS26 and pSFS52
+
+pSFS26
+https://www.ncbi.nlm.nih.gov/nuccore/KM655309
+```
+LOCUS       KM655309               48459 bp    DNA     linear   ENV 30-JUN-2015
+DEFINITION  Uncultured bacterium plasmid pSFS26, partial sequence.
+
+     CDS             complement(1241..2464)
+                     /gene="trfA"
+                     /product="TrfA"
+                     /protein_id="AKI06452.1"
+
+
+     CDS             complement(36128..38350)
+                     /gene="traI"
+                     /product="TraI"
+                     /protein_id="AKI06490.1"
+
+
+     CDS             complement(47994..48428)
+                     /gene="klcA"
+                     /product="KlcA"
+
+ORIGIN      
+```
+
+pSFS52
+"trfA"が最初に配置されていない。"putative DNA topoisomerase"が分割されている。
+https://www.ncbi.nlm.nih.gov/nuccore/KM655310
+```
+LOCUS       KM655310               45002 bp    DNA     linear   ENV 30-JUN-2015
+DEFINITION  Uncultured bacterium plasmid pSFS52, partial sequence.
+
+     CDS             1838..2113
+                     /product="hypothetical protein"
+
+     CDS             complement(2233..3120)
+                     /product="putative DNA topoisomerase"
+
+     CDS             complement(3092..4297)
+                     /product="putative DNA topoisomerase"
+
+     CDS             complement(4312..4839)
+                     /gene="traF"
+
+
+     CDS             complement(6737..8959)
+                     /gene="traI"
+                     /product="TraI"
+                     /protein_id="AKI06514.1"
+
+
+     CDS             complement(20229..21452)
+                     /gene="trfA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TrfA"
+                     /protein_id="AKI06533.1"
+
+
+     CDS             complement(43130..44932)
+                     /gene="traC"
+
+ORIGIN      
+```
+
+ε-II subclade
+pSFS12 and pSFW53
+
+pSFS12
+https://www.ncbi.nlm.nih.gov/nuccore/KM655308
+```
+LOCUS       KM655308               38744 bp    DNA     linear   ENV 30-JUN-2015
+DEFINITION  Uncultured bacterium plasmid pSFS12, partial sequence.
+
+     CDS             complement(17..388)
+                     /product="hypothetical protein"
+
+     CDS             complement(450..1685)
+                     /gene="trfA"
+                     /product="TrfA"
+                     /protein_id="AKI06408.1"
+
+
+     CDS             complement(26437..28659)
+                     /gene="traI"
+                     /product="TraI"
+                     /protein_id="AKI06434.1"
+
+
+     CDS             complement(38239..38718)
+                     /gene="klcA"
+                     /product="KlcA"
+
+ORIGIN      
+```
+
+pSFW53
+https://www.ncbi.nlm.nih.gov/nuccore/KM655311
+```
+LOCUS       KM655311               40089 bp    DNA     linear   ENV 30-JUN-2015
+DEFINITION  Uncultured bacterium plasmid pSFW53, partial sequence.
+
+     CDS             95..223
+                     /product="hypothetical protein"
+
+     CDS             complement(413..1648)
+                     /gene="trfA1"
+                     /product="TrfA1"
+                     /protein_id="AKI06560.1"
+
+
+     CDS             complement(27157..29379)
+                     /gene="traI"
+                     /product="TraI"
+                     /protein_id="AKI06587.1"
+
+
+     CDS             complement(38992..39471)
+                     /gene="klcA"
+                     /product="KlcA"
+
+     CDS             39688..39906
+                     /gene="dinJ"
+                     /product="DinJ"
+
+ORIGIN      
+```
 
 ### Oliveira_2013-11
 
@@ -2722,6 +2864,21 @@ https://www.ncbi.nlm.nih.gov/nuccore/NZ_AY365053
 ```
 LOCUS       NZ_AY365053            87688 bp    DNA     circular CON 05-NOV-2020
 DEFINITION  Cupriavidus pinatubonensis JMP134 plasmid pJP4, complete sequence.
+
+     CDS             complement(55727..56947)
+                     /gene="trfA"
+                     /locus_tag="HS370_RS00300"
+                     /function="initiation of replication"
+                     /product="plasmid replication initiator TrfA"
+                     /protein_id="WP_011114072.1"
+
+     CDS             complement(83064..85304)
+                     /locus_tag="HS370_RS00430"
+                     /function="involved in conjugative DNA transfer"
+                     /product="relaxase/mobilization nuclease domain-containing
+                     protein"
+                     /protein_id="WP_011114057.1"
+
 ```
 
 https://www.ncbi.nlm.nih.gov/nuccore/AY365053
@@ -2729,13 +2886,43 @@ https://www.ncbi.nlm.nih.gov/nuccore/AY365053
 LOCUS       AY365053               87688 bp    DNA     circular BCT 03-APR-2020
 DEFINITION  Ralstonia eutropha JMP134 plasmid pJP4, complete sequence.
 
+     mobile_element  55610..55647
+                     /rpt_type=inverted
+                     /mobile_element_type="transposon:Tn501"
+
      CDS             complement(55727..56947)
                      /gene="trfA1"
+                     /note="ORF52"
                      /product="transreplication factor"
+                     /protein_id="AAR31070.1"
 
      CDS             complement(55727..56581)
                      /gene="trfA2"
+                     /note="ORF52.1"
                      /product="transreplication factor"
+                     /protein_id="AAR31071.1"
+
+     CDS             complement(83064..85304)
+                     /gene="traI"
+                     /note="ORF78"
+                     /product="relaxosome stabilization protein"
+                     /protein_id="AAR31100.1"
+
+     CDS             complement(83366..83758)
+                     /gene="traH"
+                     /note="ORF79"
+                     /product="DNA relaxase"
+                     /protein_id="AAR31099.1"
+
+     CDS             complement(85339..85656)
+                     /gene="traJ"
+                     /note="ORF80"
+                     /product="oriT binding protein"
+                     /protein_id="AAR31101.1"
+
+     misc_feature    85790..85881
+                     /note="relaxation region oriT"
+
 ```
 
 https://pubmed.ncbi.nlm.nih.gov/15186344/
