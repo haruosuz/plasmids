@@ -1872,8 +1872,6 @@ DISCUSSION
 
 The narrow host range of the IncP-1η plasmid pDS1 was unexpected, given that most IncP-1-like plasmids have a broad host range. A preliminary plasmid genomic signature analysis suggested a signature that is quite different from the other IncP-1 plasmids captured in this study (H. Suzuki, personal communication). As pDS1 transferred very well between E. coli strains, the plasmid's transfer system seems intact. Since the molecular basis of the apparent narrow host range of this IncP-1η plasmid is of great interest, a detailed host range investigation will be the subject of a future study, combining experimental host range testing with a plasmid genomic signature analysis to assess its potential host range (81).
 
-
-
 ----------
 
 ### Sen_2013-01
@@ -1898,7 +1896,6 @@ Plasmids and Genes
 
 The plasmids from the recently proposed ζ, η, and an unnamed subgroups (see Introduction) were not included because their sequences only became publically available in the middle of this study and because of their wide sequence divergence and lack of evidence that they are physically incompatible with the prototype IncP-1 plasmids.
 
-
 Nucleotide Sequence Alignments and Model Selection
 The amino acid sequences of each gene were aligned with ClustalX (Thompson et al. 2002). Tranalign (Rice et al. 2000) was used to align the nucleotide sequences of each gene guided by the aligned amino acid sequences. 
 
@@ -1908,19 +1905,10 @@ To detect recombination among the plasmids in the data set, alignment files of t
 Fig. 2.
 Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: supported by 46% of gene trees, namely, those of trfA2, trbA, trbC, trbG, traG, traH, traI, kfrA, kfrB, kfrC, korB, korA, and kleE. (B) Topology 2: supported by gene trees of trbD, trbK, and traJ. (C) Topology 3: supported by gene trees of trbF, trbI, and traE. (D) Topology 4: supported by gene trees of korC and klcA. Trees were rooted using IncP-1γ as outgroup.
 
-#<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg" width=25%>
-
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f2p.jpg)
-
 For the concatenated tree (shown in fig. 3), individual genes were aligned and concatenated in the order in which they appear on IncP-1 plasmids: trfA2, trbA, trbB, trbC, trbD, trbF, trbG, trbI, trbJ, trbK, traD, traE, traF, traG, traH, traI, traJ, traK, traL, kfrC, kfrB, kfrA, korB, incC, korA, kleE, korC, and klcA (fig. 1). The concatenated tree had the same topology as topology 3 described (fig. 2C). It represents the null hypothesis that all genes have a single history (i.e., all gene trees are estimates of a single-gene tree) as would be the case in the absence of recombination, either within or among groups.
 
 Fig. 3.
 ML tree of concatenated data estimated from a partitioned analysis based on codon position. Nodal support is shown as nonparametric ML bootstrap values. The tree was rooted using IncP-1γ as outgroup.
-
-#<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f3p.jpg" width=50%>
-
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/bin/mss210f3p.jpg)
-
 
 ### Leao_2013-11-07
 ### pMAB01
@@ -2033,10 +2021,32 @@ Nucleotide sequence accession numbers. The M. alcaliphilum 20Z genome sequence w
 
 
 ----------
-
 ## 2011
+----------
 
-### Norberg_2011
+### 2011-11
+
+https://pubmed.ncbi.nlm.nih.gov/21948829/
+Appl Environ Microbiol
+. 2011 Nov;77(22):7975-83. doi: 10.1128/AEM.05439-11. Epub 2011 Sep 23.
+Broad-host-range plasmids from agricultural soils have IncP-1 backbones with diverse accessory genes
+Diya Sen 1, Geraldine A Van der Auwera, Linda M Rogers, Christopher M Thomas, Celeste J Brown, Eva M Top
+https://journals.asm.org/doi/10.1128/AEM.05439-11
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3209000/
+ABSTRACT
+Complete nucleotide sequencing followed by phylogenetic analyses based on the relaxase gene traI showed that all the plasmids belong to one of two subgroups (β and ε) of the well-studied incompatibility group IncP-1. A diverse array of accessory genes was found to be involved in resistance to antimicrobials (streptomycin, spectinomycin, and sulfonamides), degradation of herbicides (2,4-dichlorophenoxyacetic acid and 2,4-dichlorophenoxypropionic acid), and a putative new catabolic pathway. Intramolecular transposition of insertion sequences followed by deletion was found to contribute to the diversity of some of these plasmids. The previous observation that the insertion sites of a Tn501-related element are identical in four IncP-1β plasmids (pJP4, pB10, R906, and R772) was further extended to three more IncP-1β plasmids (pAKD15, pAKD18, and pAKD29). 
+
+Test for degradation of 2,4-D. The tfd gene-bearing plasmids pAKD25 and pAKD26 were tested for their ability to confer degradation of 2,4-dichlorophenoxyacetic acid (2,4-D) to their bacterial hosts. 
+
+Catabolic pathways encoded on four plasmids. Four of the 12 pAKD plasmids contain multiple catabolic genes, even though none was isolated from soil based on the ability to confer degradation of an organic compound. In line with several previously published IncP-1 plasmids (26, 38), at least three plasmids encode gene products known to be involved in the degradation of chlorinated aromatic compounds: (i) 2,4-dichlorophenoxyacetic acid (2,4-D) degradation (tfd genes on pAKD25 and pAKD26), (ii) chlorocatechol degradation (mocp genes on pAKD26), (iii) dichlorophenoxypropionic acid (dichlorprop) degradation (sdpA and rdpA genes on pAKD34), and (iv) a possible novel pathway of unknown function on pAKD15.
+The two plasmids that carry 2,4-D degradation (tfd) genes, pAKD25 and pAKD26, were isolated from the same agricultural soil and yet belong to different IncP-1 subgroups, IncP-1ε and IncP-1β, respectively (Fig. 1). 
+
+Nucleotide sequence accession numbers. Complete nucleotide sequences of 12 pAKD plasmids have been submitted to GenBank, and their accession numbers are as follows: pAKD1 (JN106164), pAKD14 (JN106165), pAKD15 (JN106166), pAKD16 (JN106167), pAKD17 (JN106168), pAKD18 (JN106169), pAKD25 (JN106170), pAKD26 (JN106171), pAKD29 (JN106172), pAKD31 (JN106173), pAKD33 (JN106174), and pAKD34 (JN106175).
+
+
+----------
+### 2011-04-05
+### Norberg_2011-04-05
 ### pMCBF1
 IncP-1zeta
 
@@ -2046,6 +2056,7 @@ Nat Commun
 The IncP-1 plasmid backbone adapts to different host bacterial species and evolves through homologous recombination
 Peter Norberg 1, Maria Bergström, Vinay Jethava, Devdatt Dubhashi, Malte Hermansson
 https://www.nature.com/articles/ncomms1267
+Published: 05 April 2011
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104523/
 
 Phylogenetic analysis of the IncP-1 backbone
@@ -2072,16 +2083,12 @@ DEFINITION  Plasmid pMCBF1, complete sequence.
      CDS             1..315
                      /gene="trbA"
                      /note="regulatory protein for mating pair formation"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TrbA"
                      /protein_id="AAY97915.1"
 
      CDS             complement(35267..37480)
                      /gene="traI"
                      /note="involved in conjgative DNA transfer"
-                     /codon_start=1
-                     /transl_table=11
                      /product="DNA relaxase"
                      /protein_id="AAY97952.1"
 
@@ -2090,16 +2097,12 @@ DEFINITION  Plasmid pMCBF1, complete sequence.
                      /gene="korA"
                      /note="DNA binding protein involved in transcriptional
                      regulation"
-                     /codon_start=1
-                     /transl_table=11
                      /product="KorA"
                      /protein_id="AAY97969.1"
 
      CDS             complement(60971..62410)
                      /gene="trfA"
                      /note="initiation of replication"
-                     /codon_start=1
-                     /transl_table=11
                      /product="replication initiation protein"
                      /protein_id="AAY97979.1"
 
@@ -2118,8 +2121,6 @@ DEFINITION  Uncultured bacterium pMCBF6 plasmid pMCBF6, complete sequence.
      CDS             complement(39193..41406)
                      /gene="traI"
                      /note="involved in conjugative DNA transfer"
-                     /codon_start=1
-                     /transl_table=11
                      /product="DNA relaxase"
                      /protein_id="ABO36589.1"
 
@@ -2127,12 +2128,14 @@ DEFINITION  Uncultured bacterium pMCBF6 plasmid pMCBF6, complete sequence.
      CDS             complement(64897..66336)
                      /gene="trfA"
                      /note="initiation of replication"
-                     /codon_start=1
-                     /transl_table=11
                      /product="replication initiation protein"
                      /protein_id="ABO36616.1"
 
 ```
+
+
+
+
 
 ----------
 
@@ -2189,10 +2192,14 @@ An interesting feature of the IncP-1δ plasmids is the replication initiation ge
 3.2.4. Phylogenetic analysis of plasmid pAKD4
 To confirm that pAKD4 is an IncP-1δ plasmid, a maximum likelihood tree was inferred from concatenated sequences of 20 backbone proteins shared by all IncP-1 plasmids and pAKD4 (Fig. 3). Note that none of the trbF-P genes missing in pEST4011 were included in this list. Also, of the two sets of trbABCD genes on pIJB1, only the ones having 99% identity to pAKD4 and pEST4011 were used. This tree shows that the three IncP-1δ plasmids share a common ancestor and form a monophyletic group.
 
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/bin/nihms-171031-f0003.jpg)
-
 Figure 3
 Phylogenetic tree showing the relationship of pAKD4 with other IncP-1 plasmids. Maximum Likelihood tree was inferred from concatenated amino acid sequences of 20 backbone proteins shared by completely sequenced IncP-1 plasmids and pAKD4. The scale bar represents the probability of amino acid substitutions per site. References for the plasmids used to construct the phylogenetic tree are given in the Materials and Methods section.
+
+3.3. Transposable elements in pAKD4
+In spite of the high similarity in plasmid backbone gene content, sequence and synteny between plasmid pAKD4 and plasmids pEST4011 and pIJB1, their accessory genes and the transposons that carry them are very different. Plasmids pEST4011 and pIJB1 both encode 2,4-dichlorophenoxyacetic acid (2,4-D) on transposons and pIJB1 potentially also biphenyl degradation (Fig. 2). In contrast, plasmid pAKD4 does not encode 2,4-D or biphenyl degradation determinants. It is the smallest of the three IncP-1δ plasmids and has relatively few accessory genes (Fig. 2). These accessory genes are described below.
+
+3.4. Evolutionary history of the IncP-1δ plasmids
+Now that we have compared the backbones and accessory elements of the three IncP-1δ plasmids known so far, the putative evolutionary mechanisms that led to these three plasmids, and their effects on the plasmid phenotypes and ecology can be discussed. All three have been isolated from soils in Europe, and the only other indication of the presence of IncP-1δ plasmids is also from Europe (Denmark) [17]. Plasmid pAKD4 was isolated by a plasmid capture method from agricultural soil in Norway, and its host in that soil is not known [19], pEST4011 was found in a 2,4-D degrading strain, Achromobacter denitrificans EST4011, isolated from agricultural soil in Estonia [16], and pIJB1 was isolated from another 2,4-D degrading strain, Burkholderia cepacia 2a, from soil in Aberdeen, Scotland [21]. Future studies should determine the geographic distribution of these plasmids worldwide.
 
 3.5. Plasmid host range
 To confirm previous findings that plasmid pAKD4 can transfer and replicate in γ- and β-Proteobacteria, but not in α-Proteobacteria [19], the host range of pAKD4 was examined again. We showed transfer of pAKD4 from its laboratory host P. putida UWC1 (γ-Proteobacteria) to P. putida KT2442::gfp (γ-Proteobacteria), E. coli CV601::gfp (γ-Proteobacteria) and C. necator JMP228 (β-Proteobacteria), but transfer to Agrobacterium tumefaciens UBAPF2::gfp (α-Proteobacteria) could not be detected (data not shown). This is in agreement with previous results [19] and confirms that pAKD4 is a broad-host-range plasmid, albeit with a narrower host range than most other IncP-1 plasmids. Future rigorous host range studies will be needed to determine to what extent truncation of ssb and trfA in the IncP-1δ plasmids, or other missing backbone genes, caused a contraction of their host range, and if natural recombination events like the one that likely resulted in plasmid pIJB1, can reverse that host range contraction.
@@ -2274,11 +2281,15 @@ Diversification of broad host range plasmids correlates with the presence of ant
 Xiaobin Li 1, Yafei Wang 2, Celeste J Brown 3, Fei Yao 1, Yong Jiang 2, Eva M Top 3, Hui Li 4
 https://academic.oup.com/femsec/article/92/1/fiv151/2467447
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809973/
+Abstract
 The IncP-1ε plasmids can be clearly subdivided into two subclades, designated as ε-I and ε-II, based on phylogenetic analysis of backbone proteins TraI and TrfA. 
 
 
-The partial genome sequences of these plasmids were determined by Illumina sequencing, and the backbone regions were completely assembled.
+INTRODUCTION
 
+Four IncP-1ε plasmids carried catabolic pathway genes responsible for herbicide degradation, with plasmids pAKD25, p712 and pEMT3 being associated with 2,4-dichlorophenoxyacetic acid degradation, and pAKD34 carrying putative 2,4-dichlorophenoxypropionic acid-degrading genes (Top, Holben and Forney 1995; Sen et al. 2011; Kim et al. 2013).
+
+The partial genome sequences of these plasmids were determined by Illumina sequencing, and the backbone regions were completely assembled.
 
 MATERIALS AND METHODS
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809973/#sec2title
@@ -2846,7 +2857,6 @@ J Bacteriol
 . 2004 Nov;186(21):7161-74. doi: 10.1128/JB.186.21.7161-7174.2004.
 The completely sequenced plasmid pEST4011 contains a novel IncP1 backbone and a catabolic transposon harboring tfd genes for 2,4-dichlorophenoxyacetic acid degradation
 Eve Vedler 1, Merle Vahter, Ain Heinaru
-
 https://jb.asm.org/content/186/21/7161.long
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC523222/
 We show that despite the overall similarity in plasmid organization, the pEST4011 backbone is sufficiently different (51 to 86% amino acid sequence identity between individual backbone genes) from the backbones of members of the three IncP1 subgroups (theα , β, and γ subgroups) that it belongs to a new IncP1subgroup, the δ subgroup. This conclusion was also supported by a phylogenetic analysis of the trfA2, korA, and traG gene products of different IncP1 plasmids.
@@ -2946,6 +2956,14 @@ LOCUS       AJ564903               64508 bp    DNA     circular ENV 25-JUL-2016
 DEFINITION  Uncultured bacterium IncP-1beta multiresistance plasmid pB10.
 ```
 
+https://pubmed.ncbi.nlm.nih.gov/16151119/
+Appl Environ Microbiol
+. 2005 Sep;71(9):5309-17. doi: 10.1128/AEM.71.9.5309-5317.2005.
+Plasmid donor affects host range of promiscuous IncP-1beta plasmid pB10 in an activated-sludge microbial community
+Leen De Gelder 1, Frederik P J Vandecasteele, Celeste J Brown, Larry J Forney, Eva M Top
+https://journals.asm.org/doi/10.1128/AEM.71.9.5309-5317.2005
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1214629/
+
 https://pubmed.ncbi.nlm.nih.gov/14600226/
 Microbiology (Reading)
 . 2003 Nov;149(Pt 11):3139-3153. doi: 10.1099/mic.0.26570-0.
@@ -2956,6 +2974,7 @@ https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.26570-0
 ## 1998
 
 ### pIJB1
+IncP-1delta
 
 https://pubmed.ncbi.nlm.nih.gov/12206751/
 Plasmid
@@ -3296,6 +3315,7 @@ Phylogeny of IncP-1 TrfA homologues. Presented is a neighbor joining tree (1,000
 ### Shintani
 新谷政己
 
+### 2022-09-27
 https://pubmed.ncbi.nlm.nih.gov/36069618/
 Appl Environ Microbiol
 . 2022 Sep 27;88(18):e0111422. doi: 10.1128/aem.01114-22. Epub 2022 Sep 7.
@@ -3304,6 +3324,7 @@ Masaya Hayakawa # 1, Maho Tokuda # 2, Kensei Kaneko # 1, Koichiro Nakamichi # 1,
 https://journals.asm.org/doi/full/10.1128/aem.01114-22
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9499019/
 
+### 2020-11-27
 https://pubmed.ncbi.nlm.nih.gov/33329469/
 Front Microbiol
 . 2020 Nov 27;11:590776. doi: 10.3389/fmicb.2020.590776. eCollection 2020.
@@ -3312,6 +3333,7 @@ Masaki Shintani 1 2 3, Eman Nour 4, Tarek Elsayed 4, Khald Blau 4, Inessa Wall 4
 https://www.frontiersin.org/articles/10.3389/fmicb.2020.590776/full
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7728920/
 
+### 2020-06-09
 https://pubmed.ncbi.nlm.nih.gov/32582111/
 Front Microbiol
 . 2020 Jun 9;11:1187. doi: 10.3389/fmicb.2020.01187. eCollection 2020.
@@ -3422,8 +3444,7 @@ Hirokazu Yano - これまでの研究 (in Japanese)
 上記の進化実験では、複製開始タンパク質に集中的に変異が入りましたが、類似の変異がデータベースに登録されている他のプラスミドにも見つかることに研究の過程で気づきました。そこで、得られた変異体プラ スミドの表現型を様々な角度から解析することで、 プラスミドに見られる複製開始タンパク質遺伝子の5’-endの長さの多様性（in/del) が、genetic driftではなくトレード・オフの関係にある形質（この場合は水平伝播 と垂直伝播）に対するnatural selectionの結果として説明できるというアイデアを提案しました（Yano et al., J. Bacteriol. 2012)。TrfAのN末の多型のような長さ多型は他のタンパク質（遺伝子座）にも見かけられま す。他のタンパク質に関しても、N末の長さ多型にには何か重要な意味があるのではないでしょうか。
 
 
-### Yano_2013
-### 2013-11-
+### Yano_2013-11
 https://pubmed.ncbi.nlm.nih.gov/24002747/
 Microbiology (Reading)
 . 2013 Nov;159(Pt 11):2303-2315. doi: 10.1099/mic.0.068387-0. Epub 2013 Sep 3.
