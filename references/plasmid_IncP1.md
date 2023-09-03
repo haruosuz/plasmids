@@ -3315,6 +3315,23 @@ Phylogeny of IncP-1 TrfA homologues. Presented is a neighbor joining tree (1,000
 ### Shintani
 新谷政己
 
+### 2023-02-06
+https://pubmed.ncbi.nlm.nih.gov/36744408/
+Environ Microbiol
+. 2023 Feb 6. doi: 10.1111/1462-2920.16345. Online ahead of print.
+Reconsideration of the previously classified incompatibility groups of plasmids, IncP-1 and IncP-11
+Masaki Shintani 1 2 3, Haruo Suzuki 4, Hideaki Nojiri 5, Masato Suzuki 6
+https://ami-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16345
+
+### 2022-01-25
+https://pubmed.ncbi.nlm.nih.gov/35084026/
+J Antimicrob Chemother
+. 2022 Jan 25;dkac006. doi: 10.1093/jac/dkac006. Online ahead of print.
+Precise classification of antimicrobial resistance-associated IncP-2 megaplasmids for molecular epidemiological studies on Pseudomonas species
+Masaki Shintani 1 2 3, Haruo Suzuki 4, Hideaki Nojiri 5, Masato Suzuki 6
+https://academic.oup.com/jac/advance-article/doi/10.1093/jac/dkac006/6515317
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8969547/
+
 ### 2022-09-27
 https://pubmed.ncbi.nlm.nih.gov/36069618/
 Appl Environ Microbiol
@@ -3670,6 +3687,14 @@ As a consequence, and in order to avoid long-branch attraction phenomena, the ph
 
 ### PromA
 
+https://pubmed.ncbi.nlm.nih.gov/37341708/
+Microb Genom
+. 2023 Jun;9(6):mgen001043. doi: 10.1099/mgen.0.001043.
+Transconjugant range of PromA plasmids in microbial communities is predicted by sequence similarity with the bacterial host chromosome
+Maho Tokuda 1, Masahiro Yuki 2, Moriya Ohkuma 2, Kazuhide Kimbara 1, Haruo Suzuki 3, Masaki Shintani 1 2 4
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001043#tab2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10327500/
+
 https://pubmed.ncbi.nlm.nih.gov/33967971/
 Front Microbiol
 . 2021 Apr 21;12:606409. doi: 10.3389/fmicb.2021.606409. eCollection 2021.
@@ -3878,6 +3903,13 @@ DEFINITION  Aminobacter sp. SR38 plasmid pSR8.
      CDS             90629..91849
                      /product="replication initiator protein A"
                      /protein_id="QOF75817.1"
+
+     CDS             188635..189851
+                     /note="frameshifted; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo
+                     /product="transcriptional regulator"
+
 
      CDS             148572..150812
                      /product="relaxase/mobilization nuclease domain-containing
