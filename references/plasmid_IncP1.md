@@ -74,8 +74,8 @@
 [Yano](#yano)
 - [](#)
 
-----------
 
+----------
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3525142/table/mss210-T1/
@@ -88,6 +88,183 @@ pA81	IncP-1β	PCB contaminated soil in Czech Republic, Achromobacter xylosoxidan
 pADP-1	IncP-1β	Soil in the United States, Pseudomonas sp. ADP	NC_004956
 ```
 
+----------
+IncP-1theta
+```
+CP003381 Methylophaga frappieri strain JAM7 plasmid
+CP001979 Marinobacter adhaerens HP15 plasmid pHP-42
+CP006601 Cycloclasticus zancles 78-ME plasmid p7ME01
+```
+
+### 2012-08
+IncP-1theta
+
+https://pubmed.ncbi.nlm.nih.gov/22815445/
+J Bacteriol
+. 2012 Aug;194(15):4126-7. doi: 10.1128/JB.00726-12.
+Complete genome sequences of Methylophaga sp. strain JAM1 and Methylophaga sp. strain JAM7
+Céline Villeneuve 1, Christine Martineau, Florian Mauffrey, Richard Villemur
+https://journals.asm.org/doi/10.1128/JB.00726-12
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3416558/
+Nucleotide sequence accession numbers. The genome sequences and annotations of Methylophaga strains JAM1 and JAM7 have been deposited in GenBank under accession number CP003390 for the strain JAM1 chromosome, CP003380 for the strain JAM7 chromosome, and CP003381 for the strain JAM7 plasmid.
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP003381
+```
+LOCUS       CP003381               47825 bp    DNA     circular BCT 11-AUG-2015
+DEFINITION  Methylophaga frappieri strain JAM7 plasmid, complete sequence.
+
+  ORGANISM  Methylophaga frappieri
+            Bacteria; Proteobacteria; Gammaproteobacteria; Thiotrichales;
+            Piscirickettsiaceae; Methylophaga.
+
+                     /plasmid="unnamed"
+```
+
+### 2010-09-28
+### pHP-42
+IncP-1theta
+
+https://pubmed.ncbi.nlm.nih.gov/21304739/
+Stand Genomic Sci
+. 2010 Sep 28;3(2):97-107. doi: 10.4056/sigs.922139.
+Complete genome sequence of Marinobacter adhaerens type strain (HP15), a diatom-interacting marine microorganism
+Astrid Gärdes, Eva Kaeppel, Aamir Shehzad, Shalin Seebah, Hanno Teeling, Pablo Yarza, Frank Oliver Glöckner, Hans-Peter Grossart, Matthias S Ullrich
+https://environmentalmicrobiome.biomedcentral.com/articles/10.4056/sigs.922139
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3035377/
+Plasmid pHP-42*	  0.042	   circular	  CP001979
+
+Plasmid
+https://www.ncbi.nlm.nih.gov/nuccore/CP001979
+```
+LOCUS       CP001979               42349 bp    DNA     circular BCT 25-JUL-2016
+DEFINITION  Marinobacter adhaerens HP15 plasmid pHP-42, complete sequence.
+
+  ORGANISM  Marinobacter adhaerens HP15
+            Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+            Marinobacteraceae; Marinobacter.
+
+```
+
+Chromosome
+https://www.ncbi.nlm.nih.gov/nuccore/CP001978
+```
+LOCUS       CP001978             4421911 bp    DNA     circular BCT 12-OCT-2011
+DEFINITION  Marinobacter adhaerens HP15, complete genome.
+```
+
+### 2016-08
+### p7ME01
+IncP-1theta
+
+https://pubmed.ncbi.nlm.nih.gov/27345842/
+Environ Microbiol Rep
+. 2016 Aug;8(4):508-19. doi: 10.1111/1758-2229.12424. Epub 2016 Jun 27.
+Analysis of defence systems and a conjugative IncP-1 plasmid in the marine polyaromatic hydrocarbons-degrading bacterium Cycloclasticus sp. 78-ME
+Michail M Yakimov 1, Francesca Crisafi 1, Enzo Messina 1, Francesco Smedile 1, Anna Lopatina 2, Renata Denaro 1, Dietmar H Pieper 3, Peter N Golyshin 4, Laura Giuliano 1
+https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.12424
+Get access to the full version of this article.
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_crossref_primary_10_1111_1758_2229_12424
+Wiley Online Library Open Access
+次のサービスを介してオープンアクセス論文にアクセスできます:Unpaywall
+
+Furthermore, a conjugative plasmid p7ME01, which belongs to a new IncP-1θ ancestral archetype without any accessory mobile elements was found in 78-ME.
+
+Using approach of Norberg et al. (2011), we compared the concatenated backbone regions A, B and C of p7ME01 with corresponding regions of 23 IncP‐1 plasmids retrieved from GenBank through BLAST and literature searches. As supported by phylogenetic analysis of the IncP‐1 backbones, p7ME01 does belong to a novel clade, hereafter called θ (from the Greek word ‘θαλαθθα or thalassa’, meaning ‘sea’) (del Castillo et al., 2013). Additionally to p7ME01, this novel IncP‐1θ clade currently consists of three other closely related plasmids (Fig. 4). Noteworthy, all of them were found in marine biofilm‐forming gammaproteobacteria: Alcanivorax hongengensis A‐11‐3 (Lai and Shao, 2012b), Marinobacter adhaerens HP15 (Gärdes et al., 2010) and Methylophaga frappieri JAM7 (Auclair et al., 2010; Villeneuve et al., 2013). 
+
+![](https://sfamjournals.onlinelibrary.wiley.com/cms/asset/641c8c24-a3b6-4b66-8aec-190bb934cf8f/emi412424-fig-0004-m.png)
+
+Figure 4
+Phylogenetic analysis showing the relationship of p7ME01 with other incP‐1 plasmids of the IncP‐1plasmid backbone. Maximum Likelihood tree was inferred from concatenated backbone regions A, B and C of 23 IncP‐1 plasmids belonging to all currently recognized clades (Norberg et al., 2011; del Castillo et al., 2013). Novel IncP‐1θ clade is shaded in grey. Five IncP‐1 plasmids without any accessory mobile elements known so far are highlighted in bold. Sequence of the uncharacterized plasmid MEALZ_p (FD082061) from Methylomicrobum alcaliphilum 20Z was used as an outgroup. The scale bar represents the probability of amino acid substitutions per site.
+
+MEALZ_p
+
+https://www.ncbi.nlm.nih.gov/bioproject/PRJNA201013
+
+https://www.ncbi.nlm.nih.gov/assembly/GCA_000442595.1
+
+https://www.ncbi.nlm.nih.gov/genome/17665?genome_assembly_id=301223
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP005996
+```
+LOCUS       CP005996             2613078 bp    DNA     circular BCT 03-DEC-2015
+DEFINITION  Cycloclasticus zancles 78-ME chromosome, complete genome.
+
+            collection_date     :: 2011-06-22
+```
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP006601
+```
+LOCUS       CP006601               42347 bp    DNA     circular BCT 03-DEC-2015
+DEFINITION  Cycloclasticus zancles 78-ME plasmid p7ME01, complete sequence.
+
+  ORGANISM  Cycloclasticus zancles 78-ME
+            Bacteria; Proteobacteria; Gammaproteobacteria; Thiotrichales;
+            Piscirickettsiaceae; Cycloclasticus.
+
+            collection_date     :: 2011-06-22
+
+                     /country="Italy: Arenzano"
+                     /lat_lon="44.3667 N 8.7097 E"
+                     /altitude="-78 m"
+
+     CDS             complement(2091..3221)
+                     /product="TrfA protein"
+                     /protein_id="AGS40879.1"
+
+     CDS             3714..4097
+                     /product="Conjugal transfer protein TrbA"
+                     /protein_id="AGS40881.1"
+
+     CDS             complement(29494..31761)
+                     /note="DNA relaxase"
+                     /product="Conjugal transfer protein TraI"
+                     /protein_id="AGS40912.1"
+
+     CDS             complement(39208..39504)
+                     /product="KorA protein"
+                     /protein_id="AGS40923.1"
+
+```
+
+----------
+
+### 2012-01
+### MEALZ_p
+
+https://www.ncbi.nlm.nih.gov/nuccore/FO082061
+```
+LOCUS       FO082061              128415 bp    DNA     circular BCT 25-JUL-2016
+DEFINITION  Methylomicrobium alcaliphilum str. 20Z plasmid MEALZ_p, complete
+            genome.
+
+   PUBMED   22207753
+
+     CDS             complement(29003..30022)
+                     /product="putative plasmid replication initiator protein"
+                     /protein_id="CCE25738.1"
+https://www.ncbi.nlm.nih.gov/protein/CCE25738
+
+     CDS             complement(21758..22615)
+                     /product="putative Replication protein"
+                     /protein_id="CCE25731.1"
+https://www.ncbi.nlm.nih.gov/protein/CCE25731
+                     /note="replication initiation protein RepM; NF038290"
+
+     CDS             complement(111304..113505)
+                     /gene="traI"
+                     /product="Protein traI"
+                     /protein_id="CCE25806.1"
+
+```
+
+GENOME ANNOUNCEMENT
+https://pubmed.ncbi.nlm.nih.gov/22207753/
+J Bacteriol
+. 2012 Jan;194(2):551-2. doi: 10.1128/JB.06392-11.
+Genome sequence of the haloalkaliphilic methanotrophic bacterium Methylomicrobium alcaliphilum 20Z
+Stéphane Vuilleumier 1, Valentina N Khmelenina, Françoise Bringel, Alexandr S Reshetnikov, Aurélie Lajus, Sophie Mangenot, Zoé Rouy, Huub J M Op den Camp, Mike S M Jetten, Alan A Dispirito, Peter Dunfield, Martin G Klotz, Jeremy D Semrau, Lisa Y Stein, Valérie Barbe, Claudine Médigue, Yuri A Trotsenko, Marina G Kalyuzhnaya
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3256673/
+Nucleotide sequence accession numbers. The M. alcaliphilum 20Z genome sequence was deposited in GENEMBL under accession numbers FO082060 and FO082061 (project ID 73721).
 
 ----------
 ## mob
@@ -1598,94 +1775,6 @@ DEFINITION  Cupriavidus oxalaticus strain X32 chromosome 1, complete sequence.
 
 ----------
 
-## 2016
-
-### Yakimov_2016-08
-### p7ME01
-IncP-1theta
-
-https://pubmed.ncbi.nlm.nih.gov/27345842/
-Environ Microbiol Rep
-. 2016 Aug;8(4):508-19. doi: 10.1111/1758-2229.12424. Epub 2016 Jun 27.
-Analysis of defence systems and a conjugative IncP-1 plasmid in the marine polyaromatic hydrocarbons-degrading bacterium Cycloclasticus sp. 78-ME
-Michail M Yakimov 1, Francesca Crisafi 1, Enzo Messina 1, Francesco Smedile 1, Anna Lopatina 2, Renata Denaro 1, Dietmar H Pieper 3, Peter N Golyshin 4, Laura Giuliano 1
-https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.12424
-Furthermore, a conjugative plasmid p7ME01, which belongs to a new IncP-1θ ancestral archetype without any accessory mobile elements was found in 78-ME.
-
-Using approach of Norberg et al. (2011), we compared the concatenated backbone regions A, B and C of p7ME01 with corresponding regions of 23 IncP‐1 plasmids retrieved from GenBank through BLAST and literature searches. As supported by phylogenetic analysis of the IncP‐1 backbones, p7ME01 does belong to a novel clade, hereafter called θ (from the Greek word ‘θαλαθθα or thalassa’, meaning ‘sea’) (del Castillo et al., 2013). Additionally to p7ME01, this novel IncP‐1θ clade currently consists of three other closely related plasmids (Fig. 4). Noteworthy, all of them were found in marine biofilm‐forming gammaproteobacteria: Alcanivorax hongengensis A‐11‐3 (Lai and Shao, 2012b), Marinobacter adhaerens HP15 (Gärdes et al., 2010) and Methylophaga frappieri JAM7 (Auclair et al., 2010; Villeneuve et al., 2013). 
-
-![](https://sfamjournals.onlinelibrary.wiley.com/cms/asset/641c8c24-a3b6-4b66-8aec-190bb934cf8f/emi412424-fig-0004-m.png)
-
-Figure 4
-Phylogenetic analysis showing the relationship of p7ME01 with other incP‐1 plasmids of the IncP‐1plasmid backbone. Maximum Likelihood tree was inferred from concatenated backbone regions A, B and C of 23 IncP‐1 plasmids belonging to all currently recognized clades (Norberg et al., 2011; del Castillo et al., 2013). Novel IncP‐1θ clade is shaded in grey. Five IncP‐1 plasmids without any accessory mobile elements known so far are highlighted in bold. Sequence of the uncharacterized plasmid MEALZ_p (FD082061) from Methylomicrobum alcaliphilum 20Z was used as an outgroup. The scale bar represents the probability of amino acid substitutions per site.
-
-MEALZ_p
-
-https://www.ncbi.nlm.nih.gov/bioproject/PRJNA201013
-
-https://www.ncbi.nlm.nih.gov/assembly/GCA_000442595.1
-
-https://www.ncbi.nlm.nih.gov/genome/17665?genome_assembly_id=301223
-
-https://www.ncbi.nlm.nih.gov/nuccore/CP005996
-```
-LOCUS       CP005996             2613078 bp    DNA     circular BCT 03-DEC-2015
-DEFINITION  Cycloclasticus zancles 78-ME chromosome, complete genome.
-
-            collection_date     :: 2011-06-22
-```
-
-https://www.ncbi.nlm.nih.gov/nuccore/CP006601
-```
-LOCUS       CP006601               42347 bp    DNA     circular BCT 03-DEC-2015
-DEFINITION  Cycloclasticus zancles 78-ME plasmid p7ME01, complete sequence.
-
-  ORGANISM  Cycloclasticus zancles 78-ME
-            Bacteria; Proteobacteria; Gammaproteobacteria; Thiotrichales;
-            Piscirickettsiaceae; Cycloclasticus.
-
-            collection_date     :: 2011-06-22
-
-                     /country="Italy: Arenzano"
-                     /lat_lon="44.3667 N 8.7097 E"
-                     /altitude="-78 m"
-
-     CDS             complement(2091..3221)
-                     /locus_tag="CYCME_3003"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="TrfA protein"
-                     /protein_id="AGS40879.1"
-
-
-     CDS             3714..4097
-                     /locus_tag="CYCME_3005"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="Conjugal transfer protein TrbA"
-                     /protein_id="AGS40881.1"
-
-     CDS             complement(29494..31761)
-                     /locus_tag="CYCME_3036"
-                     /note="DNA relaxase"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="Conjugal transfer protein TraI"
-                     /protein_id="AGS40912.1"
-
-
-     CDS             complement(39208..39504)
-                     /locus_tag="CYCME_3047"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="KorA protein"
-                     /protein_id="AGS40923.1"
-
-
-```
-
-
-
 ### Dang_2016-05-06
 ### pDTC28
 IncP-1beta1
@@ -1956,70 +2045,6 @@ These plasmids demonstrate great diversity – a phylogenetic study has shown th
 
 A detailed phylogenetic analysis and study of the amino acid sequence of protein TrfA, which initiates plasmid replication, have allowed the classification of group IncP-1 into six subgroups: -α, -β, -γ, -ε, -δ (Bahl, 2009), and -ζ (Norberg et al., 2011) and also into an unnamed subgroup (Pachulec and van der Does, 2010). Unpublished data also indicate the existence of a η subgroup (Sen et al., 2012). IncP-1 plasmids have been identified in clinical and environmental, phylogenetically very distant, host bacterial species from around the world. 
 
-
-
-
-----------
-
-## 2012
-
-### 2012-08
-IncP-1theta
-
-https://pubmed.ncbi.nlm.nih.gov/22815445/
-J Bacteriol
-. 2012 Aug;194(15):4126-7. doi: 10.1128/JB.00726-12.
-Complete genome sequences of Methylophaga sp. strain JAM1 and Methylophaga sp. strain JAM7
-Céline Villeneuve 1, Christine Martineau, Florian Mauffrey, Richard Villemur
-https://journals.asm.org/doi/10.1128/JB.00726-12
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3416558/
-Nucleotide sequence accession numbers. The genome sequences and annotations of Methylophaga strains JAM1 and JAM7 have been deposited in GenBank under accession number CP003390 for the strain JAM1 chromosome, CP003380 for the strain JAM7 chromosome, and CP003381 for the strain JAM7 plasmid.
-
-https://www.ncbi.nlm.nih.gov/nuccore/CP003381
-```
-LOCUS       CP003381               47825 bp    DNA     circular BCT 11-AUG-2015
-DEFINITION  Methylophaga frappieri strain JAM7 plasmid, complete sequence.
-
-  ORGANISM  Methylophaga frappieri
-            Bacteria; Proteobacteria; Gammaproteobacteria; Thiotrichales;
-            Piscirickettsiaceae; Methylophaga.
-
-                     /plasmid="unnamed"
-```
-
-
-### Vuilleumier_2012-01
-### MEALZ_p
-
-https://www.ncbi.nlm.nih.gov/nuccore/FO082061
-```
-LOCUS       FO082061              128415 bp    DNA     circular BCT 25-JUL-2016
-DEFINITION  Methylomicrobium alcaliphilum str. 20Z plasmid MEALZ_p, complete
-            genome.
-
-   PUBMED   22207753
-
-
-     CDS             complement(111304..113505)
-                     /gene="traI"
-                     /locus_tag="MEALZ_p0101"
-                     /inference="ab initio prediction:AMIGene:2.0"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="Protein traI"
-                     /protein_id="CCE25806.1"
-
-```
-
-https://pubmed.ncbi.nlm.nih.gov/22207753/
-J Bacteriol
-. 2012 Jan;194(2):551-2. doi: 10.1128/JB.06392-11.
-Genome sequence of the haloalkaliphilic methanotrophic bacterium Methylomicrobium alcaliphilum 20Z
-Stéphane Vuilleumier 1, Valentina N Khmelenina, Françoise Bringel, Alexandr S Reshetnikov, Aurélie Lajus, Sophie Mangenot, Zoé Rouy, Huub J M Op den Camp, Mike S M Jetten, Alan A Dispirito, Peter Dunfield, Martin G Klotz, Jeremy D Semrau, Lisa Y Stein, Valérie Barbe, Claudine Médigue, Yuri A Trotsenko, Marina G Kalyuzhnaya
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3256673/
-Nucleotide sequence accession numbers. The M. alcaliphilum 20Z genome sequence was deposited in GENEMBL under accession numbers FO082060 and FO082061 (project ID 73721).
-
-
 ----------
 ## 2011
 ----------
@@ -2140,37 +2165,6 @@ DEFINITION  Uncultured bacterium pMCBF6 plasmid pMCBF6, complete sequence.
 ----------
 
 ## 2010
-
-### 2010-09-28
-IncP-1theta
-
-https://pubmed.ncbi.nlm.nih.gov/21304739/
-Stand Genomic Sci
-. 2010 Sep 28;3(2):97-107. doi: 10.4056/sigs.922139.
-Complete genome sequence of Marinobacter adhaerens type strain (HP15), a diatom-interacting marine microorganism
-Astrid Gärdes, Eva Kaeppel, Aamir Shehzad, Shalin Seebah, Hanno Teeling, Pablo Yarza, Frank Oliver Glöckner, Hans-Peter Grossart, Matthias S Ullrich
-https://environmentalmicrobiome.biomedcentral.com/articles/10.4056/sigs.922139
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3035377/
-Plasmid pHP-42*	  0.042	   circular	  CP001979
-
-Plasmid
-https://www.ncbi.nlm.nih.gov/nuccore/CP001979
-```
-LOCUS       CP001979               42349 bp    DNA     circular BCT 25-JUL-2016
-DEFINITION  Marinobacter adhaerens HP15 plasmid pHP-42, complete sequence.
-
-  ORGANISM  Marinobacter adhaerens HP15
-            Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
-            Marinobacteraceae; Marinobacter.
-
-```
-
-Chromosome
-https://www.ncbi.nlm.nih.gov/nuccore/CP001978
-```
-LOCUS       CP001978             4421911 bp    DNA     circular BCT 12-OCT-2011
-DEFINITION  Marinobacter adhaerens HP15, complete genome.
-```
 
 ### Sen_2010-03
 ### pAKD4
@@ -3263,12 +3257,73 @@ DEFINITION  TPA_exp: Birmingham IncP-alpha plasmid, complete sequence, isolate
 ----------
 ## chromosome
 
+### S17-1
+
+http://www.agr.kyushu-u.ac.jp/sanshi-kyushu/entomotech_38/p17_19.pdf
+Escherichia coli S17-1
+のゲノム上には，プラスミドの伝播に関与する tra
+遺伝子が存在する。この遺伝子が mob 領域を認識
+し，受容菌へとプラスミドを伝播するという特性
+がある（SIMON et al., 1983）。 
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP040667
+```
+LOCUS       CP040667             4772290 bp    DNA     circular BCT 04-JUN-2019
+DEFINITION  Escherichia coli strain S17-1 chromosome, complete genome.
+
+     CDS             complement(3069276..3070424)
+                     /product="plasmid replication initiator protein TrfA"
+                     /protein_id="QCW47545.1"
+
+     CDS             complement(3117550..3117921)
+                     /gene="traJ"
+                     /product="conjugal transfer transcriptional regulator
+                     TraJ"
+
+     CDS             3118289..3118693
+                     /product="conjugal transfer protein TraK"
+
+     CDS             3118693..3119418
+                     /product="protein TraL"
+
+     CDS             3119415..3119852
+                     /product="conjugal transfer protein TraM"
+
+
+
+     CDS             3139017..3139259
+                     /product="relaxase"
+
+```
+
 ### Jackson_2020
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP060709
 ```
 LOCUS       CP060709             4825686 bp    DNA     circular BCT 31-AUG-2020
 DEFINITION  Escherichia coli strain ST18 chromosome, complete genome.
+
+     CDS             416431..416802
+                     /gene="traJ"
+                     /product="conjugal transfer transcriptional regulator
+                     TraJ"
+
+     CDS             416837..419035
+                     /product="relaxase/mobilization nuclease domain-containing
+                     protein"
+
+     CDS             complement(461363..461800)
+                     /gene="trbC"
+                     /product="IncP-type conjugal transfer pilin TrbC"
+                     /protein_id="QNM56946.1"
+
+     CDS             complement(461813..462772)
+                     /gene="trbB"
+                     /product="P-type conjugative transfer ATPase TrbB"
+
+     CDS             463928..465076
+                     /product="plasmid replication initiator protein TrfA"
+
 ```
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP060708
@@ -3289,7 +3344,6 @@ Escherichia coli ST18 and MFDpir are donors commonly used to transfer oriTRP4-co
 Several E. coli K-12 derivative strains have been engineered as donors, typically based on mobilization machinery derived from the broad-host-range plasmid RP4 (1,–4).
 
 The complete genome sequences have been deposited in NCBI GenBank with accession numbers CP060709 (ST18) and CP060708 (MFDpir) 
-
 
 
 ### Stenger_2011
