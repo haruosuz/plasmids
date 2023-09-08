@@ -28,7 +28,6 @@
 [1994](#1994)
 - [](#)
 - [2016](#2016)
-- [p7ME01](#p7me01) IncP-1theta
 - [pDTC28](#pdtc28) IncP-1beta1
 - [2015](#2015)
 - [pAcX50c](#pacx50c)
@@ -73,6 +72,8 @@
 [Suzuki](#suzuki)
 [Yano](#yano)
 - [](#)
+- [theta](#theta) IncP-1theta
+- [p7ME01](#p7me01) IncP-1theta
 
 
 ----------
@@ -89,7 +90,87 @@ pADP-1	IncP-1β	Soil in the United States, Pseudomonas sp. ADP	NC_004956
 ```
 
 ----------
-IncP-1theta
+
+
+----------
+## 
+
+https://www.ncbi.nlm.nih.gov/protein/AEC19138
+```
+LOCUS       AEC19138                 687 aa            linear   BCT 31-JAN-2014
+DEFINITION  transposase [Pusillimonas sp. T7-7].
+
+REFERENCE   1  (residues 1 to 687)
+  AUTHORS   Cao,B., Ma,T., Ren,Y., Ren,Y., Li,G., Li,P., Guo,X., Ding,P. and
+            Feng,L.
+  TITLE     Complete Genome Sequence of Pusillimonas sp. T7-7, a Cold-Tolerant
+            Diesel Oil-Degrading Bacterium Isolated from the Bohai Sea in China
+  JOURNAL   J. Bacteriol. 193 (15), 4021-4022 (2011)
+   PUBMED   21622753
+
+     Protein         1..687
+                     /product="transposase"
+     Region          14..264
+                     /region_name="Rep_3"
+                     /note="Initiator Replication protein; cl19398"
+                     /db_xref="CDD:450297"
+     Region          326..675
+                     /region_name="transpos_ISL3"
+                     /note="ISL3 family transposase; NF033550"
+                     /db_xref="CDD:411183"
+
+```
+
+https://pubmed.ncbi.nlm.nih.gov/21622753/
+J Bacteriol
+. 2011 Aug;193(15):4021-2. doi: 10.1128/JB.05242-11. Epub 2011 May 27.
+Complete genome sequence of Pusillimonas sp. T7-7, a cold-tolerant diesel oil-degrading bacterium isolated from the Bohai Sea in China
+Boyang Cao 1, Ting Ma, Yan Ren, Yi Ren, Guoqiang Li, Ping Li, Xi Guo, Peng Ding, Lu Feng
+https://journals.asm.org/doi/10.1128/jb.05242-11
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3147516/
+GENOME ANNOUNCEMENT
+
+----------
+## TrfA TraI
+
+https://pubmed.ncbi.nlm.nih.gov/8954881/
+Plasmid
+. 1996 Sep;36(2):95-111. doi: 10.1006/plas.1996.0037.
+Conservation of the genetic switch between replication and transfer genes of IncP plasmids but divergence of the replication functions which are major host-range determinants
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_ingenta_academicpress_ap_pl_1996_00000036_00000002_art00037
+
+
+https://ncbi.nlm.nih.gov/protein/WP_241190711
+```
+LOCUS       WP_241190711             282 aa            linear   BCT 11-APR-2022
+DEFINITION  plasmid replication initiator TrfA [Pseudomonas chlororaphis].
+
+```
+
+https://www.ncbi.nlm.nih.gov/protein/WP_239990634
+```
+LOCUS       WP_239990634             603 aa            linear   BCT 05-AUG-2022
+DEFINITION  MULTISPECIES: plasmid replication initiator TrfA [unclassified
+            Pseudomonas].
+
+     gene            1..603
+                     /gene="trfA"
+     Protein         1..603
+                     /product="plasmid replication initiator TrfA"
+                     /calculated_mol_wt=67655
+     Region          2..208
+                     /region_name="Rep_3"
+                     /note="Initiator Replication protein; cl19398"
+                     /db_xref="CDD:450297"
+     Region          <297..>603
+                     /region_name="PRK13878"
+                     /note="conjugal transfer relaxase TraI; Provisional"
+                     /db_xref="CDD:237539"
+
+```
+
+----------
+## theta
 ```
 CP003381 Methylophaga frappieri strain JAM7 plasmid
 CP001979 Marinobacter adhaerens HP15 plasmid pHP-42
