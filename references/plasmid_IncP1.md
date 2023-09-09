@@ -93,20 +93,12 @@ pADP-1	IncP-1β	Soil in the United States, Pseudomonas sp. ADP	NC_004956
 
 
 ----------
-## 
+## transposase
 
 https://www.ncbi.nlm.nih.gov/protein/AEC19138
 ```
 LOCUS       AEC19138                 687 aa            linear   BCT 31-JAN-2014
 DEFINITION  transposase [Pusillimonas sp. T7-7].
-
-REFERENCE   1  (residues 1 to 687)
-  AUTHORS   Cao,B., Ma,T., Ren,Y., Ren,Y., Li,G., Li,P., Guo,X., Ding,P. and
-            Feng,L.
-  TITLE     Complete Genome Sequence of Pusillimonas sp. T7-7, a Cold-Tolerant
-            Diesel Oil-Degrading Bacterium Isolated from the Bohai Sea in China
-  JOURNAL   J. Bacteriol. 193 (15), 4021-4022 (2011)
-   PUBMED   21622753
 
      Protein         1..687
                      /product="transposase"
@@ -3338,46 +3330,22 @@ DEFINITION  TPA_exp: Birmingham IncP-alpha plasmid, complete sequence, isolate
 ----------
 ## chromosome
 
-### S17-1
+### 2020-11-05
 
-http://www.agr.kyushu-u.ac.jp/sanshi-kyushu/entomotech_38/p17_19.pdf
-Escherichia coli S17-1
-のゲノム上には，プラスミドの伝播に関与する tra
-遺伝子が存在する。この遺伝子が mob 領域を認識
-し，受容菌へとプラスミドを伝播するという特性
-がある（SIMON et al., 1983）。 
+https://pubmed.ncbi.nlm.nih.gov/33154010/
+Microbiol Resour Announc
+. 2020 Nov 5;9(45):e01014-20. doi: 10.1128/MRA.01014-20.
+Complete Genome Sequences of the Escherichia coli Donor Strains ST18 and MFD pir
+Simon A Jackson 1 2, Bridget J Fellows 3 2, Peter C Fineran 3 2 4
+https://mra.asm.org/content/9/45/e01014-20
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7645665/
+Escherichia coli ST18 and MFDpir are donors commonly used to transfer oriTRP4-containing plasmids to diverse bacteria via conjugation. 
 
-https://www.ncbi.nlm.nih.gov/nuccore/CP040667
-```
-LOCUS       CP040667             4772290 bp    DNA     circular BCT 04-JUN-2019
-DEFINITION  Escherichia coli strain S17-1 chromosome, complete genome.
+ANNOUNCEMENT
+A common laboratory method for transferring plasmids to diverse bacteria is via conjugation from an Escherichia coli donor strain. Several E. coli K-12 derivative strains have been engineered as donors, typically based on mobilization machinery derived from the broad-host-range plasmid RP4 (1,–4). To facilitate efficient postmating donor counterselection, several auxotrophic E. coli donors, such as ST18, have been constructed (5). ST18 is a 5-aminolevulinic acid auxotroph derivative of S17-1 λpir that was derived by deletion of hemA (5,–8). 
 
-     CDS             complement(3069276..3070424)
-                     /product="plasmid replication initiator protein TrfA"
-                     /protein_id="QCW47545.1"
+The complete genome sequences have been deposited in NCBI GenBank with accession numbers CP060709 (ST18) and CP060708 (MFDpir) 
 
-     CDS             complement(3117550..3117921)
-                     /gene="traJ"
-                     /product="conjugal transfer transcriptional regulator
-                     TraJ"
-
-     CDS             3118289..3118693
-                     /product="conjugal transfer protein TraK"
-
-     CDS             3118693..3119418
-                     /product="protein TraL"
-
-     CDS             3119415..3119852
-                     /product="conjugal transfer protein TraM"
-
-
-
-     CDS             3139017..3139259
-                     /product="relaxase"
-
-```
-
-### Jackson_2020
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP060709
 ```
@@ -3413,19 +3381,43 @@ LOCUS       CP060708             4686434 bp    DNA     circular BCT 31-AUG-2020
 DEFINITION  Escherichia coli strain MFDpir chromosome, complete genome.
 ```
 
-https://pubmed.ncbi.nlm.nih.gov/33154010/
-Microbiol Resour Announc
-. 2020 Nov 5;9(45):e01014-20. doi: 10.1128/MRA.01014-20.
-Complete Genome Sequences of the Escherichia coli Donor Strains ST18 and MFD pir
-Simon A Jackson 1 2, Bridget J Fellows 3 2, Peter C Fineran 3 2 4
-https://mra.asm.org/content/9/45/e01014-20
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7645665/
-Escherichia coli ST18 and MFDpir are donors commonly used to transfer oriTRP4-containing plasmids to diverse bacteria via conjugation. 
+### S17-1
 
-Several E. coli K-12 derivative strains have been engineered as donors, typically based on mobilization machinery derived from the broad-host-range plasmid RP4 (1,–4).
+http://www.agr.kyushu-u.ac.jp/sanshi-kyushu/entomotech_38/p17_19.pdf
+Escherichia coli S17-1
+のゲノム上には，プラスミドの伝播に関与する tra
+遺伝子が存在する。この遺伝子が mob 領域を認識
+し，受容菌へとプラスミドを伝播するという特性
+がある（SIMON et al., 1983）。 
 
-The complete genome sequences have been deposited in NCBI GenBank with accession numbers CP060709 (ST18) and CP060708 (MFDpir) 
+https://www.ncbi.nlm.nih.gov/nuccore/CP040667
+```
+LOCUS       CP040667             4772290 bp    DNA     circular BCT 04-JUN-2019
+DEFINITION  Escherichia coli strain S17-1 chromosome, complete genome.
 
+     CDS             complement(3069276..3070424)
+                     /product="plasmid replication initiator protein TrfA"
+                     /protein_id="QCW47545.1"
+
+     CDS             complement(3117550..3117921)
+                     /gene="traJ"
+                     /product="conjugal transfer transcriptional regulator
+                     TraJ"
+
+     CDS             3118289..3118693
+                     /product="conjugal transfer protein TraK"
+
+     CDS             3118693..3119418
+                     /product="protein TraL"
+
+     CDS             3119415..3119852
+                     /product="conjugal transfer protein TraM"
+
+
+     CDS             3139017..3139259
+                     /product="relaxase"
+
+```
 
 ### Stenger_2011
 
