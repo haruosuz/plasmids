@@ -2886,10 +2886,11 @@ DEFINITION  Sphingomonas sp. A1 plasmid pA1 DNA, complete sequence.
 
 ```
 
-
 ## 2011
 
 ### 2011-08-20
+
+### pB5
 IncP-1alpha
 
 https://pubmed.ncbi.nlm.nih.gov/21115076/
@@ -2902,11 +2903,68 @@ https://www.sciencedirect.com/science/article/abs/pii/S0168165610020511?via%3Dih
 The three IncP-1α plasmids pB5, pB11 and pSP21 were isolated from bacteria of two different sewage treatment plants and sequenced by a combination of next-generation and capillary sequencing technologies. A comparative analysis including the previously analysed IncP-1α plasmids RK2, pTB11 and pBS228 revealed a highly conserved plasmid backbone (at least 99.9% DNA sequence identity) comprising 54 core genes. The accessory elements of the plasmid pB5 constitute a class 1 integron interrupting the parC gene and an IS6100 copy inserted into the integron. In addition, the tetracycline resistance genes tetAR and the ISTB11-like element are located between the klc operon and the trfA–ssb operon. 
 
 
+https://www.ncbi.nlm.nih.gov/nuccore/CP002151
+```
+LOCUS       CP002151               64696 bp    DNA     circular ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium plasmid PB5, complete sequence.
+
+
+
+     CDS             complement(1..1149)
+                     /gene="trfA1"
+                     /locus_tag="PB5_0001"
+                     /note="alternative; initiation of plasmid replication,
+                     essential for replication in Pseudomonas aeruginosa; long
+                     form TrfA1, alternative start codon"
+                     /product="TrfA transcriptional repressor protein, long
+                     form"
+                     /protein_id="ADU90710.1"
+
+     CDS             complement(1..858)
+                     /gene="trfA2"
+                     /locus_tag="PB5_0002"
+                     /note="alternative; initiation of plasmid replication,
+                     essential for replication in Pseudomonas aeruginosa; long
+                     form TrfA1, alternative start codon"
+                     /product="TrfA transcriptional repressor protein, short
+                     form"
+                     /protein_id="ADU90711.1"
+
+
+     CDS             complement(35798..37996)
+                     /gene="traI"
+                     /locus_tag="PB5_0053"
+                     /note="Endonuclease relaxase, MobA/VirD2,
+                     Relaxase/Mobilisation nuclease domain, involved in
+                     conjugative DNA transfer; mediates cleavage at the nick
+                     site of oriT"
+                     /product="conjugal transfer relaxase TraI"
+                     /protein_id="ADU90756.1"
+
+
+     CDS             complement(55740..56417)
+                     /gene="tetR"
+                     /locus_tag="PB5_0081"
+                     /note="Tetracycline transcriptional regulator, TetR-like,
+                     C-terminal all-alpha domain; Transcriptional regulator"
+                     /product="tetracycline resistance repressor protein"
+                     /protein_id="ADU90784.1"
+
+     CDS             56496..57695
+                     /gene="tetA"
+                     /locus_tag="PB5_0082"
+                     /note="Tetracycline resistance protein, class B (TetA(B))
+                     (Metal-tetracycline/H(+) antiporter), Major facilitator
+                     superfamily, 2_A_01_02: Multidrug resistance protein;
+                     Arabinose efflux permease"
+                     /product="tetracycline efflux protein"
+
+```
 
 ## 2005
 
 ### 2005-05
-pTB11
+### pTB11
 IncP-1alpha
 
 https://pubmed.ncbi.nlm.nih.gov/15848226/
@@ -2917,6 +2975,39 @@ Thomas Tennstedt 1, Rafael Szczepanowski, Irene Krahn, Alfred Pühler, Andreas S
 https://www.sciencedirect.com/science/article/abs/pii/S0147619X04001027?via%3Dihub
 
 In contrast to the ‘Birmingham’ plasmids the pTB11 tetracycline resistance module carries a pecM- and a pncA-like gene downstream of the tetracycline resistance gene tetA and contains an insertion of the new insertion sequence element ISTB11. 
+
+https://www.ncbi.nlm.nih.gov/nuccore/AJ744860
+```
+LOCUS       AJ744860               68869 bp    DNA     circular ENV 26-JUL-2016
+DEFINITION  uncultured bacterium pTB11 plasmid complete genome.
+
+     CDS             complement(3826..4476)
+                     /gene="tetR"
+                     /note="transcriptional regulation of tetA expression"
+                     /product="tetracycline repressor protein"
+
+     CDS             4582..5781
+                     /gene="tetA"
+                     /note="confers tetracycline resistance"
+                     /product="tetracyclin efflux protein"
+
+
+     CDS             complement(12783..13931)
+                     /gene="trfA1"
+                     /note="alternative;
+                     initiation of plasmid replication"
+                     /product="transcriptional repressor protein"
+                     /protein_id="CAG30857.1"
+
+
+     CDS             complement(52751..54949)
+                     /gene="traI"
+                     /note="involved in conjugative DNA transfer; mediates
+                     cleavage at the nick site of oriT"
+                     /product="DNA relaxase"
+
+```
+
 
 
 ## 2004
