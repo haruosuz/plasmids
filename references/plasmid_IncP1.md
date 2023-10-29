@@ -238,11 +238,10 @@ https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.12424
 Get access to the full version of this article.
 https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_crossref_primary_10_1111_1758_2229_12424
 Wiley Online Library Open Access
-次のサービスを介してオープンアクセス論文にアクセスできます:Unpaywall
 
 Furthermore, a conjugative plasmid p7ME01, which belongs to a new IncP-1θ ancestral archetype without any accessory mobile elements was found in 78-ME.
 
-Using approach of Norberg et al. (2011), we compared the concatenated backbone regions A, B and C of p7ME01 with corresponding regions of 23 IncP‐1 plasmids retrieved from GenBank through BLAST and literature searches. As supported by phylogenetic analysis of the IncP‐1 backbones, p7ME01 does belong to a novel clade, hereafter called θ (from the Greek word ‘θαλαθθα or thalassa’, meaning ‘sea’) (del Castillo et al., 2013). Additionally to p7ME01, this novel IncP‐1θ clade currently consists of three other closely related plasmids (Fig. 4). Noteworthy, all of them were found in marine biofilm‐forming gammaproteobacteria: Alcanivorax hongengensis A‐11‐3 (Lai and Shao, 2012b), Marinobacter adhaerens HP15 (Gärdes et al., 2010) and Methylophaga frappieri JAM7 (Auclair et al., 2010; Villeneuve et al., 2013). 
+Using approach of Norberg et al. (2011), we compared the concatenated backbone regions A, B and C of p7ME01 with corresponding regions of 23 IncP-1 plasmids retrieved from GenBank through BLAST and literature searches. As supported by phylogenetic analysis of the IncP-1 backbones, p7ME01 does belong to a novel clade, hereafter called θ (from the Greek word ‘θαλαθθα or thalassa’, meaning ‘sea’) (del Castillo et al., 2013). Additionally to p7ME01, this novel IncP-1θ clade currently consists of three other closely related plasmids (Fig. 4). Noteworthy, all of them were found in marine biofilm-forming gammaproteobacteria: Alcanivorax hongengensis A-11-3 (Lai and Shao, 2012b), Marinobacter adhaerens HP15 (Gärdes et al., 2010) and Methylophaga frappieri JAM7 (Auclair et al., 2010; Villeneuve et al., 2013). 
 
 ![](https://sfamjournals.onlinelibrary.wiley.com/cms/asset/641c8c24-a3b6-4b66-8aec-190bb934cf8f/emi412424-fig-0004-m.png)
 
@@ -1947,7 +1946,7 @@ The sequences of the chromosome and 6 plasmids have been deposited with Genbank 
 ## 2013
 
 ----------
-### Brown_2013-12
+### 2013-12
 ### pDS1
 IncP-1eta
 
@@ -2526,6 +2525,26 @@ Comparative genomics of IncP-1ε plasmids from water environments reveals divers
 Cláudia S Oliveira 1, Alexandra Moura, Isabel Henriques, Celeste J Brown, Linda M Rogers, Eva M Top, António Correia
 https://linkinghub.elsevier.com/retrieve/pii/S0147-619X(13)00076-0
 
+### 2015-03-17
+
+https://pubmed.ncbi.nlm.nih.gov/25333461/
+ISME J
+. 2015 Mar 17;9(4):934-45. doi: 10.1038/ismej.2014.191.
+Broad host range plasmids can invade an unexpectedly diverse fraction of a soil bacterial community
+Uli Klümper 1, Leise Riber 2, Arnaud Dechesne 1, Analia Sannazzarro 2, Lars H Hansen 3, Søren J Sørensen 2, Barth F Smets 1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4817699/
+
+Construction of gfpmut3-tagged plasmid pKJK5
+Plasmids RP4 and pIPO2tet have been constructed earlier (Musovic et al., 2010, 2014). The 54 kbp IncP-1 plasmid, pKJK5, originally isolated from a soil/manure environment, harbors a tetracycline and a trimethoprim resistance determinant, and a class 1 integron (Sengeløv et al., 2001). 
+
+Figure 4
+Phylogenetic tree showing all identified transconjugant OTUs for three different plasmids (pKJK5, RP4 and pIPO2tet) from the same donor (P. putida). 
+
+The core super-permissive community consists mainly of diverse Proteobacteria such as Enterobacteriales (γ), Burkholderiales (β), Pseudomonadales (γ) and Rhizobiales (α) (Figure 4). 
+
+These species are mainly found within Enterobacteriales (Gammaproteobacteria), Burkholderiales (Betaproteobacteria) and Staphylococci (Bacilli), groups that contain most of our super-permissive OTUs.
+
+
 ### pKJK5
 IncP-1epsilon
 
@@ -2536,6 +2555,7 @@ Plasmid
 . 2007 Jul;58(1):31-43. doi: 10.1016/j.plasmid.2006.11.007. Epub 2007 Feb 16.
 The multiple antibiotic resistance IncP-1 plasmid pKJK5 isolated from a soil environment is phylogenetically divergent from members of the previously established alpha, beta and delta sub-groups
 Martin Iain Bahl 1, Lars Hestbjerg Hansen, Alexander Goesmann, Søren J Sørensen
+https://linkinghub.elsevier.com/retrieve/pii/S0147-619X(06)00116-8
 https://www.sciencedirect.com/science/article/abs/pii/S0147619X06001168?via%3Dihub
 https://www.sciencedirect.com/science/article/pii/S0147619X06001168?via%3Dihub
 Abstract
@@ -2543,6 +2563,9 @@ Abstract
 The 54,383bp plasmid pKJK5 was recovered from a soil environment by exogenous plasmid isolation and conveys resistance towards tetracycline and trimethoprim. Sequencing and annotation revealed a high level of structural similarity of the backbone genes to other IncP-1 plasmids containing a Tra1 and Tra2 region, a central control module and a replication initiation module. 
 
 Individual backbone genes in pKJK5 have a GC-content, which is consistently lower (average 6.3%) than the homologous genes from the archetype IncP-1β plasmid R751 indicating homogenous amelioration of IncP-1 plasmid backbone genes. 
+
+Load 1 consists of an insertion sequence ISPa17 and load 2 is a Tn402-derivative containing a class 1 integron, IS1326 and a fragment identical to a region of plasmid pTB11 harboring a tetracycline resistance determinant and part of an IncP-1α oriV region.
+
 
 2. Materials and methods
 
@@ -2583,12 +2606,23 @@ DEFINITION  Uncultured bacterium IncP-1 plasmid pKJK5 complete sequence.
                      /gene="trfA"
                      /locus_tag="pKJK5_1"
                      /function="initiation of replication"
-                     /codon_start=1
-                     /transl_table=11
                      /product="replication initiation protein"
                      /protein_id="CAK02642.1"
                      /db_xref="InterPro:IPR010751"
                      /db_xref="UniProtKB/TrEMBL:Q0VUX3"
+
+
+     CDS             complement(29679..30329)
+                     /gene="tetR"
+                     /locus_tag="pKJK5_36"
+                     /function="transcriptional regulation of tetA"
+                     /product="tetracycline resistance repressor protein"
+
+     CDS             30435..31634
+                     /gene="tetA"
+                     /locus_tag="pKJK5_37"
+                     /function="confers tetracycline resistance"
+                     /product="tetracycline efflux protein"
 
 
 
@@ -2596,22 +2630,16 @@ DEFINITION  Uncultured bacterium IncP-1 plasmid pKJK5 complete sequence.
                      /gene="traI"
                      /locus_tag="pKJK5_46"
                      /function="DNA relaxase"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TraI protein"
                      /protein_id="CAK02686.1"
                      /db_xref="InterPro:IPR005094"
                      /db_xref="UniProtKB/TrEMBL:Q0VUS9"
 
 
-
-
      CDS             complement(50794..51096)
                      /gene="korA"
                      /locus_tag="pKJK5_56"
                      /function="putative transcriptional repressor protein"
-                     /codon_start=1
-                     /transl_table=11
                      /product="KorA protein"
                      /protein_id="CAK02698.1"
 
@@ -2619,8 +2647,6 @@ DEFINITION  Uncultured bacterium IncP-1 plasmid pKJK5 complete sequence.
                      /gene="trbA"
                      /locus_tag="pKJK5_3"
                      /function="transcriptional regulation"
-                     /codon_start=1
-                     /transl_table=11
                      /product="transcriptional regulator protein"
                      /protein_id="CAK02644.1"
                      /db_xref="GOA:Q0VUX1"
@@ -2860,6 +2886,39 @@ DEFINITION  Sphingomonas sp. A1 plasmid pA1 DNA, complete sequence.
 
 ```
 
+
+## 2011
+
+### 2011-08-20
+IncP-1alpha
+
+https://pubmed.ncbi.nlm.nih.gov/21115076/
+J Biotechnol
+. 2011 Aug 20;155(1):95-103. doi: 10.1016/j.jbiotec.2010.11.018. Epub 2010 Nov 27.
+Sequencing and comparative analysis of IncP-1α antibiotic resistance plasmids reveal a highly conserved backbone and differences within accessory regions
+Rafael Szczepanowski 1, Felix Eikmeyer, Jannis Harfmann, Jochen Blom, Linda M Rogers, Eva M Top, Andreas Schlüter
+https://www.sciencedirect.com/science/article/abs/pii/S0168165610020511?via%3Dihub
+
+The three IncP-1α plasmids pB5, pB11 and pSP21 were isolated from bacteria of two different sewage treatment plants and sequenced by a combination of next-generation and capillary sequencing technologies. A comparative analysis including the previously analysed IncP-1α plasmids RK2, pTB11 and pBS228 revealed a highly conserved plasmid backbone (at least 99.9% DNA sequence identity) comprising 54 core genes. The accessory elements of the plasmid pB5 constitute a class 1 integron interrupting the parC gene and an IS6100 copy inserted into the integron. In addition, the tetracycline resistance genes tetAR and the ISTB11-like element are located between the klc operon and the trfA–ssb operon. 
+
+
+
+## 2005
+
+### 2005-05
+pTB11
+IncP-1alpha
+
+https://pubmed.ncbi.nlm.nih.gov/15848226/
+Comparative Study Plasmid
+. 2005 May;53(3):218-38. doi: 10.1016/j.plasmid.2004.09.004. Epub 2004 Dec 9.
+Sequence of the 68,869 bp IncP-1alpha plasmid pTB11 from a waste-water treatment plant reveals a highly conserved backbone, a Tn402-like integron and other transposable elements
+Thomas Tennstedt 1, Rafael Szczepanowski, Irene Krahn, Alfred Pühler, Andreas Schlüter
+https://www.sciencedirect.com/science/article/abs/pii/S0147619X04001027?via%3Dihub
+
+In contrast to the ‘Birmingham’ plasmids the pTB11 tetracycline resistance module carries a pecM- and a pncA-like gene downstream of the tetracycline resistance gene tetA and contains an insertion of the new insertion sequence element ISTB11. 
+
+
 ## 2004
 
 ### Vedler_2004-11
@@ -2872,49 +2931,35 @@ LOCUS       AY540995               76958 bp    DNA     circular BCT 03-APR-2020
 DEFINITION  Achromobacter xylosoxidans subsp. denitrificans strain EST4002
             plasmid pEST4011, complete sequence.
 
+  ORGANISM  Achromobacter denitrificans
+            Bacteria; Pseudomonadota; Betaproteobacteria; Burkholderiales;
+            Alcaligenaceae; Achromobacter.
 
      misc_feature    8790..9592
-                     /inference="non-experimental evidence, no additional
-                     details recorded"
                      /note="vegetative replication origin, oriV"
      protein_bind    8790..8810
-                     /inference="non-experimental evidence, no additional
-                     details recorded"
                      /note="iteron 11"
                      /bound_moiety="TrfA"
 
-
-
      protein_bind    complement(60176..60196)
-                     /inference="non-experimental evidence, no additional
-                     details recorded"
                      /note="iteron 1"
                      /bound_moiety="TrfA"
-     gene            complement(60241..61110)
-                     /gene="trfA"
+
      CDS             complement(60241..61110)
                      /gene="trfA"
-                     /inference="non-experimental evidence, no additional
-                     details recorded"
                      /note="initiation of vegetative replication; DNA binding
                      at oriV; similar to Enterobacter aerogenes plasmid R751
                      TrfA2 of NC_001735"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TrfA"
                      /protein_id="AAS49458.1"
 
-
      CDS             complement(71647..73839)
                      /gene="traI"
-                     /inference="non-experimental evidence, no additional
-                     details recorded"
                      /note="DNA relaxase; nicks the DNA strand to be
                      transferred"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TraI"
                      /protein_id="AAS49470.1"
+
 
 
 ```
@@ -3553,6 +3598,7 @@ https://academic.oup.com/nar/article/36/22/e147/1196271
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
 
 ### Yano
+### 2018-12-15
 
 総説
 https://www.ncbi.nlm.nih.gov/pubmed/30619542
@@ -3857,16 +3903,15 @@ Xiaobin Li 1, Eva M Top 2, Yafei Wang 3, Celeste J Brown 2, Fei Yao 1, Shan Yang
 ----------
 
 ### pP9014
-### del_Castillo_2013
+### 2013-07
 
 https://pubmed.ncbi.nlm.nih.gov/23602560/
 Int J Antimicrob Agents
 . 2013 Jul;42(1):10-8. doi: 10.1016/j.ijantimicag.2013.02.027. Epub 2013 Apr 18.
 Comparative analysis and distribution of pP9014, a novel drug resistance IncP-1 plasmid from Photobacterium damselae subsp. piscicida
 Carmelo S del Castillo 1, Ho Bin Jang, Jun-Ichi Hikima, Tae Sung Jung, Hideaki Morii, Ikuo Hirono, Hidehiro Kondo, Chihiro Kurosaka, Takashi Aoki
-https://www.sciencedirect.com/science/article/abs/pii/S0924857913001015?via%3Dihub
-
-*Get Access*
+https://www.sciencedirect.com/science/article/pii/S0924857913001015?via%3Dihub
+The two closely related plasmids (pHP-42 and JAM7) also form a different clade, and we propose the names IncP-1κ and IncP-1θ for the two subgroups, respectively. The Azoarcus sp. plasmid 2 also forms an outgroup that is distinct from the IncP-1ζ plasmids pMCBF1 and pMCBF6. We propose that the Azoarcus plasmid 2 will be under the subgroup IncP-1η.
 
 https://www.ncbi.nlm.nih.gov/nuccore/AB453229
 ```
@@ -4126,6 +4171,8 @@ DEFINITION  Alicycliphilus denitrificans BC plasmid pALIDE02, complete
 ----------
 
 ### pA81
+CP002288
+AJ515144
 
 ### 2011-02
 
