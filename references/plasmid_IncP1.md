@@ -75,9 +75,16 @@
 - [theta](#theta) IncP-1theta
 - [p7ME01](#p7me01) IncP-1theta
 
-
 ----------
 
+### Sen_2013-01
+
+https://pubmed.ncbi.nlm.nih.gov/22936717/
+Mol Biol Evol
+. 2013 Jan;30(1):154-66. doi: 10.1093/molbev/mss210. Epub 2012 Aug 30.
+Inferring the evolutionary history of IncP-1 plasmids despite incongruence among backbone gene trees
+Diya Sen 1, Celeste J Brown, Eva M Top, Jack Sullivan
+https://academic.oup.com/mbe/article/30/1/154/1020766
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/
 https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3525142/table/mss210-T1/
 Table 1.
@@ -88,6 +95,33 @@ Plasmids	IncP-1 Subgroup	Origin/Isolation Method/Hosta	Accession Numberb
 pA81	IncP-1β	PCB contaminated soil in Czech Republic, Achromobacter xylosoxidans A8	AJ515144
 pADP-1	IncP-1β	Soil in the United States, Pseudomonas sp. ADP	NC_004956
 ```
+
+Introduction
+
+Fig. 1.
+Genetic map of a typical IncP-1 plasmid showing the different functional modules:
+
+Phylogenies inferred from single or concatenated backbone genes have shown the IncP-1 group to be composed of five diverse subgroups: IncP-1α, -β, -γ, -δ, and -ε (Pansegrau et al. 1994; Thorsted et al. 1998; Vedler et al. 2004; Haines et al. 2006; Bahl et al. 2007). Recently, three new potential IncP-1 subgroups have been identified: ζ (Norberg et al. 2011), η (Sen D, Yano H, Bauer M, Rogers LM, Van der Auwera GA, Brown C, and Top E, unpublished), and an unnamed subgroup (Pachulec and van der Does 2010), thus indicating the tremendous diversity that exists within this plasmid group. The biological significance of these subgroups is unknown, and more work is required to distinguish between them phenotypically.
+
+Materials and Methods
+Plasmids and Genes
+
+The plasmids from the recently proposed ζ, η, and an unnamed subgroups (see Introduction) were not included because their sequences only became publically available in the middle of this study and because of their wide sequence divergence and lack of evidence that they are physically incompatible with the prototype IncP-1 plasmids.
+
+Nucleotide Sequence Alignments and Model Selection
+The amino acid sequences of each gene were aligned with ClustalX (Thompson et al. 2002). Tranalign (Rice et al. 2000) was used to align the nucleotide sequences of each gene guided by the aligned amino acid sequences. 
+
+Detection of Recombinants
+To detect recombination among the plasmids in the data set, alignment files of the backbone genes were concatenated in the order and orientation in which they appear on IncP-1 plasmids (fig. 1). The recombination detection programs RDP, GENECONV, BootScan, MaxChi, and Chimaera, which are implemented in RDP3 (Martin et al. 2010), were run with default parameters. Only recombinants that were identified by at least two programs were considered.
+
+Fig. 2.
+Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: supported by 46% of gene trees, namely, those of trfA2, trbA, trbC, trbG, traG, traH, traI, kfrA, kfrB, kfrC, korB, korA, and kleE. (B) Topology 2: supported by gene trees of trbD, trbK, and traJ. (C) Topology 3: supported by gene trees of trbF, trbI, and traE. (D) Topology 4: supported by gene trees of korC and klcA. Trees were rooted using IncP-1γ as outgroup.
+
+For the concatenated tree (shown in fig. 3), individual genes were aligned and concatenated in the order in which they appear on IncP-1 plasmids: trfA2, trbA, trbB, trbC, trbD, trbF, trbG, trbI, trbJ, trbK, traD, traE, traF, traG, traH, traI, traJ, traK, traL, kfrC, kfrB, kfrA, korB, incC, korA, kleE, korC, and klcA (fig. 1). The concatenated tree had the same topology as topology 3 described (fig. 2C). It represents the null hypothesis that all genes have a single history (i.e., all gene trees are estimates of a single-gene tree) as would be the case in the absence of recombination, either within or among groups.
+
+Fig. 3.
+ML tree of concatenated data estimated from a partitioned analysis based on codon position. Nodal support is shown as nonparametric ML bootstrap values. The tree was rooted using IncP-1γ as outgroup.
+
 
 ----------
 
@@ -2035,42 +2069,6 @@ The narrow host range of the IncP-1η plasmid pDS1 was unexpected, given that mo
 
 ----------
 
-### Sen_2013-01
-
-https://pubmed.ncbi.nlm.nih.gov/22936717/
-Mol Biol Evol
-. 2013 Jan;30(1):154-66. doi: 10.1093/molbev/mss210. Epub 2012 Aug 30.
-Inferring the evolutionary history of IncP-1 plasmids despite incongruence among backbone gene trees
-Diya Sen 1, Celeste J Brown, Eva M Top, Jack Sullivan
-https://academic.oup.com/mbe/article/30/1/154/1020766
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/
-
-Introduction
-
-Fig. 1.
-Genetic map of a typical IncP-1 plasmid showing the different functional modules:
-
-Phylogenies inferred from single or concatenated backbone genes have shown the IncP-1 group to be composed of five diverse subgroups: IncP-1α, -β, -γ, -δ, and -ε (Pansegrau et al. 1994; Thorsted et al. 1998; Vedler et al. 2004; Haines et al. 2006; Bahl et al. 2007). Recently, three new potential IncP-1 subgroups have been identified: ζ (Norberg et al. 2011), η (Sen D, Yano H, Bauer M, Rogers LM, Van der Auwera GA, Brown C, and Top E, unpublished), and an unnamed subgroup (Pachulec and van der Does 2010), thus indicating the tremendous diversity that exists within this plasmid group. The biological significance of these subgroups is unknown, and more work is required to distinguish between them phenotypically.
-
-Materials and Methods
-Plasmids and Genes
-
-The plasmids from the recently proposed ζ, η, and an unnamed subgroups (see Introduction) were not included because their sequences only became publically available in the middle of this study and because of their wide sequence divergence and lack of evidence that they are physically incompatible with the prototype IncP-1 plasmids.
-
-Nucleotide Sequence Alignments and Model Selection
-The amino acid sequences of each gene were aligned with ClustalX (Thompson et al. 2002). Tranalign (Rice et al. 2000) was used to align the nucleotide sequences of each gene guided by the aligned amino acid sequences. 
-
-Detection of Recombinants
-To detect recombination among the plasmids in the data set, alignment files of the backbone genes were concatenated in the order and orientation in which they appear on IncP-1 plasmids (fig. 1). The recombination detection programs RDP, GENECONV, BootScan, MaxChi, and Chimaera, which are implemented in RDP3 (Martin et al. 2010), were run with default parameters. Only recombinants that were identified by at least two programs were considered.
-
-Fig. 2.
-Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: supported by 46% of gene trees, namely, those of trfA2, trbA, trbC, trbG, traG, traH, traI, kfrA, kfrB, kfrC, korB, korA, and kleE. (B) Topology 2: supported by gene trees of trbD, trbK, and traJ. (C) Topology 3: supported by gene trees of trbF, trbI, and traE. (D) Topology 4: supported by gene trees of korC and klcA. Trees were rooted using IncP-1γ as outgroup.
-
-For the concatenated tree (shown in fig. 3), individual genes were aligned and concatenated in the order in which they appear on IncP-1 plasmids: trfA2, trbA, trbB, trbC, trbD, trbF, trbG, trbI, trbJ, trbK, traD, traE, traF, traG, traH, traI, traJ, traK, traL, kfrC, kfrB, kfrA, korB, incC, korA, kleE, korC, and klcA (fig. 1). The concatenated tree had the same topology as topology 3 described (fig. 2C). It represents the null hypothesis that all genes have a single history (i.e., all gene trees are estimates of a single-gene tree) as would be the case in the absence of recombination, either within or among groups.
-
-Fig. 3.
-ML tree of concatenated data estimated from a partitioned analysis based on codon position. Nodal support is shown as nonparametric ML bootstrap values. The tree was rooted using IncP-1γ as outgroup.
-
 ### Leao_2013-11-07
 ### pMAB01
 IncP-1beta
@@ -3603,6 +3601,43 @@ Hitherto-Unnoticed Self-Transmissible Plasmids Widely Distributed among Differen
 Masaya Hayakawa # 1, Maho Tokuda # 2, Kensei Kaneko # 1, Koichiro Nakamichi # 1, Yukie Yamamoto # 1, Tatsuya Kamijo # 1, Honoka Umeki # 1, Reimi Chiba 1, Ryo Yamada 1, Mitsuya Mori 1, Kosuke Yanagiya 1, Ryota Moriuchi 3, Masahiro Yuki 4, Hideo Dohra 3 5, Hiroyuki Futamata 1 2 6, Moriya Ohkuma 4, Kazuhide Kimbara 1 2, Masaki Shintani 1 2 4 6
 https://journals.asm.org/doi/full/10.1128/aem.01114-22
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9499019/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9499019/table/T3/?report=objectonly
+TABLE 3
+IncP/P-1 plasmids obtained in this study
+Name	Inc_group	Size (bp)	Source	Antibiotic resistance genes and the resistances of the hosts (R, resistance, S, sensitive, ND, not determined)a
+Accessory genes	Tc (12.5)b	Gm (30)	Ap (50)	Km (50)	Km (25)	Km (12.5)	Cm (30)	Sm (50)	Sm (25)	Em (25)
+
+pMNCG080-1	IncP/P-1ρ	69,454	Activated sludge	No accessory	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
+pMNCG082-1	IncP/P-1μ	74,115	Activated sludge	bcs	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
+
+Clade II contained the newly identified plasmids pMNCG080-1 (IncP/P-1μ) and pMNCG082-1 (IncP/P-1ρ), as well as pDS1 (IncP/P-1η) (4), and other plasmids in unidentified subgroups (Fig. 2).
+
+Data availability. The accession numbers deposited in DDBJ of the plasmid sequences (70 plasmids) were LC623882 to LC623932 and LC663721 to LC663740. The 16S rRNA genes of the transconjugants (transconjugants of PromA plasmids) were LC655384 to LC655683.
+
+https://www.ncbi.nlm.nih.gov/nuccore/LC623894
+```
+LOCUS       LC623894               69454 bp    DNA     circular ENV 25-MAY-2022
+DEFINITION  Uncultured bacterium plasmid pMNCG080 DNA, complete sequence.
+```
+
+https://www.ncbi.nlm.nih.gov/nuccore/LC663734
+```
+LOCUS       LC663734                3992 bp    DNA     circular ENV 25-MAY-2022
+DEFINITION  Uncultured bacterium plasmid pMNCG080-2 DNA, complete sequence.
+```
+
+https://www.ncbi.nlm.nih.gov/nuccore/LC623895
+```
+LOCUS       LC623895               74115 bp    DNA     circular ENV 25-MAY-2022
+DEFINITION  Uncultured bacterium plasmid pMNCG082 DNA, complete sequence.
+```
+
+https://www.ncbi.nlm.nih.gov/nuccore/LC663735
+```
+LOCUS       LC663735                9531 bp    DNA     circular ENV 25-MAY-2022
+DEFINITION  Uncultured bacterium plasmid pMNCG082-2 DNA, complete sequence.
+```
 
 ### 2020-11-27
 https://pubmed.ncbi.nlm.nih.gov/33329469/
