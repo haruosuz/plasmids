@@ -818,8 +818,6 @@ Figure 3
 Phylogenetic analysis of genes of different IncP1 plasmids.
 The TraI (A), TrbE (B), TraG (C) and TrfA (D) proteins of the neisserial conjugative plasmids and of representative members of different IncP1 plasmid subfamilies (α, RP4; β, pADP-1; γ, QKH54; δ, pEST4011 and ε, pKJK5) representative for different regions of the conjugative plasmids were used to create phylogenetic trees of the IncP1 plasmid family. (For details see materials and methods).
 
-#<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848598/bin/pone.0009962.g003.jpg" width=25%>
-
 Figure 4
 Comparison of the oriT sequences of different members of the IncP1 subfamilies.
 
@@ -1918,12 +1916,6 @@ https://www.ncbi.nlm.nih.gov/nuccore/CP010415
 ```
 LOCUS       CP010415             4591803 bp    DNA     circular BCT 02-JUL-2015
 DEFINITION  Azotobacter chroococcum NCIMB 8003, complete genome.
-
-                     /isolation_source="soil"
-                     /culture_collection="NCIMB:8003"
-
-                     /country="USA"
-                     /collection_date="1950-02-01"
 ```
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP010418
@@ -1935,6 +1927,12 @@ DEFINITION  Azotobacter chroococcum NCIMB 8003 plasmid pAcX50c, complete
             Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
             Pseudomonadaceae; Azotobacter.
 
+                     /isolation_source="soil"
+
+                     /country="USA"
+                     /collection_date="1950-02-01"
+
+
      CDS             724..1809
                      /gene="trfA"
                      /locus_tag="Achr_c20"
@@ -1942,8 +1940,6 @@ DEFINITION  Azotobacter chroococcum NCIMB 8003 plasmid pAcX50c, complete
                      /transl_table=11
                      /product="TrfA replication initiation protein"
                      /protein_id="AJE23484.1"
-
-
 
      CDS             13218..15617
                      /gene="traI"
