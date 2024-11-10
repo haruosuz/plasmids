@@ -28,6 +28,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299020/
 This review focuses on WGS datasets from cultured rather than metagenomic samples; for the latter, see recent reviews (Jørgensen et al., 2014; Martínez et al., 2016).
 
 ### Martinez_2017
+### 2017-01
 
 https://pubmed.ncbi.nlm.nih.gov/27861983/
 Review Ann N Y Acad Sci
@@ -35,6 +36,12 @@ Review Ann N Y Acad Sci
 Genomic and metagenomic technologies to explore the antibiotic resistance mobilome
 José L Martínez 1, Teresa M Coque 2 3 4, Val F Lanza 2 3 4, Fernando de la Cruz 5, Fernando Baquero 2 3 4
 https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.13282
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_1868320943
+Wiley Online Library Database Model 2024
+https://nyaspubs-onlinelibrary-wiley-com.kras.lib.keio.ac.jp/doi/full/10.1111/nyas.13282
+Methods for analyzing the mobilome and for extracting mobilome information from genomes and metagenomes
+
+Methods, such as PlasmidFinder, pMLST,133 or in silico degenerate plasmid MOB typing,122 identify and classify plasmids by the presence of plasmid-specific characteristics, such as the replication system, a multilocus sequence type, or its mobilization system. 
 
 ### Jorgensen_2015
 
@@ -49,16 +56,41 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302988/
 ----------
 ## updates
 
+## 2024
+
+## 2024-08-28
+https://pubmed.ncbi.nlm.nih.gov/39198442/
+Nat Commun
+. 2024 Aug 28;15(1):7450. doi: 10.1038/s41467-024-51929-y.
+Nanopore R10.4 metagenomic detection of blaCTX-M/blaDHA antimicrobial resistance genes and their genetic environments in stool
+Edgar I Campos-Madueno 1 2, Claudia Aldeia 1, Andrea Endimiani 3
+https://www.nature.com/articles/s41467-024-51929-y
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11358271/
+In 2 native Nanopore-SMS-positive samples, the location of a single blaCTX-M-117-like read in sample S1-NGR-02 had a 97.7% identity and 5% coverage to IncFIB(H89-PhagePlasmid)-type plasmid p2-S1-NGR-02-A, while the S1-ESP-03 MAG-positive for blaCTX-M-15 mapped with 99.9% identity and 100% coverage to IncFII-type plasmid p1-S1-ESP-03-A (Supplementary Data 1 and Fig. 2).
+|
+Furthermore, the extracted reads, and MAG contigs were screened with PlasmidFinder v2.0 (parameters: 50% minimum template identity and 60% template length coverage) and MLST v2.0 (parameter: E. coli number 1 configuration)57,58.
+
+## 2022
+
+## 2022-09-15
+https://pubmed.ncbi.nlm.nih.gov/35654190/
+Sci Total Environ
+. 2022 Sep 15:839:156313. doi: 10.1016/j.scitotenv.2022.156313. Epub 2022 May 30.
+Metagenomic insights into the influence of mobile genetic elements on ARGs along typical wastewater treatment system on pig farms in China
+Rong-Min Zhang 1, Mei-Na Liao 2, Jia-En Wu 2, Xiao-Qing Lu 2, Hui-Zhen Tan 2, Jian Sun 1, Xiao-Ping Liao 3, Ya-Hong Liu 4
+https://www.sciencedirect.com/science/article/pii/S0048969722034106?via=ihub
+The metagenomic sequence data from our 27 samples were mapped to the PlasmidFinder database (Carattoli et al., 2014) including plasmid replicon types that originated from both Gram-positive bacteria and the Enterobacteriaceae. 
+
 ## 2020
 
-### Walter_2020_Plasmid
-
+## 2020-07
+## Walter_2020_Plasmid
 https://pubmed.ncbi.nlm.nih.gov/32380021/
 Plasmid
 . 2020 Jul;110:102505. doi: 10.1016/j.plasmid.2020.102505. Epub 2020 May 4.
 Plasmidome of an environmental Acinetobacter lwoffii strain originating from a former gold and arsenic mine
 Tomasz Walter 1, Joanna Klim 1, Marcin Jurkowski 1, Jan Gawor 1, Iwona Köhling 1, Małgorzata Słodownik 1, Urszula Zielenkiewicz 2
-https://www.sciencedirect.com/science/article/pii/S0147619X20300172?via%3Dihub
+https://www.sciencedirect.com/science/article/pii/S0147619X20300172
 
 9:33 AM · Aug 12, 2020
 https://twitter.com/EicJrood/status/1293344783956447232
@@ -68,7 +100,7 @@ JRood_Plasmid_EIC on Twitter: "Congratulations to Tomasz Walter, Urszula Zielenk
 https://twitter.com/gaworj/status/1260113697046921221
 Jan Gawor on Twitter: "Our recent paper is out. Genome sequence obtained with my little help and @nanopore MinION: Plasmidome of an environmental Acinetobacter lwoffii strain originating from a former gold and arsenic mine. https://t.co/4cv1RsOX6p" / Twitter
 
-### 
+##
 
 https://pubmed.ncbi.nlm.nih.gov/32655530/
 Front Microbiol
@@ -77,21 +109,44 @@ First Report on the Plasmidome From a High-Altitude Lake of the Andean Puna
 María Florencia Perez 1, Daniel Kurth 1, María Eugenia Farías 1, Mariana Noelia Soria 1, Genis Andrés Castillo Villamizar 2 3, Anja Poehlein 2, Rolf Daniel 2, Julián Rafael Dib 1 4
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324554/
 
-### Lira_2020
-
+## 2020-05-18
+## Lira_2020
 https://pubmed.ncbi.nlm.nih.gov/32424207/
 Sci Rep
 . 2020 May 18;10(1):8174. doi: 10.1038/s41598-020-65031-y.
 Metagenomic analysis of an urban resistome before and after wastewater treatment
 Felipe Lira 1, Ivone Vaz-Moreira 2, Javier Tamames 1, Célia M Manaia 2, José Luis Martínez 3
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235214/
-
+https://www.nature.com/articles/s41598-020-65031-y
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7235214/
 ESKAPE
+
+Plasmid replicons
 
 The most abundant replicons were repUS2, IncP(6), and IncQ2, in this order. RepUS2 plasmids are narrow-range plasmids, present in Gram-positive bacteria, and have been recently found to be prevalent in gut microbiome40, while IncP(6) and IncQ2 are broad-range conjugative plasmids that contribute to the acquisition of multidrug resistance in a variety of Gram-negative bacteria41–45. (Fig. 1, Table S2). In agreement with the results obtained with ARGs data, PCA showed that influent samples grouped together in comparison with treated wastewater samples with a spreader distribution (Fig. 3). In this case, just one plasmid replicon was detected in the three sampling dates in the final UV, the IncP(Beta) replicon type (Table S2).
 
-IncP-6
+Figure 5
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235214/#Sec7title
+
+Discussion
+
+
+However the higher number of reads belonged to macrolide resistance genes, mainly msrE and mphE. Plasmids as those belonging to the repUS2 group, which have been recently found to be prevalent in gut microbiome40, as well as the IncP(6) and IncQ groups that include several multidrug resistance plasmids41–45 were highly abundant in RAW water and their presence was much lower after UV treatment. 
+
+
+40. Munck, C., Sheth, R. U., Freedberg, D. E. & Wang, H. H. Recording mobile DNA in the gut microbiota using an Escherichia coli CRISPR-Cas spacer acquisition platform. Nat Commun 11, 10.1038/s41467-019-14012-5 (2020). [PMC free article] [PubMed] [Ref list]
+
+
+To note here that IncQ2 plasmids have been recently found in urban agriculture fields irrigated with wastewater in Africa cities65 and that IncP-6 plasmids have been involved in carbapenem-resistance circulation among several Enterobacteriaceae species from wastewater and a hospital43.
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235214/#Sec8title
+
+Materials and Methods
+
+Analysis of shotgun metagenomic data
+
+Plasmid replicon types present in the samples were identified by performing a local alignment of all reads from each sample against the sequences deposited at the PlasmidFinder v1.3 database67, once downloaded and formatted as database in a local server. For comparative purposes, the relative abundance of replicons and of ARGs was normalized by the number of reads present in 10 million of total reads.
 
 https://en.wikipedia.org/wiki/ESKAPE
 ```
@@ -107,6 +162,36 @@ Pseudomonas aeruginosa
 
 Enterobacter spp.
 ```
+
+IncP-6
+
+
+### 2020-01-07
+
+Plasmid Finder
+-> should be
+PlasmidFinder
+
+https://colil.dbcls.jp/browse/papers/31911609/1/100/year
+https://pubmed.ncbi.nlm.nih.gov/31911609/
+Nat Commun
+. 2020 Jan 7;11(1):95. doi: 10.1038/s41467-019-14012-5.
+Recording mobile DNA in the gut microbiota using an Escherichia coli CRISPR-Cas spacer acquisition platform
+Christian Munck 1, Ravi U Sheth 1 2, Daniel E Freedberg 3, Harris H Wang 4 5
+https://www.nature.com/articles/s41467-019-14012-5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6946703/
+
+Fig. 5
+Analysis of human-associated mobilome from HGT recordings.
+a Exogenous spacers mapped to the custom plasmid database, each row represents a plasmid (denoted by accession number). The mappings are filtered to include the fewest number of plasmids covering all spacers. Rows are sorted in order of the number of spacers that map to the plasmid. The sorting enables easy identification of discrete transferred elements. Each spacer cluster is annotated with the predicted plasmid group based on Plasmid Finder36. 
+
+
+Fig. 6
+Metagenomic verification of predicted transfer events.
+
+Using the Plasmid Finder database36, we identified putative plasmid contigs across the metagenomes.
+
+36. Carattoli A, et al. In silico detection and typing of plasmids using plasmidfinder and plasmid multilocus sequence typing. Antimicrob. Agents Ch. 2014;58:3895–3903. doi: 10.1128/AAC.02412-14. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
 
 ### Brown_Kav_2020
 https://pubmed.ncbi.nlm.nih.gov/31602783/
