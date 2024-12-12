@@ -77,6 +77,60 @@
 
 ----------
 
+
+----------
+## database
+
+### plasmidfinder
+
+https://github.com/genomicepidemiology/plasmidfinder
+```
+git clone https://bitbucket.org/genomicepidemiology/plasmidfinder_db.git
+cd plasmidfinder_db
+grep "^>" *.fsa | grep "IncP" | sort
+
+enterobacteriales.fsa:>IncP1_1__BN000925
+enterobacteriales.fsa:>IncP1_2__U67194
+enterobacteriales.fsa:>IncP1_3__KX377410
+enterobacteriales.fsa:>IncP1_4__CM007914
+enterobacteriales.fsa:>IncP6_1__JF785550
+```
+
+```
+>IncP1_4__CM007914
+GCAACTGACGCTATTTGACATTGCACCATGGCCGGATTCGATGCGGGCATTACCTAACGATTATGCTCGTTCTGCTCTGTTTACTGTCAAGAATAAACGTCAGCCCCGTGAAGCACTGCAGAAGAAAGAGATTTTCCACATTAATAAAGATGTGCGGATCACCTATACCGGGCTTGAGTTACGTGCTGATGACGATGAACTTGTGTGGCAGCAGGTTCTTGAATACGCCAAAAGGAAACCAATGGGTGAACCTATTACCTTCACGTTTTACGAACTTTGCCAGGATCTAGGCTGGTCTTATAATGGTCGTTATATAGAAAAGGCCGAGGAGTGCCTAACACGCCTACAGGCAACAGCCATGCAATT
+```
+
+https://www.ncbi.nlm.nih.gov/nuccore/CM007914.1/
+```
+LOCUS       CM007914               59459 bp    DNA     circular CON 11-MAY-2017
+DEFINITION  Escherichia coli strain CH613_eco plasmid unnamed7, complete
+            sequence, whole genome shotgun sequence.
+
+
+     CDS             32946..33824
+                     /locus_tag="BCR79_26180"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_019842081.1"
+
+                     /product="TrfA protein"
+                     /protein_id="OTA08989.1"
+
+
+     CDS             44716..47349
+                     /locus_tag="BCR79_26260"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_004091435.1"
+
+                     /product="conjugal transfer protein TraI"
+                     /protein_id="OTA09004.1"
+
+```
+
+
+
+----------
+
 ### Sen_2013-01
 
 https://pubmed.ncbi.nlm.nih.gov/22936717/
@@ -122,9 +176,7 @@ For the concatenated tree (shown in fig. 3), individual genes were aligned and c
 Fig. 3.
 ML tree of concatenated data estimated from a partitioned analysis based on codon position. Nodal support is shown as nonparametric ML bootstrap values. The tree was rooted using IncP-1γ as outgroup.
 
-
 ----------
-
 
 ----------
 ## transposase
@@ -2000,8 +2052,6 @@ One of the plasmids in Ac-8003, pAcX50c, belongs to the IncP-1 incompatability g
 
 The sequences of the chromosome and 6 plasmids have been deposited with Genbank under the accession numbers as follows: chromosome, CP010415; pAcX50a, CP010416; pAcX50b, CP010417; pAcX50c, CP010418; pAcX50d, CP010419; pAcX50e, CP010420; pAcX50f, CP010421. Supplementary material can be found at http://azotobacter.craic.com.
 
-
-
 ----------
 
 ## 2013
@@ -2867,8 +2917,6 @@ DEFINITION  Sphingomonas sp. A1 plasmid pA1 DNA, complete sequence.
      CDS             complement(13771..16038)
                      /gene="traI"
                      /function="DNA relaxase"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TraI"
                      /protein_id="BAE19709.1"
 
@@ -2891,8 +2939,6 @@ DEFINITION  Sphingomonas sp. A1 plasmid pA1 DNA, complete sequence.
      CDS             complement(31316..32542)
                      /gene="trfA"
                      /function="Replication initiation protein"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TrfA"
                      /protein_id="BAE19726.2"
 
@@ -3033,6 +3079,47 @@ DEFINITION  uncultured bacterium pTB11 plasmid complete genome.
 
 ```
 
+### 2005-01
+
+https://pubmed.ncbi.nlm.nih.gov/15551059/
+Arch Microbiol
+. 2005 Jan;183(1):27-36. doi: 10.1007/s00203-004-0742-9. Epub 2004 Nov 13.
+The genome sequence of an anaerobic aromatic-degrading denitrifying bacterium, strain EbN1
+Ralf Rabus 1, Michael Kube, Johann Heider, Alfred Beck, Katja Heitmann, Friedrich Widdel, Richard Reinhardt
+https://link.springer.com/article/10.1007/s00203-004-0742-9
+Published: 13 November 2004
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_67341160
+
+https://www.ncbi.nlm.nih.gov/nuccore/CR555308
+```
+LOCUS       CR555308              223670 bp    DNA     circular BCT 26-JUL-2016
+DEFINITION  Azoarcus sp. EbN1 plasmid 2.
+
+
+     CDS             9849..10451
+                     /locus_tag="p2A17"
+                     /product="hypothetical protein"
+                     /protein_id="CAI10535.1"
+
+
+     CDS             11073..11573
+                     /gene="tnp2PF1"
+                     /product="putative transposase subunit, fragment"
+                     /protein_id="CAI10536.1"
+
+
+     CDS             12049..12411
+                     /gene="trbA"
+                     /product="TrbA protein of DNA transfer system"
+                     /protein_id="CAI10537.1"
+
+
+     CDS             complement(55761..57983)
+                     /gene="traI"
+                     /product="TraI protein of DNA transfer system"
+                     /protein_id="CAI10575.1"
+
+```
 
 
 ## 2004
