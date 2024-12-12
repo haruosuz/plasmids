@@ -107,27 +107,102 @@ LOCUS       CM007914               59459 bp    DNA     circular CON 11-MAY-2017
 DEFINITION  Escherichia coli strain CH613_eco plasmid unnamed7, complete
             sequence, whole genome shotgun sequence.
 
+                     /isolation_source="Urine, bladder (ub)"
+                     /host="Homo sapiens"
+                     /geo_loc_name="China: Guangzhou"
+                     /collection_date="19-Jun-2015"
+                     /collected_by="Peking University People's Hospital,
+                     Department of Clinical Laboratory"
 
      CDS             32946..33824
-                     /locus_tag="BCR79_26180"
                      /inference="EXISTENCE: similar to AA
                      sequence:RefSeq:WP_019842081.1"
-
                      /product="TrfA protein"
                      /protein_id="OTA08989.1"
 
 
      CDS             44716..47349
-                     /locus_tag="BCR79_26260"
                      /inference="EXISTENCE: similar to AA
                      sequence:RefSeq:WP_004091435.1"
-
                      /product="conjugal transfer protein TraI"
                      /protein_id="OTA09004.1"
 
 ```
 
+Run BLAST
+https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
+CM007914
+に類似のプラスミド配列は、例えば、以下の通り：
+
+https://www.ncbi.nlm.nih.gov/nucleotide/CP057780.1
+Escherichia coli strain RHB15-C18 plasmid pRHB15-C18_3, complete sequence
+   PUBMED   34609275
+
+https://www.ncbi.nlm.nih.gov/nucleotide/CP055103.1
+Shigella flexneri strain SWHIN_107 plasmid unnamed4, complete sequence
+   PUBMED   35078531
+
+### 2021-10
+
+https://pubmed.ncbi.nlm.nih.gov/34609275/
+Microb Genom
+. 2021 Oct;7(10):000630. doi: 10.1099/mgen.0.000630.
+A genomic epidemiological study shows that prevalence of antimicrobial resistance in Enterobacterales is associated with the livestock host, as well as antimicrobial usage
+Manal AbuOun 1, Hannah Jones 2, Emma Stubberfield 1, Daniel Gilson 2, Liam P Shaw 3, Alasdair T M Hubbard 3 4, Kevin K Chau 3, Robert Sebra 5, Tim E A Peto 3, Derrick W Crook 3 6, Daniel S Read 7, H Soon Gweon 7 8, A Sarah Walker 3 6, Nicole Stoesser 3 6, Richard P Smith 2, Muna F Anjum 1, On Behalf Of The Rehab Consortium
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000630#tab2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8627209/
+
+https://www.ncbi.nlm.nih.gov/nucleotide/CP057780.1
+```
+LOCUS       CP057780               41696 bp    DNA     circular BCT 13-MAY-2022
+DEFINITION  Escherichia coli strain RHB15-C18 plasmid pRHB15-C18_3, complete
+            sequence.
+
+                     /strain="RHB15-C18"
+                     /isolation_source="Pooled sheep faecal samples collected
+                     from floor of farm"
+                     /geo_loc_name="United Kingdom"
+                     /collection_date="2017"
+
+
+     CDS             11631..12509
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_020405883.1"
+                     /product="replication initiator protein A"
+                     /protein_id="QMM50915.1"
+
+```
+
+### 2022-01-25
+
+https://pubmed.ncbi.nlm.nih.gov/35078531/
+Microbiome
+. 2022 Jan 25;10(1):16. doi: 10.1186/s40168-021-01192-w.
+High-resolution genomic surveillance elucidates a multilayered hierarchical transfer of resistance between WWTP- and human/animal-associated bacteria
+You Che 1 2, Xiaoqing Xu 1, Yu Yang 1, Karel Břinda 2 3, William Hanage 2, Chao Yang 4, Tong Zhang 5
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01192-w
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8790882/
+
+https://www.ncbi.nlm.nih.gov/nucleotide/CP055103.1
+```
+LOCUS       CP055103               43384 bp    DNA     circular BCT 22-FEB-2022
+DEFINITION  Shigella flexneri strain SWHIN_107 plasmid unnamed4, complete
+            sequence.
+
+                     /strain="SWHIN_107"
+                     /isolation_source="Shek Wu Hui WWTPs_107 WWTPs influent"
+                     /geo_loc_name="Hong Kong"
+                     /lat_lon="22.5 N 114.1 E"
+                     /collection_date="2018-12"
+
+     CDS             5974..6852
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_020405883.1"
+                     /product="replication initiator protein A"
+                     /protein_id="ULK73954.1"
+
+```
 
 ----------
 
