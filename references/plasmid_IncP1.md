@@ -65,7 +65,6 @@
 [IncU](#)
 [IncW](#)
 [PromA](#proma)
-- [](#)
 - [chromosome](#chromosome)
 - [people](#people)
 [Shintani](#shintani)
@@ -74,9 +73,8 @@
 - [](#)
 - [theta](#theta) IncP-1theta
 - [p7ME01](#p7me01) IncP-1theta
-
-----------
-
+- [database](#database)
+  - [plasmidfinder](#plasmidfinder)
 
 ----------
 ## database
@@ -94,11 +92,6 @@ enterobacteriales.fsa:>IncP1_2__U67194
 enterobacteriales.fsa:>IncP1_3__KX377410
 enterobacteriales.fsa:>IncP1_4__CM007914
 enterobacteriales.fsa:>IncP6_1__JF785550
-```
-
-```
->IncP1_4__CM007914
-GCAACTGACGCTATTTGACATTGCACCATGGCCGGATTCGATGCGGGCATTACCTAACGATTATGCTCGTTCTGCTCTGTTTACTGTCAAGAATAAACGTCAGCCCCGTGAAGCACTGCAGAAGAAAGAGATTTTCCACATTAATAAAGATGTGCGGATCACCTATACCGGGCTTGAGTTACGTGCTGATGACGATGAACTTGTGTGGCAGCAGGTTCTTGAATACGCCAAAAGGAAACCAATGGGTGAACCTATTACCTTCACGTTTTACGAACTTTGCCAGGATCTAGGCTGGTCTTATAATGGTCGTTATATAGAAAAGGCCGAGGAGTGCCTAACACGCCTACAGGCAACAGCCATGCAATT
 ```
 
 https://www.ncbi.nlm.nih.gov/nuccore/CM007914.1/
