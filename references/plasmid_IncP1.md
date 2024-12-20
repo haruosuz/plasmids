@@ -3761,6 +3761,41 @@ Phylogeny of IncP-1 TrfA homologues. Presented is a neighbor joining tree (1,000
 ----------
 ## people
 
+----------
+### delacruz
+Fernando de la Cruz
+
+https://pubmed.ncbi.nlm.nih.gov/37116631/
+Review Plasmid
+. 2023 May:126:102684. doi: 10.1016/j.plasmid.2023.102684. Epub 2023 Apr 26.
+Plasmid classifications
+M Pilar Garcillán-Barcia 1, Santiago Redondo-Salvo 2, Fernando de la Cruz 3
+https://www.sciencedirect.com/science/article/pii/S0147619X2300015X?via%3Dihub
+
+
+IncW
+R388
+BR000038
+https://www.ncbi.nlm.nih.gov/nuccore/NC_028464
+https://www.ncbi.nlm.nih.gov/nuccore/BR000038
+```
+LOCUS       BR000038               33913 bp    DNA     circular BCT 09-MAY-2006
+DEFINITION  TPA_inf: Escherichia coli plasmid R388 DNA, complete sequence.
+```
+
+https://pubmed.ncbi.nlm.nih.gov/17026718/
+Review FEMS Microbiol Rev
+. 2006 Nov;30(6):942-66. doi: 10.1111/j.1574-6976.2006.00042.x. Epub 2006 Oct 6.
+Dynamics of the IncW genetic backbone imply general trends in conjugative plasmid evolution
+Raúl Fernández-López 1, M Pilar Garcillán-Barcia, Carlos Revilla, Miguel Lázaro, Luis Vielva, Fernando de la Cruz
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1574-6976.2006.00042.x
+https://academic.oup.com/femsre/article/30/6/942/494544
+As a consequence, and in order to avoid long-branch attraction phenomena, the phylogeny of TrwC was reconstructed from protein sequence alignments using only the relaxase domain (300 N-terminal amino acids).
+
+
+
+----------
+
 ### Shintani
 新谷政己
 
@@ -3834,7 +3869,26 @@ Front Microbiol
 Plant Species-Dependent Increased Abundance and Diversity of IncP-1 Plasmids in the Rhizosphere: New Insights Into Their Role and Ecology
 Masaki Shintani 1 2 3, Eman Nour 4, Tarek Elsayed 4, Khald Blau 4, Inessa Wall 4, Sven Jechalke 4, Cathrin Spröer 5, Boyke Bunk 5, Jörg Overmann 5, Kornelia Smalla 4
 https://www.frontiersin.org/articles/10.3389/fmicb.2020.590776/full
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7728920/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7728920/
+
+pTL50 assigned to the IncP-1ε subgroup could represent the first archetype of the IncP-1ε group only carrying core genes (Figure 3C). 
+
+ε-II
+https://www.ncbi.nlm.nih.gov/nuccore/MH392238
+```
+LOCUS       MH392238               39671 bp    DNA     circular BCT 06-APR-2020
+DEFINITION  Sym plasmid plasmid pTL50, complete sequence.
+
+                     /isolation_source="lettuce rhizosphere"
+
+     CDS             1..1224
+                     /gene="trfA"
+                     /inference="similar to AA sequence:UniProt:P07676"
+                     /product="Plasmid replication initiator protein TrfA"
+                     /protein_id="QDL89352.1"
+
+```
+
 
 ### 2020-06-09
 https://pubmed.ncbi.nlm.nih.gov/32582111/
@@ -3890,6 +3944,7 @@ The partial sequences of 519 transconjugants were deposited in the DDBJ, EMBL, a
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911017/bin/supp_80_1_138__index.html
 Table S3. Top hit type strains with transconjugants identified in this study in BLAST searches.
 
+----------
 ### Suzuki
 
 https://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-6436-5_574-1
@@ -3911,6 +3966,7 @@ Suzuki H1, Sota M, Brown CJ, Top EM.
 https://academic.oup.com/nar/article/36/22/e147/1196271
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
 
+----------
 ### Yano
 ### 2018-12-15
 
@@ -4145,30 +4201,6 @@ DEFINITION  plasmid pFBAOT6 from Aeromonas punctata (Aeromonas caviae) HGB5,
                      AYKQANKPKG"
 
 ```
-
-----------
-
-### IncW
-### R388
-
-IncW
-R388
-BR000038
-https://www.ncbi.nlm.nih.gov/nuccore/NC_028464
-https://www.ncbi.nlm.nih.gov/nuccore/BR000038
-```
-LOCUS       BR000038               33913 bp    DNA     circular BCT 09-MAY-2006
-DEFINITION  TPA_inf: Escherichia coli plasmid R388 DNA, complete sequence.
-```
-
-https://pubmed.ncbi.nlm.nih.gov/17026718/
-Review FEMS Microbiol Rev
-. 2006 Nov;30(6):942-66. doi: 10.1111/j.1574-6976.2006.00042.x. Epub 2006 Oct 6.
-Dynamics of the IncW genetic backbone imply general trends in conjugative plasmid evolution
-Raúl Fernández-López 1, M Pilar Garcillán-Barcia, Carlos Revilla, Miguel Lázaro, Luis Vielva, Fernando de la Cruz
-https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1574-6976.2006.00042.x
-https://academic.oup.com/femsre/article/30/6/942/494544
-As a consequence, and in order to avoid long-branch attraction phenomena, the phylogeny of TrwC was reconstructed from protein sequence alignments using only the relaxase domain (300 N-terminal amino acids).
 
 ----------
 
