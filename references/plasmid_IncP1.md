@@ -207,8 +207,8 @@ Mol Biol Evol
 Inferring the evolutionary history of IncP-1 plasmids despite incongruence among backbone gene trees
 Diya Sen 1, Celeste J Brown, Eva M Top, Jack Sullivan
 https://academic.oup.com/mbe/article/30/1/154/1020766
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525142/
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3525142/table/mss210-T1/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3525142/
+
 Table 1.
 General Features of the Plasmids Included in This Study Listed by Subgroup.
 ```
@@ -2524,14 +2524,9 @@ Structural organization of the four IncP-1ε plasmids isolated in this study.
 
 Although the sequences of these four plasmids were not completely closed, the fully assembled backbone regions enabled us to infer the insertion sites of the partially sequenced accessory elements (Fig. 1 and Fig. S2, Supporting Information).
 
-
 Phylogenetic analysis of selected IncP-1 plasmids based on TraI and TrfA
 
-
-ε-I subclade
-pSFS26 and pSFS52
-
-pSFS26
+ε-I subclade pSFS26
 https://www.ncbi.nlm.nih.gov/nuccore/KM655309
 ```
 LOCUS       KM655309               48459 bp    DNA     linear   ENV 30-JUN-2015
@@ -2542,12 +2537,10 @@ DEFINITION  Uncultured bacterium plasmid pSFS26, partial sequence.
                      /product="TrfA"
                      /protein_id="AKI06452.1"
 
-
      CDS             complement(36128..38350)
                      /gene="traI"
                      /product="TraI"
                      /protein_id="AKI06490.1"
-
 
      CDS             complement(47994..48428)
                      /gene="klcA"
@@ -2556,8 +2549,7 @@ DEFINITION  Uncultured bacterium plasmid pSFS26, partial sequence.
 ORIGIN      
 ```
 
-pSFS52
-"trfA"が最初に配置されていない。"putative DNA topoisomerase"が分割されている。
+ε-I subclade pSFS52
 https://www.ncbi.nlm.nih.gov/nuccore/KM655310
 ```
 LOCUS       KM655310               45002 bp    DNA     linear   ENV 30-JUN-2015
@@ -2575,12 +2567,10 @@ DEFINITION  Uncultured bacterium plasmid pSFS52, partial sequence.
      CDS             complement(4312..4839)
                      /gene="traF"
 
-
      CDS             complement(6737..8959)
                      /gene="traI"
                      /product="TraI"
                      /protein_id="AKI06514.1"
-
 
      CDS             complement(20229..21452)
                      /gene="trfA"
@@ -2595,11 +2585,10 @@ DEFINITION  Uncultured bacterium plasmid pSFS52, partial sequence.
 
 ORIGIN      
 ```
+"trfA"が最初に配置されていない。
+fission_loci "putative DNA topoisomerase"
 
-ε-II subclade
-pSFS12 and pSFW53
-
-pSFS12
+ε-II subclade pSFS12
 https://www.ncbi.nlm.nih.gov/nuccore/KM655308
 ```
 LOCUS       KM655308               38744 bp    DNA     linear   ENV 30-JUN-2015
@@ -2627,7 +2616,7 @@ DEFINITION  Uncultured bacterium plasmid pSFS12, partial sequence.
 ORIGIN      
 ```
 
-pSFW53
+ε-II subclade pSFW53
 https://www.ncbi.nlm.nih.gov/nuccore/KM655311
 ```
 LOCUS       KM655311               40089 bp    DNA     linear   ENV 30-JUN-2015
@@ -2642,11 +2631,21 @@ DEFINITION  Uncultured bacterium plasmid pSFW53, partial sequence.
                      /protein_id="AKI06560.1"
 
 
+     CDS             8383..9072
+                     /gene="trbG"
+                     /product="TrbG"
+                     /protein_id="AKI06568.1"
+
+     CDS             9107..9352
+                     /gene="trbG*"
+                     /product="TrbG*"
+                     /protein_id="AKI06569.1"
+
+
      CDS             complement(27157..29379)
                      /gene="traI"
                      /product="TraI"
                      /protein_id="AKI06587.1"
-
 
      CDS             complement(38992..39471)
                      /gene="klcA"
@@ -2658,6 +2657,7 @@ DEFINITION  Uncultured bacterium plasmid pSFW53, partial sequence.
 
 ORIGIN      
 ```
+fission_loci trbG
 
 ### Oliveira_2013-11
 
@@ -3823,21 +3823,18 @@ Appl Environ Microbiol
 Hitherto-Unnoticed Self-Transmissible Plasmids Widely Distributed among Different Environments in Japan
 Masaya Hayakawa # 1, Maho Tokuda # 2, Kensei Kaneko # 1, Koichiro Nakamichi # 1, Yukie Yamamoto # 1, Tatsuya Kamijo # 1, Honoka Umeki # 1, Reimi Chiba 1, Ryo Yamada 1, Mitsuya Mori 1, Kosuke Yanagiya 1, Ryota Moriuchi 3, Masahiro Yuki 4, Hideo Dohra 3 5, Hiroyuki Futamata 1 2 6, Moriya Ohkuma 4, Kazuhide Kimbara 1 2, Masaki Shintani 1 2 4 6
 https://journals.asm.org/doi/full/10.1128/aem.01114-22
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9499019/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9499019/
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9499019/table/T3/?report=objectonly
 TABLE 3
 IncP/P-1 plasmids obtained in this study
-Name	Inc_group	Size (bp)	Source	Antibiotic resistance genes and the resistances of the hosts (R, resistance, S, sensitive, ND, not determined)a
-Accessory genes	Tc (12.5)b	Gm (30)	Ap (50)	Km (50)	Km (25)	Km (12.5)	Cm (30)	Sm (50)	Sm (25)	Em (25)
-
-pMNCG080-1	IncP/P-1ρ	69,454	Activated sludge	No accessory	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
-pMNCG082-1	IncP/P-1μ	74,115	Activated sludge	bcs	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
 
 Clade II contained the newly identified plasmids pMNCG080-1 (IncP/P-1μ) and pMNCG082-1 (IncP/P-1ρ), as well as pDS1 (IncP/P-1η) (4), and other plasmids in unidentified subgroups (Fig. 2).
 
 Data availability. The accession numbers deposited in DDBJ of the plasmid sequences (70 plasmids) were LC623882 to LC623932 and LC663721 to LC663740. The 16S rRNA genes of the transconjugants (transconjugants of PromA plasmids) were LC655384 to LC655683.
 
+
+pMNCG080-1	IncP/P-1ρ
 https://www.ncbi.nlm.nih.gov/nuccore/LC623894
 ```
 LOCUS       LC623894               69454 bp    DNA     circular ENV 25-MAY-2022
@@ -3850,6 +3847,7 @@ LOCUS       LC663734                3992 bp    DNA     circular ENV 25-MAY-2022
 DEFINITION  Uncultured bacterium plasmid pMNCG080-2 DNA, complete sequence.
 ```
 
+pMNCG082-1	IncP/P-1μ
 https://www.ncbi.nlm.nih.gov/nuccore/LC623895
 ```
 LOCUS       LC623895               74115 bp    DNA     circular ENV 25-MAY-2022
@@ -3861,6 +3859,44 @@ https://www.ncbi.nlm.nih.gov/nuccore/LC663735
 LOCUS       LC663735                9531 bp    DNA     circular ENV 25-MAY-2022
 DEFINITION  Uncultured bacterium plasmid pMNCG082-2 DNA, complete sequence.
 ```
+
+
+
+pSM0227-02	IncP/P-1δ
+https://www.ncbi.nlm.nih.gov/nuccore/LC623902
+```
+LOCUS       LC623902               47983 bp    DNA     circular ENV 25-MAY-2022
+DEFINITION  Uncultured bacterium plasmid pSM0227-02 DNA, complete sequence.
+```
+
+
+
+
+pMNCI060	IncP/P-1β-1
+https://www.ncbi.nlm.nih.gov/nuccore/LC623896
+```
+LOCUS       LC623896               56363 bp    DNA     circular ENV 25-MAY-2022
+DEFINITION  Uncultured bacterium plasmid pMNCI060 DNA, complete sequence.
+
+     CDS             1..1221
+                     /note="LOCUS_010;
+                     Plasmid:WP_011114072.1 transcriptional regulator
+                     (Burkholderia ambifaria AMMD) [pid:100.0%, q_cov:100.0%,
+                     s_cov:100.0%, Eval:0.0e+00]"
+                     /product="TrfA replication initiation protein"
+                     /protein_id="BCT99120.1"
+
+     CDS             10833..11432
+                     /note="LOCUS_120;
+                     Plasmid:YP_758654.1 TrfA2 replication protein, long form
+                     (Pseudomonas aeruginosa) [pid:99.5%, q_cov:100.0%,
+                     s_cov:52.1%, Eval:4.6e-150, partial hit]"
+                     /product="hypothetical protein"
+                     /protein_id="BCT99131.1"
+
+```
+duplicated_loci TrfA
+
 
 ### 2020-11-27
 https://pubmed.ncbi.nlm.nih.gov/33329469/
