@@ -209,15 +209,6 @@ Diya Sen 1, Celeste J Brown, Eva M Top, Jack Sullivan
 https://academic.oup.com/mbe/article/30/1/154/1020766
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3525142/
 
-Table 1.
-General Features of the Plasmids Included in This Study Listed by Subgroup.
-```
-Plasmids	IncP-1 Subgroup	Origin/Isolation Method/Hosta	Accession Numberb
-
-pA81	IncP-1β	PCB contaminated soil in Czech Republic, Achromobacter xylosoxidans A8	AJ515144
-pADP-1	IncP-1β	Soil in the United States, Pseudomonas sp. ADP	NC_004956
-```
-
 Introduction
 
 Fig. 1.
@@ -225,16 +216,35 @@ Genetic map of a typical IncP-1 plasmid showing the different functional modules
 
 Phylogenies inferred from single or concatenated backbone genes have shown the IncP-1 group to be composed of five diverse subgroups: IncP-1α, -β, -γ, -δ, and -ε (Pansegrau et al. 1994; Thorsted et al. 1998; Vedler et al. 2004; Haines et al. 2006; Bahl et al. 2007). Recently, three new potential IncP-1 subgroups have been identified: ζ (Norberg et al. 2011), η (Sen D, Yano H, Bauer M, Rogers LM, Van der Auwera GA, Brown C, and Top E, unpublished), and an unnamed subgroup (Pachulec and van der Does 2010), thus indicating the tremendous diversity that exists within this plasmid group. The biological significance of these subgroups is unknown, and more work is required to distinguish between them phenotypically.
 
-Materials and Methods
-Plasmids and Genes
 
-The plasmids from the recently proposed ζ, η, and an unnamed subgroups (see Introduction) were not included because their sequences only became publically available in the middle of this study and because of their wide sequence divergence and lack of evidence that they are physically incompatible with the prototype IncP-1 plasmids.
+The first evidence of recombination between IncP-1 plasmids was clearly shown in the IncP-1β plasmid, pB10 (Schlüter et al. 2003). We recently showed another instance of recombination in the IncP-1δ plasmid pIJB1, which has two sets of the replication and transfer genes trfA–trbE, one of which was acquired from an IncP-1β plasmid and the other was native to its subgroup (Sen et al. 2010). Recently, more IncP-1 plasmids (namely, pB3, pBP136, and pAOVO02) were identified as recombinants through the analysis of concatenated alignments of backbone genes (Norberg et al. 2011). 
+
+Materials and Methods
+
+Plasmids and Genes
+Complete sequences of IncP-1 plasmids were extracted from GenBank or determined by us, a total of 65. Only backbone genes that were common to all plasmids were used for phylogeny estimation (dark-gray open reading frames [ORFs] in fig. 1). For those plasmids that showed identical sets of backbone gene sequences, only one representative plasmid was retained. In addition, plasmids such as pEST4011 that were missing a large section of backbone sequence shared by all other plasmids were not included nor was plasmid pIJB1 because of its duplicated trfA and trb genes of IncP-1δ and IncP-1β descent (Sen et al. 2010). The plasmids from the recently proposed ζ, η, and an unnamed subgroups (see Introduction) were not included because their sequences only became publically available in the middle of this study and because of their wide sequence divergence and lack of evidence that they are physically incompatible with the prototype IncP-1 plasmids.
+
+Table 1.
+General Features of the Plasmids Included in This Study Listed by Subgroup.
+```
+Plasmids	IncP-1 Subgroup	Origin/Isolation Method/Hosta	Accession Numberb
+
+pA81	IncP-1β	PCB contaminated soil in Czech Republic, Achromobacter xylosoxidans A8	AJ515144
+pADP-1	IncP-1β	Soil in the United States, Pseudomonas sp. ADP	NC_004956
+
+pEMT3	IncP-1ε	Agricultural soil in the United States, exogenous	JX469827
+```
 
 Nucleotide Sequence Alignments and Model Selection
 The amino acid sequences of each gene were aligned with ClustalX (Thompson et al. 2002). Tranalign (Rice et al. 2000) was used to align the nucleotide sequences of each gene guided by the aligned amino acid sequences. 
 
 Detection of Recombinants
 To detect recombination among the plasmids in the data set, alignment files of the backbone genes were concatenated in the order and orientation in which they appear on IncP-1 plasmids (fig. 1). The recombination detection programs RDP, GENECONV, BootScan, MaxChi, and Chimaera, which are implemented in RDP3 (Martin et al. 2010), were run with default parameters. Only recombinants that were identified by at least two programs were considered.
+
+Results
+
+Plasmids and Genes
+To infer the evolutionary history of plasmids from the incompatibility group IncP-1, a set of 65 completely sequenced IncP-1 plasmid genomes was retrieved from Genbank and our own plasmid sequence collection. They were selected based on previously published assignment to one of the five major IncP-1 plasmid subgroups (α-ε) or our own comparative sequence analysis. A total of 28 backbone genes were found to be common to all plasmids and therefore included in this study (fig. 1, dark gray ORFs). After removing duplicates (plasmids with identical sets of backbone gene sequences), and including our 15 newly sequenced plasmids, a final set of 46 plasmids was obtained (table 1). For example, the backbone gene sequences of pJP4 were identical to those of pB10 and therefore not included. Visual inspection suggested that all alignments were of good quality. Because the 5′-ends of genes trfA1 and kfrC did not appear to be homologous between different subgroups, they were excluded from the analysis.
 
 Fig. 2.
 Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: supported by 46% of gene trees, namely, those of trfA2, trbA, trbC, trbG, traG, traH, traI, kfrA, kfrB, kfrC, korB, korA, and kleE. (B) Topology 2: supported by gene trees of trbD, trbK, and traJ. (C) Topology 3: supported by gene trees of trbF, trbI, and traE. (D) Topology 4: supported by gene trees of korC and klcA. Trees were rooted using IncP-1γ as outgroup.
@@ -243,6 +253,18 @@ For the concatenated tree (shown in fig. 3), individual genes were aligned and c
 
 Fig. 3.
 ML tree of concatenated data estimated from a partitioned analysis based on codon position. Nodal support is shown as nonparametric ML bootstrap values. The tree was rooted using IncP-1γ as outgroup.
+
+Discussion
+
+It is important to note that these plasmids or the corresponding recombinant genes were not excluded from species-tree estimation because they all occurred within a subgroup (treated here as species) and were not expected to interfere with the analysis. Recombinants can be grouped into 1) recombination events within the IncP-1β2 subgroup (pB4, pNB1, pA1, pB1, pRSB222, pRSB223, and pYS1) and 2) recombination events between IncP-1β1 and IncP-1β2 plasmids (pAOVO02, pAKD18, pDS3, and pB10). Recombination in plasmid pAOVO02 and between pB10 and a pB4-like plasmid had been suggested earlier (Schlüter et al. 2003; Heuer et al. 2004; Norberg et al. 2011). Interestingly, there were fewer observations of recombination between members of the different subgroups. Except for recombination between the IncP-1α and IncP-1δ plasmid, few other instances were observed: those in the trbB gene and another between members of the IncP-1β1 subgroup and the IncP-1ε plasmid pEMT3 (data not shown). 
+
+
+IncP-1ε pEMT3
+https://www.ncbi.nlm.nih.gov/nuccore/JX469827
+```
+LOCUS       JX469827               63472 bp    DNA     circular ENV 26-JUL-2016
+DEFINITION  Uncultured bacterium plasmid pEMT3, complete sequence.
+```
 
 ----------
 
