@@ -1740,8 +1740,6 @@ Comparison of the genetic configuration of pECSC102 with other plasmids.
 
 Accession number(s). The complete nucleotide sequence of the plasmid pECSC102 characterized in this study was submitted to the GenBank database and assigned accession number MG552133.
 
-pECSC102
-MG552133
 https://www.ncbi.nlm.nih.gov/nuccore/MG552133
 ```
 LOCUS       MG552133               60744 bp    DNA     circular BCT 06-APR-2020
@@ -1767,7 +1765,6 @@ DEFINITION  Escherichia coli strain ECSC102 plasmid pECSC102, complete
                      /protein_id="AUO29352.1"
 
 ```
-
 
 ----------
 ### 2017-10-25
@@ -1796,22 +1793,13 @@ DEFINITION  Escherichia coli strain WCHEC1622 plasmid pMCR_WCHEC1622, complete
 
      CDS             18165..19043
                      /gene="trfA"
-                     /locus_tag="pMCR_WCHEC1622_00027"
-                     /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA sequence:UniProtKB:P07676"
-                     /codon_start=1
-                     /transl_table=11
                      /product="Plasmid replication initiator protein TrfA"
-
 
      CDS             complement(47015..48640)
                      /gene="mcr-1"
-                     /locus_tag="pMCR_WCHEC1622_00067"
                      /EC_number="2.7.-.-"
-                     /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA sequence:UniProtKB:P30845"
-                     /codon_start=1
-                     /transl_table=11
                      /product="MCR-1"
 
 ```
@@ -1983,26 +1971,6 @@ LOCUS       KJ210592               18184 bp    DNA     linear   BCT 26-JUL-2016
 DEFINITION  Enterobacter aerogenes strain HS112625 plasmid pHS112625, partial
             sequence.
 ```
-
-
-https://www.ncbi.nlm.nih.gov/nuccore/CP001012
-```
-LOCUS       CP001012               38297 bp    DNA     circular BCT 26-JUL-2016
-DEFINITION  Xylella fastidiosa M23 plasmid pXFAS01, complete sequence.
-
-     CDS             complement(23913..26405)
-                     /locus_tag="XfasM23_2249"
-                     /note="PFAM: Relaxase/mobilization nuclease family
-                     protein;
-                     KEGG: ypi:YpsIP31758_A0026 conjugal transfer protein TraI"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="Relaxase/mobilization nuclease family protein"
-                     /protein_id="ACB93642.1"
-
-```
-
-
 
 ----------
 ## updates
