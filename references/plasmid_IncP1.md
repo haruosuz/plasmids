@@ -1659,12 +1659,23 @@ DEFINITION  Escherichia coli strain GDZJ002 plasmid pGDZJ002-1, complete
                      /product="TrfA"
                      /protein_id="AWM63250.1"
 
+     CDS             39381..39692
+                     /product="Conjugative transfer protein TrbG"
+                     /protein_id="AWM63258.1"
+
+     CDS             39652..40272
+                     /product="Conjugative transfer protein TrbG"
+                     /protein_id="AWM63259.1"
+
      CDS             47878..49503
                      /note="phosphoethanolamine--lipid A transferase"
                      /product="MCR-3.7"
                      /protein_id="AWM63270.1"
 
 ```
+fission_loci TrbG
+
+
 
 https://www.ncbi.nlm.nih.gov/nuccore/MH043625
 ```
@@ -1674,6 +1685,18 @@ DEFINITION  Escherichia coli strain GDZJ003 plasmid pGDZJ003-1-MCR-3, complete
      CDS             complement(15824..17548)
                      /product="IncP-type DNA relaxase TraI"
                      /protein_id="AWM63352.1"
+
+     CDS             complement(17538..18101)
+                     /product="IncP-type DNA relaxase TraI"
+                     /protein_id="AWM63353.1"
+
+     CDS             19622..20020
+                     /product="IncP-type DNA transfer protein TraL"
+                     /protein_id="AWM63357.1"
+
+     CDS             20013..20408
+                     /product="IncP-type DNA transfer protein TraL"
+                     /protein_id="AWM63358.1"
 
      CDS             complement(32205..33083)
                      /product="TrfA"
@@ -1685,6 +1708,8 @@ DEFINITION  Escherichia coli strain GDZJ003 plasmid pGDZJ003-1-MCR-3, complete
                      /protein_id="AWM63398.1"
 
 ```
+fission_loci TraI TraL
+
 
 ----------
 ### Li_2018-06-01
@@ -1946,15 +1971,28 @@ LOCUS       KF701335               69453 bp    DNA     circular BCT 06-APR-2020
 DEFINITION  Escherichia coli strain HS102707 plasmid pHS102707, complete
             sequence.
 
+     CDS             complement(6801..7268)
+                     /gene="klcA"
+                     /note="KlcA plasmid stable inheritance protein"
+                     /product="KlcA"
+                     /protein_id="AHI61825.1"
+
+     CDS             15815..16240
+                     /gene="klca"
+                     /note="antirestriction protein Klca"
+                     /product="Klca"
+                     /protein_id="AHI61831.1"
+
      CDS             complement(60086..62695)
                      /gene="traI"
                      /note="conjugal transfer nickase/helicase TraI"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TraI"
                      /protein_id="AHI61854.1"
 
+
 ```
+duplicated_loci klcA
+
 
 部分配列
 https://www.ncbi.nlm.nih.gov/nuccore/KF724506
@@ -3025,8 +3063,6 @@ Sequence and analysis of the 46.6-kb plasmid pA1 from Sphingomonas sp. A1 that c
 Karen Mine Harada 1, Yuji Aso, Wataru Hashimoto, Bunzo Mikami, Kousaku Murata
 https://www.sciencedirect.com/science/article/abs/pii/S0147619X05001289?via%3Dihub
 
-https://www.ncbi.nlm.nih.gov/nuccore/NC_007353
-
 https://www.ncbi.nlm.nih.gov/nuccore/AB231906
 ```
 LOCUS       AB231906               46557 bp    DNA     circular BCT 26-JUL-2016
@@ -3057,13 +3093,19 @@ DEFINITION  Sphingomonas sp. A1 plasmid pA1 DNA, complete sequence.
                      /product="KorA"
                      /protein_id="BAE19720.1"
 
+     CDS             complement(26462..26893)
+                     /gene="klcA'"
+                     /protein_id="BAE48731.1"
+
+     CDS             complement(28802..29233)
+                     /gene="klcA"
+                     /protein_id="BAE48732.1"
 
      CDS             complement(31316..32542)
                      /gene="trfA"
                      /function="Replication initiation protein"
                      /product="TrfA"
                      /protein_id="BAE19726.2"
-
 
      CDS             complement(32590..32928)
                      /gene="ssb"
@@ -3078,6 +3120,8 @@ DEFINITION  Sphingomonas sp. A1 plasmid pA1 DNA, complete sequence.
                      /protein_id="BAE19728.1"
 
 ```
+duplicated_loci klcA
+
 
 ## 2011
 
