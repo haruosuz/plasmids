@@ -232,8 +232,31 @@ Plasmids	IncP-1 Subgroup	Origin/Isolation Method/Hosta	Accession Numberb
 pA81	IncP-1β	PCB contaminated soil in Czech Republic, Achromobacter xylosoxidans A8	AJ515144
 pADP-1	IncP-1β	Soil in the United States, Pseudomonas sp. ADP	NC_004956
 
+
+pB1	IncP-1β	Municipal WWTP in Germany, exogenous	JX469829
+
+
+pB3	IncP-1β	Municipal WWTP in Germany, exogenous	NC_006388
+pB4	IncP-1β	Municipal WWTP in Germany, exogenous	AJ431260
+pB8	IncP-1β	Municipal WWTP in Germany, exogenous	NC_007502
+pB10	IncP-1β	Municipal WWTP in Germany, exogenous	NC_004840
+pB12	IncP-1β	Municipal WWTP in Germany, exogenous	JX469826
+pBP136	IncP-1β	Diseased whooping cough patient in Japan, Bordetella pertussis BP136
+
+
+pDS3	IncP-1β	Creek in the United States, exogenous	JX469834
+
+pNB1	IncP-1β	Orchard soil in Belgium Delftia acidovorans LME1	JF274988
+pRSB222	IncP-1β	Municipal WWTP in Germany, exogenous	JX469824	JX469825
+pRSB223	IncP-1β	Municipal WWTP in Germany, exogenous	JX469828
+
+
 pEMT3	IncP-1ε	Agricultural soil in the United States, exogenous	JX469827
 ```
+
+Sequencing and Annotation
+The following 15 plasmids were sequenced as part of this study (references refer to the studies that first isolated and described the plasmids): pB1 and pB12 (Dröge et al. 2000), pEMT3 (Top et al. 1995), pG527 (Götz et al. 1996), pC11 and pNB1, (Boon et al. 2001), pKV29 (Stolze et al. 2012), pTB30 (Dejonghe et al. 2002), pKS208 and pKS212 (Heuer et al. 2002), pRSB222, pRSB223 (Schlüter and Sczcepanowski, unpublished), pWEC911 (Smalla and Hill, unpublished), pYS1 (Sota, unpublished), and pDS3 and pMBUI1 (Sen, Yano, Bauer, Rogers, Brown, and Top, unpublished). 
+
 
 Nucleotide Sequence Alignments and Model Selection
 The amino acid sequences of each gene were aligned with ClustalX (Thompson et al. 2002). Tranalign (Rice et al. 2000) was used to align the nucleotide sequences of each gene guided by the aligned amino acid sequences. 
@@ -258,6 +281,47 @@ Discussion
 
 It is important to note that these plasmids or the corresponding recombinant genes were not excluded from species-tree estimation because they all occurred within a subgroup (treated here as species) and were not expected to interfere with the analysis. Recombinants can be grouped into 1) recombination events within the IncP-1β2 subgroup (pB4, pNB1, pA1, pB1, pRSB222, pRSB223, and pYS1) and 2) recombination events between IncP-1β1 and IncP-1β2 plasmids (pAOVO02, pAKD18, pDS3, and pB10). Recombination in plasmid pAOVO02 and between pB10 and a pB4-like plasmid had been suggested earlier (Schlüter et al. 2003; Heuer et al. 2004; Norberg et al. 2011). Interestingly, there were fewer observations of recombination between members of the different subgroups. Except for recombination between the IncP-1α and IncP-1δ plasmid, few other instances were observed: those in the trbB gene and another between members of the IncP-1β1 subgroup and the IncP-1ε plasmid pEMT3 (data not shown). 
 
+
+IncP-1β pB1
+https://www.ncbi.nlm.nih.gov/nuccore/JX469829
+```
+LOCUS       JX469829               58290 bp    DNA     circular ENV 26-JUL-2016
+DEFINITION  Uncultured bacterium plasmid pB1, complete sequence.
+```
+
+IncP-1β pDS3
+https://www.ncbi.nlm.nih.gov/nuccore/JX469834
+```
+LOCUS       JX469834               40806 bp    DNA     circular ENV 26-JUL-2016
+DEFINITION  Uncultured bacterium plasmid pDS3, complete sequence.
+```
+
+IncP-1β pRSB222
+
+https://www.ncbi.nlm.nih.gov/nuccore/JX469824
+```
+LOCUS       JX469824               19257 bp    DNA     linear   ENV 24-APR-2018
+DEFINITION  Uncultured bacterium plasmid pRSB222, partial sequence.
+```
+https://www.ncbi.nlm.nih.gov/nuccore/JX469825
+```
+LOCUS       JX469825               36880 bp    DNA     linear   ENV 24-APR-2018
+DEFINITION  Uncultured bacterium plasmid pRSB222, partial sequence.
+```
+
+IncP-1β pRSB223
+https://www.ncbi.nlm.nih.gov/nuccore/JX469828
+```
+LOCUS       JX469828               62099 bp    DNA     circular ENV 26-JUL-2016
+DEFINITION  Uncultured bacterium plasmid pRSB223, complete sequence.
+```
+
+IncP-1β pNB1
+https://www.ncbi.nlm.nih.gov/nuccore/JF274988
+```
+LOCUS       JF274988               77429 bp    DNA     circular BCT 06-APR-2020
+DEFINITION  Delftia acidovorans plasmid pLME1, complete sequence.
+```
 
 IncP-1ε pEMT3
 https://www.ncbi.nlm.nih.gov/nuccore/JX469827
