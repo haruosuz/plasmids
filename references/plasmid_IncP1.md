@@ -1098,11 +1098,24 @@ DEFINITION  Neisseria gonorrhoeae strain 5289 plasmid pEP5289, complete
 ----------
 ## basal
 
-### Stormo_2020-03
-### CP038019
+----------
+### 2020-03_Stormo
+
+https://pubmed.ncbi.nlm.nih.gov/31693476/
+Int J Syst Evol Microbiol
+. 2020 Mar;70(3):1478-1488. doi: 10.1099/ijsem.0.003827. Epub 2019 Nov 6.
+Eikenella exigua sp. nov., isolated from brain abscess and blood
+Kristin A Stormo 1 2, Randi M Nygaard 1, Torbjørn S Bruvold 1, Grete Dimmen 1, Paul Christoffer Lindemann 1, Stina Jordal 2, Øyvind Kommedal 1
+https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.003827#tab2
+
+Author Notes
+The GenBank accession numbers for the complete whole-genome sequence are CP038018 (chromosome) and CP038019 (plasmid). The GenBank accession number for the for the full-length 16S rRNA gene sequence is MK541038.
+
+Strain PXXT also contained a single 39 819 bp plasmid encoding 19 genes. Except for genes related to the conjugation system and a toxin–antitoxin system, only hypothetical proteins were found on the plasmid. The plasmid was not found in E. exigua strain EI-02, but a homologous gen-segment was detected in two GenBank whole-genome projects, one in the E. exigua cluster (NML01-A-08, 98.9 % homology) and the other probably representing an undescribed Eikenella species (NML130454, 94.8 % homology). The plasmid was not found in any of the study E. corrodens isolates nor in any E. corrodens GenBank whole-genome projects.
 
 https://www.ncbi.nlm.nih.gov/genome/84691?genome_assembly_id=701726
 
+chromosome
 https://www.ncbi.nlm.nih.gov/nuccore/CP038018
 ```
 LOCUS       CP038018             1953244 bp    DNA     circular BCT 04-MAY-2022
@@ -1110,6 +1123,7 @@ DEFINITION  Eikenella exigua strain PXX chromosome, complete genome.
 
 ```
 
+plasmid
 https://www.ncbi.nlm.nih.gov/nuccore/CP038019
 ```
 LOCUS       CP038019               39819 bp    DNA     circular BCT 19-AUG-2019
@@ -1130,7 +1144,6 @@ DEFINITION  Eikenella exigua strain PXX plasmid unnamed1, complete sequence.
                      /product="relaxase"
                      /protein_id="QED92985.1"
 
-
      CDS             complement(32226..33224)
                      /gene="trbB"
                      /product="P-type conjugative transfer ATPase TrbB"
@@ -1144,31 +1157,15 @@ DEFINITION  Eikenella exigua strain PXX plasmid unnamed1, complete sequence.
                      /product="single-stranded DNA-binding protein"
                      /protein_id="QED93015.1"
 
-
-
      CDS             34265..35137
                      /product="TrfA family protein"
                      /protein_id="QED93016.1"
 
 ```
 
-https://pubmed.ncbi.nlm.nih.gov/31693476/
-Int J Syst Evol Microbiol
-. 2020 Mar;70(3):1478-1488. doi: 10.1099/ijsem.0.003827. Epub 2019 Nov 6.
-Eikenella exigua sp. nov., isolated from brain abscess and blood
-Kristin A Stormo 1 2, Randi M Nygaard 1, Torbjørn S Bruvold 1, Grete Dimmen 1, Paul Christoffer Lindemann 1, Stina Jordal 2, Øyvind Kommedal 1
-https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.003827#tab2
-
-Author Notes
-The GenBank accession numbers for the complete whole-genome sequence are CP038018 (chromosome) and CP038019 (plasmid). The GenBank accession number for the for the full-length 16S rRNA gene sequence is MK541038.
-
-Strain PXXT also contained a single 39 819 bp plasmid encoding 19 genes. Except for genes related to the conjugation system and a toxin–antitoxin system, only hypothetical proteins were found on the plasmid. The plasmid was not found in E. exigua strain EI-02, but a homologous gen-segment was detected in two GenBank whole-genome projects, one in the E. exigua cluster (NML01-A-08, 98.9 % homology) and the other probably representing an undescribed Eikenella species (NML130454, 94.8 % homology). The plasmid was not found in any of the study E. corrodens isolates nor in any E. corrodens GenBank whole-genome projects.
-
-
+----------
 ### pIPMB12
-```
-DEFINITION  Orbus sp. IPMB12 plasmid pIPMB12, complete sequence.
-```
+
 https://www.ncbi.nlm.nih.gov/nuccore/CP050254
 ```
 LOCUS       CP050254               32446 bp    DNA     circular BCT 25-MAR-2020
@@ -1192,6 +1189,11 @@ DEFINITION  Zophobihabitans entericus strain IPMB12 plasmid pIPMB12, complete
 
 ```
 
+```
+DEFINITION  Orbus sp. IPMB12 plasmid pIPMB12, complete sequence.
+```
+
+----------
 ### pKAM329_2
 https://www.ncbi.nlm.nih.gov/nuccore/AP024138
 ```
@@ -1206,13 +1208,11 @@ DEFINITION  Aeromonas caviae KAM329 plasmid pKAM329_2 DNA, complete sequence.
             Infectious Diseases; 4-2-1 Aobacho, Higashimurayama, Tokyo
             189-0002, Japan
 
-
                      /country="Japan:Kanagawa"
                      /collection_date="2018"
 
                      /product="TrfA family protein"
                      /protein_id="BCM78151.1"
-
 
                      /product="conjugal transfer relaxase TraI"
                      /protein_id="BCM78168.1"
@@ -1249,6 +1249,7 @@ https://www.ncbi.nlm.nih.gov/nuccore/CP016850
 LOCUS       CP016850               99718 bp    DNA     circular BCT 11-AUG-2016
 DEFINITION  Pseudomonas sp. TMW 2.1634 plasmid pL21564-1, complete sequence.
 
+                     /isolation_source="poultry meat"
                      /country="Germany"
 
      CDS             64078..64950
@@ -1261,11 +1262,27 @@ DEFINITION  Pseudomonas sp. TMW 2.1634 plasmid pL21564-1, complete sequence.
 
 ```
 
+https://www.ncbi.nlm.nih.gov/nuccore/CP021133
+```
+LOCUS       CP021133               79891 bp    DNA     circular BCT 11-MAY-2017
+DEFINITION  Pseudomonas fragi strain NMC25 plasmid unnamed1, complete sequence.
 
+                     /isolation_source="Meat"
+                     /geo_loc_name="China: Nanjing"
+                     /collection_date="28-Jan-2016"
+```
 
 ----------
 ### Andersen_2013-12-05
 ### pJJ1886_4
+
+https://pubmed.ncbi.nlm.nih.gov/24309736/
+Genome Announc
+. 2013 Dec 5;1(6):e00988-13. doi: 10.1128/genomeA.00988-13.
+Complete Genome Sequence of the Epidemic and Highly Virulent CTX-M-15-Producing H30-Rx Subclone of Escherichia coli ST131
+Paal S Andersen 1, Marc Stegger, Maliha Aziz, Tania Contente-Cuomo, Henry S Gibbons, Paul Keim, Evgeni V Sokurenko, James R Johnson, Lance B Price
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3853059/
+Nucleotide sequence accession numbers. The complete sequences of the chromosome of E. coli JJ1886 and its five plasmids, pJJ1886-1 through pJJ1886-5, have been deposited in GenBank (accession numbers CP006784, CP006785, CP006786, CP006787, CP006788, and CP006789, respectively).
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP006788
 ```
@@ -1282,16 +1299,6 @@ DEFINITION  Escherichia coli JJ1886 plasmid pJJ1886_4, complete sequence.
 
 ```
 
-https://pubmed.ncbi.nlm.nih.gov/24309736/
-Genome Announc
-. 2013 Dec 5;1(6):e00988-13. doi: 10.1128/genomeA.00988-13.
-Complete Genome Sequence of the Epidemic and Highly Virulent CTX-M-15-Producing H30-Rx Subclone of Escherichia coli ST131
-Paal S Andersen 1, Marc Stegger, Maliha Aziz, Tania Contente-Cuomo, Henry S Gibbons, Paul Keim, Evgeni V Sokurenko, James R Johnson, Lance B Price
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3853059/
-Nucleotide sequence accession numbers. The complete sequences of the chromosome of E. coli JJ1886 and its five plasmids, pJJ1886-1 through pJJ1886-5, have been deposited in GenBank (accession numbers CP006784, CP006785, CP006786, CP006787, CP006788, and CP006789, respectively).
-
-
-
 ----------
 ### CP082959
 
@@ -1301,18 +1308,14 @@ LOCUS       CP082959               52879 bp    DNA     circular BCT 14-SEP-2021
 DEFINITION  Salmonella enterica subsp. arizonae strain S499 plasmid unnamed5,
             complete sequence.
 
-                     /country="China: Wuhan"
+                     /isolation_source="anthropogenic"
+                     /geo_loc_name="China: Wuhan"
                      /collection_date="2020-06-20"
-
 
      CDS             14598..17231
                      /locus_tag="K8I78_26780"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_003019746.1"
-                     /note="Derived by automated computational analysis using
-                     gene prediction method: Protein Homology."
-                     /codon_start=1
-                     /transl_table=11
                      /product="relaxase/mobilization nuclease domain-containing
                      protein"
                      /protein_id="UAM88301.1"
@@ -1321,10 +1324,6 @@ DEFINITION  Salmonella enterica subsp. arizonae strain S499 plasmid unnamed5,
                      /locus_tag="K8I78_26980"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_020405883.1"
-                     /note="Derived by automated computational analysis using
-                     gene prediction method: Protein Homology."
-                     /codon_start=1
-                     /transl_table=11
                      /product="replication initiator protein A"
                      /protein_id="UAM88285.1"
 
@@ -2666,11 +2665,8 @@ DEFINITION  Uncultured bacterium plasmid pSFS52, partial sequence.
 
      CDS             complement(20229..21452)
                      /gene="trfA"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TrfA"
                      /protein_id="AKI06533.1"
-
 
      CDS             complement(43130..44932)
                      /gene="traC"
@@ -2751,7 +2747,7 @@ ORIGIN
 ```
 fission_loci trbG
 
-### Oliveira_2013-11
+### 2013-11
 
 https://pubmed.ncbi.nlm.nih.gov/23831558/
 Comparative Study Plasmid
@@ -2759,6 +2755,13 @@ Comparative Study Plasmid
 Comparative genomics of IncP-1ε plasmids from water environments reveals diverse and unique accessory genetic elements
 Cláudia S Oliveira 1, Alexandra Moura, Isabel Henriques, Celeste J Brown, Linda M Rogers, Eva M Top, António Correia
 https://linkinghub.elsevier.com/retrieve/pii/S0147-619X(13)00076-0
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_1459561371
+Elsevier ScienceDirect Journals Complete
+https://www-sciencedirect-com.kras.lib.keio.ac.jp/science/article/pii/S0147619X13000760
+
+In this study we present the sequence analysis and phenotypic characterization of 3 IncP-1ε tetracycline resistant plasmids (pMLUA1, pMLUA3 and pMLUA4) exogenously isolated from estuarine surface waters (Oliveira et al., 2012).
+
+The complete nucleotide sequence of plasmids pMLUA1, pMLUA3 and pMLUA4 were deposited at GenBank under the accession Nos. KC964605, KC964606 and KC964607, respectively.
 
 ### 2015-03-17
 
@@ -3923,7 +3926,13 @@ Masaya Hayakawa # 1, Maho Tokuda # 2, Kensei Kaneko # 1, Koichiro Nakamichi # 1,
 https://journals.asm.org/doi/full/10.1128/aem.01114-22
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9499019/
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9499019/table/T3/?report=objectonly
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9499019/table/T2/
+TABLE 2.
+Conserved genes in the IncP/P-1 plasmids
+
+pMNCI062 did not carry traCD genes.
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9499019/table/T3/
 TABLE 3
 IncP/P-1 plasmids obtained in this study
 
@@ -3959,16 +3968,12 @@ DEFINITION  Uncultured bacterium plasmid pMNCG082-2 DNA, complete sequence.
 ```
 
 
-
 pSM0227-02	IncP/P-1δ
 https://www.ncbi.nlm.nih.gov/nuccore/LC623902
 ```
 LOCUS       LC623902               47983 bp    DNA     circular ENV 25-MAY-2022
 DEFINITION  Uncultured bacterium plasmid pSM0227-02 DNA, complete sequence.
 ```
-
-
-
 
 pMNCI060	IncP/P-1β-1
 https://www.ncbi.nlm.nih.gov/nuccore/LC623896
@@ -3995,6 +4000,21 @@ DEFINITION  Uncultured bacterium plasmid pMNCI060 DNA, complete sequence.
 ```
 duplicated_loci TrfA
 
+pMNCI062	IncP/P-1β-1
+https://www.ncbi.nlm.nih.gov/nuccore/LC623897
+```
+LOCUS       LC623897               38628 bp    DNA     circular ENV 25-MAY-2022
+DEFINITION  Uncultured bacterium plasmid pMNCI062 DNA, complete sequence.
+```
+pMNCI062 did not carry traCD genes.
+
+pMNBM077	IncP/P-1κ
+https://ncbi.nlm.nih.gov/nuccore/LC623892
+```
+LOCUS       LC623892               53339 bp    DNA     circular ENV 25-MAY-2022
+DEFINITION  Uncultured bacterium plasmid pMNBM077 DNA, complete sequence.
+```
+
 
 ### 2020-11-27
 https://pubmed.ncbi.nlm.nih.gov/33329469/
@@ -4005,7 +4025,23 @@ Masaki Shintani 1 2 3, Eman Nour 4, Tarek Elsayed 4, Khald Blau 4, Inessa Wall 4
 https://www.frontiersin.org/articles/10.3389/fmicb.2020.590776/full
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7728920/
 
+Materials and Methods
+
+Plasmid sequences were deposited in GenBank under Accession Numbers MH392232 to MH392246.
+
+Results
+
+FIGURE 2.
+The accession numbers of other IncP-1 plasmids are listed in Supplementary Table S3.
+
+Discussion
+
 pTL50 assigned to the IncP-1ε subgroup could represent the first archetype of the IncP-1ε group only carrying core genes (Figure 3C). 
+
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7728920/#DS1
+Click here for additional data file. (1.8MB, pdf)
+https://pmc.ncbi.nlm.nih.gov/articles/instance/7728920/bin/Data_Sheet_1.pdf
 
 ε-II
 https://www.ncbi.nlm.nih.gov/nuccore/MH392238
