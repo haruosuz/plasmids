@@ -229,6 +229,13 @@ General Features of the Plasmids Included in This Study Listed by Subgroup.
 ```
 Plasmids	IncP-1 Subgroup	Origin/Isolation Method/Hosta	Accession Numberb
 
+pB5	IncP-1α	Municipal WWTP in Germany, exogenous	CP002151
+pBS228	IncP-1α	Wastewater of antibiotic factory in Russia, host unknown	NC_008357
+
+pTB11	IncP-1α	WWTP in Germany, exogenous	NC_006352
+
+RK2	IncP-1α	Hospital in the United Kingdom, Pseudomonas aeruginosa and Klebsiella aerogenes	NC_001621
+pA1	IncP-1β	Soil in Japan, Sphingomonas sp. A1	NC_007353
 pA81	IncP-1β	PCB contaminated soil in Czech Republic, Achromobacter xylosoxidans A8	AJ515144
 pADP-1	IncP-1β	Soil in the United States, Pseudomonas sp. ADP	NC_004956
 
@@ -2517,8 +2524,6 @@ DEFINITION  Uncultured bacterium pAKD4 plasmid pAKD4, complete sequence.
                      /gene="trfA2"
      CDS             complement(1..870)
                      /gene="trfA2"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TrfA2 replication initiation protein"
                      /protein_id="ADD63272.1"
 
@@ -2528,29 +2533,22 @@ DEFINITION  Uncultured bacterium pAKD4 plasmid pAKD4, complete sequence.
 
      CDS             1191..1568
                      /gene="trbA"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TrbA mating pair formation protein,
                      transcription regulator"
                      /protein_id="ADD63273.1"
 
      CDS             complement(35443..37641)
                      /gene="traI"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TraI conjugative transfer protein, DNA relaxase"
                      /protein_id="ADD63310.1"
 
 
      CDS             complement(45051..45359)
                      /gene="korA"
-                     /codon_start=1
-                     /transl_table=11
                      /product="KorA transcriptional repressor protein"
                      /protein_id="ADD63322.1"
 
 ```
-
 
 ----------
 
