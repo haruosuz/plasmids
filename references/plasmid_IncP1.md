@@ -707,16 +707,11 @@ DEFINITION  Stenotrophomonas maltophilia plasmid pBI1063, partial sequence.
 
      CDS             complement(2204..4675)
                      /gene="traI"
-                     /codon_start=1
-                     /transl_table=11
                      /product="putative transfer protein"
                      /protein_id="AAP82040.1"
 
-
      CDS             complement(11327..12295)
                      /gene="repA"
-                     /codon_start=1
-                     /transl_table=11
                      /product="putative replication protein"
                      /protein_id="AAP82047.1"
 
@@ -793,13 +788,10 @@ DEFINITION  Yersinia pseudotuberculosis IP 31758 plasmid p_59kb, complete
      CDS             5634..6002
                      /locus_tag="YpsIP31758_A0046"
                      /note="identified by match to protein family HMM PF01381"
-                     /codon_start=1
-                     /transl_table=11
                      /product="conjugal transfer protein TrbA"
                      /protein_id="ABS45633.1"
 
      CDS             complement(47397..50018)
-                     /locus_tag="YpsIP31758_A0026"
                      /note="identified by match to protein family HMM PF03432"
                      /codon_start=1
                      /transl_table=11
@@ -807,7 +799,6 @@ DEFINITION  Yersinia pseudotuberculosis IP 31758 plasmid p_59kb, complete
                      /protein_id="ABS45618.1"
 
      CDS             complement(55522..56574)
-                     /locus_tag="YpsIP31758_A0037"
                      /note="identified by similarity to SP:P07674; match to
                      protein family HMM PF02195; match to protein family HMM
                      PF06613; match to protein family HMM TIGR00180"
@@ -997,15 +988,11 @@ DEFINITION  Neisseria gonorrhoeae TCDC-NG08107 plasmid pNGTCDC08107, complete
 
      CDS             2..2395
                      /locus_tag="NGTW08_p0001"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TraI"
                      /protein_id="ADV09131.1"
 
      CDS             31659..32537
                      /locus_tag="NGTW08_p0035"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TrfA"
                      /protein_id="ADV09165.1"
 
@@ -1091,8 +1078,6 @@ DEFINITION  Neisseria gonorrhoeae strain 5289 plasmid pEP5289, complete
 
      CDS             26663..27046
                      /note="putative single standed DNA binding protein"
-                     /codon_start=1
-                     /transl_table=11
                      /product="Ssb"
 
      CDS             27050..27928
@@ -1888,8 +1873,6 @@ DEFINITION  Klebsiella pneumoniae strain WCHKP1511 plasmid pMCR_1511, complete
                      /gene="traI"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /note="pMCR_1511_00031"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TraI"
                      /protein_id="APB02205.1"
 
@@ -1899,8 +1882,6 @@ DEFINITION  Klebsiella pneumoniae strain WCHKP1511 plasmid pMCR_1511, complete
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA sequence:UniProtKB:P07676"
                      /note="pMCR_1511_00057"
-                     /codon_start=1
-                     /transl_table=11
                      /product="Plasmid replication initiator protein TrfA"
                      /protein_id="APB02231.1"
 
@@ -1928,15 +1909,11 @@ DEFINITION  Escherichia coli isolate FP671 plasmid pHNFP671, complete sequence.
      CDS             36412..37290
                      /gene="trfA"
                      /note="TrfA replication protein"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TrfA"
                      /protein_id="AJQ17269.1"
 
      CDS             complement(70414..71406)
                      /note="relaxase"
-                     /codon_start=1
-                     /transl_table=11
                      /product="Type IV secretory pathway VirD2 component"
                      /protein_id="AJQ17300.1"
 
@@ -2190,16 +2167,12 @@ DEFINITION  Azotobacter chroococcum NCIMB 8003 plasmid pAcX50c, complete
      CDS             724..1809
                      /gene="trfA"
                      /locus_tag="Achr_c20"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TrfA replication initiation protein"
                      /protein_id="AJE23484.1"
 
      CDS             13218..15617
                      /gene="traI"
                      /locus_tag="Achr_c170"
-                     /codon_start=1
-                     /transl_table=11
                      /product="Conjugal transfer relaxase TraI"
                      /protein_id="AJE23498.1"
 
@@ -2247,8 +2220,6 @@ DEFINITION  Uncultured bacterium plasmid pDS1, complete sequence.
 
      CDS             complement(961..1338)
                      /gene="ssb"
-                     /codon_start=1
-                     /transl_table=11
                      /product="Ssb single-strand DNA binding protein"
                      /protein_id="AGH89268.1"
 
@@ -2903,7 +2874,6 @@ https://academic.oup.com/femsle/article/266/2/250/565715
 ### pBP136
 IncP-1beta1
 
-https://www.ncbi.nlm.nih.gov/nuccore/NC_008459
 https://www.ncbi.nlm.nih.gov/nuccore/AB237782
 ```
 LOCUS       AB237782               41268 bp    DNA     circular BCT 14-JUL-2016
@@ -2912,8 +2882,6 @@ DEFINITION  Bordetella pertussis plasmid pBP136 DNA, complete sequence.
      CDS             complement(9526..10749)
                      /gene="trfA"
                      /function="DNA-binding protein for plasmid replication"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TrfA"
                      /protein_id="BAF33454.1"
 
