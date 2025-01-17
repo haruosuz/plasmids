@@ -240,6 +240,8 @@ pA81	IncP-1β	PCB contaminated soil in Czech Republic, Achromobacter xylosoxidan
 pADP-1	IncP-1β	Soil in the United States, Pseudomonas sp. ADP	NC_004956
 
 
+
+pAOVO02	IncP-1β	Polluted soil in the United States, Acidovorax sp. JS42	NC_008766
 pB1	IncP-1β	Municipal WWTP in Germany, exogenous	JX469829
 
 
@@ -483,6 +485,9 @@ Analysis of defence systems and a conjugative IncP-1 plasmid in the marine polya
 Michail M Yakimov 1, Francesca Crisafi 1, Enzo Messina 1, Francesco Smedile 1, Anna Lopatina 2, Renata Denaro 1, Dietmar H Pieper 3, Peter N Golyshin 4, Laura Giuliano 1
 https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.12424
 Get access to the full version of this article.
+
+https://www.researchgate.net/publication/301907217_Analysis_of_defence_systems_and_a_conjugative_IncP-1_plasmid_in_the_marine_polyaromatic_hydrocarbons-degrading_bacterium_Cycloclasticus_sp_78-ME_Genomic_defence_systems_in_Cycloclasticus
+
 https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_crossref_primary_10_1111_1758_2229_12424
 Wiley Online Library Open Access
 
@@ -2783,9 +2788,68 @@ These species are mainly found within Enterobacteriales (Gammaproteobacteria), B
 
 ### pKJK5
 IncP-1epsilon
+ε-I
 
-### Bahl_2007-07
+https://www.ncbi.nlm.nih.gov/nuccore/AM261282
+```
+LOCUS       AM261282               54383 bp    DNA     circular ENV 14-JUL-2016
+DEFINITION  Uncultured bacterium IncP-1 plasmid pKJK5 complete sequence.
 
+     CDS             complement(1315..2538)
+                     /gene="trfA"
+                     /locus_tag="pKJK5_1"
+                     /function="initiation of replication"
+                     /product="replication initiation protein"
+                     /protein_id="CAK02642.1"
+                     /db_xref="InterPro:IPR010751"
+                     /db_xref="UniProtKB/TrEMBL:Q0VUX3"
+
+
+     CDS             complement(29679..30329)
+                     /gene="tetR"
+                     /locus_tag="pKJK5_36"
+                     /function="transcriptional regulation of tetA"
+                     /product="tetracycline resistance repressor protein"
+
+     CDS             30435..31634
+                     /gene="tetA"
+                     /locus_tag="pKJK5_37"
+                     /function="confers tetracycline resistance"
+                     /product="tetracycline efflux protein"
+
+
+     CDS             complement(42140..44362)
+                     /gene="traI"
+                     /locus_tag="pKJK5_46"
+                     /function="DNA relaxase"
+                     /product="TraI protein"
+                     /protein_id="CAK02686.1"
+                     /db_xref="InterPro:IPR005094"
+                     /db_xref="UniProtKB/TrEMBL:Q0VUS9"
+
+
+     CDS             complement(50794..51096)
+                     /gene="korA"
+                     /locus_tag="pKJK5_56"
+                     /function="putative transcriptional repressor protein"
+                     /product="KorA protein"
+                     /protein_id="CAK02698.1"
+
+     CDS             3043..3417
+                     /gene="trbA"
+                     /locus_tag="pKJK5_3"
+                     /function="transcriptional regulation"
+                     /product="transcriptional regulator protein"
+                     /protein_id="CAK02644.1"
+                     /db_xref="GOA:Q0VUX1"
+                     /db_xref="InterPro:IPR001387"
+                     /db_xref="InterPro:IPR010982"
+                     /db_xref="UniProtKB/TrEMBL:Q0VUX1"
+
+
+```
+
+### 2007-07
 https://pubmed.ncbi.nlm.nih.gov/17306874/
 Plasmid
 . 2007 Jul;58(1):31-43. doi: 10.1016/j.plasmid.2006.11.007. Epub 2007 Feb 16.
@@ -2823,8 +2887,7 @@ One such mechanism could be to gradually adjust the GC-content of the plasmid to
 
 Fig. 4. Comparison between the mol% of GC in all backbone genes of plasmid R751 (black line) and pKJK5 (gray line). The percentage of GC-content increases from the centre (50% GC-content) towards the outer perimeter (75% GC-content) of the circular plot.
 
-### Bahl_2007-01
-
+### 2007-01
 https://pubmed.ncbi.nlm.nih.gov/17132149/
 FEMS Microbiol Lett
 . 2007 Jan;266(2):250-6. doi: 10.1111/j.1574-6968.2006.00536.x. Epub 2006 Nov 21.
@@ -2832,72 +2895,11 @@ Impact of conjugal transfer on the stability of IncP-1 plasmid pKJK5 in bacteria
 Martin Iain Bahl 1, Lars Hestbjerg Hansen, Søren J Sørensen
 https://academic.oup.com/femsle/article/266/2/250/565715
 
-https://www.ncbi.nlm.nih.gov/nuccore/AM261282
-```
-LOCUS       AM261282               54383 bp    DNA     circular ENV 14-JUL-2016
-DEFINITION  Uncultured bacterium IncP-1 plasmid pKJK5 complete sequence.
-
-
-     CDS             complement(1315..2538)
-                     /gene="trfA"
-                     /locus_tag="pKJK5_1"
-                     /function="initiation of replication"
-                     /product="replication initiation protein"
-                     /protein_id="CAK02642.1"
-                     /db_xref="InterPro:IPR010751"
-                     /db_xref="UniProtKB/TrEMBL:Q0VUX3"
-
-
-     CDS             complement(29679..30329)
-                     /gene="tetR"
-                     /locus_tag="pKJK5_36"
-                     /function="transcriptional regulation of tetA"
-                     /product="tetracycline resistance repressor protein"
-
-     CDS             30435..31634
-                     /gene="tetA"
-                     /locus_tag="pKJK5_37"
-                     /function="confers tetracycline resistance"
-                     /product="tetracycline efflux protein"
-
-
-
-     CDS             complement(42140..44362)
-                     /gene="traI"
-                     /locus_tag="pKJK5_46"
-                     /function="DNA relaxase"
-                     /product="TraI protein"
-                     /protein_id="CAK02686.1"
-                     /db_xref="InterPro:IPR005094"
-                     /db_xref="UniProtKB/TrEMBL:Q0VUS9"
-
-
-     CDS             complement(50794..51096)
-                     /gene="korA"
-                     /locus_tag="pKJK5_56"
-                     /function="putative transcriptional repressor protein"
-                     /product="KorA protein"
-                     /protein_id="CAK02698.1"
-
-     CDS             3043..3417
-                     /gene="trbA"
-                     /locus_tag="pKJK5_3"
-                     /function="transcriptional regulation"
-                     /product="transcriptional regulator protein"
-                     /protein_id="CAK02644.1"
-                     /db_xref="GOA:Q0VUX1"
-                     /db_xref="InterPro:IPR001387"
-                     /db_xref="InterPro:IPR010982"
-                     /db_xref="UniProtKB/TrEMBL:Q0VUX1"
-
-
-```
-
 ----------
 
 ## 2006
 
-### Kamachi_2006-12
+### 2006-12
 ### pBP136
 IncP-1beta1
 
@@ -3291,7 +3293,7 @@ DEFINITION  Azoarcus sp. EbN1 plasmid 2.
 
 ## 2004
 
-### Vedler_2004-11
+### 2004-11
 ### pEST4011
 IncP-1delta
 
@@ -3348,9 +3350,36 @@ The bootstrapped neighbor-joining trees derived from these alignments (obtained 
 FIG. 7.
 Bootstrapped neighbor-joining trees derived from multiple alignments of trfA2 (A), korA (B), and traG (C) gene products of different IncP1 plasmids, constructed with the CLUSTALX program. The GenBank accession numbers of the proteins are indicated in parentheses. The numbers at the nodes of the trees represent the bootstrap values (1,000 replicates) for each node.
 
-### Trefault_2004-07
+### 2004-11-01
+### pB3
+IncP-1beta1
+
+https://pubmed.ncbi.nlm.nih.gov/15528648/
+Microbiology (Reading)
+. 2004 Nov;150(Pt 11):3591-3599. doi: 10.1099/mic.0.27304-0.
+The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1beta group without any accessory genes
+H Heuer 1, R Szczepanowski 2, S Schneiker 2, A Pühler 2, E M Top 1, A Schlüter 2
+https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.27304-0#tab2
+
+https://www.ncbi.nlm.nih.gov/nuccore/AJ639924
+```
+LOCUS       AJ639924               56167 bp    DNA     circular ENV 26-JUL-2016
+DEFINITION  Uncultured bacterium plasmid pB3 complete genome.
+
+```
+
+### 2004-07
 ### pJP4
-IncP-1beta
+IncP-1beta1
+
+https://pubmed.ncbi.nlm.nih.gov/15186344/
+Environ Microbiol
+. 2004 Jul;6(7):655-68. doi: 10.1111/j.1462-2920.2004.00596.x.
+Genetic organization of the catabolic plasmid pJP4 from Ralstonia eutropha JMP134 (pJP4) reveals mechanisms of adaptation to chloroaromatic pollutants and evolution of specialized chloroaromatic degradation pathways
+N Trefault 1, R De la Iglesia, A M Molina, M Manzano, T Ledger, D Pérez-Pantoja, M A Sánchez, M Stuardo, B González
+https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1462-2920.2004.00596.x?sid=nlm%3Apubmed
+Get access to the full version of this article.
+View access options below.
 
 https://www.ncbi.nlm.nih.gov/nuccore/NZ_AY365053
 ```
@@ -3416,15 +3445,6 @@ DEFINITION  Ralstonia eutropha JMP134 plasmid pJP4, complete sequence.
                      /note="relaxation region oriT"
 
 ```
-
-https://pubmed.ncbi.nlm.nih.gov/15186344/
-Environ Microbiol
-. 2004 Jul;6(7):655-68. doi: 10.1111/j.1462-2920.2004.00596.x.
-Genetic organization of the catabolic plasmid pJP4 from Ralstonia eutropha JMP134 (pJP4) reveals mechanisms of adaptation to chloroaromatic pollutants and evolution of specialized chloroaromatic degradation pathways
-N Trefault 1, R De la Iglesia, A M Molina, M Manzano, T Ledger, D Pérez-Pantoja, M A Sánchez, M Stuardo, B González
-https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1462-2920.2004.00596.x?sid=nlm%3Apubmed
-Get access to the full version of this article.
-View access options below.
 
 
 ## 2003
@@ -3939,6 +3959,18 @@ IncP/P-1 plasmids obtained in this study
 Clade II contained the newly identified plasmids pMNCG080-1 (IncP/P-1μ) and pMNCG082-1 (IncP/P-1ρ), as well as pDS1 (IncP/P-1η) (4), and other plasmids in unidentified subgroups (Fig. 2).
 
 Data availability. The accession numbers deposited in DDBJ of the plasmid sequences (70 plasmids) were LC623882 to LC623932 and LC663721 to LC663740. The 16S rRNA genes of the transconjugants (transconjugants of PromA plasmids) were LC655384 to LC655683.
+
+
+
+ι(iota), κ(kappa), ο(omicron), λ(lambda), and μ(mu)
+
+IncP/P-1ι
+
+pYKBR041/LC623925
+
+pYKBL037/LC623919
+
+pYKCG107/LC623928
 
 
 pMNCG080-1	IncP/P-1ρ
