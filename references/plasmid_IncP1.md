@@ -3129,7 +3129,8 @@ duplicated_loci klcA
 ## 2011
 
 ### 2011-08-20
-
+### pSP21
+### pB11
 ### pB5
 IncP-1alpha
 
@@ -3139,15 +3140,33 @@ J Biotechnol
 Sequencing and comparative analysis of IncP-1α antibiotic resistance plasmids reveal a highly conserved backbone and differences within accessory regions
 Rafael Szczepanowski 1, Felix Eikmeyer, Jannis Harfmann, Jochen Blom, Linda M Rogers, Eva M Top, Andreas Schlüter
 https://www.sciencedirect.com/science/article/abs/pii/S0168165610020511?via%3Dihub
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_888098324
 
 The three IncP-1α plasmids pB5, pB11 and pSP21 were isolated from bacteria of two different sewage treatment plants and sequenced by a combination of next-generation and capillary sequencing technologies. A comparative analysis including the previously analysed IncP-1α plasmids RK2, pTB11 and pBS228 revealed a highly conserved plasmid backbone (at least 99.9% DNA sequence identity) comprising 54 core genes. The accessory elements of the plasmid pB5 constitute a class 1 integron interrupting the parC gene and an IS6100 copy inserted into the integron. In addition, the tetracycline resistance genes tetAR and the ISTB11-like element are located between the klc operon and the trfA–ssb operon. 
 
+
+2.5. Sequence accession numbers
+The annotated nucleotide sequences of the plasmids pB5, pB11 and pSP21 were submitted to the EMBL database (pB5 – GenBank accession no. CP002151; pB11 – GenBank accession no. CP002152; pSP21 – GenBank accession no. CP002153).
+
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP002153
+```
+LOCUS       CP002153               72683 bp    DNA     circular ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium plasmid PSP21, complete sequence.
+
+                     /isolation_source="activated sludge"
+```
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP002152
+```
+LOCUS       CP002152               66911 bp    DNA     circular ENV 25-JUL-2016
+DEFINITION  Uncultured bacterium plasmid PB11, complete sequence.
+```
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP002151
 ```
 LOCUS       CP002151               64696 bp    DNA     circular ENV 25-JUL-2016
 DEFINITION  Uncultured bacterium plasmid PB5, complete sequence.
-
 
 
      CDS             complement(1..1149)
