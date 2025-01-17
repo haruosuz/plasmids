@@ -199,7 +199,7 @@ DEFINITION  Shigella flexneri strain SWHIN_107 plasmid unnamed4, complete
 
 ----------
 
-### Sen_2013-01
+### 2013-01_MBE_Sen
 
 https://pubmed.ncbi.nlm.nih.gov/22936717/
 Mol Biol Evol
@@ -1273,7 +1273,7 @@ DEFINITION  Pseudomonas fragi strain NMC25 plasmid unnamed1, complete sequence.
 ```
 
 ----------
-### Andersen_2013-12-05
+### 2013-12-05
 ### pJJ1886_4
 
 https://pubmed.ncbi.nlm.nih.gov/24309736/
@@ -2472,7 +2472,7 @@ DEFINITION  Uncultured bacterium pMCBF6 plasmid pMCBF6, complete sequence.
 
 ## 2010
 
-### Sen_2010-03
+### 2010-03_Plasmid_Sen
 ### pAKD4
 IncP-1delta
 
@@ -3055,10 +3055,10 @@ DEFINITION  Uncultured bacterium IncP-1gamma plasmid QKH54 complete genome.
 
 ```
 
-### Harada_2006-07
 ### pA1
 IncP-1beta2
 
+2006-07
 https://pubmed.ncbi.nlm.nih.gov/16445980/
 Plasmid
 . 2006 Jul;56(1):11-23. doi: 10.1016/j.plasmid.2005.12.002. Epub 2006 Jan 30.
@@ -3430,7 +3430,7 @@ View access options below.
 
 
 ## 2003
-### Schluter_2003-11
+
 ### pB10
 IncP-1beta1
 
@@ -3440,6 +3440,7 @@ LOCUS       AJ564903               64508 bp    DNA     circular ENV 25-JUL-2016
 DEFINITION  Uncultured bacterium IncP-1beta multiresistance plasmid pB10.
 ```
 
+2005-09
 https://pubmed.ncbi.nlm.nih.gov/16151119/
 Appl Environ Microbiol
 . 2005 Sep;71(9):5309-17. doi: 10.1128/AEM.71.9.5309-5317.2005.
@@ -3448,6 +3449,7 @@ Leen De Gelder 1, Frederik P J Vandecasteele, Celeste J Brown, Larry J Forney, E
 https://journals.asm.org/doi/10.1128/AEM.71.9.5309-5317.2005
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1214629/
 
+2003-11
 https://pubmed.ncbi.nlm.nih.gov/14600226/
 Microbiology (Reading)
 . 2003 Nov;149(Pt 11):3139-3153. doi: 10.1099/mic.0.26570-0.
@@ -4015,7 +4017,6 @@ LOCUS       LC623892               53339 bp    DNA     circular ENV 25-MAY-2022
 DEFINITION  Uncultured bacterium plasmid pMNBM077 DNA, complete sequence.
 ```
 
-
 ### 2020-11-27
 https://pubmed.ncbi.nlm.nih.gov/33329469/
 Front Microbiol
@@ -4038,10 +4039,10 @@ Discussion
 
 pTL50 assigned to the IncP-1ε subgroup could represent the first archetype of the IncP-1ε group only carrying core genes (Figure 3C). 
 
-
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7728920/#DS1
 Click here for additional data file. (1.8MB, pdf)
 https://pmc.ncbi.nlm.nih.gov/articles/instance/7728920/bin/Data_Sheet_1.pdf
+Table S3. Accession no. of IncP-1 plasmids.
 
 ε-II
 https://www.ncbi.nlm.nih.gov/nuccore/MH392238
@@ -4173,33 +4174,31 @@ Hirokazu Yano - これまでの研究 (in Japanese)
 
 上記の進化実験では、複製開始タンパク質に集中的に変異が入りましたが、類似の変異がデータベースに登録されている他のプラスミドにも見つかることに研究の過程で気づきました。そこで、得られた変異体プラ スミドの表現型を様々な角度から解析することで、 プラスミドに見られる複製開始タンパク質遺伝子の5’-endの長さの多様性（in/del) が、genetic driftではなくトレード・オフの関係にある形質（この場合は水平伝播 と垂直伝播）に対するnatural selectionの結果として説明できるというアイデアを提案しました（Yano et al., J. Bacteriol. 2012)。TrfAのN末の多型のような長さ多型は他のタンパク質（遺伝子座）にも見かけられま す。他のタンパク質に関しても、N末の長さ多型にには何か重要な意味があるのではないでしょうか。
 
-
-### Yano_2013-11
+### 2013-11
 https://pubmed.ncbi.nlm.nih.gov/24002747/
 Microbiology (Reading)
 . 2013 Nov;159(Pt 11):2303-2315. doi: 10.1099/mic.0.068387-0. Epub 2013 Sep 3.
 Host range diversification within the IncP-1 plasmid group
 Hirokazu Yano 1 2, Linda M Rogers 1 2, Molly G Knox 1, Holger Heuer 3, Kornelia Smalla 3, Celeste J Brown 1 2, Eva M Top 1 2
 https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.068387-0#tab2
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836486/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3836486/
 Of the two IncP-1γ plasmids, both were unable to replicate in alphaproteobacterial host Sphingobium japonicum, and one established itself in Agrobacterium tumefaciens but was very unstable.
 
 Introduction
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836486/#sec1-1title
 
 Since Yakobson & Guiney (1983) proposed to separate plasmids RP4 and R751 as different subgroups (α, β) based on the sequence similarity in the transfer origin (Yakobson & Guiney, 1983), six IncP-1 subgroups (α, β, γ, δ, ϵ and ξ, see Fig. 1a) have been proposed based on the results of phylogenetic analysis for plasmid backbone genes (Jobanputra & Datta, 1974; Haines et al., 2006; Sen et al., 2010, 2013; Bahl et al., 2007; Norberg et al., 2011). To date, more than 55 IncP-1 plasmid sequences have been deposited in the NCBI database. 
 
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3836486/figure/f1/
 Fig. 1.
 Diversity of IncP-1 plasmids. (a) Phylogenetic tree 
 (b) Similarities of replication initiation proteins and relaxases (TraI) between representative plasmids of each IncP-1 subgroup (
 Amino-acid sequence identities were determined using blastp, and are represented in the heat map.
 
 Methods
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836486/#sec1-2title
+
+Fig. 3.
+Replication host range of pBP136, pMBUI1 and pKS208. 
 
 Results
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836486/#sec1-3title
 
 General features of the pKS208 and pMBUI1 genomes
 Plasmids pKS208 and pMBUI1 consist of 50 604 and 44 303 bp, respectively. 
