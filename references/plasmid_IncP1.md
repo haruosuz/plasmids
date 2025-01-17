@@ -3984,13 +3984,31 @@ Data availability. The accession numbers deposited in DDBJ of the plasmid sequen
 ι(iota), κ(kappa), ο(omicron), λ(lambda), and μ(mu)
 
 IncP/P-1ι
-
+```
 pYKBR041/LC623925
-
 pYKBL037/LC623919
-
 pYKCG107/LC623928
+```
 
+pYKBG036	IncP/P-1ο
+https://www.ncbi.nlm.nih.gov/nuccore/LC623917
+```
+LOCUS       LC623917               43728 bp    DNA     circular ENV 25-MAY-2022
+DEFINITION  Uncultured bacterium plasmid pYKBG036 DNA, complete sequence.
+
+                     /isolation_source="soil"
+                     /geo_loc_name="Japan:Osaka"
+```
+
+pYKAM101	IncP/P-1λ
+https://www.ncbi.nlm.nih.gov/nuccore/LC623911
+```
+LOCUS       LC623911               69067 bp    DNA     circular ENV 25-MAY-2022
+DEFINITION  Uncultured bacterium plasmid pYKAM101 DNA, complete sequence.
+
+                     /isolation_source="soil"
+                     /geo_loc_name="Japan:Shizuoka"
+```
 
 pMNCG080-1	IncP/P-1ρ
 https://www.ncbi.nlm.nih.gov/nuccore/LC623894
@@ -4059,7 +4077,7 @@ DEFINITION  Uncultured bacterium plasmid pMNCI062 DNA, complete sequence.
 ```
 pMNCI062 did not carry traCD genes.
 
-pMNBM077	IncP/P-1κ
+pMNBM077	IncP/P-1κ(kappa)
 https://ncbi.nlm.nih.gov/nuccore/LC623892
 ```
 LOCUS       LC623892               53339 bp    DNA     circular ENV 25-MAY-2022
