@@ -2003,8 +2003,8 @@ DEFINITION  Enterobacter aerogenes strain HS112625 plasmid pHS112625, partial
 
 ## 2021
 
-### Wegrzyn_2021
-
+### 2021-04-06_Wegrzyn
+https://colil.dbcls.jp/browse/papers/33660784/1/100/year
 https://pubmed.ncbi.nlm.nih.gov/33660784/
 Nucleic Acids Res
 . 2021 Apr 6;49(6):3394-3408. doi: 10.1093/nar/gkab113.
@@ -2061,6 +2061,23 @@ PF14629	ORC4_C	Origin recognition complex (ORC) subunit 4 C-terminus
 PF14630	ORC5_C	Origin recognition complex (ORC) subunit 5 C-terminus
 
 PF18137	ORC_WH_C	Origin recognition complex winged helix C-terminal
+
+https://colil.dbcls.jp/browse/papers/33660784/1/100/year
+Defining a novel domain that provides an essential contribution to site-specific interaction of Rep protein with DNA.
+Wegrzyn K, Zabrocka E, Bury K, Tomiczek B, Wieczor M, Czub J, Uciechowska U, Moreno-Del Alamo M, Walkow U, Grochowina I, Dutkiewicz R, Bujnicki JM, Giraldo R, Konieczny I Nucleic Acids Res. 2021 Apr 6;49(6):3394-3408. PMID:33660784
+    is cited by the following papers.
+
+https://pubmed.ncbi.nlm.nih.gov/34643717/
+Nucleic Acids Res
+. 2021 Nov 8;49(19):11119-11133. doi: 10.1093/nar/gkab903.
+The coordinated replication of Vibrio cholerae's two chromosomes required the acquisition of a unique domain by the RctB initiator
+Florian Fournes 1 2, Theophile Niault 1 2 3, Jakub Czarnecki 1 2 4, Alvise Tissier-Visconti 1 2, Didier Mazel 1 2, Marie-Eve Val 1 2
+https://academic.oup.com/nar/article/49/19/11119/6395345?login=false
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8565311/
+
+Additional N-ter domains (such as the domain I of RctB) have been found in TrfA-like plasmid initiators (DBD) (43). The role of domain I in RctB is still elusive. Additional C-terminal domains (such as the domain IV of RctB) have not found in iteron-like plasmid initiators. RctB domain IV is crucial for coordinating Chr1 and Chr2 replication. Representation adapted from (43).
+
+Recently, a unique third domain was identified in TrfA, the Rep initiator of the broad host range RK2 iteron-plasmids. The third domain of TrfA is essential for replication and has led to the definition of a new class of TrfA-like initiators containing three DNA-interacting domains, WH1, WH2 and DBD (43).
 
 ----------
 
@@ -4283,7 +4300,7 @@ DEFINITION  Uncultured bacterium plasmid pMBUI1, complete sequence.
 
 ```
 
-### Yano_2012
+### 2012-03_Yano
 
 https://pubmed.ncbi.nlm.nih.gov/22228734/
 J Bacteriol
@@ -4291,7 +4308,7 @@ J Bacteriol
 Roles of long and short replication initiation proteins in the fate of IncP-1 plasmids
 Hirokazu Yano 1, Gail E Deckert, Linda M Rogers, Eva M Top
 https://jb.asm.org/content/194/6/1533.long
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294859/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3294859/
 
 Fig 1
 (A) Schematic representation of the diversity in TrfA structure. M98 and M124 indicate the start methionines of TrfA-33 in RK2 and TrfA2 in pBP136, respectively. QLSLF indicates the conserved amino acid sequence motif responsible for interaction with DNA polymerase III (33). DBD1 and DBD2 indicate DNA-binding (winged-helix) domains deduced from secondary structure comparisons (22, 49). (B) The trfA gene locus of pBP136 and its mini-pBP136 derivative pMS0506. A+T and G+C indicate the A/T- and G/C-rich regions, respectively. Triangles and pentagons indicate iterons (TrfA-binding motif) and DnaA-boxes (DnaA-binding motif), respectively. Flags indicate promoters. 
