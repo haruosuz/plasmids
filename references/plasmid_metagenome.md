@@ -12,7 +12,6 @@
 ----------
 ## unclassified
 
-
 ----------
 
 ### Orlek_2017_Review
@@ -204,16 +203,15 @@ https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.14813
 
 ## 2019
 
-### Stalder_EvaTop_2019
 ## 2019-10
 https://pubmed.ncbi.nlm.nih.gov/31147603/
 ISME J
 . 2019 Oct;13(10):2437-2446. doi: 10.1038/s41396-019-0446-4. Epub 2019 May 30.
 Linking the resistome and plasmidome to the microbiome
 Thibault Stalder 1 2, Maximilian O Press 3, Shawn Sullivan 3, Ivan Liachko 3, Eva M Top 4 5
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6776055/
+https://academic.oup.com/ismej/article/13/10/2437/7475059?login=false
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6776055/
 Here we demonstrate that the in vivo proximity-ligation method Hi-C can reconstruct a known plasmid-host association from a wastewater community, and identify the in situ host range of ARGs, plasmids, and integrons by physically linking them to their host chromosomes. Hi-C detected both previously known and novel associations between ARGs, mobile genetic elements and host genomes, thus validating this method. 
-
 
 
 https://pubmed.ncbi.nlm.nih.gov/31187446/
