@@ -209,87 +209,9 @@ Diya Sen 1, Celeste J Brown, Eva M Top, Jack Sullivan
 https://academic.oup.com/mbe/article/30/1/154/1020766
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3525142/
 
-Introduction
-
-Fig. 1.
-Genetic map of a typical IncP-1 plasmid showing the different functional modules:
-
-Phylogenies inferred from single or concatenated backbone genes have shown the IncP-1 group to be composed of five diverse subgroups: IncP-1α, -β, -γ, -δ, and -ε (Pansegrau et al. 1994; Thorsted et al. 1998; Vedler et al. 2004; Haines et al. 2006; Bahl et al. 2007). Recently, three new potential IncP-1 subgroups have been identified: ζ (Norberg et al. 2011), η (Sen D, Yano H, Bauer M, Rogers LM, Van der Auwera GA, Brown C, and Top E, unpublished), and an unnamed subgroup (Pachulec and van der Does 2010), thus indicating the tremendous diversity that exists within this plasmid group. The biological significance of these subgroups is unknown, and more work is required to distinguish between them phenotypically.
-
-
-The first evidence of recombination between IncP-1 plasmids was clearly shown in the IncP-1β plasmid, pB10 (Schlüter et al. 2003). We recently showed another instance of recombination in the IncP-1δ plasmid pIJB1, which has two sets of the replication and transfer genes trfA–trbE, one of which was acquired from an IncP-1β plasmid and the other was native to its subgroup (Sen et al. 2010). Recently, more IncP-1 plasmids (namely, pB3, pBP136, and pAOVO02) were identified as recombinants through the analysis of concatenated alignments of backbone genes (Norberg et al. 2011). 
-
-Materials and Methods
-
-Plasmids and Genes
-Complete sequences of IncP-1 plasmids were extracted from GenBank or determined by us, a total of 65. Only backbone genes that were common to all plasmids were used for phylogeny estimation (dark-gray open reading frames [ORFs] in fig. 1). For those plasmids that showed identical sets of backbone gene sequences, only one representative plasmid was retained. In addition, plasmids such as pEST4011 that were missing a large section of backbone sequence shared by all other plasmids were not included nor was plasmid pIJB1 because of its duplicated trfA and trb genes of IncP-1δ and IncP-1β descent (Sen et al. 2010). The plasmids from the recently proposed ζ, η, and an unnamed subgroups (see Introduction) were not included because their sequences only became publically available in the middle of this study and because of their wide sequence divergence and lack of evidence that they are physically incompatible with the prototype IncP-1 plasmids.
-
-Table 1.
-General Features of the Plasmids Included in This Study Listed by Subgroup.
-```
-Plasmids	IncP-1 Subgroup	Origin/Isolation Method/Hosta	Accession Numberb
-
-pB5	IncP-1α	Municipal WWTP in Germany, exogenous	CP002151
-pBS228	IncP-1α	Wastewater of antibiotic factory in Russia, host unknown	NC_008357
-
-pTB11	IncP-1α	WWTP in Germany, exogenous	NC_006352
-
-RK2	IncP-1α	Hospital in the United Kingdom, Pseudomonas aeruginosa and Klebsiella aerogenes	NC_001621
-pA1	IncP-1β	Soil in Japan, Sphingomonas sp. A1	NC_007353
-pA81	IncP-1β	PCB contaminated soil in Czech Republic, Achromobacter xylosoxidans A8	AJ515144
-pADP-1	IncP-1β	Soil in the United States, Pseudomonas sp. ADP	NC_004956
-
-
-
-pAOVO02	IncP-1β	Polluted soil in the United States, Acidovorax sp. JS42	NC_008766
-pB1	IncP-1β	Municipal WWTP in Germany, exogenous	JX469829
-
-
-pB3	IncP-1β	Municipal WWTP in Germany, exogenous	NC_006388
-pB4	IncP-1β	Municipal WWTP in Germany, exogenous	AJ431260
-pB8	IncP-1β	Municipal WWTP in Germany, exogenous	NC_007502
-pB10	IncP-1β	Municipal WWTP in Germany, exogenous	NC_004840
-pB12	IncP-1β	Municipal WWTP in Germany, exogenous	JX469826
-pBP136	IncP-1β	Diseased whooping cough patient in Japan, Bordetella pertussis BP136
-
-
-pDS3	IncP-1β	Creek in the United States, exogenous	JX469834
-
-pNB1	IncP-1β	Orchard soil in Belgium Delftia acidovorans LME1	JF274988
-pRSB222	IncP-1β	Municipal WWTP in Germany, exogenous	JX469824	JX469825
-pRSB223	IncP-1β	Municipal WWTP in Germany, exogenous	JX469828
-
-
-pEMT3	IncP-1ε	Agricultural soil in the United States, exogenous	JX469827
-```
-
-Sequencing and Annotation
-The following 15 plasmids were sequenced as part of this study (references refer to the studies that first isolated and described the plasmids): pB1 and pB12 (Dröge et al. 2000), pEMT3 (Top et al. 1995), pG527 (Götz et al. 1996), pC11 and pNB1, (Boon et al. 2001), pKV29 (Stolze et al. 2012), pTB30 (Dejonghe et al. 2002), pKS208 and pKS212 (Heuer et al. 2002), pRSB222, pRSB223 (Schlüter and Sczcepanowski, unpublished), pWEC911 (Smalla and Hill, unpublished), pYS1 (Sota, unpublished), and pDS3 and pMBUI1 (Sen, Yano, Bauer, Rogers, Brown, and Top, unpublished). 
-
-
-Nucleotide Sequence Alignments and Model Selection
-The amino acid sequences of each gene were aligned with ClustalX (Thompson et al. 2002). Tranalign (Rice et al. 2000) was used to align the nucleotide sequences of each gene guided by the aligned amino acid sequences. 
-
-Detection of Recombinants
-To detect recombination among the plasmids in the data set, alignment files of the backbone genes were concatenated in the order and orientation in which they appear on IncP-1 plasmids (fig. 1). The recombination detection programs RDP, GENECONV, BootScan, MaxChi, and Chimaera, which are implemented in RDP3 (Martin et al. 2010), were run with default parameters. Only recombinants that were identified by at least two programs were considered.
-
 Results
 
-Plasmids and Genes
-To infer the evolutionary history of plasmids from the incompatibility group IncP-1, a set of 65 completely sequenced IncP-1 plasmid genomes was retrieved from Genbank and our own plasmid sequence collection. They were selected based on previously published assignment to one of the five major IncP-1 plasmid subgroups (α-ε) or our own comparative sequence analysis. A total of 28 backbone genes were found to be common to all plasmids and therefore included in this study (fig. 1, dark gray ORFs). After removing duplicates (plasmids with identical sets of backbone gene sequences), and including our 15 newly sequenced plasmids, a final set of 46 plasmids was obtained (table 1). For example, the backbone gene sequences of pJP4 were identical to those of pB10 and therefore not included. Visual inspection suggested that all alignments were of good quality. Because the 5′-ends of genes trfA1 and kfrC did not appear to be homologous between different subgroups, they were excluded from the analysis.
-
-Fig. 2.
-Cladograms showing four topologies produced by 21 gene trees. (A) Topology 1: supported by 46% of gene trees, namely, those of trfA2, trbA, trbC, trbG, traG, traH, traI, kfrA, kfrB, kfrC, korB, korA, and kleE. (B) Topology 2: supported by gene trees of trbD, trbK, and traJ. (C) Topology 3: supported by gene trees of trbF, trbI, and traE. (D) Topology 4: supported by gene trees of korC and klcA. Trees were rooted using IncP-1γ as outgroup.
-
-For the concatenated tree (shown in fig. 3), individual genes were aligned and concatenated in the order in which they appear on IncP-1 plasmids: trfA2, trbA, trbB, trbC, trbD, trbF, trbG, trbI, trbJ, trbK, traD, traE, traF, traG, traH, traI, traJ, traK, traL, kfrC, kfrB, kfrA, korB, incC, korA, kleE, korC, and klcA (fig. 1). The concatenated tree had the same topology as topology 3 described (fig. 2C). It represents the null hypothesis that all genes have a single history (i.e., all gene trees are estimates of a single-gene tree) as would be the case in the absence of recombination, either within or among groups.
-
-Fig. 3.
-ML tree of concatenated data estimated from a partitioned analysis based on codon position. Nodal support is shown as nonparametric ML bootstrap values. The tree was rooted using IncP-1γ as outgroup.
-
-Discussion
-
-It is important to note that these plasmids or the corresponding recombinant genes were not excluded from species-tree estimation because they all occurred within a subgroup (treated here as species) and were not expected to interfere with the analysis. Recombinants can be grouped into 1) recombination events within the IncP-1β2 subgroup (pB4, pNB1, pA1, pB1, pRSB222, pRSB223, and pYS1) and 2) recombination events between IncP-1β1 and IncP-1β2 plasmids (pAOVO02, pAKD18, pDS3, and pB10). Recombination in plasmid pAOVO02 and between pB10 and a pB4-like plasmid had been suggested earlier (Schlüter et al. 2003; Heuer et al. 2004; Norberg et al. 2011). Interestingly, there were fewer observations of recombination between members of the different subgroups. Except for recombination between the IncP-1α and IncP-1δ plasmid, few other instances were observed: those in the trbB gene and another between members of the IncP-1β1 subgroup and the IncP-1ε plasmid pEMT3 (data not shown). 
-
+Because the 5′-ends of genes trfA1 and kfrC did not appear to be homologous between different subgroups, they were excluded from the analysis.
 
 IncP-1β pB1
 https://www.ncbi.nlm.nih.gov/nuccore/JX469829
@@ -814,7 +736,7 @@ DEFINITION  Yersinia pseudotuberculosis IP 31758 plasmid p_59kb, complete
 
 ## Neisseria gonorrhoeae
 
-### Baines_2020-12
+### 2020-12_Baines
 ### pAUSMDU00010541_01
 
 https://pubmed.ncbi.nlm.nih.gov/33180013/
@@ -830,9 +752,8 @@ Neisseria gonorrhoeae	AUSMDU00010541_02 (p01)	41 998 bp
 plasmid
 https://www.ncbi.nlm.nih.gov/nuccore/CP045833
 ```
+Neisseria gonorrhoeae strain AUSMDU00010541 plasmid pAUSMDU00010541_01, complete sequence
 LOCUS       CP045833               41998 bp    DNA     circular BCT 12-NOV-2019
-DEFINITION  Neisseria gonorrhoeae strain AUSMDU00010541 plasmid
-            pAUSMDU00010541_01, complete sequence.
 
                      /host="Homo sapiens"
                      /country="Australia"
@@ -897,16 +818,14 @@ LOCUS       AP018378               39058 bp    DNA     circular BCT 13-DEC-2018
 DEFINITION  Neisseria gonorrhoeae plasmid pConjugative FC428 DNA, complete
 ```
 
-### Miyake_2020-09-24
+### 2020-09-24_Miyake
 ### pConjugative
-### PRJDB8572
 https://www.ncbi.nlm.nih.gov/bioproject/PRJDB8572
 https://www.ncbi.nlm.nih.gov/assembly/GCA_008065015.2
 https://www.ncbi.nlm.nih.gov/nuccore/AP019854
 ```
+Neisseria gonorrhoeae SS3160 plasmid pConjugative DNA, complete genome
 LOCUS       AP019854               39057 bp    DNA     circular BCT 18-NOV-2020
-DEFINITION  Neisseria gonorrhoeae SS3160 plasmid pConjugative DNA, complete
-            genome.
 
                      /isolation_source="human urine"
                      /host="Homo sapines"
@@ -914,7 +833,6 @@ DEFINITION  Neisseria gonorrhoeae SS3160 plasmid pConjugative DNA, complete
                      /plasmid="pConjugative"
                      /country="Japan:Tokyo"
                      /collection_date="2017"
-
 
 ```
 
@@ -929,7 +847,7 @@ It carries two plasmids, pConjugative (39,057 bp) and pCryptic (4,207 bp).
 
 Three circular contigs, corresponding to the chromosome (2,214,955 bp) and two plasmids, identified as pConjugative (39,057 bp) and pCryptic (4,207 bp), were obtained by Unicycler without additional analysis, including overlap trimming.
 
-### Cherdtrakulkiat_2020-05-07
+### 2020-05-07_Cherdtrakulkiat
 ### p1
 
 https://pubmed.ncbi.nlm.nih.gov/32381609/
@@ -944,8 +862,8 @@ This study emphasizes the usefulness of combining ONT and Illumina sequencing da
 plasmid p1
 https://www.ncbi.nlm.nih.gov/nuccore/CP043872
 ```
+Neisseria gonorrhoeae strain NG196 plasmid p1, complete sequence
 LOCUS       CP043872               41355 bp    DNA     circular BCT 11-MAY-2020
-DEFINITION  Neisseria gonorrhoeae strain NG196 plasmid p1, complete sequence.
 
                      /isolation_source="Urethral discharge"
                      /host="Homo sapiens"
@@ -964,7 +882,7 @@ LOCUS       CP043871             2218879 bp    DNA     circular BCT 11-MAY-2020
 DEFINITION  Neisseria gonorrhoeae strain NG196 chromosome, complete genome.
 ```
 
-### Chen_2011-04
+### 2011-04_Chen
 ### pNGTCDC08107
 
 https://pubmed.ncbi.nlm.nih.gov/21257765/
@@ -978,8 +896,8 @@ We also isolated a 39,054-bp circular plasmid, pNGTCDC08107, whose sequence was 
 
 https://www.ncbi.nlm.nih.gov/nuccore/CP002441
 ```
+Neisseria gonorrhoeae TCDC-NG08107 plasmid pNGTCDC08107, complete sequence
 LOCUS       CP002441               39054 bp    DNA     circular BCT 25-JUL-2016
-DEFINITION  Neisseria gonorrhoeae TCDC-NG08107 plasmid pNGTCDC08107, complete
 
                      /isolation_source="17 year-old male"
                      /host="Homo sapiens"
@@ -998,7 +916,7 @@ DEFINITION  Neisseria gonorrhoeae TCDC-NG08107 plasmid pNGTCDC08107, complete
 
 ```
 
-### Pachulec_2010-04-01
+### 2010-04-01
 ### pEP5289
 
 https://pubmed.ncbi.nlm.nih.gov/20376355/
@@ -2913,8 +2831,8 @@ https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.29056-0
 
 ### pQKH54
 IncP-1gamma
-### Haines_2006-09
 
+2006-09_Haines
 https://pubmed.ncbi.nlm.nih.gov/16946264/
 Microbiology (Reading)
 . 2006 Sep;152(Pt 9):2689-2701. doi: 10.1099/mic.0.28941-0.
@@ -2926,29 +2844,19 @@ RESULTS
 
 Plasmid host range
 
-Host range was tested using P. putida PaW340 as donor against the various representative species listed in Table 1T1 as recipients: Escherichia coli, Alcaligenes eutrophus, Agrobacterium tumefaciens and Cytophaga heparina. Transfer to the C. heparina strain could not be detected for any of the plasmids tested (Table 3T3). However, the RP4 derivative plasmid pQM899 and the IncP-1β plasmids showed a broad host range, being transferred and maintained in all subgroups of the Proteobacteria. Epilithic plasmids pQKH6 and pQM719 showed a pattern of transfer similar to that of the IncP-1β plasmids pJP4 and pSS50, with higher transfer frequencies to A. tumefaciens. The transfer frequency of pQKH54 was somewhat lower to this alphaproteobacterial species but high transfer frequencies, as shown by pQKH6 and pQM719, were detected to the gamma- and betaproteobacteria subgroups. The remaining plasmid tested, pQKH33, only showed a higher transfer frequency to P. putida, with transfer to the other strains at or below the limit of detection.
-
-
 DNA sequencing and the IncP-1 backbone of pQKH54
 
-The G+C content of the backbone is generally lower than for the other subgroups. If the trb region is excluded beyond the end of trbL (as the majority of these genes are unique to pQKH54), then the mean G+C content of the backbone is 56.5 mol%, while it is 63.1 mol% for RK2 (Pansegrau et al., 1994), 66.6 mol% for R751 (Thorsted et al., 1998) and 62.0 mol% for pEST4011 (Vedler et al., 2004). Thus it appears that pQKH54 has spent a considerable proportion of its recent evolutionary history in species with a lower G+C content than the other branches of the IncP-1 family. 
-バックボーンのG+C含量は他のサブグループと比較して一般に低い。trbL末端からtrb領域を除いた場合（これらの遺伝子の大部分はpQKH54に固有のものであるため）、バックボーンの平均G+C含量は56.5 mol%であるが、RK2 (Pansegrau et al., 1994) では 63.1 mol%、R751 (Thorsted et al., 1998) では 66.6 mol%、pEST4011 (Vedler et al., 2004) では 62.0 mol% であった。したがって、pQKH54は最近の進化の歴史のかなりの部分を、IncP-1ファミリーの他の枝よりも低いG+C含量の種で過ごしてきたようである。
-
+The G+C content of the backbone is generally lower than for the other subgroups.
 
 DISCUSSION
 
 While pQKH54 clearly belongs to the IncP-1 family it is distinct from IncP-1β plasmids and appears to be somewhat less broad host range than pQKH6 and pQM719. This would also be consistent with the lower G+C content of the genome since it suggests adaptation to a different group of hosts. 
-pQKH54は明らかにIncP-1ファミリーに属するが、IncP-1βプラスミドとは異なり、pQKH6やpQM719よりも宿主範囲がやや狭いようである。このことは、ゲノムのG+C含量が低いこととも一致し、異なる宿主群に適応していることを示唆していると思われる。
 
 Fig. 2.
-Sequence logos of iterons for representatives of the four known IncP-1 subgroups. In a DNA sequence logo (Schneider & Stephens, 1990; Crooks et al., 2004), the height of each base represents its conservation, with the information content of each position measured in bits. There are some minor variations between the groups, which may to some extent be due to neutral mutations. However, the consensus for pQKH54 shows a very clear difference of the last two bases. This suggests that this replicon is the most distant member of the IncP-1 group yet found, confirming the phylogenetic tree (Fig. 3F3), and possibly explaining the only partial incompatibility phenotype against RP4.
-
-![](https://www.microbiologyresearch.org/docserver/ahah/fulltext/micro/152/9/2689fig2_thmb.gif)
+Sequence logos of iterons for representatives of the four known IncP-1 subgroups.
 
 Fig. 3.
-Phylogenetic tree for IncP-1 plasmids currently available in public databases, using several proteins. Primary sequences of KorA, IncC2, KorB, KorC and KfrC (Upf54.4) were joined together and then aligned for IncP-1 plasmids plus a plasmid of the IncU group, which carries versions of these genes (Rhodes et al., 2004). The alignment was then used to build the phylogeny. The plasmids pB10 and pJP4 are not included since they appear to be chimeric products of recombination between pB4-like and R751 subgroup plasmids.
-
-![](https://www.microbiologyresearch.org/docserver/ahah/fulltext/micro/152/9/2689fig3_thmb.gif)
+Phylogenetic tree for IncP-1 plasmids currently available in public databases, using several proteins.
 
 Table 2.
 
@@ -2956,7 +2864,6 @@ Plasmid	Size (kb)	Known characteristics	Known host range*
 pQKH54	80	Hgr Tra+	ABG
 
 *16S rRNA classification subgroups of Proteobacteria to which plasmids can transfer. BHR, broad host range, can be transferred to a wide range of Gram-negative bacteria (A=α, B=β, and G=γ 16S rRNA subgroups of the Proteobacteria listed in Table 1 T1 ). nd, Not determined.
-
 
 Table 3.
 Summary of characteristics of plasmids studied in this work
@@ -2969,8 +2876,8 @@ pQKH54	bde	ABCDE	−	+/+	−/−	−	100/10−5/10−2**	aBG
 
 https://www.ncbi.nlm.nih.gov/nuccore/AM157767
 ```
+Uncultured bacterium IncP-1gamma plasmid QKH54 complete genome
 LOCUS       AM157767               69966 bp    DNA     circular ENV 26-JUL-2016
-DEFINITION  Uncultured bacterium IncP-1gamma plasmid QKH54 complete genome.
 
      protein_bind    8892..8906
                      /note="iteron"
@@ -2982,59 +2889,14 @@ DEFINITION  Uncultured bacterium IncP-1gamma plasmid QKH54 complete genome.
      CDS             complement(23120..24241)
                      /gene="trfA1"
                      /operon="ssb-trfA"
-                     /codon_start=1
-                     /transl_table=11
                      /product="trans-acting replication factor A"
                      /protein_id="CAJ43307.1"
                      /db_xref="InterPro:IPR010751"
                      /db_xref="UniProtKB/TrEMBL:Q1H9T9"
 
-     CDS             complement(24282..24641)
-                     /gene="ssb"
-                     /operon="ssb-trfA"
-
-
-
-     CDS             complement(4959..5261)
-                     /gene="korA"
-                     /operon="korAB-incC1/2"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="KorA repressor protein"
-                     /protein_id="CAJ43288.1"
-                     /db_xref="UniProtKB/TrEMBL:Q1H9Z5"
-                     /translation="MKKRLTEAEFQAALSGLDVGHQTVEIARGVLVQGRAQAEFAEAL
-                     NLSKGAVSQAVNRVWAAHEAQVPPGCERLTVLLPKHQAFIVKKWASEFARKREAKA"
-     regulatory      complement(5335..5340)
-                     /regulatory_class="minus_10_signal"
-                     /operon="korAB-incC1/2"
-     protein_bind    5336..5347
-                     /standard_name="OA1"
-                     /bound_moiety="KorA"
-
-
-     CDS             24803..25120
-                     /gene="trbA"
-                     /operon="trbA"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="TrbA repressor protein"
-                     /protein_id="CAJ43309.1"
-                     /db_xref="GOA:Q1H9V4"
-                     /db_xref="InterPro:IPR001387"
-                     /db_xref="InterPro:IPR010982"
-                     /db_xref="UniProtKB/TrEMBL:Q1H9V4"
-                     /translation="MTKSELAAKADMSVSFLSDLTTGKANPSLKIMESIGTALETPLP
-                     MLLESSDLDREALDAIAGGKMPQSLPKGFVRICAVLPEAKAYVVRKWEEEAKKKMQEK
-                     GRP"
-
-
-
      CDS             complement(65323..67731)
                      /gene="traI"
                      /operon="traJXHI"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TraI DNA relaxase"
                      /protein_id="CAJ43356.1"
 
@@ -3043,7 +2905,7 @@ DEFINITION  Uncultured bacterium IncP-1gamma plasmid QKH54 complete genome.
 ### pA1
 IncP-1beta2
 
-2006-07
+2006-07_Harada
 https://pubmed.ncbi.nlm.nih.gov/16445980/
 Plasmid
 . 2006 Jul;56(1):11-23. doi: 10.1016/j.plasmid.2005.12.002. Epub 2006 Jan 30.
@@ -3609,10 +3471,10 @@ DEFINITION  Enterobacter aerogenes plasmid R751, complete sequence.
 
 ```
 
-## 1994
 ### RK2
 IncP-1alpha
-### Pansegrau_1994
+
+### 1999-08-03
 
 https://pubmed.ncbi.nlm.nih.gov/10430917/
 Comparative Study Proc Natl Acad Sci U S A
@@ -3622,6 +3484,8 @@ A Campbell 1, J Mrázek, S Karlin
 https://www.pnas.org/doi/10.1073/pnas.96.16.9184
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC17754/
 
+### 1994-06-24_Pansegrau
+
 https://pubmed.ncbi.nlm.nih.gov/8014987/
 Comparative Study J Mol Biol
 . 1994 Jun 24;239(5):623-63. doi: 10.1006/jmbi.1994.1404.
@@ -3630,6 +3494,17 @@ W Pansegrau 1, E Lanka, P T Barth, D H Figurski, D G Guiney, D Haas, D R Helinsk
 https://www.sciencedirect.com/science/article/abs/pii/S0022283684714045?via%3Dihub
 The IncP alpha promiscuous plasmid (R18, R68, RK2, RP1 and RP4) comprises 60,099 bp of nucleotide sequence, encoding at least 74 genes. 
 The most frequently used initiation codon is AUG but translation for a few open reading frames begins at GUG or UUG. The most common stop-codon is UGA followed by UAA and then UAG. 
+
+### 1984-04-25_Smith
+
+https://pubmed.ncbi.nlm.nih.gov/6328430/
+Nucleic Acids Res
+. 1984 Apr 25;12(8):3619-30. doi: 10.1093/nar/12.8.3619.
+The trfA and trfB promoter regions of broad host range plasmid RK2 share common potential regulatory sequences
+C A Smith, V Shingler, C M Thomas
+https://pmc.ncbi.nlm.nih.gov/articles/PMC318773/
+The positions of the trfA and trfB promoters of broad host range IncP plasmid RK2 (identical to RP1, RP4, R68 and R18 ) were identified by RNA polymerase protection studies, and the nucleotide sequences of the promoter regions determined. A mutation within the trfA promoter sequence is associated with loss of kilD activity. In addition a probable promoter region for the kilB locus was identified. The three promoter regions share common palindromic sequences which may serve as sites for the coordinate regulation of replication and kil functions.
+
 
 https://www.ncbi.nlm.nih.gov/nuccore/L27758
 ```
@@ -3772,6 +3647,35 @@ DEFINITION  TPA_exp: Birmingham IncP-alpha plasmid, complete sequence, isolate
 
 
 ```
+
+## 1974
+### R702
+IncP-1alpha
+
+https://www.ncbi.nlm.nih.gov/nuccore/OQ683451.1
+```
+LOCUS       OQ683451               76587 bp    DNA     circular BCT 19-APR-2023
+DEFINITION  Escherichia coli str. K-12 substr. MG1655 plasmid R702, complete
+            sequence.
+
+                     /isolation_source="Midiprepped lab culture"
+
+     CDS             complement(7444..8592)
+                     /gene="trfA"
+                     /inference="similar to AA sequence:UniProtKB:P07676"
+                     /product="Plasmid replication initiator protein TrfA"
+                     /protein_id="WGD04875.1"
+```
+
+https://pubmed.ncbi.nlm.nih.gov/4609125/
+Mol Gen Genet
+. 1974;132(1):31-40. doi: 10.1007/BF00268228.
+Transposition of ampicillin resistance from RP4 to other replicons
+R W Hedges, A E Jacob
+https://link.springer.com/article/10.1007/BF00268228
+
+
+
 
 
 ----------
