@@ -21,6 +21,7 @@ K TOMINAGA(tomiken) on Twitter: "ウイルス分野ツール多すぎる問題�
 https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.html
 Antibiotic resistance detection
 
+
 ----------
 ## review
 
@@ -29,33 +30,6 @@ Antibiotic resistance detection
 https://omictools.com/plasmid-detection-category
 Plasmid detection bioinformatics tools | Metagenomic sequencing analysis - omicX
 
-----------
-## Orlek
-
-## 2017-05
-https://pubmed.ncbi.nlm.nih.gov/28286183/
-Plasmid
-. 2017 May;91:42-52. doi: 10.1016/j.plasmid.2017.03.002. Epub 2017 Mar 9.
-Ordering the mob: Insights into replicon and MOB typing schemes from analysis of a curated dataset of publicly available plasmids
-Alex Orlek 1, Hang Phan 2, Anna E Sheppard 2, Michel Doumith 3, Matthew Ellington 4, Tim Peto 2, Derrick Crook 2, A Sarah Walker 2, Neil Woodford 4, Muna F Anjum 5, Nicole Stoesser 6
-https://www.sciencedirect.com/science/article/pii/S0147619X16301032?via%3Dihub
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5466382/
-
-Biopython scripts (Cock et al., 2009) were used to retrieve information and filter accessions, including filtering-out non-coding sequences, and eliminating incomplete plasmid sequences using a regular expression search of accession title descriptions (Supplementary methods S1). 
-
-1-s2.0-S0147619X16301032-mmc2.docx
-
-## 2017-04-23
-https://pubmed.ncbi.nlm.nih.gov/28516137/
-Data Brief
-. 2017 Apr 23;12:423-426. doi: 10.1016/j.dib.2017.04.024. eCollection 2017 Jun.
-A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI nucleotide database
-Alex Orlek 1 2, Hang Phan 1 2, Anna E Sheppard 1 2, Michel Doumith 3, Matthew Ellington 2 3, Tim Peto 1 2, Derrick Crook 1 2, A Sarah Walker 1 2, Neil Woodford 2 3, Muna F Anjum 2 4, Nicole Stoesser 1
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5426034/
-Data accessibility	Data is publicly available in the Figshare repository.
-https://figshare.com/s/18de8bdcbba47dbaba41
-
-A bioinformatic protocol and code for MOB typing using the protein dataset are provided on GitHub (https://github.com/AlexOrlek/MOBtyping).
 
 ----------
 ## PLSDB
@@ -86,8 +60,9 @@ Nucleic Acids Res
 . 2022 Jan 7;50(D1):D273-D278. doi: 10.1093/nar/gkab1111.
 PLSDB: advancing a comprehensive database of bacterial plasmids
 Georges P Schmartz 1, Anna Hartung 1, Pascal Hirsch 1 2, Fabian Kern 1, Tobias Fehlmann 1, Rolf Müller 2 3, Andreas Keller 1 2
-https://academic.oup.com/nar/article/50/D1/D273/6439675?login=false
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8728149/
+https://academic.oup.com/nar/article/50/D1/D273/6439675
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8728149/
+A new plasmid collection by Brooks et al., for example, tries to bundle NCBI plasmid information in a collection (19). Another recent database, mMGE (20) has the advantage of unifying phage and plasmid information in a single catalog. However, the database creation workflow is solely focused on the human microbiome. The COMPASS database (21), is of comparable scope to PLSDB and focuses extensively on replicon typing. Due to the scope, size, functionality, and quality of its content, PLSDB is widely used in the scientific community as a central resource for reference data on natural occurring plasmids. By focusing on this domain, the resource finds extensive usage in environmental studies (22). Further, antibiotic resistance analyses with a diverse scope profit frequently from the resistance annotations found in PLSDB (23,24).
 
 ## 2019-01-08
 https://pubmed.ncbi.nlm.nih.gov/30380090/
@@ -112,6 +87,51 @@ https://kazumaxneo.hatenablog.com/entry/2023/03/23/010432
 
 ----------
 ## updates
+
+----------
+## 2024
+
+## 2024-08
+## geNomad
+
+11:01 AM · Nov 1, 2023
+https://twitter.com/jgi/status/1719535041955402030
+Joint Genome Institute on X: "As mobile genetic elements like viruses spread their DNA, they can affect how microbes adapt to climate change. geNomad is a software that finds plasmids and viruses w/in microbial genomes — learn more: https://t.co/OW56AXL5RI @MicrobiomeData @kyrpides @apcamargo_ @simroux_virus https://t.co/WateZqbfb4" / X
+
+https://twitter.com/NatureBiotech/status/1704927640619000245
+https://twitter.com/jgi/status/1704877480728018964
+https://twitter.com/jgi/status/1704873642394272096
+https://twitter.com/MicrobiomeData/status/1704873416363294919
+
+https://pubmed.ncbi.nlm.nih.gov/37735266/
+Nat Biotechnol
+. 2024 Aug;42(8):1303-1312. doi: 10.1038/s41587-023-01953-y. Epub 2023 Sep 21.
+Identification of mobile genetic elements with geNomad
+Antonio Pedro Camargo 1, Simon Roux 2, Frederik Schulz 2, Michal Babinski 3, Yan Xu 3, Bin Hu 3, Patrick S G Chain 3, Stephen Nayfach 2, Nikos C Kyrpides 4
+https://www.nature.com/articles/s41587-023-01953-y
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11324519/
+
+## 2024-01-05
+https://pubmed.ncbi.nlm.nih.gov/37930866/
+Nucleic Acids Res
+. 2024 Jan 5;52(D1):D164-D173. doi: 10.1093/nar/gkad964.
+IMG/PR: a database of plasmids from genomes and metagenomes with rich annotations and metadata
+Antonio Pedro Camargo 1, Lee Call 1, Simon Roux 1, Stephen Nayfach 1, Marcel Huntemann 1, Krishnaveni Palaniappan 1, Anna Ratner 1, Ken Chu 1, Supratim Mukherjeep 1, T B K Reddy 1, I-Min A Chen 1, Natalia N Ivanova 1, Emiley A Eloe-Fadrosh 1, Tanja Woyke 1, David A Baltrus 2 3, Salvador Castañeda-Barba 4, Fernando de la Cruz 5, Barbara E Funnell 6, James P J Hall 7, Aindrila Mukhopadhyay 8 9, Eduardo P C Rocha 10, Thibault Stalder 4, Eva Top 4, Nikos C Kyrpides 1
+https://academic.oup.com/nar/article/52/D1/D164/7335748
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10767988/
+To tackle these issues, plasmid-specific databases such as pATLAS (11) PLSDB (12,13) and COMPASS (14) provide data such as replicon and MOB typing, antibiotic resistance genes and virulence genes. 
+
+To address this issue, we have developed IMG/PR, a comprehensive database of plasmid sequences derived from the Integrated Microbial Genomes & Microbiomes (IMG/M) system (27). IMG/PR amasses the most extensive collection of publicly available plasmids, systematically identified across several thousand genomes, metagenomes and metatranscriptomes using the geNomad tool (28). 
+
+
+https://genome.jgi.doe.gov/portal/IMG_PR/IMG_PR.home.html
+
+The sequences and metadata associated with IMG/PR plasmids are organized in the following files available for download:
+
+IMGPR_plasmid_data.tsv: Metadata related to plasmids in IMG/PR.
+IMGPR_nucl.fna.gz: Nucleotide sequences of plasmids in IMG/PR.
+IMGPR_prot.faa.gz: Sequences of proteins encoded by plasmids in IMG/PR.
+
 
 ----------
 ## 2023
@@ -144,6 +164,21 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10159655/
 ----------
 ## 2022
 
+
+
+----------
+
+## 2022-09-22
+https://pubmed.ncbi.nlm.nih.gov/36036594/
+Appl Environ Microbiol
+. 2022 Sep 22;88(18):e0099122. doi: 10.1128/aem.00991-22. Epub 2022 Aug 29.
+mobileOG-db: a Manually Curated Database of Protein Families Mediating the Life Cycle of Bacterial Mobile Genetic Elements
+Connor L Brown 1, James Mullet 2, Fadi Hindi 2, James E Stoll 3, Suraj Gupta 1, Minyoung Choi 2, Ishi Keenum 2, Peter Vikesland 2, Amy Pruden 2, Liqing Zhang 4
+https://journals.asm.org/doi/full/10.1128/aem.00991-22
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9499024/
+Furthermore, there is no centralized resource for MGE hallmark genes that could serve as the basis for annotating diverse classes of MGEs. Instead, decentralized databases exist for phages, including pVOG (17) and the GutPhage Database (GPD) (18); insertion sequences, ISfinder (19); integrative genomic elements (IGEs), ICEberg (11), immedb (20); or plasmids, COMPASS (21), NCBI Plasmid RefSeq (22). While ACLAME (23) combines multiple element types, there has not been a substantial update to this database since 2010 (23, 24).
+
+
 ## PlasmidHostFinder
 https://cge.cbs.dtu.dk/services/PlasmidHostFinder/
 
@@ -165,6 +200,26 @@ PlasmidHostFinder: Prediction of Plasmid Hosts Using Random Forest
 Derya Aytan-Aktug 1, Philip T L C Clausen 1, Judit Szarvas 1, Patrick Munk 1, Saria Otani 1, Marcus Nguyen 2 3, James J Davis 2 3 4, Ole Lund 1, Frank M Aarestrup 1
 https://journals.asm.org/doi/10.1128/msystems.01180-21
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9040769/
+
+
+----------
+## Deeplasmid
+
+https://github.com/wandreopoulos/deeplasmid
+August 22, 2024
+
+2022-02-22
+https://pubmed.ncbi.nlm.nih.gov/34871418/
+Nucleic Acids Res
+. 2022 Feb 22;50(3):e17. doi: 10.1093/nar/gkab1115.
+Deeplasmid: deep learning accurately separates plasmids from bacterial chromosomes
+William B Andreopoulos 1 2, Alexander M Geller 3, Miriam Lucke 3, Jan Balewski 4, Alicia Clum 1, Natalia N Ivanova 1, Asaf Levy 3
+https://academic.oup.com/nar/article/50/3/e17/6454267?login=false
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8860608/
+
+Existing tools have limitations due to their reliance on the circularity of the topology, bias towards certain taxonomies used in training (e.g. PlasmidFinder, PLACNET, Kraken) and coverage of a de Bruijn assembly graph constructed from k-mers found in reads (e.g. Recycler and plasmidSPAdes). The software packages cBAR (16), PlasFlow (17), mlplasmids (22), Platon (23) and PlasmidVerify (24) satisfy the above criteria, since they utilize only two types of data: assembled sequences themselves (PlasFlow) and features extracted from assembled sequences (cBar, mlplasmids, Platon, PlasmidVerify). 
+
+
 
 ----------
 ## 2021
@@ -237,6 +292,32 @@ https://kazumaxneo.hatenablog.com/entry/2020/02/24/073000
 ## 2020
 ----------
 
+----------
+## 2020-11
+
+情報理論の情報エントロピーを用いて、4,424個のプラスミドゲノムにおける同義コドン使用のランダム性を評価
+
+https://pubmed.ncbi.nlm.nih.gov/33074084/
+Microb Genom
+. 2020 Nov;6(11):mgen000459. doi: 10.1099/mgen.0.000459. Epub 2020 Oct 19.
+Identification of the conjugative and mobilizable plasmid fragments in the plasmidome using sequence signatures
+Zhencheng Fang 1 2, Hongwei Zhou 1 3
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000459#tab2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7725325/
+
+Additionally, many computational tools for sequence classification and assembly that identify plasmid sequences from chromosome-derived sequences in metagenomic data have been developed, such as cBar [5], PlasFlow [6], PPR-Meta [7], PlasClass [8], Recycler [9] and metaplasmidSPAdes [10].
+
+Randomness of synonymous codon usage
+Because of genome amelioration, plasmids adjust their sequence signatures based on their host [15]. Codon usage is one of the most important features of sequence signatures. Since transmissible plasmids may exist in a wide range of hosts, their codon usage may exhibit mixed patterns in different hosts. Therefore, we surmise that the usage of synonymous codons of each amino acid on transmissible plasmids is more random than on non-transmissible plasmids.
+
+It has been shown that bacteria of different species contain different sequence signatures [19], and during co-evolution, plasmids adjust their sequence signatures based on their hosts [15]. The similarity of sequence signatures between foreign DNA, such as plasmids and phages, and bacterial chromosomal DNA has also been widely used to predict the hosts of foreign DNA [15, 20, 21]. 
+
+15.Suzuki H, Yano H, Brown CJ, Top EM. Predicting plasmid promiscuity based on genomic signature. J Bacteriol. 2010;192:6045–6055. doi: 10.1128/JB.00277-10. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+21.Galiez C, Siebert M, Enault F, Vincent J, Söding J, et al. Wish: who is the host? predicting prokaryotic hosts from metagenomic phage contigs. Bioinformatics. 2017;33:3113–3114. doi: 10.1093/bioinformatics/btx383. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+
+----------
 ### PlasmidFinder
 https://cge.cbs.dtu.dk/services/PlasmidFinder/
 PlasmidFinder 2.1
@@ -374,7 +455,7 @@ Front Microbiol
 Analysis of COMPASS, a New Comprehensive Plasmid Database Revealed Prevalence of Multireplicon and Extensive Diversity of IncF Plasmids
 Pierre-Emmanuel Douarre 1, Ludovic Mallet 1, Nicolas Radomski 1, Arnaud Felten 1, Michel-Yves Mistou 2
 https://www.frontiersin.org/articles/10.3389/fmicb.2020.00483/full
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7105883/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7105883/
 
 https://www.ncbi.nlm.nih.gov/pubmed/31584171
 Methods Mol Biol. 2020;2075:295-308. doi: 10.1007/978-1-4939-9877-7_21.
@@ -505,9 +586,23 @@ https://www.sciencedirect.com/science/article/pii/S2001037018301685
 3.1. Plasmid Sequence Data
 3.2. Bioinformatics Tools
 
+
+----------
+## mlplasmids
+
+2018-11
+https://pubmed.ncbi.nlm.nih.gov/30383524/
+Microb Genom
+. 2018 Nov;4(11):e000224. doi: 10.1099/mgen.0.000224. Epub 2018 Nov 1.
+mlplasmids: a user-friendly tool to predict plasmid- and chromosome-derived sequences for single species
+Sergio Arredondo-Alonso 1, Malbert R C Rogers 1, Johanna C Braat 1, Tess D Verschuuren 2, Janetta Top 1, Jukka Corander 3 4 5, Rob J L Willems 1, Anita C Schürch 1
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000224#tab2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6321875/
+
+----------
 ## 2017
 
-
+----------
 ## 2017-12-20
 
 2017年12月20日
@@ -534,6 +629,58 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695206/
 - four programs (PlasmidSPAdes, Recycler, cBar and PlasmidFinder) 
 - Table 1.
 Overview of the programs to predict plasmids from short-read sequencing data
+
+----------
+## 2017-10_WIsH
+
+https://colil.dbcls.jp/browse/papers/28957499/1/100/year
+WIsH: who is the host? Predicting prokaryotic hosts from metagenomic phage contigs.
+Galiez C, Siebert M, Enault F, Vincent J, Soding J Bioinformatics. 2017 Oct 1;33(19):3113-3114. PMID:28957499
+    is cited by the following papers.
+
+← 前へ  合計: 112, 
+
+https://pubmed.ncbi.nlm.nih.gov/28957499/
+Bioinformatics
+. 2017 Oct 1;33(19):3113-3114. doi: 10.1093/bioinformatics/btx383.
+WIsH: who is the host? Predicting prokaryotic hosts from metagenomic phage contigs
+Clovis Galiez 1, Matthias Siebert 1, François Enault 2, Jonathan Vincent 2, Johannes Söding 1
+https://academic.oup.com/bioinformatics/article/33/19/3113/3964377?login=false
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5870724/
+2 Materials and methods
+The estimated k-mer frequencies classically used for host prediction using genomic composition become very noisy for short phage contigs. We therefore adopted a suited probabilistic approach. First, we train a homogeneous Markov model of order 8 (Supplementary Fig. S2) for each potential host genome (
+
+----------
+## Orlek
+
+## 2017-05
+https://pubmed.ncbi.nlm.nih.gov/28286183/
+Plasmid
+. 2017 May;91:42-52. doi: 10.1016/j.plasmid.2017.03.002. Epub 2017 Mar 9.
+Ordering the mob: Insights into replicon and MOB typing schemes from analysis of a curated dataset of publicly available plasmids
+Alex Orlek 1, Hang Phan 2, Anna E Sheppard 2, Michel Doumith 3, Matthew Ellington 4, Tim Peto 2, Derrick Crook 2, A Sarah Walker 2, Neil Woodford 4, Muna F Anjum 5, Nicole Stoesser 6
+https://www.sciencedirect.com/science/article/pii/S0147619X16301032?via%3Dihub
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5466382/
+
+Biopython scripts (Cock et al., 2009) were used to retrieve information and filter accessions, including filtering-out non-coding sequences, and eliminating incomplete plasmid sequences using a regular expression search of accession title descriptions (Supplementary methods S1). 
+
+1-s2.0-S0147619X16301032-mmc2.docx
+
+## 2017-04-23
+https://pubmed.ncbi.nlm.nih.gov/28516137/
+Data Brief
+. 2017 Apr 23;12:423-426. doi: 10.1016/j.dib.2017.04.024. eCollection 2017 Jun.
+A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI nucleotide database
+Alex Orlek 1 2, Hang Phan 1 2, Anna E Sheppard 1 2, Michel Doumith 3, Matthew Ellington 2 3, Tim Peto 1 2, Derrick Crook 1 2, A Sarah Walker 1 2, Neil Woodford 2 3, Muna F Anjum 2 4, Nicole Stoesser 1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5426034/
+Data accessibility	Data is publicly available in the Figshare repository.
+https://figshare.com/s/18de8bdcbba47dbaba41
+
+A bioinformatic protocol and code for MOB typing using the protein dataset are provided on GitHub (https://github.com/AlexOrlek/MOBtyping).
+
+
+
+
 
 
 ## 2017-03-28
@@ -841,17 +988,47 @@ https://twitter.com/andrewjpage/status/908946651548717056
 Andrew Page on Twitter: "Check out our latest paper PlasmidTron, it's like GWAS but focused on assembling MGEs https://t.co/B2T3d0ZU0k"
 2:52 AM - 16 Sep 2017
 
+----------
 ### PlasFlow
+
+https://colil.dbcls.jp/browse/papers/29346586/1/100/year
+PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures.
+Krawczyk PS, Lipinski L, Dziembowski A Nucleic Acids Res. 2018 Apr 6;46(6):e35. PMID:29346586
+    is cited by the following papers.
+合計: 102,
+
+Deeplasmid: deep learning accurately separates plasmids from bacterial chromosomes.
+Andreopoulos WB, Geller AM, Lucke M, Balewski J, Clum A, Ivanova NN, Levy A     Nucleic Acids Res. 2022 Feb 22;50(3):e17.
+
+PathoFact: a pipeline for the prediction of virulence factors and antimicrobial resistance genes in metagenomic data.
+de Nies L, Lopes S, Busi SB, Galata V, Heintz-Buschart A, Laczny CC, May P, Wilmes P     Microbiome. 2021 Feb 17;9(1):49.
+
+PlasGUN: gene prediction in plasmid metagenomic short reads using deep learning.
+Fang Z, Tan J, Wu S, Li M, Wang C, Liu Y, Zhu H     Bioinformatics. 2020 May 1;36(10):3239-3241.
+
+PlasClass improves plasmid sequence classification.
+Pellow D, Mizrahi I, Shamir R     PLoS Comput Biol. 2020 Apr;16(4):e1007781.
+
+PPR-Meta: a tool for identifying phages and plasmids from metagenomic fragments using deep learning.
+Fang Z, Tan J, Wu S, Li M, Xu C, Xie Z, Zhu H     Gigascience. 2019 Jun 1;8(6):.
+
 https://github.com/smaegol/PlasFlow
+NOT MAINTAINED
+Use at your own risk. I am very grateful that it is being widely used but, as I completely changed my research area I cannot give my time to maintain this project. There are other, newer packages developed, which can be used instead.
+メンテナンスされていません
+ご利用は自己責任でお願いします。広く使われていることに感謝していますが、研究分野を完全に変更したため、このプロジェクトを維持する時間が取れません。代わりに使用できる、より新しいパッケージが他にも開発されています。
 
 https://www.ncbi.nlm.nih.gov/pubmed/29346586
 Nucleic Acids Res. 2018 Jan 13. doi: 10.1093/nar/gkx1321. [Epub ahead of print]
 PlasFlow: predicting plasmid sequences in metagenomic data using genome signatures.
 Krawczyk PS1,2, Lipinski L1, Dziembowski A1,2.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5887522/
 
 https://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.html
 Species and plasmids
 Prediction of plasmid sequences and classes using PlasFlow
+
+----------
 
 ### Recycler
 https://github.com/Shamir-Lab/Recycler
@@ -862,7 +1039,6 @@ Recycler: an algorithm for detecting plasmids from de novo assembly graphs.
 Rozov R1, Brown Kav A2, Bogumil D2, Shterzer N2, Halperin E1,3,4, Mizrahi I2, Shamir R1.
 
 - [Rozov R et al. (2017) Bioinformatics. 33(4):475-482. "Recycler: an algorithm for detecting plasmids from de novo assembly graphs."](https://www.ncbi.nlm.nih.gov/pubmed/28003256)
-
 
 
 
