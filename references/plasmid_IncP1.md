@@ -77,6 +77,195 @@
   - [plasmidfinder](#plasmidfinder)
 
 ----------
+
+# pME8
+https://pubmed.ncbi.nlm.nih.gov/25387599/
+J Appl Microbiol
+. 2015 Feb;118(2):399-411. doi: 10.1111/jam.12691. Epub 2014 Dec 11.
+Conjugative multiple-antibiotic resistance plasmids in Escherichia coli isolated from environmental waters contaminated by human faecal wastes
+E Laroche-Ajzenberg 1, A Flores Ribeiro, J Bodilis, W Riah, S Buquet, N Chaftar, B Pawlak
+
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_1787979083
+
+The pME8 plasmid carried an IncP replicon. The IncP group is known to gather efficient conjugative plasmids presenting a broad host range (Schlüter et al. 77).
+
+# R702
+
+IncP-1alpha
+
+https://www.ncbi.nlm.nih.gov/nuccore/OQ683451.1
+LOCUS       OQ683451               76587 bp    DNA     circular BCT 19-APR-2023
+DEFINITION  Escherichia coli str. K-12 substr. MG1655 plasmid R702, complete
+            sequence.
+
+                     /isolation_source="Midiprepped lab culture"
+
+     CDS             complement(7444..8592)
+                     /gene="trfA"
+                     /inference="similar to AA sequence:UniProtKB:P07676"
+                     /product="Plasmid replication initiator protein TrfA"
+                     /protein_id="WGD04875.1"
+
+https://www.uniprot.org/uniprotkb/P07676/entry
+trfA - Plasmid replication initiator protein TrfA - Escherichia coli | UniProtKB | UniProt
+
+https://pubmed.ncbi.nlm.nih.gov/4609125/
+Mol Gen Genet
+. 1974;132(1):31-40. doi: 10.1007/BF00268228.
+Transposition of ampicillin resistance from RP4 to other replicons
+R W Hedges, A E Jacob
+https://link.springer.com/article/10.1007/BF00268228
+
+
+# pMNCN061
+https://pubmed.ncbi.nlm.nih.gov/36069618/
+Appl Environ Microbiol
+. 2022 Sep 22;88(18):e0111422. doi: 10.1128/aem.01114-22. Epub 2022 Sep 7.
+Hitherto-Unnoticed Self-Transmissible Plasmids Widely Distributed among Different Environments in Japan
+Masaya Hayakawa # 1, Maho Tokuda # 2, Kensei Kaneko # 1, Koichiro Nakamichi # 1, Yukie Yamamoto # 1, Tatsuya Kamijo # 1, Honoka Umeki # 1, Reimi Chiba 1, Ryo Yamada 1, Mitsuya Mori 1, Kosuke Yanagiya 1, Ryota Moriuchi 3, Masahiro Yuki 4, Hideo Dohra 3 5, Hiroyuki Futamata 1 2 6, Moriya Ohkuma 4, Kazuhide Kimbara 1 2, Masaki Shintani 1 2 4 6
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9499019/
+
+https://pubmed.ncbi.nlm.nih.gov/40152918/
+Microb Genom
+. 2025 Mar;11(3):001381. doi: 10.1099/mgen.0.001381.
+Birmingham-group IncP-1 α plasmids revisited: RP4, RP1 and RK2 are identical and their remnants can be detected in environmental isolates
+Vuong Van Hung Le 1 2 3, Zhuang Gong 3, Lorrie Maccario 3, Emma Bousquet 3, Boris Parra 4 5, Arnaud Dechesne 6, Søren J Sørensen 3, Joseph Nesme 3
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11952213/
+
+
+2024-06-05_pUZ8002
+
+# pUZ8002
+https://pubmed.ncbi.nlm.nih.gov/39045241/
+Access Microbiol
+. 2024 Jun 5;6(6):000808.v3. doi: 10.1099/acmi.0.000808.v3. eCollection 2024.
+Sequence and origin of the Streptomyces intergenetic-conjugation helper plasmid pUZ8002
+Daniel E Larcombe 1, Robyn E Braes 1, James T Croxford 1, James W Wilson 2, David H Figurski 3, Paul A Hoskisson 1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11261713/
+In Streptomyces molecular genetics, the helper plasmid is generally pUZ8002, which is widely reported to be derived from the well-characterised broad-host-range RK2 plasmid [18]. RK2 is a IncP-type extra-chromosomal plasmid first identified during an outbreak of Pseudomonas aeruginosa and Klebsiella aerogenes from the Burns unit of the Birmingham Accident Hospital, UK, in 1969 [19]. RK2 carries genes for tetracycline and kanamycin resistance, genes for self-replication such as trfA, and genes necessary for conjugation, including the tra and trb locus. RK2 also has its own oriT, which allows self-conjugation and origin of replication for autonomous replication [20,22]. There are many plasmids in the IncP group and pUZ8 is another example, originally isolated from a Spanish strain of P. aeruginosa [23]. Unlike RK2, pUZ8 has not been fully sequenced, but is known to be similar to RK2, with both plasmids carrying tetracycline and kanamycin resistance genes [24].
+
+
+
+
+----------
+
+https://www.ncbi.nlm.nih.gov/protein/WP_011114072
+```
+LOCUS       WP_011114072             406 aa            linear   BCT 27-APR-2020
+DEFINITION  MULTISPECIES: replication initiator protein A [Bacteria].
+
+                     /product="replication initiator protein A"
+                     /function="initiation of replication"
+
+                     /region_name="TrfA"
+                     /note="TrfA protein; pfam07042"
+
+```
+
+
+
+
+----------
+### pADP-1
+
+https://www.ncbi.nlm.nih.gov/nuccore/U66917
+```
+LOCUS       U66917                108845 bp    DNA     circular BCT 06-APR-2020
+DEFINITION  Pseudomonas sp. ADP atrazine catabolic plasmid pADP-1, complete
+
+  ORGANISM  Pseudomonas sp. ADP
+            Bacteria; Pseudomonadota; Gammaproteobacteria; Pseudomonadales;
+            Pseudomonadaceae; Pseudomonas.
+REFERENCE   1  (bases 34964 to 36388)
+  AUTHORS   de Souza,M.L., Wackett,L.P., Boundy-Mills,K.L., Mandelbaum,R.T. and
+            Sadowsky,M.J.
+  TITLE     Cloning, characterization, and expression of a gene region from
+            Pseudomonas sp. strain ADP involved in the dechlorination of
+            atrazine
+  JOURNAL   Appl. Environ. Microbiol. 61 (9), 3373-3378 (1995)
+   PUBMED   7574646
+REFERENCE   2  (bases 43552 to 46212)
+  AUTHORS   Boundy-Mills,K.L., de Souza,M.L., Mandelbaum,R.T., Wackett,L.P. and
+            Sadowsky,M.J.
+  TITLE     The atzB gene of Pseudomonas sp. strain ADP encodes the second
+            enzyme of a novel atrazine degradation pathway
+  JOURNAL   Appl. Environ. Microbiol. 63 (3), 916-923 (1997)
+   PUBMED   9055410
+REFERENCE   3  (bases 69775 to 71867)
+  AUTHORS   Sadowsky,M.J., Tong,Z., de Souza,M. and Wackett,L.P.
+  TITLE     AtzC is a new member of the amidohydrolase protein superfamily and
+            is homologous to other atrazine-metabolizing enzymes
+  JOURNAL   J. Bacteriol. 180 (1), 152-158 (1998)
+   PUBMED   9422605
+
+
+     CDS             12543..14783
+                     /gene="traI"
+                     /note="DNA relaxase"
+                     /product="TraI protein"
+                     /protein_id="AAK50254.1"
+
+     CDS             89488..90399
+                     /gene="trfA"
+                     /product="TrfA protein"
+                     /protein_id="AAK50322.1"
+
+```
+
+----------
+### 2010-02-26
+### pTHI
+
+https://pubmed.ncbi.nlm.nih.gov/20195515/
+PLoS Genet
+. 2010 Feb 26;6(2):e1000859. doi: 10.1371/journal.pgen.1000859.
+Structure, function, and evolution of the Thiomonas spp. genome
+Florence Arsène-Ploetze 1, 
+https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000859
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2829063/
+
+The plasmid, pTHI, contains 68 predicted CDS. 21 genes were found in synteny with genes carried by the R. eutropha JMP134 plasmid pJP4, and among them, par/trf/pem genes necessary for plasmid partitioning, stability and replication (Figure S1B). These observations suggest that pTHI, as JMP134, belongs to the IncP-1β group [28]. pTHI contains 13 of the 14 genes involved in conjugation (vir and tra genes) and genes that could fulfill the function of the missing components were found on the chromosome. Therefore, Thiomonas sp. 3As may be able to express a complete Type IV secretory system (T4SS) of the Vir/Tra type required for pTHI conjugal transfer. IncP-1β members are known to carry multi-resistance determinants and degradative cassettes [28], and plasmid pTHI indeed carries a Tn3-related transposon. This transposon contains part of a mercury resistance operon found in many other Gram negative bacterial transposon such as Tn21, Tn501 and Tn5053 [29].
+
+The EMBL (http://www.ebi.ac.uk/embl) accession numbers for the genome of Thiomonas sp. 3As are FP475956 (chromosome) and FP475957 (plasmid).
+
+https://www.ncbi.nlm.nih.gov/nuccore/FP475957
+```
+LOCUS       FP475957               46756 bp    DNA     circular BCT 25-JUL-2016
+DEFINITION  Thiomonas sp. str. 3As plasmid pTHI, complete genome.
+
+  ORGANISM  Thiomonas arsenitoxydans
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Thiomonas.
+
+     CDS             2554..3459
+                     /locus_tag="THI_p0005"
+                     /function="8 : DNA metabolism"
+                     /inference="ab initio prediction:AMIGene:2.0"
+                     /note="Evidence 3 : Function proposed based on presence of
+                     conserved amino acid motif, structural feature or limited
+                     homology; Product type pf : putative factor"
+                     /product="putative TrfA protein"
+                     /protein_id="CAZ90403.1"
+
+
+     CDS             23390..24397
+                     /gene="virD2"
+                     /locus_tag="THI_p0040"
+                     /function="7 : Transport and binding proteins"
+                     /function="17 : Mobile and extrachromosomal element
+                     functions"
+                     /inference="ab initio prediction:AMIGene:2.0"
+                     /note="Evidence 2b : Function of strongly homologous gene;
+                     PubMedId : 3021341; Product type e : enzyme"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Type IV secretory pathway, VirD2 components
+                     (relaxase)"
+                     /protein_id="CAZ90436.1"
+
+```
+
+----------
 ## database
 
 ### plasmidfinder
@@ -2407,6 +2596,20 @@ Moreover, since both pEST4011 and pIJB1 are missing a portion of their transfer 
 3.2.1. The replication initiation protein TrfA
 An interesting feature of the IncP-1δ plasmids is the replication initiation gene trfA. In most IncP-1 plasmids known so far this gene has two in-frame translational start codons, and thus encodes a long TrfA1 and a shorter TrfA2 protein (also called TrfA-44 and TrfA-33 in IncP-1α plasmid RK2) [31]. Interestingly, since all three IncP-1δ plasmids are missing the 5′end of trfA, which encodes the start codon for and the N-terminal region (350 bp) of TrfA1, TrfA2 is the only replication initiation protein encoded by these plasmids. The 3′-end of the ssb gene, which is usually found upstream of trfA in most IncP-1 plasmids, is also missing in these plasmids. This gene codes for a single strand DNA-binding protein, which helps in DNA replication, recombination and repair. TrfA1 and Ssb proteins play a crucial role in plasmid replication in some bacterial hosts such as P. aeruginosa and may not be needed in some others such as P. putida and E. coli [32]. Therefore we postulate that IncP-1δ plasmids co-evolved with hosts that do not require TrfA1 and Ssb proteins and thereby contracted their host range. Further research is needed to test this hypothesis.
 
+
+32.Durland RH, Helinski DR. The sequence encoding the 43-kilodalton TrfA protein is required for efficient replication or maintenance of minimal RK2 replicons in Pseudomonas aeruginosa. Plasmid. 1987;18:164–169. doi: 10.1016/0147-619x(87)90044-8. [DOI] [PubMed] [Google Scholar]
+
+https://pubmed.ncbi.nlm.nih.gov/2829253/
+Plasmid
+. 1987 Sep;18(2):164-9. doi: 10.1016/0147-619x(87)90044-8.
+The sequence encoding the 43-kilodalton trfA protein is required for efficient replication or maintenance of minimal RK2 replicons in Pseudomonas aeruginosa
+R H Durland 1, D R Helinski
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_77943038
+Elsevier ScienceDirect Journals Complete
+https://www-sciencedirect-com.kras.lib.keio.ac.jp/science/article/pii/0147619X87900448
+
+
+
 3.2.4. Phylogenetic analysis of plasmid pAKD4
 To confirm that pAKD4 is an IncP-1δ plasmid, a maximum likelihood tree was inferred from concatenated sequences of 20 backbone proteins shared by all IncP-1 plasmids and pAKD4 (Fig. 3). Note that none of the trbF-P genes missing in pEST4011 were included in this list. Also, of the two sets of trbABCD genes on pIJB1, only the ones having 99% identity to pAKD4 and pEST4011 were used. This tree shows that the three IncP-1δ plasmids share a common ancestor and form a monophyletic group.
 
@@ -4719,112 +4922,6 @@ DEFINITION  Achromobacter xylosoxidans plasmid pA81, strain A8.
 ```
 
 ----------
-### pADP-1
-
-https://www.ncbi.nlm.nih.gov/nuccore/U66917
-```
-LOCUS       U66917                108845 bp    DNA     circular BCT 06-APR-2020
-DEFINITION  Pseudomonas sp. ADP atrazine catabolic plasmid pADP-1, complete
-
-  ORGANISM  Pseudomonas sp. ADP
-            Bacteria; Pseudomonadota; Gammaproteobacteria; Pseudomonadales;
-            Pseudomonadaceae; Pseudomonas.
-REFERENCE   1  (bases 34964 to 36388)
-  AUTHORS   de Souza,M.L., Wackett,L.P., Boundy-Mills,K.L., Mandelbaum,R.T. and
-            Sadowsky,M.J.
-  TITLE     Cloning, characterization, and expression of a gene region from
-            Pseudomonas sp. strain ADP involved in the dechlorination of
-            atrazine
-  JOURNAL   Appl. Environ. Microbiol. 61 (9), 3373-3378 (1995)
-   PUBMED   7574646
-REFERENCE   2  (bases 43552 to 46212)
-  AUTHORS   Boundy-Mills,K.L., de Souza,M.L., Mandelbaum,R.T., Wackett,L.P. and
-            Sadowsky,M.J.
-  TITLE     The atzB gene of Pseudomonas sp. strain ADP encodes the second
-            enzyme of a novel atrazine degradation pathway
-  JOURNAL   Appl. Environ. Microbiol. 63 (3), 916-923 (1997)
-   PUBMED   9055410
-REFERENCE   3  (bases 69775 to 71867)
-  AUTHORS   Sadowsky,M.J., Tong,Z., de Souza,M. and Wackett,L.P.
-  TITLE     AtzC is a new member of the amidohydrolase protein superfamily and
-            is homologous to other atrazine-metabolizing enzymes
-  JOURNAL   J. Bacteriol. 180 (1), 152-158 (1998)
-   PUBMED   9422605
-
-
-     CDS             12543..14783
-                     /gene="traI"
-                     /note="DNA relaxase"
-                     /product="TraI protein"
-                     /protein_id="AAK50254.1"
-
-     CDS             89488..90399
-                     /gene="trfA"
-                     /product="TrfA protein"
-                     /protein_id="AAK50322.1"
-
-```
-
-
-
-----------
-### Arsene-Ploetze_2010-02-26
-### pTHI
-
-https://pubmed.ncbi.nlm.nih.gov/20195515/
-PLoS Genet
-. 2010 Feb 26;6(2):e1000859. doi: 10.1371/journal.pgen.1000859.
-Structure, function, and evolution of the Thiomonas spp. genome
-Florence Arsène-Ploetze 1, Sandrine Koechler, Marie Marchal, Jean-Yves Coppée, Michael Chandler, Violaine Bonnefoy, Céline Brochier-Armanet, Mohamed Barakat, Valérie Barbe, Fabienne Battaglia-Brunet, Odile Bruneel, Christopher G Bryan, Jessica Cleiss-Arnold, Stéphane Cruveiller, Mathieu Erhardt, Audrey Heinrich-Salmeron, Florence Hommais, Catherine Joulian, Evelyne Krin, Aurélie Lieutaud, Didier Lièvremont, Caroline Michel, Daniel Muller, Philippe Ortet, Caroline Proux, Patricia Siguier, David Roche, Zoé Rouy, Grégory Salvignol, Djamila Slyemi, Emmanuel Talla, Stéphanie Weiss, Jean Weissenbach, Claudine Médigue, Philippe N Bertin
-https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000859
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2829063/
-
-The plasmid, pTHI, contains 68 predicted CDS. 21 genes were found in synteny with genes carried by the R. eutropha JMP134 plasmid pJP4, and among them, par/trf/pem genes necessary for plasmid partitioning, stability and replication (Figure S1B). These observations suggest that pTHI, as JMP134, belongs to the IncP-1β group [28]. pTHI contains 13 of the 14 genes involved in conjugation (vir and tra genes) and genes that could fulfill the function of the missing components were found on the chromosome. Therefore, Thiomonas sp. 3As may be able to express a complete Type IV secretory system (T4SS) of the Vir/Tra type required for pTHI conjugal transfer. IncP-1β members are known to carry multi-resistance determinants and degradative cassettes [28], and plasmid pTHI indeed carries a Tn3-related transposon. This transposon contains part of a mercury resistance operon found in many other Gram negative bacterial transposon such as Tn21, Tn501 and Tn5053 [29].
-
-The EMBL (http://www.ebi.ac.uk/embl) accession numbers for the genome of Thiomonas sp. 3As are FP475956 (chromosome) and FP475957 (plasmid).
-
-https://www.ncbi.nlm.nih.gov/nuccore/FP475957
-```
-LOCUS       FP475957               46756 bp    DNA     circular BCT 25-JUL-2016
-DEFINITION  Thiomonas sp. str. 3As plasmid pTHI, complete genome.
-
-  ORGANISM  Thiomonas arsenitoxydans
-            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
-            Thiomonas.
-
-
-     CDS             2554..3459
-                     /locus_tag="THI_p0005"
-                     /function="8 : DNA metabolism"
-                     /inference="ab initio prediction:AMIGene:2.0"
-                     /note="Evidence 3 : Function proposed based on presence of
-                     conserved amino acid motif, structural feature or limited
-                     homology; Product type pf : putative factor"
-                     /product="putative TrfA protein"
-                     /protein_id="CAZ90403.1"
-
-
-     CDS             23390..24397
-                     /gene="virD2"
-                     /locus_tag="THI_p0040"
-                     /function="7 : Transport and binding proteins"
-                     /function="17 : Mobile and extrachromosomal element
-                     functions"
-                     /inference="ab initio prediction:AMIGene:2.0"
-                     /note="Evidence 2b : Function of strongly homologous gene;
-                     PubMedId : 3021341; Product type e : enzyme"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="Type IV secretory pathway, VirD2 components
-                     (relaxase)"
-                     /protein_id="CAZ90436.1"
-
-
-```
-
-
-
-----------
 
 https://archaea.i2bc.paris-saclay.fr/wasps/
 
@@ -4840,30 +4937,7 @@ https://en.wikipedia.org/wiki/Plasmid-mediated_resistance
 ```
 
 
-https://www.ncbi.nlm.nih.gov/protein/WP_011114072
-```
-LOCUS       WP_011114072             406 aa            linear   BCT 27-APR-2020
-DEFINITION  MULTISPECIES: replication initiator protein A [Bacteria].
-
-                     /product="replication initiator protein A"
-                     /function="initiation of replication"
-
-                     /region_name="TrfA"
-                     /note="TrfA protein; pfam07042"
-
-```
-
-
-
-
-
 ----------
-
-
-
-
-
-
 
 
 
