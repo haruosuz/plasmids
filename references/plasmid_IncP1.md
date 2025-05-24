@@ -2483,8 +2483,7 @@ Nucleotide sequence accession numbers. Complete nucleotide sequences of 12 pAKD 
 
 
 ----------
-### 2011-04-05
-### Norberg_2011-04-05
+### 2011-04-05_Norberg
 ### pMCBF1
 IncP-1zeta
 
@@ -2495,28 +2494,28 @@ The IncP-1 plasmid backbone adapts to different host bacterial species and evolv
 Peter Norberg 1, Maria Bergström, Vinay Jethava, Devdatt Dubhashi, Malte Hermansson
 https://www.nature.com/articles/ncomms1267
 Published: 05 April 2011
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104523/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3104523/
 
-Phylogenetic analysis of the IncP-1 backbone
-A splits network (Fig. 2a) was initially constructed for 1,000 bootstrap replicates of the concatenated segments A1, A2, B and C of 24 IncP-1 plasmids (plasmid pEST4011 was excluded from the analysis as it lacks the genes in A2). The network, which presents a combinatorial generalization of phylogenetic trees, presented a star-like topology with seven main clades. pMCBF1 formed a novel clade, hereafter called ζ. As visible in a previous study26, the β-clade16 could be divided into two subclades, β-1 and β-2. Parallel edges in the phylogenetic network indicated, however, conflicting phylogenetic signals, possibly resulting from homologous recombination. In particular, in addition to plasmid pIJB1, plasmid pAOVO02 was a putative recombinant, not clustering to any of the above-described clades. A second network, excluding these two plasmids, was therefore constructed for comparison (Fig. 2b).
+Pseudomonas putida UWC1 containing the previously exogenous isolated plasmids pMCBF1 and pMCBF6 (ref. 25)
 
-Figure 2
-Phylogenetic analysis of the IncP-1 plasmid backbone.
-(a) Phylogenetic network based on the concatenated backbone regions A, B and C of 25 IncP-1 plasmids. The network displays seven main clades, including a novel clade containing the two newly sequenced plasmids pMCBF1 (in bold) and two sub-clades, β-1 and β-2, of the previously described β-clade. The putative recent recombinant plasmids pIJB1 and pAOVO02 are marked with red ellipses. (b) Phylogenetic network excluding the putative recent recombinant plasmids pIJB1 and pAOVO02.
+https://pubmed.ncbi.nlm.nih.gov/9406388/
+Appl Environ Microbiol
+. 1997 Dec;63(12):4692-7. doi: 10.1128/aem.63.12.4692-4697.1997.
+Conjugative plasmids isolated from bacteria in marine environments show various degrees of homology to each other and are not closely related to well-characterized plasmids
+C Dahlberg 1, C Linberg, V L Torsvik, M Hermansson
+https://pmc.ncbi.nlm.nih.gov/articles/PMC168791/
+Mercury resistance plasmids were exogenously isolated, i.e., recovered after transfer to a model recipient bacterium, from marine air-water interface, bulk water, and biofilm communities during incubation in artificial seawater without added nutrients.
 
-#<img alt="" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104523/bin/ncomms1267-f2.jpg" width=50%>
-#![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104523/bin/ncomms1267-f2.jpg)
 
 Sequences of pMCBF1 and pMCBF6 were deposited in GenBank; Nucleotide Core #(accession AY950444 and EF107516).
 
 https://www.ncbi.nlm.nih.gov/nuccore/AY950444
 ```
+Plasmid pMCBF1, complete sequence
 LOCUS       AY950444               62689 bp    DNA     circular BCT 03-APR-2020
-DEFINITION  Plasmid pMCBF1, complete sequence.
 
   ORGANISM  Plasmid pMCBF1
             other sequences; plasmids.
-
 
      CDS             1..315
                      /gene="trbA"
@@ -2530,7 +2529,6 @@ DEFINITION  Plasmid pMCBF1, complete sequence.
                      /product="DNA relaxase"
                      /protein_id="AAY97952.1"
 
-
      CDS             complement(53521..53811)
                      /gene="korA"
                      /note="DNA binding protein involved in transcriptional
@@ -2543,8 +2541,6 @@ DEFINITION  Plasmid pMCBF1, complete sequence.
                      /note="initiation of replication"
                      /product="replication initiation protein"
                      /protein_id="AAY97979.1"
-
-
 ```
 
 https://www.ncbi.nlm.nih.gov/nuccore/EF107516
@@ -2562,18 +2558,12 @@ DEFINITION  Uncultured bacterium pMCBF6 plasmid pMCBF6, complete sequence.
                      /product="DNA relaxase"
                      /protein_id="ABO36589.1"
 
-
      CDS             complement(64897..66336)
                      /gene="trfA"
                      /note="initiation of replication"
                      /product="replication initiation protein"
                      /protein_id="ABO36616.1"
-
 ```
-
-
-
-
 
 ----------
 
@@ -2590,6 +2580,7 @@ Comparative genomics of pAKD4, the prototype IncP-1delta plasmid with a complete
 Diya Sen 1, Hirokazu Yano, Haruo Suzuki, Jaroslaw E Król, Linda Rogers, Celeste J Brown, Eva M Top
 https://www.sciencedirect.com/science/article/abs/pii/S0147619X09001267?via%3Dihub
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2819548/
+Plasmid pAKD4 was previously isolated by exogenous plasmid isolation from an agricultural soil in Norway.
 
 Moreover, since both pEST4011 and pIJB1 are missing a portion of their transfer genes, pAKD4 represents the first completely sequenced self-transferable plasmid with a complete IncP-1δ backbone. We therefore propose it to be the prototype IncP-1δ plasmid.
 
@@ -2964,11 +2955,7 @@ Plasmid
 . 2007 Jul;58(1):31-43. doi: 10.1016/j.plasmid.2006.11.007. Epub 2007 Feb 16.
 The multiple antibiotic resistance IncP-1 plasmid pKJK5 isolated from a soil environment is phylogenetically divergent from members of the previously established alpha, beta and delta sub-groups
 Martin Iain Bahl 1, Lars Hestbjerg Hansen, Alexander Goesmann, Søren J Sørensen
-https://linkinghub.elsevier.com/retrieve/pii/S0147-619X(06)00116-8
 https://www.sciencedirect.com/science/article/abs/pii/S0147619X06001168?via%3Dihub
-https://www.sciencedirect.com/science/article/pii/S0147619X06001168?via%3Dihub
-Abstract
-
 The 54,383bp plasmid pKJK5 was recovered from a soil environment by exogenous plasmid isolation and conveys resistance towards tetracycline and trimethoprim. Sequencing and annotation revealed a high level of structural similarity of the backbone genes to other IncP-1 plasmids containing a Tra1 and Tra2 region, a central control module and a replication initiation module. 
 
 Individual backbone genes in pKJK5 have a GC-content, which is consistently lower (average 6.3%) than the homologous genes from the archetype IncP-1β plasmid R751 indicating homogenous amelioration of IncP-1 plasmid backbone genes. 
@@ -3063,7 +3050,8 @@ Phylogenetic tree for IncP-1 plasmids currently available in public databases, u
 
 Table 2.
 
-Plasmid	Size (kb)	Known characteristics	Known host range*
+Plasmid	Size (kb)	Known characteristics	Known host range*	Exogenous isolation conditions
+
 pQKH54	80	Hgr Tra+	ABG
 
 *16S rRNA classification subgroups of Proteobacteria to which plasmids can transfer. BHR, broad host range, can be transferred to a wide range of Gram-negative bacteria (A=α, B=β, and G=γ 16S rRNA subgroups of the Proteobacteria listed in Table 1 T1 ). nd, Not determined.
@@ -3515,7 +3503,6 @@ DEFINITION  Ralstonia eutropha JMP134 plasmid pJP4, complete sequence.
 
 ```
 
-
 ## 2003
 
 ### pB10
@@ -3527,6 +3514,15 @@ LOCUS       AJ564903               64508 bp    DNA     circular ENV 25-JUL-2016
 DEFINITION  Uncultured bacterium IncP-1beta multiresistance plasmid pB10.
 ```
 
+2007-02
+https://pubmed.ncbi.nlm.nih.gov/17259616
+Microbiology (Reading)
+. 2007 Feb;153(Pt 2):452-463. doi: 10.1099/mic.0.2006/001784-0.
+Stability of a promiscuous plasmid in different hosts: no guarantee for a long-term relationship
+Leen De Gelder 1, José M Ponciano 2, Paul Joyce 2, Eva M Top 1
+https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.2006/001784-0#tab2
+Broad-host-range (BHR) IncP-1 plasmids have the ability to transfer between and replicate in nearly all species of the Alpha-, Beta- and Gammaproteobacteria, but surprisingly few data are available on the stability of these plasmids in strains within their host range.
+
 2005-09
 https://pubmed.ncbi.nlm.nih.gov/16151119/
 Appl Environ Microbiol
@@ -3535,6 +3531,7 @@ Plasmid donor affects host range of promiscuous IncP-1beta plasmid pB10 in an ac
 Leen De Gelder 1, Frederik P J Vandecasteele, Celeste J Brown, Larry J Forney, Eva M Top
 https://journals.asm.org/doi/10.1128/AEM.71.9.5309-5317.2005
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1214629/
+The BHR plasmids of gram-negative bacteria are known to have the ability to promote conjugation and ensure vegetative replication in a wide variety of taxonomically distantly related hosts, belonging to the α-, β-, and γ-Proteobacteria (26, 48). 
 
 2003-11
 https://pubmed.ncbi.nlm.nih.gov/14600226/
@@ -3577,6 +3574,12 @@ J Mol Biol
 Complete sequence of the IncPbeta plasmid R751: implications for evolution and organisation of the IncP backbone
 P B Thorsted 1, D P Macartney, P Akhtar, A S Haines, N Ali, P Davidson, T Stafford, M J Pocklington, W Pansegrau, B M Wilkins, E Lanka, C M Thomas
 https://www.sciencedirect.com/science/article/abs/pii/S0022283698920605?via%3Dihub
+
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_16560611
+Complete sequence of the IncPβ plasmid R751: implications for evolution and organisation of the IncP backbone
+
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_73970540
+Complete sequence of the IncPbeta plasmid R751: implications for evolution and organisation of the IncP backbone
 
 https://www.ncbi.nlm.nih.gov/nuccore/U67194
 ```
@@ -4030,6 +4033,18 @@ As a consequence, and in order to avoid long-branch attraction phenomena, the ph
 
 ### Shintani
 新谷政己
+
+### 
+
+https://pubmed.ncbi.nlm.nih.gov/38226780/
+Review Microb Biotechnol
+. 2024 Jan;17(1):e14408. doi: 10.1111/1751-7915.14408. Epub 2024 Jan 16.
+Microbial evolution through horizontal gene transfer by mobile genetic elements
+Maho Tokuda 1, Masaki Shintani 1 2 3 4
+https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.14408
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10832538/
+
+
 
 ### 2023-02-06
 https://pubmed.ncbi.nlm.nih.gov/36744408/
