@@ -78,7 +78,7 @@
 
 ----------
 
-# pME8
+### pME8
 https://pubmed.ncbi.nlm.nih.gov/25387599/
 J Appl Microbiol
 . 2015 Feb;118(2):399-411. doi: 10.1111/jam.12691. Epub 2014 Dec 11.
@@ -89,8 +89,7 @@ https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscell
 
 The pME8 plasmid carried an IncP replicon. The IncP group is known to gather efficient conjugative plasmids presenting a broad host range (Schlüter et al. 77).
 
-# R702
-
+### R702
 IncP-1alpha
 
 https://www.ncbi.nlm.nih.gov/nuccore/OQ683451.1
@@ -116,8 +115,10 @@ Transposition of ampicillin resistance from RP4 to other replicons
 R W Hedges, A E Jacob
 https://link.springer.com/article/10.1007/BF00268228
 
+### pMNCN061
+### pMNCN064
+IncP/P-1α
 
-# pMNCN061
 https://pubmed.ncbi.nlm.nih.gov/36069618/
 Appl Environ Microbiol
 . 2022 Sep 22;88(18):e0111422. doi: 10.1128/aem.01114-22. Epub 2022 Sep 7.
@@ -135,7 +136,7 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC11952213/
 
 2024-06-05_pUZ8002
 
-# pUZ8002
+### pUZ8002
 https://pubmed.ncbi.nlm.nih.gov/39045241/
 Access Microbiol
 . 2024 Jun 5;6(6):000808.v3. doi: 10.1099/acmi.0.000808.v3. eCollection 2024.
@@ -3564,22 +3565,9 @@ LOCUS       JX847411               99001 bp    DNA     circular BCT 06-APR-2020
 DEFINITION  Burkholderia cepacia strain 2a plasmid pIJB1, complete sequence.
 ```
 
-### Thorsted_1998
+### 1998-10-09_Thorsted
 ### R751
 IncP-1beta1
-
-https://pubmed.ncbi.nlm.nih.gov/9753548/
-J Mol Biol
-. 1998 Oct 9;282(5):969-90. doi: 10.1006/jmbi.1998.2060.
-Complete sequence of the IncPbeta plasmid R751: implications for evolution and organisation of the IncP backbone
-P B Thorsted 1, D P Macartney, P Akhtar, A S Haines, N Ali, P Davidson, T Stafford, M J Pocklington, W Pansegrau, B M Wilkins, E Lanka, C M Thomas
-https://www.sciencedirect.com/science/article/abs/pii/S0022283698920605?via%3Dihub
-
-https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_16560611
-Complete sequence of the IncPβ plasmid R751: implications for evolution and organisation of the IncP backbone
-
-https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_73970540
-Complete sequence of the IncPbeta plasmid R751: implications for evolution and organisation of the IncP backbone
 
 https://www.ncbi.nlm.nih.gov/nuccore/U67194
 ```
@@ -3596,43 +3584,10 @@ DEFINITION  Enterobacter aerogenes plasmid R751, complete sequence.
   JOURNAL   J. Gen. Microbiol. 139 (Pt 8), 1761-1766 (1993)
    PUBMED   8409919
 
-
-     CDS             complement(4381..4683)
-                     /gene="korA"
-                     /function="regulation of gene expression"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="KorA"
-                     /protein_id="AAC64422.1"
-
-     repeat_region   14716..14726
-                     /note="probable transposase binding site"
-                     /rpt_type=inverted
-     misc_feature    14730..14741
-                     /note="an inverted repetition of this sequence occurs at
-                     nucleotides 10026..10047"
-     protein_bind    14947..14961
-                     /bound_moiety="TrfA"
-     repeat_region   complement(14975..14993)
-                     /rpt_type=direct
-     repeat_region   complement(15015..15032)
-                     /rpt_type=direct
-     repeat_region   complement(15046..15065)
-                     /rpt_type=direct
-     repeat_region   complement(15092..15111)
-                     /rpt_type=direct
-     repeat_region   complement(15149..15168)
-                     /rpt_type=direct
-     regulatory      15175..15203
-                     /regulatory_class="terminator"
-     gene            complement(15226..16460)
-                     /gene="trfA1"
      CDS             complement(15226..16449)
                      /gene="trfA1"
                      /function="initiation of vegetative plasmid replication;
                      DNA binding"
-                     /codon_start=1
-                     /transl_table=11
                      /product="TrfA1"
                      /protein_id="AAC64439.1"
 
@@ -3640,34 +3595,8 @@ DEFINITION  Enterobacter aerogenes plasmid R751, complete sequence.
                      /gene="trfA2"
                      /note="initiation of vegetative plasmid replication; DNA
                      binding"
-                     /codon_start=1
-                     /transl_table=11
                      /product="S-TrfA"
                      /protein_id="AAC64440.1"
-
-     regulatory      complement(16091..16096)
-                     /regulatory_class="ribosome_binding_site"
-                     /gene="trfA2"
-     regulatory      complement(16453..16460)
-                     /regulatory_class="ribosome_binding_site"
-                     /gene="trfA1"
-     gene            complement(16496..16852)
-                     /gene="ssb"
-     CDS             complement(16496..16837)
-                     /gene="ssb"
-                     /function="single strand DNA binding protein"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="SSB"
-                     /protein_id="AAC64441.1"
-
-
-     CDS             16951..17313
-                     /gene="trbA"
-                     /function="gene regulation"
-                     /product="TrbA"
-                     /protein_id="AAC64442.1"
-
 
      CDS             complement(48797..51040)
                      /gene="traI"
@@ -3676,6 +3605,19 @@ DEFINITION  Enterobacter aerogenes plasmid R751, complete sequence.
                      /protein_id="AAC64475.1"
 
 ```
+
+https://pubmed.ncbi.nlm.nih.gov/9753548/
+J Mol Biol
+. 1998 Oct 9;282(5):969-90. doi: 10.1006/jmbi.1998.2060.
+Complete sequence of the IncPbeta plasmid R751: implications for evolution and organisation of the IncP backbone
+P B Thorsted 1, D P Macartney, P Akhtar, A S Haines, N Ali, P Davidson, T Stafford, M J Pocklington, W Pansegrau, B M Wilkins, E Lanka, C M Thomas
+https://www.sciencedirect.com/science/article/abs/pii/S0022283698920605?via%3Dihub
+
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_16560611
+Complete sequence of the IncPβ plasmid R751: implications for evolution and organisation of the IncP backbone
+
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/uccs31/cdi_proquest_miscellaneous_73970540
+Complete sequence of the IncPbeta plasmid R751: implications for evolution and organisation of the IncP backbone
 
 ### RK2
 IncP-1alpha
