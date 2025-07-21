@@ -30,6 +30,74 @@ Antibiotic resistance detection
 https://omictools.com/plasmid-detection-category
 Plasmid detection bioinformatics tools | Metagenomic sequencing analysis - omicX
 
+----------
+
+## PTUs
+plasmid taxonomic units (PTUs)
+
+### COPLA
+https://castillo.dicom.unican.es/copla/
+
+### 2021-07-31
+https://pubmed.ncbi.nlm.nih.gov/34332528/
+BMC Bioinformatics
+. 2021 Jul 31;22(1):390. doi: 10.1186/s12859-021-04299-x.
+COPLA, a taxonomic classifier of plasmids
+Santiago Redondo-Salvo 1, Roger Bartomeus-Peñalver 1, Luis Vielva 2, Kaitlin A Tagg 3 4, Hattie E Webb 3 4, Raúl Fernández-López 1, Fernando de la Cruz 5
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04299-x
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8325299/
+
+
+### 2020-07-17
+https://pubmed.ncbi.nlm.nih.gov/32681114/
+Nat Commun
+. 2020 Jul 17;11(1):3602. doi: 10.1038/s41467-020-17278-2.
+Pathways for horizontal gene transfer in bacteria revealed by a global map of their plasmids
+Santiago Redondo-Salvo # 1, Raúl Fernández-López # 1, Raúl Ruiz 1, Luis Vielva 2, María de Toro 3, Eduardo P C Rocha 4, M Pilar Garcillán-Barcia 1, Fernando de la Cruz 5
+https://www.nature.com/articles/s41467-020-17278-2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7367871/
+
+----------
+## PlasAnn
+
+査読なし？
+
+https://github.com/ajlopatkin/PlasAnn
+ajlopatkin/PlasAnn: Plasmid annotation pipeline
+
+PlasAnn - Plasmid Annotation Tool
+This tool is designed for annotating plasmid sequences from FASTA or GenBank files. It provides comprehensive annotation including coding sequences (CDS), origins of replication (oriC/oriV), origins of transfer (oriT), transposons, replicons, and non-coding RNAs.
+
+If you use PlasAnn in your research, please cite:
+
+PlasAnn: Comprehensive Plasmid Annotation Pipeline
+Habibul Islam
+University of Rochester
+
+----------
+## PlasmidScope
+https://plasmid.deepomics.org/
+https://pubmed.ncbi.nlm.nih.gov/39441081/
+Nucleic Acids Res
+. 2025 Jan 6;53(D1):D179-D188. doi: 10.1093/nar/gkae930.
+PlasmidScope: a comprehensive plasmid database with rich annotations and online analytical tools
+Yinhu Li 1 2 3, Xikang Feng 4 5, Xuhua Chen 2, Shuo Yang 6, Zicheng Zhao 7, Yu Chen 1 2 3, Shuai Cheng Li 6 8
+https://academic.oup.com/nar/article/53/D1/D179/7832352?login=false
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11701673/
+
+----------
+## Dnaapler
+
+https://github.com/gbouras13/dnaapler
+
+3:00 PM · Jan 24, 2024
+https://x.com/GB13Faithless/status/1750035858756178201
+George Bouras on X: "Happy to share that Dnaapler is published https://t.co/lsKHGp6Msr - if you need to reorient complete, plasmid or phage genomes give it a go. I really liked the @JOSS_TheOJ process - perhaps open reviews are more constructive @susiegriggo_ @BhavyaPapudeshi @viji112 @BeardyMcFace" / X
+
+https://joss.theoj.org/papers/10.21105/joss.05968
+Journal of Open Source Software: Dnaapler: A tool to reorient circular microbial genomes
+Submitted 09 August 2023 • Published 11 January 2024
+
 
 ----------
 ## PLSDB
@@ -242,22 +310,12 @@ https://kazumaxneo.hatenablog.com/entry/2021/04/13/193935
 バクテリアのゲノムやプラスミドのアノテーションを行う Bakta - macでインフォマティクス
 
 ----------
-
-### COPLA
-https://castillo.dicom.unican.es/copla/
-### 2021-07-31
-https://pubmed.ncbi.nlm.nih.gov/34332528/
-BMC Bioinformatics
-. 2021 Jul 31;22(1):390. doi: 10.1186/s12859-021-04299-x.
-COPLA, a taxonomic classifier of plasmids
-Santiago Redondo-Salvo 1, Roger Bartomeus-Peñalver 1, Luis Vielva 2, Kaitlin A Tagg 3 4, Hattie E Webb 3 4, Raúl Fernández-López 1, Fernando de la Cruz 5
-https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04299-x
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8325299/
-
-----------
 ### pLannotate
 ### 2021-07-02
-http://plannotate.barricklab.org/
+https://github.com/mmcguffi/pLannotate
+
+https://github.com/mmcguffi/pLannotate/releases/tag/v1.2.4
+
 https://pubmed.ncbi.nlm.nih.gov/34019636/
 Nucleic Acids Res
 . 2021 Jul 2;49(W1):W516-W522. doi: 10.1093/nar/gkab374.
@@ -448,6 +506,13 @@ Here, we use a more detailed approach to represent the DNA fragments. Specifical
 ## COMPASS
 ## 2020-03-24
 https://github.com/itsmeludo/COMPASS
+
+https://colil.dbcls.jp/browse/papers/32265894/1/100/year
+Analysis of COMPASS, a New Comprehensive Plasmid Database Revealed Prevalence of Multireplicon and Extensive Diversity of IncF Plasmids.
+Douarre PE, Mallet L, Radomski N, Felten A, Mistou MY Front Microbiol. 2020;11:483. PMID:32265894
+    is cited by the following papers.
+
+← 前へ  合計: 19, 
 
 https://pubmed.ncbi.nlm.nih.gov/32265894/
 Front Microbiol
