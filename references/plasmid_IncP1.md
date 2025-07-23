@@ -78,6 +78,36 @@
 
 ----------
 
+----------
+### 1998
+
+https://search.lib.keio.ac.jp/permalink/81SOKEI_KEIO/188bto4/alma9926549784404034
+Pseudomonas / edited by Thomas C. Montie.
+Montie, Thomas C., editor.
+1st ed. 1998.
+New York : Springer-Science+Business Media, LLC, 1998.
+1998
+Biotechnology handbooks Volume 10
+
+Ebook Central Perpetual, DDA and Subscription Titles
+
+https://catalog.nlm.nih.gov/discovery/fulldisplay?docid=alma998849793406676&context=L&vid=01NLM_INST:01NLM_INST&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=lds56,contains,Pseudomonas,AND&mode=advanced&offset=30
+Pseudomonas - National Library of Medicine Institution
+
+https://www.researchgate.net/publication/288984166_Plasmids_of_the_Genus_Pseudomonas
+Plasmids of the Genus Pseudomonas | Request PDF
+Chapter
+Plasmids of the Genus Pseudomonas
+January 2004
+DOI:10.1007/978-1-4419-9086-0_7
+In book: Pseudomonas (pp.197-231)
+Authors:
+Christopher M Thomas
+University of Birmingham
+Anthony S. Haines
+
+----------
+
 ### pME8
 https://pubmed.ncbi.nlm.nih.gov/25387599/
 J Appl Microbiol
@@ -1159,8 +1189,9 @@ DEFINITION  Neisseria gonorrhoeae strain 5233 plasmid pEP5233 genetic load
 
 https://www.ncbi.nlm.nih.gov/nuccore/GU479466
 ```
+Neisseria gonorrhoeae strain 5289 plasmid pEP5289, complete sequence
+
 LOCUS       GU479466               42004 bp    DNA     circular BCT 06-APR-2020
-DEFINITION  Neisseria gonorrhoeae strain 5289 plasmid pEP5289, complete
 
   ORGANISM  Neisseria gonorrhoeae
             Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
@@ -3986,8 +4017,6 @@ Maho Tokuda 1, Masaki Shintani 1 2 3 4
 https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.14408
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10832538/
 
-
-
 ### 2023-02-06
 https://pubmed.ncbi.nlm.nih.gov/36744408/
 Environ Microbiol
@@ -4197,6 +4226,14 @@ Masaki Shintani 1, Zoe K Sanchez 2, Kazuhide Kimbara 2
 https://www.frontiersin.org/articles/10.3389/fmicb.2015.00242/full
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4379921/
 
+Supplementary material
+
+Click here for additional data file. (606.7KB, XLSX)
+https://pmc.ncbi.nlm.nih.gov/articles/instance/4379921/bin/Table1.XLSX
+
+Click here for additional data file. (32.6KB, XLSX)
+https://pmc.ncbi.nlm.nih.gov/articles/instance/4379921/bin/Table2.XLSX
+
 ### 2015-03-22
 http://ci.nii.ac.jp/naid/40020727466
 新谷政己，金原和秀．環境バイオテクノロジー学会誌 14(2), 81-86.
@@ -4265,6 +4302,12 @@ Yano H, Shintani M, Tomita M, Suzuki H, Oshima T.
 https://www.sciencedirect.com/science/article/pii/S2001037018301685
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
 
+Table 1.
+Lists of plasmids in different incompatibility groups.
+
+Incompatibilitya	Representative plasmid (original host)b	Accession numberc	RIPd	MOBe	MPFe	Host rangef	Reference
+Inc groups
+
 Fig. 1
 Modular structure of the plasmid genome. An example of the IncP-1 plasmid genome is shown. The replication module is the only element essential for plasmid maintenance. The other modules assist in plasmid maintenance. IncP-1β and IncP-1α are lineages of IncP-1 plasmids. Horizontal arrows indicate the direction of transcription. Each functional module is regulated by a transcriptional regulator encoded in the module block or global regulators encoded in the central control region [188,189].
 
@@ -4289,6 +4332,17 @@ Hirokazu Yano - これまでの研究 (in Japanese)
 タンパク質のN末の長さ多型の意義
 
 上記の進化実験では、複製開始タンパク質に集中的に変異が入りましたが、類似の変異がデータベースに登録されている他のプラスミドにも見つかることに研究の過程で気づきました。そこで、得られた変異体プラ スミドの表現型を様々な角度から解析することで、 プラスミドに見られる複製開始タンパク質遺伝子の5’-endの長さの多様性（in/del) が、genetic driftではなくトレード・オフの関係にある形質（この場合は水平伝播 と垂直伝播）に対するnatural selectionの結果として説明できるというアイデアを提案しました（Yano et al., J. Bacteriol. 2012)。TrfAのN末の多型のような長さ多型は他のタンパク質（遺伝子座）にも見かけられま す。他のタンパク質に関しても、N末の長さ多型にには何か重要な意味があるのではないでしょうか。
+
+### 2016-09
+https://pubmed.ncbi.nlm.nih.gov/27121483/
+Mol Microbiol
+. 2016 Sep;101(5):743-56. doi: 10.1111/mmi.13407. Epub 2016 Jun 15.
+Evolved plasmid-host interactions reduce plasmid interference cost
+Hirokazu Yano 1 2 3, Katarznya Wegrzyn 4, Wesley Loftie-Eaton 1 2, Jenny Johnson 1, Gail E Deckert 1 2, Linda M Rogers 1 2, Igor Konieczny 4, Eva M Top 1 2
+https://onlinelibrary.wiley.com/doi/10.1111/mmi.13407
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5024541/
+
+
 
 ### 2013-11
 https://pubmed.ncbi.nlm.nih.gov/24002747/
@@ -4364,8 +4418,7 @@ DEFINITION  Uncultured bacterium plasmid pMBUI1, complete sequence.
 
 ```
 
-### 2012-03_Yano
-
+### 2012-03
 https://pubmed.ncbi.nlm.nih.gov/22228734/
 J Bacteriol
 . 2012 Mar;194(6):1533-43. doi: 10.1128/JB.06395-11. Epub 2012 Jan 6.
