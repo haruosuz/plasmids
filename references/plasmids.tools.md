@@ -29,32 +29,14 @@ Antibiotic resistance detection
 https://omictools.com/plasmid-detection-category
 Plasmid detection bioinformatics tools | Metagenomic sequencing analysis - omicX
 
-
 ----------
 ## PLSDB
+
 https://ccb-microbe.cs.uni-saarland.de/plsdb/
 
 https://github.com/VGalata/plsdb
 
-https://github.com/VGalata/plsdb/issues/15
-README.md for PLSDB v. 2021_06_23 · Issue #15 · VGalata/plsdb
-haruosuz commented on Feb 3, 2022
-https://github.com/VGalata/plsdb/issues/15#issuecomment-1089840333
-pMCBF1 (AY950444) is not included in PLSDB v. 2021_06_23_v2.
-@Xethic Xethic closed this as completed on Apr 20
-
-https://github.com/VGalata/plsdb/issues/10
-PLSDB (v. 2020_11_19) BioSample Attributes · Issue #10 · VGalata/plsdb
-haruosuz commented on Mar 1, 2021 • 
-@SmalJonni SmalJonni closed this as completed on Nov 26, 2021
-
-https://github.com/VGalata/plsdb/issues/5
-duplicate records · Issue #5 · VGalata/plsdb
-haruosuz commented on Nov 3, 2020 • 
-@Xethic Xethic closed this as completed on Dec 11, 2020
-
 ## 2025-01-06
-
 https://pubmed.ncbi.nlm.nih.gov/39565221/
 Nucleic Acids Res
 . 2025 Jan 6;53(D1):D189-D196. doi: 10.1093/nar/gkae1095.
@@ -62,9 +44,6 @@ The PLSDB 2025 update: enhanced annotations and improved functionality for compr
 Leidy-Alejandra G Molano 1, Pascal Hirsch 1, Matthias Hannig 2, Rolf Müller 3, Andreas Keller 1 3 4
 https://academic.oup.com/nar/article/53/D1/D189/7905312?login=false
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11701622/
-
-Filtering of chromosomal sequences
-To remove non-plasmids or non-complete plasmid sequences, descriptions were scanned as previously described (8).
 
 ## 2022-01-07
 https://pubmed.ncbi.nlm.nih.gov/34850116/
@@ -74,7 +53,6 @@ PLSDB: advancing a comprehensive database of bacterial plasmids
 Georges P Schmartz 1, Anna Hartung 1, Pascal Hirsch 1 2, Fabian Kern 1, Tobias Fehlmann 1, Rolf Müller 2 3, Andreas Keller 1 2
 https://academic.oup.com/nar/article/50/D1/D273/6439675
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8728149/
-A new plasmid collection by Brooks et al., for example, tries to bundle NCBI plasmid information in a collection (19). Another recent database, mMGE (20) has the advantage of unifying phage and plasmid information in a single catalog. However, the database creation workflow is solely focused on the human microbiome. The COMPASS database (21), is of comparable scope to PLSDB and focuses extensively on replicon typing. Due to the scope, size, functionality, and quality of its content, PLSDB is widely used in the scientific community as a central resource for reference data on natural occurring plasmids. By focusing on this domain, the resource finds extensive usage in environmental studies (22). Further, antibiotic resistance analyses with a diverse scope profit frequently from the resistance annotations found in PLSDB (23,24).
 
 ## 2019-01-08
 https://pubmed.ncbi.nlm.nih.gov/30380090/
@@ -83,13 +61,7 @@ Nucleic Acids Res
 PLSDB: a resource of complete bacterial plasmids
 Valentina Galata 1, Tobias Fehlmann 1, Christina Backes 1, Andreas Keller 1
 https://academic.oup.com/nar/article/47/D1/D195/5149885
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323999/
-Data retrieval and processing pipeline
-Data collection
-Plasmid records were searched in the NCBI nucleotide database by using the query from Orlek et al. (4) and filtering the results to have ‘plasmid’ as location tag, being assigned to a bacterial organism and being from the specified resource (INSDC or RefSeq). 
-
-Overview of collected plasmids
-In total, 13 789 plasmid records (2945 from INSDC and 10 844 from RefSeq) were retrieved from the NCBI nucleotide database.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6323999/
 
 https://integbio.jp/dbcatalog/record/nbdc02515
 NCBI nucleotide database から取得したバクテリアプラスミドの配列とメタデータを整理したデータベースです。各レコードには配列長、トポロジー、分類学的情報のような種々のパラメータを付けており、これらでフィルタリングができます。 また、コンティグやロングリードのようなより長い配列についてはMashを使用することによって、遺伝子のようなより短い配列についてはBLASTnを使用することによって配列を検索することが可能です。
