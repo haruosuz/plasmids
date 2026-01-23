@@ -80,6 +80,16 @@
 
 ----------
 
+----------
+2025-08-16
+https://pubmed.ncbi.nlm.nih.gov/40825471/
+Plasmid
+. 2025 Sep-Nov:134:102756. doi: 10.1016/j.plasmid.2025.102756. Epub 2025 Aug 16.
+Insights from public database sequences related to the replication initiation protein TrfA of the IncP-1 plasmid RK2
+Haruo Suzuki 1, Kazuki Moriguchi 2, Masaki Shintani 3, Masato Suzuki 4, Hideaki Nojiri 5
+https://www.sciencedirect.com/science/article/pii/S0147619X25000149
+Data availability
+https://doi.org/10.6084/m9.figshare.29662958
 
 ----------
 ## tfd
@@ -923,6 +933,16 @@ Nucleotide sequence accession numbers. The M. alcaliphilum 20Z genome sequence w
 ----------
 ## mob
 relaxase
+
+### 2022-06-02
+
+https://pubmed.ncbi.nlm.nih.gov/35639760/
+Mol Biol Evol
+. 2022 Jun 2;39(6):msac115. doi: 10.1093/molbev/msac115.
+Evolution of Plasmid Mobility: Origin and Fate of Conjugative and Nonconjugative Plasmids
+Charles Coluzzi 1, Maria Pilar Garcillán-Barcia 2, Fernando de la Cruz 2, Eduardo P C Rocha 1
+https://academic.oup.com/mbe/article/39/6/msac115/6593704
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9185392/
 
 ### Guglielmini_2013
 ### 2013-02
@@ -3557,8 +3577,6 @@ DEFINITION  Ralstonia eutropha JMP134 plasmid pJP4, complete sequence.
 
 ```
 
-## 2003
-
 ### pB10
 IncP-1beta1
 
@@ -3594,6 +3612,17 @@ Microbiology (Reading)
 The 64 508 bp IncP-1beta antibiotic multiresistance plasmid pB10 isolated from a waste-water treatment plant provides evidence for recombination between members of different branches of the IncP-1beta group
 A Schlüter 1, H Heuer 2, R Szczepanowski 1, L J Forney 2, C M Thomas 3, A Pühler 1, E M Top 2
 https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.26570-0#tab2
+
+### pB4
+IncP-1beta
+
+2003-02
+https://pubmed.ncbi.nlm.nih.gov/12589432/
+Mol Genet Genomics
+. 2003 Feb;268(5):570-84. doi: 10.1007/s00438-002-0785-z. Epub 2003 Jan 10.
+The 79,370-bp conjugative plasmid pB4 consists of an IncP-1beta backbone loaded with a chromate resistance transposon, the strA-strB streptomycin resistance gene pair, the oxacillinase gene bla(NPS-1), and a tripartite antibiotic efflux system of the resistance-nodulation-division family
+A Tauch 1, A Schlüter, N Bischoff, A Goesmann, F Meyer, A Pühler
+https://link.springer.com/article/10.1007/s00438-002-0785-z
 
 ## 1998
 
@@ -4029,16 +4058,6 @@ As a consequence, and in order to avoid long-branch attraction phenomena, the ph
 ### Shintani
 新谷政己
 
-### 
-
-https://pubmed.ncbi.nlm.nih.gov/38226780/
-Review Microb Biotechnol
-. 2024 Jan;17(1):e14408. doi: 10.1111/1751-7915.14408. Epub 2024 Jan 16.
-Microbial evolution through horizontal gene transfer by mobile genetic elements
-Maho Tokuda 1, Masaki Shintani 1 2 3 4
-https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.14408
-https://pmc.ncbi.nlm.nih.gov/articles/PMC10832538/
-
 ### 2023-02-06
 https://pubmed.ncbi.nlm.nih.gov/36744408/
 Environ Microbiol
@@ -4317,12 +4336,14 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
 ### 2018-12-15
 
 総説
-https://www.ncbi.nlm.nih.gov/pubmed/30619542
-Comput Struct Biotechnol J. 2018 Dec 15;17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
-Reconsidering plasmid maintenance factors for computational plasmid design.
-Yano H, Shintani M, Tomita M, Suzuki H, Oshima T.
+https://pubmed.ncbi.nlm.nih.gov/30619542/
+Review Comput Struct Biotechnol J
+. 2018 Dec 15:17:70-81. doi: 10.1016/j.csbj.2018.12.001. eCollection 2019.
+Reconsidering plasmid maintenance factors for computational plasmid design
+Hirokazu Yano 1, Masaki Shintani 2 3, Masaru Tomita 4 5, Haruo Suzuki 4 5, Taku Oshima 6
 https://www.sciencedirect.com/science/article/pii/S2001037018301685
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312765/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6312765/
+https://www.csbj.org/article/S2001-0370(18)30168-5/fulltext
 
 Table 1.
 Lists of plasmids in different incompatibility groups.

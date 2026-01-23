@@ -1,0 +1,4 @@
+Distance	P_value	Annotation
+142.958032745277	0.0102803738317757	NZ_CP014762.1 Klebsiella pneumoniae strain KPNIH39, complete genome
+378.976976037028	0	NZ_CP015069.1 Escherichia coli strain Ecol_743, complete genome
+64.0157782803607	0.0504261363636364	NZ_CP020603.1 Pseudomonas aeruginosa strain E6130952 chromosome, complete genome
