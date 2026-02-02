@@ -81,7 +81,29 @@
 ----------
 
 ----------
-2025-08-16
+
+
+### 2025-12-10
+https://pubmed.ncbi.nlm.nih.gov/41372160/
+Nat Commun
+. 2025 Dec 10;16(1):11353. doi: 10.1038/s41467-025-66413-4.
+Differential gut transmission of IncP plasmid clades involving hypervirulent Klebsiella pneumoniae reveals plasmid-specific ecological adaptation
+Melvin Yong 1, Wen Wen Low 1, Swapnil Mishra 2, Galain Williams 3, Steven Mileto 3, Carey Lim 1, Channe Chwa 1, Guodong Oo 1, Guoxiang Cheam 1, Yahua Chen 1, Hao Chung The 2 4, Thanh Duy Pham 4, Dena Lyras 3, Yunn-Hwen Gan 5
+https://www.nature.com/articles/s41467-025-66413-4
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12728208/
+
+
+### 2025-11-18
+https://pubmed.ncbi.nlm.nih.gov/41332546/
+bioRxiv
+ [Preprint]. 2025 Nov 18:2025.08.13.669769. doi: 10.1101/2025.08.13.669769.
+Not So Mosaic After All? The Core Genomes of IncP-1 Plasmids Evolve Predominantly Through Vertical Transmission
+David Sneddon 1 2 3 4, Clinton A Elg 1 2 3, Jack Sullivan 1 2 3, Eva M Top 1 2 3
+https://www.biorxiv.org/content/10.1101/2025.08.13.669769v2
+https://www.biorxiv.org/content/10.1101/2025.08.13.669769v2.full.pdf
+
+
+### 2025-08-16
 https://pubmed.ncbi.nlm.nih.gov/40825471/
 Plasmid
 . 2025 Sep-Nov:134:102756. doi: 10.1016/j.plasmid.2025.102756. Epub 2025 Aug 16.
@@ -90,6 +112,7 @@ Haruo Suzuki 1, Kazuki Moriguchi 2, Masaki Shintani 3, Masato Suzuki 4, Hideaki 
 https://www.sciencedirect.com/science/article/pii/S0147619X25000149
 Data availability
 https://doi.org/10.6084/m9.figshare.29662958
+
 
 ----------
 ## tfd
